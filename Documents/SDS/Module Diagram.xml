@@ -1,0 +1,118 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="CANSIS Module Diagram" id="module1">
+    <mxGraphModel dx="492" dy="321" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="3000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SeGiP8Bvfb3z3DBHOspL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;shape=flexArrow;startArrow=block;labelBackgroundColor=none;fontColor=default;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1281.032258064516" y="1012" as="sourcePoint" />
+            <mxPoint x="1280.9999999999995" y="861.0000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1281" y="971" />
+              <mxPoint x="1281" y="971" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vz2TeWaOEGsE01m9UTS0-8" value="&lt;span&gt;Gathered User Input&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SeGiP8Bvfb3z3DBHOspL-7">
+          <mxGeometry x="0.0887" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeGiP8Bvfb3z3DBHOspL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;labelBackgroundColor=none;fontColor=default;startArrow=block;" parent="1" source="ai_ml_header" target="frontend_header" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1571" y="270" />
+              <mxPoint x="1598" y="270" />
+              <mxPoint x="1598" y="1148" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oxietIMxwFDUKMdj8fqL-4" value="Smartphone Details &amp;amp;&lt;br&gt;Results" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="SeGiP8Bvfb3z3DBHOspL-9" vertex="1" connectable="0">
+          <mxGeometry x="-0.0074" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeGiP8Bvfb3z3DBHOspL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;targetPerimeterSpacing=6;sourcePerimeterSpacing=6;endArrow=blockThin;endFill=1;shape=flexArrow;startArrow=block;labelBackgroundColor=none;fontColor=default;" parent="1" source="ai_ml_header" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1274" y="417" as="sourcePoint" />
+            <mxPoint x="1274.0000000000002" y="571.9999999999999" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oxietIMxwFDUKMdj8fqL-3" value="Data Store / Retrieval" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="SeGiP8Bvfb3z3DBHOspL-18" vertex="1" connectable="0">
+          <mxGeometry x="-0.0127" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ai_ml_header" value="Module 1: AI / ML Intelligence  and Data Engineering" style="swimlane;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="545" y="128" width="972" height="283" as="geometry" />
+        </mxCell>
+        <mxCell id="persona_engine" value="Persona Matching Engine" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=14;labelBackgroundColor=none;" parent="ai_ml_header" vertex="1">
+          <mxGeometry x="133.5" y="60" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="persona_components" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Data Pipeline&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontStyle=0" parent="ai_ml_header" vertex="1">
+          <mxGeometry x="267" y="170" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="performance_sim" value="Performance Test&lt;div&gt;Simulator&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=14;labelBackgroundColor=none;" parent="ai_ml_header" vertex="1">
+          <mxGeometry x="383.5" y="60" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="forecast_engine" value="Spec Forecasting Engine" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=14;labelBackgroundColor=none;" parent="ai_ml_header" vertex="1">
+          <mxGeometry x="633.5" y="60" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xai_engine" value="Explainable AI Engine" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=14;labelBackgroundColor=none;" parent="ai_ml_header" vertex="1">
+          <mxGeometry x="520" y="170" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SeGiP8Bvfb3z3DBHOspL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;shape=flexArrow;labelBackgroundColor=none;fontColor=default;" parent="1" source="backend_header" target="ai_ml_header" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oxietIMxwFDUKMdj8fqL-1" value="Internal API / Model calls" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="SeGiP8Bvfb3z3DBHOspL-3" vertex="1" connectable="0">
+          <mxGeometry x="0.0191" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="backend_header" value="Module 2: Application Backend  and Cloud Infrastructure" style="swimlane;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="543" y="572" width="987" height="287" as="geometry" />
+        </mxCell>
+        <mxCell id="rest_api" value="Backend API Development" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=14;labelBackgroundColor=none;" parent="backend_header" vertex="1">
+          <mxGeometry x="406" y="63" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="db_integration" value="Cloud Database Integration" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=14;labelBackgroundColor=none;" parent="backend_header" vertex="1">
+          <mxGeometry x="156" y="63" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="model_serving" value="AI Model Hosting &amp;amp;&amp;nbsp;&lt;div&gt;Serving&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=14;labelBackgroundColor=none;" parent="backend_header" vertex="1">
+          <mxGeometry x="281" y="175" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="automation" value="Automation  and Scheduler" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=14;labelBackgroundColor=none;" parent="backend_header" vertex="1">
+          <mxGeometry x="656" y="63" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="automation_components" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Deployment &amp;amp; Orchestration&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="backend_header" vertex="1">
+          <mxGeometry x="531" y="175" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SeGiP8Bvfb3z3DBHOspL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;shape=flexArrow;labelBackgroundColor=none;fontColor=default;" parent="1" source="frontend_header" target="backend_header" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oxietIMxwFDUKMdj8fqL-5" value="REST API Calls" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="SeGiP8Bvfb3z3DBHOspL-1" vertex="1" connectable="0">
+          <mxGeometry x="0.0349" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="frontend_header" value="Module 3: Frontend, User Interaction  and Engagement" style="swimlane;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="543" y="1012" width="992" height="271" as="geometry" />
+        </mxCell>
+        <mxCell id="ui_layer" value="User Interface Development" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=14;labelBackgroundColor=none;" parent="frontend_header" vertex="1">
+          <mxGeometry x="273.5" y="53" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gamification" value="Gamification  and Community" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=14;labelBackgroundColor=none;" parent="frontend_header" vertex="1">
+          <mxGeometry x="273.5" y="163" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rest_client" value="Recommendations Interface" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=14;labelBackgroundColor=none;" parent="frontend_header" vertex="1">
+          <mxGeometry x="518.5" y="163" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Vz2TeWaOEGsE01m9UTS0-2" value="Benchmark Simulation Interface" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="frontend_header">
+          <mxGeometry x="518.5" y="53" width="200" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
