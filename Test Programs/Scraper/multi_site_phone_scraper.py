@@ -33,42 +33,151 @@ SELECTED_MODEL = "gemini-1.5-flash"
 
 # Fields we’ll try to extract from each product page (works with your LLM schema builder)
 SMARTPHONE_FIELDS = [
-    "title", "brand", "model", "variant", "color",
+    # Core product & page
+    "product_title", "brand", "category_path", "product_url", "product_id",
+    "image_urls", "thumbnail_urls",
+
+    # Pricing (MRP vs. sale)
+    "mrp", "selling_price", "special_price",
+    "discount_percent", "discount_amount",
+    "protect_promise_fee",
+    "exchange_available", "exchange_max_off", "effective_price_after_exchange",
+
+    # Availability & delivery
+    "delivery_eta_text", "delivery_eta_date", "delivery_eta_condition",
+    "pincode_required",
+
+    # Seller & trust
+    "seller_name", "seller_rating", "seller_other_sellers_url",
+    "gst_invoice_available", "brand_support_days", "return_policy_window",
+
+    # Ratings & reviews (summary)
+    "rating_average", "rating_count", "review_count",
+    "rating_5_count", "rating_4_count", "rating_3_count", "rating_2_count", "rating_1_count",
+    "rating_5_pct", "rating_4_pct", "rating_3_pct", "rating_2_pct", "rating_1_pct",
+    "top_review_snippets", "top_review_authors", "top_review_dates",
+
+    # Offers & promotions
+    "offers_text", "offer_bank_axis_cc_5pct", "offer_axis_debit_5pct",
+    "offer_bhim_cashback", "special_price_applied",
+
+    # Variants (color / storage / RAM)
+    "available_colors", "selected_color",
+    "available_storage_options", "selected_storage",
+    "available_ram_options", "selected_ram",
+
+    # Highlights
+    "highlights",
+
+    # Warranty
+    "warranty_summary", "covered_in_warranty", "domestic_warranty",
+
+    # Full specifications (flattened as `Section | Field`)
+    # General
+    "General | In The Box", "General | Model Number", "General | Model Name",
+    "General | Color", "General | Browse Type", "General | SIM Type",
+    "General | Hybrid Sim Slot", "General | Touchscreen",
+    "General | OTG Compatible", "General | Quick Charging",
+
+    # Display Features
+    "Display Features | Display Size", "Display Features | Resolution",
+    "Display Features | Resolution Type", "Display Features | GPU",
+    "Display Features | Display Type", "Display Features | HD Game Support",
+    "Display Features | Display Colors", "Display Features | Other Display Features",
+
+    # Os & Processor Features
+    "Os & Processor Features | Operating System", "Os & Processor Features | Processor Brand",
+    "Os & Processor Features | Processor Type", "Os & Processor Features | Processor Core",
+    "Os & Processor Features | Primary Clock Speed", "Os & Processor Features | Secondary Clock Speed",
+    "Os & Processor Features | Operating Frequency",
+
+    # Memory & Storage Features
+    "Memory & Storage Features | Internal Storage", "Memory & Storage Features | RAM",
+    "Memory & Storage Features | Total Memory", "Memory & Storage Features | Expandable Storage",
+    "Memory & Storage Features | Supported Memory Card Type",
+    "Memory & Storage Features | Memory Card Slot Type",
+
+    # Camera Features
+    "Camera Features | Primary Camera Available", "Camera Features | Primary Camera",
+    "Camera Features | Primary Camera Features", "Camera Features | Secondary Camera Available",
+    "Camera Features | Secondary Camera", "Camera Features | Secondary Camera Features",
+    "Camera Features | Flash", "Camera Features | HD Recording",
+    "Camera Features | Full HD Recording", "Camera Features | Video Recording",
+    "Camera Features | Video Recording Resolution", "Camera Features | Image Editor",
+    "Camera Features | Dual Camera Lens",
+
+    # Battery & Power Features
+    "Battery & Power Features | Battery Capacity",
+    "Battery & Power Features | Battery Type",
+    "Battery & Power Features | Dual Battery",
+
+    # Dimensions
+    "Dimensions | Width", "Dimensions | Height", "Dimensions | Depth", "Dimensions | Weight",
+
+    # Connectivity Features
+    "Connectivity Features | Network Type", "Connectivity Features | Supported Networks",
+    "Connectivity Features | Internet Connectivity", "Connectivity Features | 3G",
+    "Connectivity Features | 3G Speed", "Connectivity Features | GPRS",
+    "Connectivity Features | Pre-installed Browser", "Connectivity Features | Bluetooth Support",
+    "Connectivity Features | Bluetooth Version", "Connectivity Features | Wi-Fi",
+    "Connectivity Features | Wi-Fi Version", "Connectivity Features | Wi-Fi Hotspot",
+    "Connectivity Features | NFC", "Connectivity Features | USB Connectivity",
+    "Connectivity Features | USB Type/Version", "Connectivity Features | Audio Jack",
+    "Connectivity Features | GPS Support", "Connectivity Features | Map Support",
+
+    # Other Details
+    "Other Details | Smartphone", "Other Details | Touchscreen Type",
+    "Other Details | SIM Size", "Other Details | User Interface",
+    "Other Details | Graphics PPI", "Other Details | Sensors",
+    "Other Details | Upgradable Operating System", "Other Details | Series",
+    "Other Details | Browser", "Other Details | Ringtones Format",
+
+    # Multimedia Features
+    "Multimedia Features | FM Radio", "Multimedia Features | FM Radio Recording",
+    "Multimedia Features | Audio Formats", "Multimedia Features | Music Player",
+    "Multimedia Features | Video Formats",
+
+    # Call Features
+    "Call Features | Call Wait/Hold", "Call Features | Conference Call",
+    "Call Features | Hands Free", "Call Features | Video Call Support",
+    "Call Features | Call Divert", "Call Features | Phone Book",
+    "Call Features | Call Timer", "Call Features | Speaker Phone",
+    "Call Features | Speed Dialing", "Call Features | Call Records",
+    "Call Features | Logs",
+
+    # Q&A summary
+    "qa_sample_questions", "qa_sample_answers", "qa_count",
+
+    # Frequently bought together
+    "attach_reco_titles", "attach_reco_urls", "attach_reco_prices",
+
+    # Derived insights
+    "battery_wh", "price_to_ram", "price_to_storage", "display_ppi",
+    "supports_5g", "nfc_available", "fast_charging_wattage",
+    "os_major_version", "rear_camera_mp_primary", "front_camera_mp",
+    "refresh_rate_hz", "bluetooth_version",
+
+    # Fallbacks / generic fields from older schema (kept for compatibility)
+    "title", "model", "variant", "color",
     "price", "price_currency", "discount_price", "availability",
-    "rating", "ratings_count", "reviews_count",
-    "highlights", "description", "bullet_points",
-    "images", "seller", "warranty",
-    "chipset", "cpu", "gpu",
-    "ram", "storage", "expandable_storage",
+    "ratings_count", "reviews_count", "highlights", "description",
+    "bullet_points", "images", "seller", "warranty",
+    "chipset", "cpu", "gpu", "ram", "storage", "expandable_storage",
     "display_size", "display_type", "display_resolution", "refresh_rate",
     "rear_camera", "rear_camera_2", "rear_camera_3", "front_camera",
     "battery_capacity", "charging", "wireless_charging",
-    "os", "os_version",
-    "network", "sim", "5g", "wifi", "bluetooth", "nfc", "gps",
-    "usb", "audio_jack",
-    "dimensions", "weight",
-    "launch_date",
-    "in_the_box",
-    "offer_info",
-    "return_policy", "reviews", "feedbacks", "rating"
-    "url"
+    "os", "os_version", "network", "sim", "5g", "wifi", "bluetooth", "nfc", "gps",
+    "usb", "audio_jack", "dimensions", "weight", "launch_date",
+    "in_the_box", "offer_info", "return_policy", "reviews", "feedbacks",
+    "url", "source_url"
 ]
 
-# Seed category pages (override if you want to scope narrower)
+# Seed category pages - Only Flipkart
 SEEDS = {
-    "amazon": [
-        # Amazon India – Mobiles category
-        "https://www.amazon.in/s?i=electronics&rh=n%3A1389401031",
-    ],
     "flipkart": [
         # Flipkart – Mobiles category
         "https://www.flipkart.com/mobiles/pr?sid=tyy,4io",
-    ],
-    "gsmarena": [
-        # GSMArena – All makers (we’ll later dive brand/catalog pages via pagination and product link pickup)
-        "https://www.gsmarena.com/",
-        "https://www.gsmarena.com/makers.php3",
-    ],
+    ]
 }
 
 # polite delays
@@ -81,7 +190,7 @@ DELAY_PRODUCT = (1.2, 2.4)
 
 def ts_folder(prefix: str) -> str:
     stamp = datetime.now().strftime("%Y_%m_%d__%H_%M_%S")
-    folder = os.path.join(r"E:\Cloud-AI-Native-Smartphone-Intelligence-Software\Test Programs\Scraper", f"{prefix}_{stamp}")
+    folder = os.path.join(r"E:\Cloud-AI-Native-Smartphone-Intelligence-Software\Test Programs\Scraper\output", f"{prefix}_{stamp}")
     os.makedirs(folder, exist_ok=True)
     return folder
 
@@ -191,11 +300,8 @@ def extract_product_links(site: str, page_url: str, html: str):
     return list(dict.fromkeys(abs_links))
 
 def save_listings_csv(listings, folder, site):
-    path = os.path.join(folder, f"{site}_smartphones.csv")
     if not listings:
-        # still create an empty file with headers to signal run completed
-        pd.DataFrame([], columns=SMARTPHONE_FIELDS + ["source_url"]).to_csv(path, index=False)
-        return path
+        return None
 
     # Flatten each item to dict (handles Pydantic or dict or string JSON)
     rows = []
@@ -218,16 +324,43 @@ def save_listings_csv(listings, folder, site):
             rows.append(item)
 
     if not rows:
-        pd.DataFrame([], columns=SMARTPHONE_FIELDS + ["source_url"]).to_csv(path, index=False)
-        return path
+        return None
 
+    # Group by brand and save separate CSV files
     df = pd.DataFrame(rows)
-    # keep a stable column order with our fields first
-    ordered_cols = [c for c in SMARTPHONE_FIELDS if c in df.columns] + \
-                   [c for c in df.columns if c not in SMARTPHONE_FIELDS]
-    df = df[ordered_cols]
-    df.to_csv(path, index=False)
-    return path
+    
+    # Extract brand from title if brand field is not available
+    if 'brand' not in df.columns and 'title' in df.columns:
+        df['brand'] = df['title'].str.extract(r'^([a-zA-Z0-9]+)\s', expand=False).str.upper()
+    
+    if 'brand' not in df.columns:
+        # If we still can't find brand, save all in one file
+        path = os.path.join(folder, f"{site}_smartphones_unknown_brand.csv")
+        ordered_cols = [c for c in SMARTPHONE_FIELDS if c in df.columns] + \
+                      [c for c in df.columns if c not in SMARTPHONE_FIELDS]
+        df[ordered_cols].to_csv(path, index=False)
+        return [path]
+    
+    # Create a subfolder for brand CSVs
+    brand_folder = os.path.join(folder, "by_brand")
+    os.makedirs(brand_folder, exist_ok=True)
+    
+    # Group by brand and save separate CSVs
+    saved_paths = []
+    for brand, group in df.groupby('brand'):
+        if not brand or pd.isna(brand):
+            brand = 'unknown_brand'
+        # Sanitize brand name for filename
+        safe_brand = re.sub(r'[^a-zA-Z0-9_]', '_', str(brand).lower())
+        path = os.path.join(brand_folder, f"{site}_{safe_brand}_smartphones.csv")
+        
+        # Keep a stable column order
+        ordered_cols = [c for c in SMARTPHONE_FIELDS if c in group.columns] + \
+                      [c for c in group.columns if c not in SMARTPHONE_FIELDS]
+        group[ordered_cols].to_csv(path, index=False)
+        saved_paths.append(path)
+    
+    return saved_paths
 
 # =========================
 # MAIN per-site runner
@@ -326,10 +459,8 @@ def run_site(site: str, seeds: list, model: str):
     print(f"[{site}] Tokens in: {total_in_tokens} | out: {total_out_tokens} | est. cost: ${total_cost_usd:.4f}")
 
 def main():
-    # You can swap seeds with your own narrower lists if needed
-    run_site("amazon", SEEDS["amazon"], SELECTED_MODEL)
+    # Run only Flipkart scraper
     run_site("flipkart", SEEDS["flipkart"], SELECTED_MODEL)
-    run_site("gsmarena", SEEDS["gsmarena"], SELECTED_MODEL)
 
 if __name__ == "__main__":
     main()
