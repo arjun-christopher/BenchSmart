@@ -29,7 +29,7 @@ from assets import PRICING
 # =========================
 
 # Choose one of your models defined in assets.PRICING
-SELECTED_MODEL = "gemini-1.5-flash"
+SELECTED_MODEL = "hf:meta-llama/Meta-Llama-3.1-70B-Instruct"
 
 # Fields we’ll try to extract from each product page (works with your LLM schema builder)
 SMARTPHONE_FIELDS = [
@@ -240,8 +240,9 @@ def get_all_pages(start_url: str, model: str):
     # Try LLM pagination detector
     try:
         pagination_data, token_counts, price = detect_pagination_elements(
-            start_url, "", model, markdown
+            start_url, "", "gpt-4o-mini", markdown
         )
+
         if isinstance(pagination_data, PaginationData):
             pages = pagination_data.page_urls or []
         elif isinstance(pagination_data, dict):

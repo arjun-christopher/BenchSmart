@@ -25,7 +25,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from openai import OpenAI
 import google.generativeai as genai
 from groq import Groq
-
+from huggingface_hub import InferenceClient
 
 from assets import USER_AGENTS,PRICING,HEADLESS_OPTIONS,SYSTEM_MESSAGE,USER_MESSAGE,LLAMA_MODEL_FULLNAME,GROQ_LLAMA_MODEL_FULLNAME
 load_dotenv()
@@ -334,10 +334,52 @@ def format_data(data, DynamicListingsContainer, DynamicListingModel, selected_mo
         }
 
         return parsed_response, token_counts
+    elif selected_model.startswith("hf:"):
+        # Hugging Face Inference API (OpenAI-compatible chat)
+        # Example: selected_model = "hf:meta-llama/Meta-Llama-3.1-70B-Instruct"
+        model_id = selected_model.split("hf:", 1)[1].strip()
+
+        # Build prompt exactly like your other branches
+        prompt = SYSTEM_MESSAGE + "\n" + USER_MESSAGE + data
+
+        client = InferenceClient()  # uses HUGGING_FACE_HUB_TOKEN env var if present
+        completion = client.chat.completions.create(
+            model=model_id,
+            messages=[
+                {"role": "system", "content": SYSTEM_MESSAGE},
+                {"role": "user", "content": USER_MESSAGE + data},
+            ],
+            # If your provider supports it, you can try json_schema here.
+            # response_format={"type": "json_schema", "json_schema": DynamicListingsContainer.model_json_schema()},
+            # To be safe across backends, use generic JSON-object mode and then validate:
+            response_format={"type": "json_object"},
+            temperature=0,
+        )
+
+        content = completion.choices[0].message.content
+
+        # Parse + (optional) validate with your Pydantic container
+        try:
+            parsed = json.loads(content)
+        except json.JSONDecodeError:
+            # strip code fences if any
+            content = content.strip().strip("`").strip()
+            if content.startswith("json"):
+                content = content[4:].strip()
+            parsed = json.loads(content)
+
+        # Try to coerce into your schema (keeps your downstream consistent)
+        try:
+            parsed = DynamicListingsContainer(**parsed)
+        except Exception:
+            # fallback: keep raw dict if strict validation fails
+            pass
+
+        token_counts = {"input_tokens": 0, "output_tokens": 0}  # HF may not return usage
+        return parsed, token_counts
+
     else:
         raise ValueError(f"Unsupported model: {selected_model}")
-
-
 
 def save_formatted_data(formatted_data, output_folder: str, json_file_name: str, excel_file_name: str):
     """Save formatted data as JSON and Excel in the specified output folder."""
@@ -386,14 +428,13 @@ def save_formatted_data(formatted_data, output_folder: str, json_file_name: str,
 def calculate_price(token_counts, model):
     input_token_count = token_counts.get("input_tokens", 0)
     output_token_count = token_counts.get("output_tokens", 0)
-    
-    # Calculate the costs
-    input_cost = input_token_count * PRICING[model]["input"]
-    output_cost = output_token_count * PRICING[model]["output"]
-    total_cost = input_cost + output_cost
-    
-    return input_token_count, output_token_count, total_cost
 
+    pricing = PRICING.get(model, {"input": 0.0, "output": 0.0})
+    input_cost = input_token_count * pricing["input"]
+    output_cost = output_token_count * pricing["output"]
+    total_cost = input_cost + output_cost
+
+    return input_token_count, output_token_count, total_cost
 
 def generate_unique_folder_name(url):
     timestamp = datetime.now().strftime('%Y_%m_%d__%H_%M_%S')
