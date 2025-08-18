@@ -1,0 +1,67 @@
+{
+  "brand": "Dell",
+  "phones": {
+    "332552ee-6f29-5355-841d-18e79638ca7e": {
+      "id": "332552ee-6f29-5355-841d-18e79638ca7e",
+      "brand": "Dell",
+      "model": "Aero",
+      "attributes": {
+        "os": "Android 1.5",
+        "release_date": "Aug 01, 2010",
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 640,
+        "camera_main": 5.0
+      }
+    },
+    "24a3548a-075c-5c73-ab33-cb88583faab3": {
+      "id": "24a3548a-075c-5c73-ab33-cb88583faab3",
+      "brand": "Dell",
+      "model": "Streak",
+      "attributes": {
+        "os": "Android 2.3",
+        "release_date": "Aug 13, 2010",
+        "battery_capacity": 1530.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "5a956c40-7575-5473-a265-7337dc12b9e3": {
+      "id": "5a956c40-7575-5473-a265-7337dc12b9e3",
+      "brand": "Dell",
+      "model": "Venue",
+      "attributes": {
+        "os": "Android 2.2",
+        "release_date": "Feb 04, 2011",
+        "battery_capacity": 1400.0,
+        "chipset": "Qualcomm MSM8250",
+        "attr_primary storage": 1.0,
+        "storage": " microSDHC",
+        "display_size": 4.1,
+        "attr_display resolution": 800,
+        "camera_main": 8.0
+      }
+    },
+    "3739b00a-d099-5a9f-bc8f-9d07938d1ee2": {
+      "id": "3739b00a-d099-5a9f-bc8f-9d07938d1ee2",
+      "brand": "Dell",
+      "model": "Venue Pro",
+      "attributes": {
+        "os": "Windows Phone 7.5 Mango",
+        "battery_capacity": 1400.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.5,
+        "attr_primary storage": 8.0,
+        "display_size": 4.1,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    }
+  }
+}

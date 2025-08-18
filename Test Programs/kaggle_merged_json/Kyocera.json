@@ -1,0 +1,474 @@
+{
+  "brand": "Kyocera",
+  "phones": {
+    "1f379cbf-b1df-531a-92a9-5e4bf74df43b": {
+      "id": "1f379cbf-b1df-531a-92a9-5e4bf74df43b",
+      "brand": "Kyocera",
+      "model": "7135",
+      "attributes": {
+        "os": "Palm OS 4.1",
+        "battery_capacity": 1200.0,
+        "attr_primary storage": 0.0,
+        "storage": " SD",
+        "attr_display resolution": 160
+      }
+    },
+    "5809e501-fb8e-5051-9808-70bf1c255fd3": {
+      "id": "5809e501-fb8e-5051-9808-70bf1c255fd3",
+      "brand": "Kyocera",
+      "model": "Brigadier",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 3100.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "662c6cc0-1789-5c9d-8ebd-504b3556c3b3": {
+      "id": "662c6cc0-1789-5c9d-8ebd-504b3556c3b3",
+      "brand": "Kyocera",
+      "model": "DuraForce",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 3100.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "8564407f-3cf0-59ca-9dbe-ff4c0ee12c0b": {
+      "id": "8564407f-3cf0-59ca-9dbe-ff4c0ee12c0b",
+      "brand": "Kyocera",
+      "model": "DuraForce Pro",
+      "attributes": {
+        "os": "Android 7.1 Nougat",
+        "release_date": "Aug 31, 2016",
+        "battery_capacity": 3240.0,
+        "chipset": "Qualcomm Snapdragon 617",
+        "attr_memory": 2.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "22dd70ae-8509-536b-ac19-610b6de1f144": {
+      "id": "22dd70ae-8509-536b-ac19-610b6de1f144",
+      "brand": "Kyocera",
+      "model": "DuraForce Pro 2",
+      "attributes": {
+        "os": "Android 8.0 Oreo",
+        "release_date": "Nov 15, 2018",
+        "battery_capacity": 3240.0,
+        "chipset": "Qualcomm Snapdragon 630",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "3eacbc12-9907-5b32-a74b-12fef64e5c24": {
+      "id": "3eacbc12-9907-5b32-a74b-12fef64e5c24",
+      "brand": "Kyocera",
+      "model": "DuraForce Ultra",
+      "attributes": {
+        "os": "Android 10",
+        "release_date": "January 2021",
+        "battery_capacity": 4500.0,
+        "chipset": "Qualcomm Snapdragon 765G",
+        "attr_memory": 6.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSD",
+        "display_size": 5.5,
+        "attr_display resolution": 2160,
+        "camera_main": 24.0,
+        "camera_front": 8
+      }
+    },
+    "bcd770a0-fa8f-5b0f-956d-ff3dfd3d35d9": {
+      "id": "bcd770a0-fa8f-5b0f-956d-ff3dfd3d35d9",
+      "brand": "Kyocera",
+      "model": "DuraForce XD",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Jan 08, 2016",
+        "battery_capacity": 3700.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "c491cad1-2a66-5260-9d64-ce3e9f4f9f47": {
+      "id": "c491cad1-2a66-5260-9d64-ce3e9f4f9f47",
+      "brand": "Kyocera",
+      "model": "Echo",
+      "attributes": {
+        "os": "Android 2.3",
+        "release_date": "Apr 17, 2011",
+        "battery_capacity": 1370.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "c92deaf6-1a10-52de-ae22-9f6a193ee791": {
+      "id": "c92deaf6-1a10-52de-ae22-9f6a193ee791",
+      "brand": "Kyocera",
+      "model": "Event",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "cee0591a-23b8-5d7a-8668-437ee446c857": {
+      "id": "cee0591a-23b8-5d7a-8668-437ee446c857",
+      "brand": "Kyocera",
+      "model": "Hydro",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.5,
+        "attr_primary storage": 2.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "c92f2696-91e2-5250-9a8e-25eec94023eb": {
+      "id": "c92f2696-91e2-5250-9a8e-25eec94023eb",
+      "brand": "Kyocera",
+      "model": "Hydro AIR",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "release_date": "Oct 20, 2015",
+        "battery_capacity": 2300.0,
+        "chipset": "Qualcomm Snapdragon 410",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "4877261b-37f9-5032-a88f-a8cdf7ac7778": {
+      "id": "4877261b-37f9-5032-a88f-a8cdf7ac7778",
+      "brand": "Kyocera",
+      "model": "Hydro EDGE",
+      "attributes": {
+        "os": "Android 4.1",
+        "release_date": "Jul 19, 2013",
+        "battery_capacity": 1600.0,
+        "chipset": "Qualcomm Snapdragon",
+        "attr_memory": 1.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "bf046427-a077-5203-93e5-d16bc12b63a9": {
+      "id": "bf046427-a077-5203-93e5-d16bc12b63a9",
+      "brand": "Kyocera",
+      "model": "Hydro Elite",
+      "attributes": {
+        "os": "Android 4.1",
+        "release_date": "Aug 29, 2013",
+        "battery_capacity": 2100.0,
+        "chipset": "Qualcomm Snapdragon S4 Plus",
+        "attr_memory": 1.5,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 1.3
+      }
+    },
+    "3be0f75e-94a4-5596-9b3a-bf95d57843aa": {
+      "id": "3be0f75e-94a4-5596-9b3a-bf95d57843aa",
+      "brand": "Kyocera",
+      "model": "Hydro Icon",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 2000.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 1.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "5d0fbb35-723c-5336-b84d-ea2d34e4f076": {
+      "id": "5d0fbb35-723c-5336-b84d-ea2d34e4f076",
+      "brand": "Kyocera",
+      "model": "Hydro Life",
+      "attributes": {
+        "os": "Android 4.3",
+        "battery_capacity": 2000.0,
+        "chipset": "Qualcomm Snapdragon 200",
+        "attr_memory": 1.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "23ada486-2048-53a2-a02e-d0c7eca424c5": {
+      "id": "23ada486-2048-53a2-a02e-d0c7eca424c5",
+      "brand": "Kyocera",
+      "model": "Hydro Plus",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.5,
+        "attr_primary storage": 2.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "b736531b-47be-548e-b42a-06ca93bb9fb7": {
+      "id": "b736531b-47be-548e-b42a-06ca93bb9fb7",
+      "brand": "Kyocera",
+      "model": "Hydro Reach",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Apr 15, 2016",
+        "battery_capacity": 2160.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "a33e2097-a3f3-5b79-a249-4a22000f4791": {
+      "id": "a33e2097-a3f3-5b79-a249-4a22000f4791",
+      "brand": "Kyocera",
+      "model": "Hydro VIBE",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 2000.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 1.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "6bff4549-c2ba-53ef-aa2d-511036470a7c": {
+      "id": "6bff4549-c2ba-53ef-aa2d-511036470a7c",
+      "brand": "Kyocera",
+      "model": "Hydro View",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Jan 08, 2016",
+        "battery_capacity": 2160.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "672b7617-66d4-57e5-954a-de8e619f952b": {
+      "id": "672b7617-66d4-57e5-954a-de8e619f952b",
+      "brand": "Kyocera",
+      "model": "Hydro Wave",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Jul 22, 2015",
+        "battery_capacity": 2300.0,
+        "chipset": "Qualcomm Snapdragon 410",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "25a46c7c-243d-513b-870a-f8d639089d0d": {
+      "id": "25a46c7c-243d-513b-870a-f8d639089d0d",
+      "brand": "Kyocera",
+      "model": "Hydro XTRM",
+      "attributes": {
+        "os": "Android 4.1",
+        "chipset": "Qualcomm Snapdragon S4",
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "38c6f26a-bfb2-5f35-91bd-a189375d093d": {
+      "id": "38c6f26a-bfb2-5f35-91bd-a189375d093d",
+      "brand": "Kyocera",
+      "model": "Milano",
+      "attributes": {
+        "os": "Android 2.3",
+        "battery_capacity": 1490.0,
+        "chipset": "Qualcomm MSM7627T",
+        "attr_memory": 0.5,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.0,
+        "attr_display resolution": 320,
+        "camera_main": 3.0
+      }
+    },
+    "4c533a18-8e04-5cc5-b63b-a6abfcf30635": {
+      "id": "4c533a18-8e04-5cc5-b63b-a6abfcf30635",
+      "brand": "Kyocera",
+      "model": "Presto",
+      "attributes": {
+        "os": "Brew Mobile Platform (Brew MP) ",
+        "release_date": "Oct 10, 2011",
+        "battery_capacity": 920.0,
+        "attr_primary storage": 0.0,
+        "display_size": 1.8,
+        "attr_display resolution": 160
+      }
+    },
+    "10fcb79c-0a0e-5e2f-8d35-cd5e94d7b2eb": {
+      "id": "10fcb79c-0a0e-5e2f-8d35-cd5e94d7b2eb",
+      "brand": "Kyocera",
+      "model": "QCP-6035",
+      "attributes": {
+        "os": "Palm OS "
+      }
+    },
+    "9b318cb8-7e23-51ec-8ad3-eba20902f577": {
+      "id": "9b318cb8-7e23-51ec-8ad3-eba20902f577",
+      "brand": "Kyocera",
+      "model": "Rise",
+      "attributes": {
+        "os": "Android 4.0",
+        "release_date": "Aug 19, 2012",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.5,
+        "attr_primary storage": 2.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "b711c0a9-2afa-52cb-b92b-5d65f7440052": {
+      "id": "b711c0a9-2afa-52cb-b92b-5d65f7440052",
+      "brand": "Kyocera",
+      "model": "Solo E4000",
+      "attributes": {
+        "os": "Windows Mobile Standard 6.0",
+        "release_date": "Sep 30, 2008",
+        "battery_capacity": 900.0,
+        "storage": " microSD",
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "3f7a555a-6372-5d39-8a6d-f8540e863210": {
+      "id": "3f7a555a-6372-5d39-8a6d-f8540e863210",
+      "brand": "Kyocera",
+      "model": "Torque",
+      "attributes": {
+        "os": "Android 4.0",
+        "release_date": "Mar 08, 2013",
+        "battery_capacity": 2500.0,
+        "chipset": "Qualcomm Snapdragon S4 Plus",
+        "attr_memory": 1.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "e26bebaa-cc9d-54c0-bc96-56ac765d4ade": {
+      "id": "e26bebaa-cc9d-54c0-bc96-56ac765d4ade",
+      "brand": "Kyocera",
+      "model": "Torque XT",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 2500.0,
+        "chipset": "Qualcomm Snapdragon S4 Plus",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "be942322-015b-5b4e-9ef6-b835fe32d233": {
+      "id": "be942322-015b-5b4e-9ef6-b835fe32d233",
+      "brand": "Kyocera",
+      "model": "Zio M6000",
+      "attributes": {
+        "os": "Android 2.2",
+        "battery_capacity": 1130.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 800,
+        "camera_main": 3.0
+      }
+    }
+  }
+}

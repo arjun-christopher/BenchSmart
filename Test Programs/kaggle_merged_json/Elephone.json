@@ -1,0 +1,39 @@
+{
+  "brand": "Elephone",
+  "phones": {
+    "557336c4-ba0b-5918-867c-cf74fc4107be": {
+      "id": "557336c4-ba0b-5918-867c-cf74fc4107be",
+      "brand": "Elephone",
+      "model": "U 6/128GB Black",
+      "attributes": {
+        "attr_unnamed 0": 924,
+        "os": "Android",
+        "attr_popularity": 518,
+        "mrp": 4897.0,
+        "attr_highest price": 5400.0,
+        "attr_sellers amount": 3,
+        "display_size": 5.99,
+        "attr_memory size": 128.0,
+        "attr_battery size": 3620.0,
+        "release_date": 11
+      }
+    },
+    "86ed0fc7-a227-5c94-9819-1ab6ba2c8052": {
+      "id": "86ed0fc7-a227-5c94-9819-1ab6ba2c8052",
+      "brand": "Elephone",
+      "model": "U3H 8/256GB Black",
+      "attributes": {
+        "attr_unnamed 0": 928,
+        "os": "Android",
+        "attr_popularity": 372,
+        "mrp": 6499.0,
+        "attr_highest price": 6726.0,
+        "attr_sellers amount": 3,
+        "display_size": 6.53,
+        "attr_memory size": 256.0,
+        "attr_battery size": 3500.0,
+        "release_date": 6
+      }
+    }
+  }
+}

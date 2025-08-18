@@ -1,0 +1,22 @@
+{
+  "brand": "Vodafone",
+  "phones": {
+    "446ece24-e1f1-5deb-91ff-a374a86382f8": {
+      "id": "446ece24-e1f1-5deb-91ff-a374a86382f8",
+      "brand": "Vodafone",
+      "model": "Smart Ultra Dark Gray",
+      "attributes": {
+        "attr_unnamed 0": 906,
+        "os": "Android",
+        "attr_popularity": 593,
+        "mrp": 1785.0,
+        "attr_highest price": 2499.0,
+        "attr_sellers amount": 2,
+        "display_size": 5.5,
+        "attr_memory size": 16.0,
+        "attr_battery size": 2960.0,
+        "release_date": 1
+      }
+    }
+  }
+}

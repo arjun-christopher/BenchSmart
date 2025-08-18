@@ -1,0 +1,304 @@
+{
+  "brand": "General",
+  "phones": {
+    "68b6297c-3727-5c46-b646-299f5233a4ae": {
+      "id": "68b6297c-3727-5c46-b646-299f5233a4ae",
+      "brand": "General",
+      "model": "Mobile GM8 Space Gray",
+      "attributes": {
+        "attr_unnamed 0": 616,
+        "os": "Android",
+        "attr_popularity": 228,
+        "mrp": 2249.0,
+        "attr_highest price": 3599.0,
+        "attr_sellers amount": 7,
+        "display_size": 5.7,
+        "attr_memory size": 32.0,
+        "release_date": 7
+      }
+    },
+    "e56ca702-ab09-5d37-8c28-8841cf2a195a": {
+      "id": "e56ca702-ab09-5d37-8c28-8841cf2a195a",
+      "brand": "General",
+      "model": "Mobile 4G",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2500.0,
+        "chipset": "Qualcomm Snapdragon 410",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "cbdd69d6-d1de-5677-bc4d-479c07fa0e1c": {
+      "id": "cbdd69d6-d1de-5677-bc4d-479c07fa0e1c",
+      "brand": "General",
+      "model": "Mobile COSMOS",
+      "attributes": {
+        "os": "Android 2.0",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.1,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "fd9d89c2-cd8c-547d-87de-17d3aefc40a6": {
+      "id": "fd9d89c2-cd8c-547d-87de-17d3aefc40a6",
+      "brand": "General",
+      "model": "Mobile DSTL1 Imaginary",
+      "attributes": {
+        "os": "Android ",
+        "release_date": "Sep 08, 2009",
+        "battery_capacity": 1200.0,
+        "attr_memory": 0.1,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 3.0,
+        "attr_display resolution": 400,
+        "camera_main": 5.0
+      }
+    },
+    "6bdd9846-c4d3-5bc1-919a-2d7c8666f8a0": {
+      "id": "6bdd9846-c4d3-5bc1-919a-2d7c8666f8a0",
+      "brand": "General",
+      "model": "Mobile DSTW1",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.0",
+        "battery_capacity": 1500.0,
+        "chipset": "TI OMAP850",
+        "attr_memory": 0.06,
+        "storage": " microSD",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "38accc21-8e73-551a-b860-c205517ff773": {
+      "id": "38accc21-8e73-551a-b860-c205517ff773",
+      "brand": "General",
+      "model": "Mobile Discovery",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 1800.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.7,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "46431eaa-3aeb-566e-a50a-52d6cd381dcb": {
+      "id": "46431eaa-3aeb-566e-a50a-52d6cd381dcb",
+      "brand": "General",
+      "model": "Mobile Discovery Air",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2050.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "display_size": 4.8,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "f4a8185d-c237-5566-ac06-33f1b982a2b3": {
+      "id": "f4a8185d-c237-5566-ac06-33f1b982a2b3",
+      "brand": "General",
+      "model": "Mobile Discovery Elite",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 2500.0,
+        "chipset": "Qualcomm Snapdragon 800",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 16.0,
+        "camera_front": 8
+      }
+    },
+    "55a7dde0-9a4a-5882-9bf8-8c143d6ef972": {
+      "id": "55a7dde0-9a4a-5882-9bf8-8c143d6ef972",
+      "brand": "General",
+      "model": "Mobile Discovery II",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 2500.0,
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "0a4a2bcf-fc3e-5da1-84f8-d36727ce4dca": {
+      "id": "0a4a2bcf-fc3e-5da1-84f8-d36727ce4dca",
+      "brand": "General",
+      "model": "Mobile Discovery II Mini",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 1800.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "94dc043d-94d4-54aa-8284-c8d18968f400": {
+      "id": "94dc043d-94d4-54aa-8284-c8d18968f400",
+      "brand": "General",
+      "model": "Mobile Fox",
+      "attributes": {
+        "os": "Android 2.2",
+        "battery_capacity": 1200.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 2.6,
+        "attr_display resolution": 240,
+        "camera_main": 3.0
+      }
+    },
+    "2a1dc44f-c9da-550a-8806-032dc21ab931": {
+      "id": "2a1dc44f-c9da-550a-8806-032dc21ab931",
+      "brand": "General",
+      "model": "Mobile GM 5 Plus",
+      "attributes": {
+        "os": "Android 8.0 Oreo",
+        "battery_capacity": 3100.0,
+        "chipset": "Qualcomm Snapdragon 617",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDHC",
+        "display_size": 5.5,
+        "attr_display resolution": 1080,
+        "camera_main": 13.0,
+        "camera_front": 13
+      }
+    },
+    "a1dfe2ea-3e73-5156-ba39-564eff9fa906": {
+      "id": "a1dfe2ea-3e73-5156-ba39-564eff9fa906",
+      "brand": "General",
+      "model": "Mobile GM 8 Go",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "battery_capacity": 3500.0,
+        "chipset": "Mediatek",
+        "attr_primary storage": 16.0,
+        "display_size": 5.5,
+        "attr_display resolution": 1440,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "a073490e-06ee-5014-b3ab-d01bb61a6d2b": {
+      "id": "a073490e-06ee-5014-b3ab-d01bb61a6d2b",
+      "brand": "General",
+      "model": "Mobile GM 9 Pro",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "battery_capacity": 3800.0,
+        "chipset": "Qualcomm Snapdragon 660",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 2160,
+        "camera_main": 12.0,
+        "camera_front": 8
+      }
+    },
+    "64ec38dc-0bee-547c-bb9f-ee5d4132d051": {
+      "id": "64ec38dc-0bee-547c-bb9f-ee5d4132d051",
+      "brand": "General",
+      "model": "Mobile GM5",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 2500.0,
+        "chipset": "Qualcomm",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "43dccb1d-5117-5c83-b7d5-f51dac64eda7": {
+      "id": "43dccb1d-5117-5c83-b7d5-f51dac64eda7",
+      "brand": "General",
+      "model": "Mobile GM6",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "56066110-65ee-567f-bac0-1072fe827d73": {
+      "id": "56066110-65ee-567f-bac0-1072fe827d73",
+      "brand": "General",
+      "model": "Mobile GM8",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "battery_capacity": 3075.0,
+        "chipset": "Qualcomm Snapdragon 435",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 1440,
+        "camera_main": 13.0,
+        "camera_front": 13
+      }
+    },
+    "febf9bb8-a834-5e05-bdaa-a10c59069858": {
+      "id": "febf9bb8-a834-5e05-bdaa-a10c59069858",
+      "brand": "General",
+      "model": "Mobile Planet",
+      "attributes": {
+        "os": "Android 2.3.4",
+        "battery_capacity": 1650.0,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "6204b572-02f3-59fe-9fa7-be9bfe124996": {
+      "id": "6204b572-02f3-59fe-9fa7-be9bfe124996",
+      "brand": "General",
+      "model": "Mobile Ultimate Slim",
+      "attributes": {
+        "os": "Android 2.3.4",
+        "battery_capacity": 1200.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 320,
+        "camera_main": 5.0
+      }
+    }
+  }
+}

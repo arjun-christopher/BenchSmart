@@ -1,0 +1,20 @@
+{
+  "brand": "Land",
+  "phones": {
+    "6db881e2-2bc4-56e1-badb-14fa29934596": {
+      "id": "6db881e2-2bc4-56e1-badb-14fa29934596",
+      "brand": "Land",
+      "model": "Rover Tank T3 KUH Black",
+      "attributes": {
+        "attr_unnamed 0": 854,
+        "attr_popularity": 698,
+        "mrp": 1381.0,
+        "attr_highest price": 1383.0,
+        "attr_sellers amount": 2,
+        "display_size": 2.4,
+        "attr_battery size": 15800.0,
+        "release_date": 6
+      }
+    }
+  }
+}

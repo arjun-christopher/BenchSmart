@@ -1,0 +1,328 @@
+{
+  "brand": "Palm",
+  "phones": {
+    "73a55259-55a6-5fb1-a4a3-26bbdff50b23": {
+      "id": "73a55259-55a6-5fb1-a4a3-26bbdff50b23",
+      "brand": "Palm",
+      "model": "Centro",
+      "attributes": {
+        "os": "Palm OS 5.4 (Garnet)",
+        "battery_capacity": 1150.0,
+        "attr_memory": 0.06,
+        "storage": " microSD",
+        "display_size": 2.2,
+        "attr_display resolution": 320,
+        "camera_main": 1.0
+      }
+    },
+    "c09d45c3-9e94-5bde-9466-15e42c336027": {
+      "id": "c09d45c3-9e94-5bde-9466-15e42c336027",
+      "brand": "Palm",
+      "model": "Centro CDMA",
+      "attributes": {
+        "os": "Palm OS 5.4 (Garnet)",
+        "battery_capacity": 1150.0,
+        "storage": " microSD",
+        "attr_display resolution": 320,
+        "camera_main": 1.0
+      }
+    },
+    "36784fe9-30f5-5c5a-967c-cf2b57e2bce2": {
+      "id": "36784fe9-30f5-5c5a-967c-cf2b57e2bce2",
+      "brand": "Palm",
+      "model": "Phone",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "release_date": "Nov 02, 2018",
+        "battery_capacity": 800.0,
+        "chipset": "Qualcomm Snapdragon 435",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 3.3,
+        "attr_display resolution": 1280,
+        "camera_main": 12.0,
+        "camera_front": 8
+      }
+    },
+    "82371c74-b8bc-5c26-9bb6-6f5b4716e08b": {
+      "id": "82371c74-b8bc-5c26-9bb6-6f5b4716e08b",
+      "brand": "Palm",
+      "model": "Pixi",
+      "attributes": {
+        "os": "webOS ",
+        "release_date": "Nov 15, 2009",
+        "battery_capacity": 1150.0,
+        "attr_primary storage": 8.0,
+        "display_size": 2.6,
+        "attr_display resolution": 400,
+        "camera_main": 2.0
+      }
+    },
+    "a94dabe7-1452-5c11-ba7b-b9af910f6bae": {
+      "id": "a94dabe7-1452-5c11-ba7b-b9af910f6bae",
+      "brand": "Palm",
+      "model": "Pixi Plus",
+      "attributes": {
+        "os": "webOS 1.3.5",
+        "release_date": "Jan 25, 2010",
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_primary storage": 8.0,
+        "display_size": 2.6,
+        "attr_display resolution": 400,
+        "camera_main": 2.0
+      }
+    },
+    "d1c9869e-cfa7-57ad-a0cc-a5e8bc6e71fe": {
+      "id": "d1c9869e-cfa7-57ad-a0cc-a5e8bc6e71fe",
+      "brand": "Palm",
+      "model": "Pixi Plus GSM",
+      "attributes": {
+        "os": "webOS 1.3.5",
+        "release_date": "Jun 06, 2010",
+        "attr_primary storage": 8.0,
+        "display_size": 2.6,
+        "attr_display resolution": 400,
+        "camera_main": 2.0
+      }
+    },
+    "4ab33765-7a8c-5f49-b823-ef88bbb91801": {
+      "id": "4ab33765-7a8c-5f49-b823-ef88bbb91801",
+      "brand": "Palm",
+      "model": "Pre",
+      "attributes": {
+        "os": "webOS ",
+        "release_date": "Jun 06, 2009",
+        "battery_capacity": 1150.0,
+        "attr_primary storage": 8.0,
+        "display_size": 3.1,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "c489dbcd-f26b-56d3-877f-1fd735c99369": {
+      "id": "c489dbcd-f26b-56d3-877f-1fd735c99369",
+      "brand": "Palm",
+      "model": "Pre 2",
+      "attributes": {
+        "os": "webOS 2.1",
+        "attr_primary storage": 16.0,
+        "display_size": 3.1,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "6b55d2d0-7320-520c-aa2d-5acda10f25f5": {
+      "id": "6b55d2d0-7320-520c-aa2d-5acda10f25f5",
+      "brand": "Palm",
+      "model": "Pre 2 GSM",
+      "attributes": {
+        "os": "webOS 2.2",
+        "release_date": "Oct 22, 2010",
+        "attr_primary storage": 16.0,
+        "display_size": 3.1,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "29138285-ca93-593e-be70-718fdcd79397": {
+      "id": "29138285-ca93-593e-be70-718fdcd79397",
+      "brand": "Palm",
+      "model": "Pre GSM",
+      "attributes": {
+        "os": "webOS ",
+        "release_date": "Oct 13, 2009",
+        "battery_capacity": 1150.0,
+        "attr_primary storage": 8.0,
+        "display_size": 3.1,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "63cfd07d-0aaa-5e41-9a23-7bc9fbc53fa0": {
+      "id": "63cfd07d-0aaa-5e41-9a23-7bc9fbc53fa0",
+      "brand": "Palm",
+      "model": "Pre Plus",
+      "attributes": {
+        "os": "webOS 1.3.5",
+        "release_date": "Jan 25, 2010",
+        "battery_capacity": 1150.0,
+        "attr_primary storage": 16.0,
+        "display_size": 3.1,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "226c5d25-b043-571f-bf6f-79f037a08487": {
+      "id": "226c5d25-b043-571f-bf6f-79f037a08487",
+      "brand": "Palm",
+      "model": "Pre Plus GSM",
+      "attributes": {
+        "os": "webOS 1.4",
+        "release_date": "May 16, 2010",
+        "battery_capacity": 1150.0,
+        "attr_primary storage": 16.0,
+        "display_size": 3.1,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "149e8e6c-ea9f-5c64-ac2d-5f0b9b62e701": {
+      "id": "149e8e6c-ea9f-5c64-ac2d-5f0b9b62e701",
+      "brand": "Palm",
+      "model": "Treo 500v",
+      "attributes": {
+        "os": "Windows Mobile Standard 6.0",
+        "battery_capacity": 1200.0,
+        "attr_primary storage": 0.0,
+        "storage": " microSD",
+        "attr_display resolution": 240,
+        "camera_main": 2.0
+      }
+    },
+    "c699a7e4-64af-5baa-9d0d-65c68c711660": {
+      "id": "c699a7e4-64af-5baa-9d0d-65c68c711660",
+      "brand": "Palm",
+      "model": "Treo 650 (CDMA)",
+      "attributes": {
+        "os": "Palm OS 5.4 (Garnet)",
+        "battery_capacity": 1000.0,
+        "attr_primary storage": 0.0,
+        "storage": " MMC",
+        "attr_display resolution": 320,
+        "camera_main": 0.0
+      }
+    },
+    "b7699a3f-955e-5642-b91d-b11342f2353a": {
+      "id": "b7699a3f-955e-5642-b91d-b11342f2353a",
+      "brand": "Palm",
+      "model": "Treo 650 (GSM)",
+      "attributes": {
+        "os": "Palm OS 5.4 (Garnet)",
+        "attr_primary storage": 0.0,
+        "storage": " MMC",
+        "attr_display resolution": 320,
+        "camera_main": 0.0
+      }
+    },
+    "4001cf3b-5432-5c13-be89-2bd57890be3d": {
+      "id": "4001cf3b-5432-5c13-be89-2bd57890be3d",
+      "brand": "Palm",
+      "model": "Treo 680",
+      "attributes": {
+        "os": "Palm OS 5.4 (Garnet)",
+        "battery_capacity": 1200.0,
+        "attr_primary storage": 0.0,
+        "storage": " MMC",
+        "attr_display resolution": 320,
+        "camera_main": 0.0
+      }
+    },
+    "90f9de5c-97c8-5ed1-b1f1-f1d8f520c4d5": {
+      "id": "90f9de5c-97c8-5ed1-b1f1-f1d8f520c4d5",
+      "brand": "Palm",
+      "model": "Treo 700p",
+      "attributes": {
+        "os": "Palm OS 5.4 (Garnet)",
+        "battery_capacity": 1800.0,
+        "attr_primary storage": 0.0,
+        "storage": " MMC",
+        "attr_display resolution": 320,
+        "camera_main": 1.0
+      }
+    },
+    "efbbd12b-a40b-5f00-805f-df3e3340a8b3": {
+      "id": "efbbd12b-a40b-5f00-805f-df3e3340a8b3",
+      "brand": "Palm",
+      "model": "Treo 700w",
+      "attributes": {
+        "os": "Windows Mobile Professional ",
+        "battery_capacity": 1800.0,
+        "storage": " SD",
+        "attr_display resolution": 240,
+        "camera_main": 1.0
+      }
+    },
+    "24da7046-3ec8-5f95-ac1f-90000af48105": {
+      "id": "24da7046-3ec8-5f95-ac1f-90000af48105",
+      "brand": "Palm",
+      "model": "Treo 750",
+      "attributes": {
+        "os": "Windows Mobile Professional ",
+        "battery_capacity": 1200.0,
+        "chipset": "Samsung",
+        "attr_memory": 0.1,
+        "storage": " miniSD",
+        "attr_display resolution": 240,
+        "camera_main": 1.0
+      }
+    },
+    "58a233c9-36e8-5ab4-87e0-495c05935180": {
+      "id": "58a233c9-36e8-5ab4-87e0-495c05935180",
+      "brand": "Palm",
+      "model": "Treo 755p",
+      "attributes": {
+        "os": "Palm OS 5.4 (Garnet)",
+        "battery_capacity": 1600.0,
+        "storage": " miniSD",
+        "attr_display resolution": 320,
+        "camera_main": 1.0
+      }
+    },
+    "2fd3b5d2-7c6f-5b22-9a92-19f780175b9b": {
+      "id": "2fd3b5d2-7c6f-5b22-9a92-19f780175b9b",
+      "brand": "Palm",
+      "model": "Treo 800w",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.1",
+        "release_date": "Jul 13, 2008",
+        "battery_capacity": 1150.0,
+        "attr_memory": 0.1,
+        "storage": " microSDHC",
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "5ba7a14f-e328-5b85-b35b-8ceeed46b503": {
+      "id": "5ba7a14f-e328-5b85-b35b-8ceeed46b503",
+      "brand": "Palm",
+      "model": "Treo Pro",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.1",
+        "release_date": "Sep 02, 2008",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm MSM7201",
+        "attr_memory": 0.1,
+        "storage": " microSDHC",
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "33b54ac8-accc-5aea-bdc2-4a4e39960693": {
+      "id": "33b54ac8-accc-5aea-bdc2-4a4e39960693",
+      "brand": "Palm",
+      "model": "Treo Pro CDMA",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.1",
+        "release_date": "Feb 27, 2009",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm MSM7501A",
+        "attr_memory": 0.1,
+        "storage": " microSDHC",
+        "display_size": 2.5,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "c0d956f8-3c8c-5515-96e5-600699924b75": {
+      "id": "c0d956f8-3c8c-5515-96e5-600699924b75",
+      "brand": "Palm",
+      "model": "Tungsten W",
+      "attributes": {
+        "os": "Palm OS 4.1",
+        "storage": " MMC",
+        "attr_display resolution": 320
+      }
+    }
+  }
+}

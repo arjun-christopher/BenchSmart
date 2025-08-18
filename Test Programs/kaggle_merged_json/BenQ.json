@@ -1,0 +1,55 @@
+{
+  "brand": "BenQ",
+  "phones": {
+    "e24b787f-a7f6-5c78-b975-d5687ec86f29": {
+      "id": "e24b787f-a7f6-5c78-b975-d5687ec86f29",
+      "brand": "BenQ",
+      "model": "E72",
+      "attributes": {
+        "os": "Windows Mobile Standard 6.0",
+        "battery_capacity": 900.0,
+        "attr_memory": 0.06,
+        "storage": " microSD",
+        "display_size": 2.0,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "acc3ae30-1fe9-5064-8736-948724738f34": {
+      "id": "acc3ae30-1fe9-5064-8736-948724738f34",
+      "brand": "BenQ",
+      "model": "P30",
+      "attributes": {
+        "os": "Symbian 7.0UIQ 2.1",
+        "chipset": "TI OMAP",
+        "storage": " MMC",
+        "attr_display resolution": 320,
+        "camera_main": 0.0
+      }
+    },
+    "23775915-3f5f-5ac4-b60d-c9236fa1171f": {
+      "id": "23775915-3f5f-5ac4-b60d-c9236fa1171f",
+      "brand": "BenQ",
+      "model": "P31",
+      "attributes": {
+        "os": "Symbian 7.0UIQ 2.1",
+        "chipset": "TI OMAP",
+        "storage": " MMC",
+        "attr_display resolution": 320,
+        "camera_main": 1.0
+      }
+    },
+    "0fb8ef9c-b991-5907-8615-3c934c7e8c81": {
+      "id": "0fb8ef9c-b991-5907-8615-3c934c7e8c81",
+      "brand": "BenQ",
+      "model": "P50",
+      "attributes": {
+        "os": "Windows Mobile Professional 2003 SE",
+        "attr_memory": 0.06,
+        "storage": " SD",
+        "attr_display resolution": 320,
+        "camera_main": 1.0
+      }
+    }
+  }
+}

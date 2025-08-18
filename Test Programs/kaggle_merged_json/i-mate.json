@@ -1,0 +1,250 @@
+{
+  "brand": "i-mate",
+  "phones": {
+    "78330327-30a0-555f-a07b-51942d8058fc": {
+      "id": "78330327-30a0-555f-a07b-51942d8058fc",
+      "brand": "i-mate",
+      "model": "810-F",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.1",
+        "battery_capacity": 1200.0,
+        "attr_memory": 0.1,
+        "attr_primary storage": 2.0,
+        "display_size": 2.5,
+        "attr_display resolution": 240,
+        "camera_main": 2.0
+      }
+    },
+    "4ab7d24a-9629-5621-ab6e-93397e8d7c6f": {
+      "id": "4ab7d24a-9629-5621-ab6e-93397e8d7c6f",
+      "brand": "i-mate",
+      "model": "JAMA",
+      "attributes": {
+        "os": "Windows Mobile Professional 5.0",
+        "battery_capacity": 1000.0,
+        "attr_memory": 0.06,
+        "storage": " microSD",
+        "display_size": 2.4,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "4764703d-eee3-5c19-81c5-982c4addbfaa": {
+      "id": "4764703d-eee3-5c19-81c5-982c4addbfaa",
+      "brand": "i-mate",
+      "model": "JAMA 101",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.0",
+        "battery_capacity": 1100.0,
+        "chipset": "Samsung",
+        "attr_memory": 0.06,
+        "storage": " microSD",
+        "display_size": 2.4,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "d23b2d03-9667-5a22-80be-3f0b9173bc7d": {
+      "id": "d23b2d03-9667-5a22-80be-3f0b9173bc7d",
+      "brand": "i-mate",
+      "model": "JAMA 201",
+      "attributes": {
+        "os": "Windows Mobile Standard 6.0",
+        "battery_capacity": 1100.0,
+        "chipset": "Samsung",
+        "attr_memory": 0.06,
+        "storage": " microSD",
+        "display_size": 2.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0
+      }
+    },
+    "e0e70182-0500-5f49-a721-73e5c0dcb14f": {
+      "id": "e0e70182-0500-5f49-a721-73e5c0dcb14f",
+      "brand": "i-mate",
+      "model": "JAQ",
+      "attributes": {
+        "os": "Windows Mobile Professional 5.0",
+        "battery_capacity": 1440.0,
+        "chipset": "TI OMAP850",
+        "attr_memory": 0.06,
+        "storage": " miniSD",
+        "display_size": 2.8,
+        "attr_display resolution": 240
+      }
+    },
+    "c7b5e242-8054-580d-ab3d-4370f241936d": {
+      "id": "c7b5e242-8054-580d-ab3d-4370f241936d",
+      "brand": "i-mate",
+      "model": "JAQ3",
+      "attributes": {
+        "os": "Windows Mobile Professional 5.0",
+        "battery_capacity": 1200.0,
+        "chipset": "TI OMAP850",
+        "attr_memory": 0.06,
+        "storage": " microSD",
+        "display_size": 2.5,
+        "attr_display resolution": 240,
+        "camera_main": 2.0
+      }
+    },
+    "6046890c-f94a-5ea8-8b07-e045df924f31": {
+      "id": "6046890c-f94a-5ea8-8b07-e045df924f31",
+      "brand": "i-mate",
+      "model": "JAQ4",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.0",
+        "battery_capacity": 1660.0,
+        "chipset": "TI OMAP850",
+        "attr_memory": 0.06,
+        "storage": " miniSD",
+        "display_size": 2.8,
+        "attr_display resolution": 240,
+        "camera_main": 2.0
+      }
+    },
+    "79676d88-a2db-5c43-8aeb-2081dbeba89c": {
+      "id": "79676d88-a2db-5c43-8aeb-2081dbeba89c",
+      "brand": "i-mate",
+      "model": "K-JAR",
+      "attributes": {
+        "os": "Windows Mobile Professional 5.0",
+        "battery_capacity": 1100.0,
+        "attr_memory": 0.06,
+        "storage": " microSD",
+        "display_size": 2.4,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "fd43f3dd-b2db-5a54-8a17-70a11bb7a8e9": {
+      "id": "fd43f3dd-b2db-5a54-8a17-70a11bb7a8e9",
+      "brand": "i-mate",
+      "model": "PDAL",
+      "attributes": {
+        "os": "Windows Mobile Professional 5.0",
+        "battery_capacity": 1100.0,
+        "chipset": "TI OMAP850",
+        "attr_memory": 0.06,
+        "storage": " microSD",
+        "display_size": 2.4,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "1acec542-fd50-5908-9292-6d408f6da5e7": {
+      "id": "1acec542-fd50-5908-9292-6d408f6da5e7",
+      "brand": "i-mate",
+      "model": "SPL",
+      "attributes": {
+        "os": "Windows Mobile Standard 5.0",
+        "battery_capacity": 1100.0,
+        "attr_memory": 0.06,
+        "storage": " miniSD",
+        "display_size": 2.2,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "d2870cf7-9ade-5de8-aca1-e9bb5a46ce55": {
+      "id": "d2870cf7-9ade-5de8-aca1-e9bb5a46ce55",
+      "brand": "i-mate",
+      "model": "Ultimate 5150",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.0",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.1,
+        "storage": " microSD",
+        "display_size": 2.8,
+        "attr_display resolution": 640,
+        "camera_main": 2.0
+      }
+    },
+    "4d06009d-476f-57ac-a143-0319013fc85f": {
+      "id": "4d06009d-476f-57ac-a143-0319013fc85f",
+      "brand": "i-mate",
+      "model": "Ultimate 6150",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.0",
+        "battery_capacity": 1530.0,
+        "attr_memory": 0.1,
+        "storage": " microSD",
+        "display_size": 2.8,
+        "attr_display resolution": 640,
+        "camera_main": 2.0
+      }
+    },
+    "78bf18e4-989e-5edf-addb-e29924b28588": {
+      "id": "78bf18e4-989e-5edf-addb-e29924b28588",
+      "brand": "i-mate",
+      "model": "Ultimate 7150",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.0",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.1,
+        "storage": " microSD",
+        "display_size": 3.8,
+        "attr_display resolution": 640,
+        "camera_main": 2.0
+      }
+    },
+    "57434243-ed24-54f6-92bf-26b84a569cb0": {
+      "id": "57434243-ed24-54f6-92bf-26b84a569cb0",
+      "brand": "i-mate",
+      "model": "Ultimate 8150",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.0",
+        "battery_capacity": 1530.0,
+        "attr_memory": 0.1,
+        "storage": " microSD",
+        "display_size": 2.6,
+        "attr_display resolution": 640,
+        "camera_main": 2.0
+      }
+    },
+    "a1cc7228-7d1a-599a-9da5-f0c2aa1e5b52": {
+      "id": "a1cc7228-7d1a-599a-9da5-f0c2aa1e5b52",
+      "brand": "i-mate",
+      "model": "Ultimate 8502",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.0",
+        "battery_capacity": 1530.0,
+        "chipset": "Qualcomm MSM7200",
+        "attr_memory": 0.1,
+        "storage": " microSD",
+        "display_size": 2.6,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "0f9ac083-db86-5995-939e-8e7718e9e586": {
+      "id": "0f9ac083-db86-5995-939e-8e7718e9e586",
+      "brand": "i-mate",
+      "model": "Ultimate 9150",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.0",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.1,
+        "storage": " microSD",
+        "display_size": 2.6,
+        "attr_display resolution": 640,
+        "camera_main": 2.0
+      }
+    },
+    "8ee9c547-b9c3-5a94-afde-f1d5dcd7fd80": {
+      "id": "8ee9c547-b9c3-5a94-afde-f1d5dcd7fd80",
+      "brand": "i-mate",
+      "model": "Ultimate 9502",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.0",
+        "battery_capacity": 1620.0,
+        "chipset": "Qualcomm MSM7200",
+        "attr_memory": 0.1,
+        "storage": " microSD",
+        "display_size": 2.8,
+        "attr_display resolution": 640,
+        "camera_main": 3.0
+      }
+    }
+  }
+}

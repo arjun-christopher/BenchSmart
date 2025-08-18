@@ -1,0 +1,35 @@
+{
+  "brand": "Smartex",
+  "phones": {
+    "95ef7ee3-eb8a-5703-99f7-e190517d8cef": {
+      "id": "95ef7ee3-eb8a-5703-99f7-e190517d8cef",
+      "brand": "Smartex",
+      "model": "P600 Black",
+      "attributes": {
+        "attr_unnamed 0": 712,
+        "os": "Android",
+        "attr_popularity": 301,
+        "attr_sellers amount": 1,
+        "display_size": 5.5,
+        "attr_memory size": 16.0,
+        "attr_battery size": 4000.0,
+        "release_date": 1
+      }
+    },
+    "a71ee539-ec99-5bd2-a776-1158abc3bab8": {
+      "id": "a71ee539-ec99-5bd2-a776-1158abc3bab8",
+      "brand": "Smartex",
+      "model": "P600 Gold",
+      "attributes": {
+        "attr_unnamed 0": 713,
+        "os": "Android",
+        "attr_popularity": 326,
+        "attr_sellers amount": 1,
+        "display_size": 5.5,
+        "attr_memory size": 16.0,
+        "attr_battery size": 4000.0,
+        "release_date": 1
+      }
+    }
+  }
+}

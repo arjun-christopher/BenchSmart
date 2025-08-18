@@ -1,0 +1,18 @@
+{
+  "brand": "INQ",
+  "phones": {
+    "59d7945d-e700-58c1-87de-155c59e1f359": {
+      "id": "59d7945d-e700-58c1-87de-155c59e1f359",
+      "brand": "INQ",
+      "model": "Cloud Touch",
+      "attributes": {
+        "os": "Android 2.2",
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    }
+  }
+}

@@ -1,0 +1,3972 @@
+{
+  "brand": "BLU",
+  "phones": {
+    "ecf870ce-1fd6-5027-aa94-8e9c6e964133": {
+      "id": "ecf870ce-1fd6-5027-aa94-8e9c6e964133",
+      "brand": "BLU",
+      "model": "F91 5G",
+      "attributes": {
+        "price": "₹14,990",
+        "rating": 85.0,
+        "sim": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",
+        "chipset": "Dimensity  810 5G, Octa Core, 2.4 GHz Processor",
+        "ram": 8,
+        "battery_capacity": 5000,
+        "display_size": 6.8,
+        "camera_main": 48,
+        "attr_card": "Memory Card Supported",
+        "os": "Android v11"
+      }
+    },
+    "26eac9a6-47d7-5611-8337-55c11f801618": {
+      "id": "26eac9a6-47d7-5611-8337-55c11f801618",
+      "brand": "blu",
+      "model": "BLU F91 5G",
+      "attributes": {
+        "price": 14990,
+        "rating": 8.5,
+        "attr_5g or not": 1,
+        "attr_processor brand": "dimensity",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.4,
+        "battery_capacity": 5000.0,
+        "attr_fast charging available": 1,
+        "attr_ram capacity": 8,
+        "attr_internal memory": 128,
+        "display_size": 6.8,
+        "refresh_rate": 60,
+        "camera_main": 16.0,
+        "os": "android",
+        "attr_extended memory available": 1,
+        "attr_resolution height": 2460,
+        "attr_resolution width": 1080,
+        "attr_has 5g": true,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
+        "camera_front": 1.0
+      }
+    },
+    "fcc2761a-2d7c-58dc-a98a-47bdacd97cf7": {
+      "id": "fcc2761a-2d7c-58dc-a98a-47bdacd97cf7",
+      "brand": "BLU",
+      "model": "Advance 4.0",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 1600.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "3b7105d2-a490-5ba0-80b7-0f351232db59": {
+      "id": "3b7105d2-a490-5ba0-80b7-0f351232db59",
+      "brand": "BLU",
+      "model": "Advance 4.0 L",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "May 01, 2015",
+        "battery_capacity": 1300.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "7d780422-18b5-5668-b8c7-4fe3c1946c66": {
+      "id": "7d780422-18b5-5668-b8c7-4fe3c1946c66",
+      "brand": "BLU",
+      "model": "Advance 4.0 L2",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 1200.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "20048650-e302-5728-ba3c-d950a1522cf2": {
+      "id": "20048650-e302-5728-ba3c-d950a1522cf2",
+      "brand": "BLU",
+      "model": "Advance 4.0 L3",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0,
+        "camera_front": 2
+      }
+    },
+    "9d7542c9-97f1-547e-8bcc-7115600f6d23": {
+      "id": "9d7542c9-97f1-547e-8bcc-7115600f6d23",
+      "brand": "BLU",
+      "model": "Advance 4.0 M",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 1300.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "a9ee6703-ac2b-5544-b996-9a409bb65fdc": {
+      "id": "a9ee6703-ac2b-5544-b996-9a409bb65fdc",
+      "brand": "BLU",
+      "model": "Advance 4.5",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 1700.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "08c0f336-693b-5688-a654-0b493150cc95": {
+      "id": "08c0f336-693b-5688-a654-0b493150cc95",
+      "brand": "BLU",
+      "model": "Advance 5.0",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 1800.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.75,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "3b369604-bc11-5aac-9794-5668228ec0e5": {
+      "id": "3b369604-bc11-5aac-9794-5668228ec0e5",
+      "brand": "BLU",
+      "model": "Advance L4",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "battery_capacity": 1300.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "e6d1ca82-441e-5bd1-925b-e3f386bb45ae": {
+      "id": "e6d1ca82-441e-5bd1-925b-e3f386bb45ae",
+      "brand": "BLU",
+      "model": "Amour",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1600.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "9f8473dd-fabc-50a8-bafb-5ec10a8dc926": {
+      "id": "9f8473dd-fabc-50a8-bafb-5ec10a8dc926",
+      "brand": "BLU",
+      "model": "Bold N1",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "Sep 09, 2019",
+        "battery_capacity": 3500.0,
+        "chipset": "Mediatek Helio P70",
+        "attr_memory": 4.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.4,
+        "attr_display resolution": 2340,
+        "camera_main": 16.0,
+        "camera_front": 13
+      }
+    },
+    "cfe3f0df-70f7-5f4d-8016-4406ea2ed6e3": {
+      "id": "cfe3f0df-70f7-5f4d-8016-4406ea2ed6e3",
+      "brand": "BLU",
+      "model": "C4",
+      "attributes": {
+        "os": "Android 8.0 Oreo",
+        "battery_capacity": 1300.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "c9f719ef-c21b-51e0-99ae-618a3813d8e1": {
+      "id": "c9f719ef-c21b-51e0-99ae-618a3813d8e1",
+      "brand": "BLU",
+      "model": "C5",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 3.2
+      }
+    },
+    "14fa900b-6ca5-5ffc-a10b-53c7097946e6": {
+      "id": "14fa900b-6ca5-5ffc-a10b-53c7097946e6",
+      "brand": "BLU",
+      "model": "C5 2018",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "020fc545-2318-5314-b574-fb549d4d1a86": {
+      "id": "020fc545-2318-5314-b574-fb549d4d1a86",
+      "brand": "BLU",
+      "model": "C5 LTE",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 3.2
+      }
+    },
+    "113235d4-b7b1-5cc2-9cbe-1c6822a055a5": {
+      "id": "113235d4-b7b1-5cc2-9cbe-1c6822a055a5",
+      "brand": "BLU",
+      "model": "C5L",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "release_date": "February 2019",
+        "battery_capacity": 2000.0,
+        "attr_memory": 1.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "74164554-496d-57c9-adf5-aee7668e28d9": {
+      "id": "74164554-496d-57c9-adf5-aee7668e28d9",
+      "brand": "BLU",
+      "model": "C6",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "battery_capacity": 2500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "5f5a3f6e-98ef-5afa-92b1-42da58171c39": {
+      "id": "5f5a3f6e-98ef-5afa-92b1-42da58171c39",
+      "brand": "BLU",
+      "model": "C6L",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "release_date": "January 2019",
+        "battery_capacity": 2500.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "9225f8e1-32d4-5a53-804e-30b2f24a42b8": {
+      "id": "9225f8e1-32d4-5a53-804e-30b2f24a42b8",
+      "brand": "BLU",
+      "model": "DASH L5 LTE",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "bc101d0a-c86b-57cf-a25d-aa8474e3867c": {
+      "id": "bc101d0a-c86b-57cf-a25d-aa8474e3867c",
+      "brand": "BLU",
+      "model": "Dash 3.5",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 1000.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "bcb344ee-65b4-52ae-a9e8-9e558697983b": {
+      "id": "bcb344ee-65b4-52ae-a9e8-9e558697983b",
+      "brand": "BLU",
+      "model": "Dash 4.0",
+      "attributes": {
+        "os": "Android 4.2",
+        "release_date": "Sep 01, 2013",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "e0516949-1002-5808-97f0-9b3732e5596e": {
+      "id": "e0516949-1002-5808-97f0-9b3732e5596e",
+      "brand": "BLU",
+      "model": "Dash 4.5",
+      "attributes": {
+        "os": "Android 4.2",
+        "release_date": "Jul 01, 2013",
+        "battery_capacity": 2000.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "1b3de0dd-dc44-5b6e-8642-48770faa2d2a": {
+      "id": "1b3de0dd-dc44-5b6e-8642-48770faa2d2a",
+      "brand": "BLU",
+      "model": "Dash 4.5 (2016)",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 1800.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "b9c7310d-ddf8-5a3c-82d4-8674cedd1c61": {
+      "id": "b9c7310d-ddf8-5a3c-82d4-8674cedd1c61",
+      "brand": "BLU",
+      "model": "Dash 5.0",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 2000.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "050b0969-d1a3-5fd1-9435-8ef863eb0206": {
+      "id": "050b0969-d1a3-5fd1-9435-8ef863eb0206",
+      "brand": "BLU",
+      "model": "Dash 5.0+",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Nov 01, 2014",
+        "battery_capacity": 2000.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "6725f16e-23c0-5a8c-beca-2f48470b1911": {
+      "id": "6725f16e-23c0-5a8c-beca-2f48470b1911",
+      "brand": "BLU",
+      "model": "Dash 5.5",
+      "attributes": {
+        "os": "Android 4.2",
+        "release_date": "Jul 01, 2014",
+        "battery_capacity": 2600.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "0716a1da-8369-54cf-be5b-238f99e5cbbc": {
+      "id": "0716a1da-8369-54cf-be5b-238f99e5cbbc",
+      "brand": "BLU",
+      "model": "Dash C Music",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 1450.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "7b624a84-6b5c-500a-89a5-dbe0b47df980": {
+      "id": "7b624a84-6b5c-500a-89a5-dbe0b47df980",
+      "brand": "BLU",
+      "model": "Dash G",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "986f69e1-dd83-5e2f-9a68-9b035709ab3d": {
+      "id": "986f69e1-dd83-5e2f-9a68-9b035709ab3d",
+      "brand": "BLU",
+      "model": "Dash J",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 1450.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDXC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "22b40dbc-0ab8-5b76-92e7-365fc2c3a9e5": {
+      "id": "22b40dbc-0ab8-5b76-92e7-365fc2c3a9e5",
+      "brand": "BLU",
+      "model": "Dash JR",
+      "attributes": {
+        "os": "Android 2.3",
+        "release_date": "Sep 01, 2013",
+        "battery_capacity": 1000.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0
+      }
+    },
+    "5113a666-361b-5759-86f8-f2a4c7b799c3": {
+      "id": "5113a666-361b-5759-86f8-f2a4c7b799c3",
+      "brand": "BLU",
+      "model": "Dash L",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Sep 01, 2015",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "9029ca27-1ebb-54a7-ba9b-716f1ba5418b": {
+      "id": "9029ca27-1ebb-54a7-ba9b-716f1ba5418b",
+      "brand": "BLU",
+      "model": "Dash L2",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 1400.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "87cee7ca-b43c-527a-b485-71d67d2c8650": {
+      "id": "87cee7ca-b43c-527a-b485-71d67d2c8650",
+      "brand": "BLU",
+      "model": "Dash L3",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 1400.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0,
+        "camera_front": 2
+      }
+    },
+    "851ed33d-a6e7-5964-b5b3-0ec82e8c595c": {
+      "id": "851ed33d-a6e7-5964-b5b3-0ec82e8c595c",
+      "brand": "BLU",
+      "model": "Dash L4 3G",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 1700.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "9a6f6b39-8830-5af1-962f-35429b5932fd": {
+      "id": "9a6f6b39-8830-5af1-962f-35429b5932fd",
+      "brand": "BLU",
+      "model": "Dash L4 LTE",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 1700.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "c97185f1-bb3c-5c8d-9753-caa0160e9c8f": {
+      "id": "c97185f1-bb3c-5c8d-9753-caa0160e9c8f",
+      "brand": "BLU",
+      "model": "Dash M",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 1800.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.75,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "78b69262-0758-55b3-94af-3331087a0f5d": {
+      "id": "78b69262-0758-55b3-94af-3331087a0f5d",
+      "brand": "BLU",
+      "model": "Dash M2",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "d46593db-206d-56e8-9702-dc78076bd042": {
+      "id": "d46593db-206d-56e8-9702-dc78076bd042",
+      "brand": "BLU",
+      "model": "Dash Music 4.0",
+      "attributes": {
+        "os": "Android 4.2",
+        "release_date": "Sep 01, 2013",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0
+      }
+    },
+    "771997c9-62b6-53d0-b9a2-1257854a5bda": {
+      "id": "771997c9-62b6-53d0-b9a2-1257854a5bda",
+      "brand": "BLU",
+      "model": "Dash Music JR",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 1450.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "59779b26-f003-5bb9-aa5a-a1a164ee4cab": {
+      "id": "59779b26-f003-5bb9-aa5a-a1a164ee4cab",
+      "brand": "BLU",
+      "model": "Dash X",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "693d2b1b-2542-5eb3-b805-620d86b7e9f7": {
+      "id": "693d2b1b-2542-5eb3-b805-620d86b7e9f7",
+      "brand": "BLU",
+      "model": "Dash X LTE",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2000.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "b00552e8-1165-5762-ac52-227744e03707": {
+      "id": "b00552e8-1165-5762-ac52-227744e03707",
+      "brand": "BLU",
+      "model": "Dash X Plus",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "991a08dd-347f-5d9b-af99-23b6830dc55d": {
+      "id": "991a08dd-347f-5d9b-af99-23b6830dc55d",
+      "brand": "BLU",
+      "model": "Dash X Plus LTE",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2750.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "9b82b1a5-31c8-5183-86a5-6f645d3ea4c9": {
+      "id": "9b82b1a5-31c8-5183-86a5-6f645d3ea4c9",
+      "brand": "BLU",
+      "model": "Dash X2",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "41b4593a-4617-5a77-959b-f15aa5584613": {
+      "id": "41b4593a-4617-5a77-959b-f15aa5584613",
+      "brand": "BLU",
+      "model": "Dash XL",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "f581c46d-08b9-5cb6-875d-9d9dc253feb4": {
+      "id": "f581c46d-08b9-5cb6-875d-9d9dc253feb4",
+      "brand": "BLU",
+      "model": "Diamond M",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2200.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "a04ebbb2-99f5-5ef2-848c-8e84dbd70df2": {
+      "id": "a04ebbb2-99f5-5ef2-848c-8e84dbd70df2",
+      "brand": "BLU",
+      "model": "Energy Diamond",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 4000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "2715e69f-ff99-560d-814a-5202f1619f8e": {
+      "id": "2715e69f-ff99-560d-814a-5202f1619f8e",
+      "brand": "BLU",
+      "model": "Energy Diamond Mini",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "7055f342-8123-5450-ba81-bdb4e87fc00e": {
+      "id": "7055f342-8123-5450-ba81-bdb4e87fc00e",
+      "brand": "BLU",
+      "model": "Energy JR",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDXC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "5a8b8ee4-41cb-5f80-a842-1edc17a5065b": {
+      "id": "5a8b8ee4-41cb-5f80-a842-1edc17a5065b",
+      "brand": "BLU",
+      "model": "Energy M",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 4000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "0c6cf07f-fcbe-5bb9-b472-adaa573831e1": {
+      "id": "0c6cf07f-fcbe-5bb9-b472-adaa573831e1",
+      "brand": "BLU",
+      "model": "Energy X",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 4000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0
+      }
+    },
+    "2b40ebc0-2588-56eb-8930-b8146c3582c9": {
+      "id": "2b40ebc0-2588-56eb-8930-b8146c3582c9",
+      "brand": "BLU",
+      "model": "Energy X 2",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 4000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "2ab537a5-f20c-52a8-a1b2-768b7c681004": {
+      "id": "2ab537a5-f20c-52a8-a1b2-768b7c681004",
+      "brand": "BLU",
+      "model": "Energy X LTE",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 4000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "01fb1c2e-cc9e-5746-8d08-3c431b94da38": {
+      "id": "01fb1c2e-cc9e-5746-8d08-3c431b94da38",
+      "brand": "BLU",
+      "model": "Energy X Plus",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "release_date": "Jul 01, 2015",
+        "battery_capacity": 4000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "1e2f77f9-b805-58fc-b694-5225595a3729": {
+      "id": "1e2f77f9-b805-58fc-b694-5225595a3729",
+      "brand": "BLU",
+      "model": "Energy X Plus 2",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 4900.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "bb16bcb0-a033-50ec-a110-e3c45d7c0194": {
+      "id": "bb16bcb0-a033-50ec-a110-e3c45d7c0194",
+      "brand": "BLU",
+      "model": "Energy XL",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 5000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDHC",
+        "display_size": 6.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "eb032fd7-b642-5d0a-8069-5fbb9cfd7d0d": {
+      "id": "eb032fd7-b642-5d0a-8069-5fbb9cfd7d0d",
+      "brand": "BLU",
+      "model": "G80",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "Jun 24, 2020",
+        "battery_capacity": 4000.0,
+        "chipset": "Mediatek Helio P23",
+        "attr_memory": 3.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.5,
+        "attr_display resolution": 1600,
+        "camera_main": 13.0,
+        "camera_front": 13
+      }
+    },
+    "1cb5daeb-64e0-573a-afb2-ebe2f5d26a07": {
+      "id": "1cb5daeb-64e0-573a-afb2-ebe2f5d26a07",
+      "brand": "BLU",
+      "model": "G9",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "May 22, 2019",
+        "battery_capacity": 4000.0,
+        "chipset": "MediaTek Helio P22",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.3,
+        "attr_display resolution": 1520,
+        "camera_main": 13.0,
+        "camera_front": 13
+      }
+    },
+    "9707595e-af7a-50ea-9abe-fcb67e276021": {
+      "id": "9707595e-af7a-50ea-9abe-fcb67e276021",
+      "brand": "BLU",
+      "model": "G9 Pro",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "Aug 27, 2019",
+        "battery_capacity": 4000.0,
+        "chipset": "MediaTek Helio P60",
+        "attr_memory": 4.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.3,
+        "attr_display resolution": 2340,
+        "camera_main": 16.0,
+        "camera_front": 24
+      }
+    },
+    "b726fb37-c225-55a0-89c3-7f2892994455": {
+      "id": "b726fb37-c225-55a0-89c3-7f2892994455",
+      "brand": "BLU",
+      "model": "G90",
+      "attributes": {
+        "os": "Android 10",
+        "release_date": "Jun 24, 2020",
+        "battery_capacity": 4000.0,
+        "chipset": "Mediatek Helio A25",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.5,
+        "attr_display resolution": 1600,
+        "camera_main": 16.0,
+        "camera_front": 13
+      }
+    },
+    "ed99b88a-dfa4-5bdf-b89a-149adf98ba00": {
+      "id": "ed99b88a-dfa4-5bdf-b89a-149adf98ba00",
+      "brand": "BLU",
+      "model": "G90 Pro",
+      "attributes": {
+        "os": "Android 10",
+        "release_date": "Aug 27, 2020",
+        "battery_capacity": 5100.0,
+        "chipset": "Mediatek Helio G90T",
+        "attr_memory": 4.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.5,
+        "attr_display resolution": 2340,
+        "camera_main": 48.0,
+        "camera_front": 32
+      }
+    },
+    "69af3c00-25c6-5029-ac17-5f1c33bee550": {
+      "id": "69af3c00-25c6-5029-ac17-5f1c33bee550",
+      "brand": "BLU",
+      "model": "GRAND 5.5 HD II",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 2800.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "a52fd359-28f3-5b67-8863-3c563f6a764c": {
+      "id": "a52fd359-28f3-5b67-8863-3c563f6a764c",
+      "brand": "BLU",
+      "model": "Grand 5.5 HD",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "59b8eb46-f5f6-52cb-a67b-45321d81ba7c": {
+      "id": "59b8eb46-f5f6-52cb-a67b-45321d81ba7c",
+      "brand": "BLU",
+      "model": "Grand Energy",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 4000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "56c34974-775d-51be-a4dc-f8cf34ac70e1": {
+      "id": "56c34974-775d-51be-a4dc-f8cf34ac70e1",
+      "brand": "BLU",
+      "model": "Grand M",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2200.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 3.2
+      }
+    },
+    "ebb56bd0-5201-569d-9a28-b4ae9b80f35c": {
+      "id": "ebb56bd0-5201-569d-9a28-b4ae9b80f35c",
+      "brand": "BLU",
+      "model": "Grand M2",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 2600.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "210d26d9-feb2-56e7-a8d8-76147aebf818": {
+      "id": "210d26d9-feb2-56e7-a8d8-76147aebf818",
+      "brand": "BLU",
+      "model": "Grand M2 2018",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "battery_capacity": 2600.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "5760bdc4-4563-5077-a6af-188e9009d69d": {
+      "id": "5760bdc4-4563-5077-a6af-188e9009d69d",
+      "brand": "BLU",
+      "model": "Grand M2 LTE",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 2600.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "b8f94c6b-21a6-5e12-bbe3-b20f40d2cdd7": {
+      "id": "b8f94c6b-21a6-5e12-bbe3-b20f40d2cdd7",
+      "brand": "BLU",
+      "model": "Grand M3",
+      "attributes": {
+        "os": "Android 8.0 Oreo",
+        "release_date": "Jul 17, 2018",
+        "battery_capacity": 2500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.3,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "626baccd-c400-5524-950f-c3a548e41b3a": {
+      "id": "626baccd-c400-5524-950f-c3a548e41b3a",
+      "brand": "BLU",
+      "model": "Grand Max",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2200.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 8
+      }
+    },
+    "16a74f6f-4d25-5c77-8f5f-0e333b5220a2": {
+      "id": "16a74f6f-4d25-5c77-8f5f-0e333b5220a2",
+      "brand": "BLU",
+      "model": "Grand Mini",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 1500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "e7139e3c-74d1-58f0-a175-db1a6c17a01a": {
+      "id": "e7139e3c-74d1-58f0-a175-db1a6c17a01a",
+      "brand": "BLU",
+      "model": "Grand X",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2200.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "a2f84314-ee57-569d-93a9-ed67c6aff998": {
+      "id": "a2f84314-ee57-569d-93a9-ed67c6aff998",
+      "brand": "BLU",
+      "model": "Grand X LTE",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 2400.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "0187899c-e625-5783-a00e-b3d2e6b63c47": {
+      "id": "0187899c-e625-5783-a00e-b3d2e6b63c47",
+      "brand": "BLU",
+      "model": "Grand XL",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 2650.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "ad04d5b6-bc86-5d8a-adef-66a6fe6c4b1c": {
+      "id": "ad04d5b6-bc86-5d8a-adef-66a6fe6c4b1c",
+      "brand": "BLU",
+      "model": "Grand XL LTE",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 3200.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "ac9089cd-645e-5542-92db-fe0d3212bafd": {
+      "id": "ac9089cd-645e-5542-92db-fe0d3212bafd",
+      "brand": "BLU",
+      "model": "Life 8",
+      "attributes": {
+        "os": "Android 4.2",
+        "release_date": "May 01, 2014",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "e881e3c2-b444-54f0-b9c4-98b56df20c81": {
+      "id": "e881e3c2-b444-54f0-b9c4-98b56df20c81",
+      "brand": "BLU",
+      "model": "Life 8 XL",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "release_date": "Jun 22, 2015",
+        "battery_capacity": 2920.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "1e979510-1070-5f00-a2f8-e71cf99c38ec": {
+      "id": "1e979510-1070-5f00-a2f8-e71cf99c38ec",
+      "brand": "BLU",
+      "model": "Life Mark",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2450.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "5fd729ce-fc84-5e1d-b713-242337b67f6f": {
+      "id": "5fd729ce-fc84-5e1d-b713-242337b67f6f",
+      "brand": "BLU",
+      "model": "Life Max",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Jan 16, 2017",
+        "battery_capacity": 3700.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "c87b40bf-c5bf-5c79-9c0d-04e38b5781f9": {
+      "id": "c87b40bf-c5bf-5c79-9c0d-04e38b5781f9",
+      "brand": "BLU",
+      "model": "Life One",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "3b8c318e-260a-54a0-b756-7f6f664423fd": {
+      "id": "3b8c318e-260a-54a0-b756-7f6f664423fd",
+      "brand": "BLU",
+      "model": "Life One M",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 2000.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 12.0,
+        "camera_front": 2
+      }
+    },
+    "5e02fe42-51a8-5748-819e-185d69501fea": {
+      "id": "5e02fe42-51a8-5748-819e-185d69501fea",
+      "brand": "BLU",
+      "model": "Life One X",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 2000.0,
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "2622da55-f238-5f9e-9214-871ef794231a": {
+      "id": "2622da55-f238-5f9e-9214-871ef794231a",
+      "brand": "BLU",
+      "model": "Life One X (2016)",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2900.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "700c28de-1fef-503d-b87b-b6b0bfae2cbb": {
+      "id": "700c28de-1fef-503d-b87b-b6b0bfae2cbb",
+      "brand": "BLU",
+      "model": "Life One X2",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Sep 23, 2016",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 430",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 1920,
+        "camera_main": 16.0,
+        "camera_front": 8
+      }
+    },
+    "63c74c81-f657-5892-b44b-c659684c6fd3": {
+      "id": "63c74c81-f657-5892-b44b-c659684c6fd3",
+      "brand": "BLU",
+      "model": "Life One X2 Mini",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 430",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "bffd7347-66f0-5ad0-93d5-9042e0103581": {
+      "id": "bffd7347-66f0-5ad0-93d5-9042e0103581",
+      "brand": "BLU",
+      "model": "Life One X3",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "release_date": "Dec 14, 2017",
+        "battery_capacity": 5000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 13
+      }
+    },
+    "1e1bb472-8f52-5906-9b2c-869a20eb60dd": {
+      "id": "1e1bb472-8f52-5906-9b2c-869a20eb60dd",
+      "brand": "BLU",
+      "model": "Life One XL",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "battery_capacity": 2820.0,
+        "chipset": "Qualcomm Snapdragon 410",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "ec56f428-06c2-5c4d-bfca-07d059f696df": {
+      "id": "ec56f428-06c2-5c4d-bfca-07d059f696df",
+      "brand": "BLU",
+      "model": "Life Play",
+      "attributes": {
+        "os": "Android 4.2",
+        "release_date": "Apr 01, 2013",
+        "battery_capacity": 1800.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.7,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "ea687d35-30a2-506b-8128-3759c286d802": {
+      "id": "ea687d35-30a2-506b-8128-3759c286d802",
+      "brand": "BLU",
+      "model": "Life Play 2",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Nov 01, 2014",
+        "battery_capacity": 1800.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.7,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "fdb0b85c-a207-51be-b7ea-ed8e1469e7c3": {
+      "id": "fdb0b85c-a207-51be-b7ea-ed8e1469e7c3",
+      "brand": "BLU",
+      "model": "Life Play Mini",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "c2e0de62-e73d-5a0c-9a1c-d236c5664235": {
+      "id": "c2e0de62-e73d-5a0c-9a1c-d236c5664235",
+      "brand": "BLU",
+      "model": "Life Play S",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 1800.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.7,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "c9819ea7-ea8e-5fa6-b0e8-4a1d264c7733": {
+      "id": "c9819ea7-ea8e-5fa6-b0e8-4a1d264c7733",
+      "brand": "BLU",
+      "model": "Life Play X",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 1800.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 4.7,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "38860997-cf86-5479-8efb-78534bde9666": {
+      "id": "38860997-cf86-5479-8efb-78534bde9666",
+      "brand": "BLU",
+      "model": "Life Pro",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 2500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 12.0,
+        "camera_front": 5
+      }
+    },
+    "1fe071e1-da57-5c7f-a97e-1ca61734e503": {
+      "id": "1fe071e1-da57-5c7f-a97e-1ca61734e503",
+      "brand": "BLU",
+      "model": "Life Pure",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 2020.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 32.0,
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "70506442-8131-5dfe-9473-e4f52c9d7c07": {
+      "id": "70506442-8131-5dfe-9473-e4f52c9d7c07",
+      "brand": "BLU",
+      "model": "Life Pure XL",
+      "attributes": {
+        "os": "Android 4.2",
+        "release_date": "May 01, 2014",
+        "chipset": "Qualcomm Snapdragon 800",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 16.0,
+        "camera_front": 8
+      }
+    },
+    "44869024-d30f-577f-8769-b7d60fb6a8e5": {
+      "id": "44869024-d30f-577f-8769-b7d60fb6a8e5",
+      "brand": "BLU",
+      "model": "Life Pure mini",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "display_size": 4.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "66f17487-cfed-5141-8d44-b300fb2cee1b": {
+      "id": "66f17487-cfed-5141-8d44-b300fb2cee1b",
+      "brand": "BLU",
+      "model": "Life View",
+      "attributes": {
+        "os": "Android 4.2",
+        "release_date": "Apr 01, 2013",
+        "battery_capacity": 2600.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "display_size": 5.7,
+        "attr_display resolution": 1280,
+        "camera_main": 12.0,
+        "camera_front": 5
+      }
+    },
+    "3f8646c3-425d-53d0-8a9a-b9f0f3103797": {
+      "id": "3f8646c3-425d-53d0-8a9a-b9f0f3103797",
+      "brand": "BLU",
+      "model": "Life X8",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Jul 01, 2015",
+        "battery_capacity": 2500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "6a233498-f8e3-5dc3-83ac-20f5eabefc97": {
+      "id": "6a233498-f8e3-5dc3-83ac-20f5eabefc97",
+      "brand": "BLU",
+      "model": "Life XL",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2820.0,
+        "chipset": "Qualcomm Snapdragon 410",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "0aed6c27-b6b1-5336-89d2-3dfd41c9f7ef": {
+      "id": "0aed6c27-b6b1-5336-89d2-3dfd41c9f7ef",
+      "brand": "BLU",
+      "model": "MAGIC",
+      "attributes": {
+        "os": "Android 2.2",
+        "battery_capacity": 1450.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "camera_main": 3.0
+      }
+    },
+    "eecfc692-df69-529d-b3d2-4d8c4e800a74": {
+      "id": "eecfc692-df69-529d-b3d2-4d8c4e800a74",
+      "brand": "BLU",
+      "model": "NEO XL",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2800.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 6.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "f4853756-817d-5610-95e5-a66efb5bc313": {
+      "id": "f4853756-817d-5610-95e5-a66efb5bc313",
+      "brand": "BLU",
+      "model": "Neo 3.5",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 1300.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDXC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 1.0
+      }
+    },
+    "c3e51755-6638-5c55-be94-b6f3de983186": {
+      "id": "c3e51755-6638-5c55-be94-b6f3de983186",
+      "brand": "BLU",
+      "model": "Neo 4.5",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 1800.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "687e195d-127d-51c3-a6ac-0d5a9ab89472": {
+      "id": "687e195d-127d-51c3-a6ac-0d5a9ab89472",
+      "brand": "BLU",
+      "model": "Neo Energy Mini",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "caf555f0-9d9d-5969-96e3-0d9316f3dcd2": {
+      "id": "caf555f0-9d9d-5969-96e3-0d9316f3dcd2",
+      "brand": "BLU",
+      "model": "Neo X",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "32947844-4797-576a-b4d6-7388e0a5b5d7": {
+      "id": "32947844-4797-576a-b4d6-7388e0a5b5d7",
+      "brand": "BLU",
+      "model": "Neo X LTE",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "cfe68d7e-d9b7-5a3c-9f83-b04a1d65daf5": {
+      "id": "cfe68d7e-d9b7-5a3c-9f83-b04a1d65daf5",
+      "brand": "BLU",
+      "model": "Neo X Mini",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 1700.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "ce04d491-b8f8-5958-a0b5-56f6af75faa3": {
+      "id": "ce04d491-b8f8-5958-a0b5-56f6af75faa3",
+      "brand": "BLU",
+      "model": "Neo X Plus",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "d89f98f7-6f43-5018-b57c-1fe2dfe110aa": {
+      "id": "d89f98f7-6f43-5018-b57c-1fe2dfe110aa",
+      "brand": "BLU",
+      "model": "Neo X2",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "024152a7-e593-5e9a-9dfc-72a17be1ee10": {
+      "id": "024152a7-e593-5e9a-9dfc-72a17be1ee10",
+      "brand": "BLU",
+      "model": "Pure View",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 1440,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "81ad1590-7618-557b-b124-1a6336236671": {
+      "id": "81ad1590-7618-557b-b124-1a6336236671",
+      "brand": "BLU",
+      "model": "Pure XL",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Sep 09, 2015",
+        "battery_capacity": 3500.0,
+        "chipset": "MediaTek Helio X10",
+        "attr_memory": 3.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 2560,
+        "camera_main": 24.0,
+        "camera_front": 8
+      }
+    },
+    "cd8f6f08-00a9-5484-8d2c-4afd0f17f596": {
+      "id": "cd8f6f08-00a9-5484-8d2c-4afd0f17f596",
+      "brand": "BLU",
+      "model": "Pure XR",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek Helio P10",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDHC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 16.0,
+        "camera_front": 8
+      }
+    },
+    "e7452d4c-623d-55e3-aff7-9239f0ad1422": {
+      "id": "e7452d4c-623d-55e3-aff7-9239f0ad1422",
+      "brand": "BLU",
+      "model": "Quattro 4.5",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1800.0,
+        "chipset": "Nvidia Tegra 3",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "13c94c09-7a57-5c6f-bc4a-a481b42f0db0": {
+      "id": "13c94c09-7a57-5c6f-bc4a-a481b42f0db0",
+      "brand": "BLU",
+      "model": "Quattro 4.5 HD",
+      "attributes": {
+        "os": "Android 4.0",
+        "release_date": "Feb 01, 2013",
+        "battery_capacity": 1800.0,
+        "chipset": "Nvidia Tegra 3",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "display_size": 4.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 1.3
+      }
+    },
+    "d22b2be9-342f-52e0-92f7-ab227783c01f": {
+      "id": "d22b2be9-342f-52e0-92f7-ab227783c01f",
+      "brand": "BLU",
+      "model": "Quattro 5.7 HD",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 2800.0,
+        "chipset": "Nvidia Tegra 3",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.7,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 1.3
+      }
+    },
+    "ad31280e-0ca5-5262-a801-1c383929fa3e": {
+      "id": "ad31280e-0ca5-5262-a801-1c383929fa3e",
+      "brand": "BLU",
+      "model": "R1 HD",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Jun 30, 2016",
+        "battery_capacity": 2500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "fb5b4d11-435c-5a2b-b265-522c334932e5": {
+      "id": "fb5b4d11-435c-5a2b-b265-522c334932e5",
+      "brand": "BLU",
+      "model": "R1 Plus",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 4000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "abcb1681-7f82-5082-b3cb-323bffdd8c0b": {
+      "id": "abcb1681-7f82-5082-b3cb-323bffdd8c0b",
+      "brand": "BLU",
+      "model": "R2",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.2,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 8
+      }
+    },
+    "e606e20c-9cd4-5707-bbbb-6f707776a0b3": {
+      "id": "e606e20c-9cd4-5707-bbbb-6f707776a0b3",
+      "brand": "BLU",
+      "model": "R2 LTE",
+      "attributes": {
+        "os": "Android ",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDHC",
+        "display_size": 5.2,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 13
+      }
+    },
+    "edf1f1a8-00b5-55ec-843c-430c157376e2": {
+      "id": "edf1f1a8-00b5-55ec-843c-430c157376e2",
+      "brand": "BLU",
+      "model": "R2 Plus",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "release_date": "Jan 22, 2018",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 13
+      }
+    },
+    "85452592-d570-5d69-807c-53aaa93c8814": {
+      "id": "85452592-d570-5d69-807c-53aaa93c8814",
+      "brand": "BLU",
+      "model": "S1",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 2800.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "abf0f385-69c0-594b-974e-56c127085219": {
+      "id": "abf0f385-69c0-594b-974e-56c127085219",
+      "brand": "BLU",
+      "model": "Selfie",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2300.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 4.7,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 13
+      }
+    },
+    "370c145d-97c2-59de-961f-64b9da488e94": {
+      "id": "370c145d-97c2-59de-961f-64b9da488e94",
+      "brand": "BLU",
+      "model": "Sport 4.5",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 2000.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "f5d67c27-cbdf-51e4-adc8-2cb5212f2de9": {
+      "id": "f5d67c27-cbdf-51e4-adc8-2cb5212f2de9",
+      "brand": "BLU",
+      "model": "Star 4.5",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Oct 01, 2014",
+        "battery_capacity": 1700.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "f177876d-a429-56c5-b2f2-c5ae6904cf0e": {
+      "id": "f177876d-a429-56c5-b2f2-c5ae6904cf0e",
+      "brand": "BLU",
+      "model": "Star 4.5 Design Edition",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 1700.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "ca7f8d20-012d-5451-b314-7c1b822552b5": {
+      "id": "ca7f8d20-012d-5451-b314-7c1b822552b5",
+      "brand": "BLU",
+      "model": "Studio 5.0",
+      "attributes": {
+        "os": "Android 4.1",
+        "release_date": "May 01, 2013",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "abfdc70b-c117-53f6-aca3-a8a0c597d392": {
+      "id": "abfdc70b-c117-53f6-aca3-a8a0c597d392",
+      "brand": "BLU",
+      "model": "Studio 5.0 C",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 1800.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "144b4179-60ea-5ec8-9bca-c433b574d32b": {
+      "id": "144b4179-60ea-5ec8-9bca-c433b574d32b",
+      "brand": "BLU",
+      "model": "Studio 5.0 C HD",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "ed4ec78b-ebd7-5745-94ce-02f8a5777b83": {
+      "id": "ed4ec78b-ebd7-5745-94ce-02f8a5777b83",
+      "brand": "BLU",
+      "model": "Studio 5.0 CE",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 1800.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "71f9ad5b-fae7-578d-bdf4-5b69c248f4fb": {
+      "id": "71f9ad5b-fae7-578d-bdf4-5b69c248f4fb",
+      "brand": "BLU",
+      "model": "Studio 5.0 HD LTE",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 2200.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "6fff63bd-9c54-5ef6-91cf-27389e533b3c": {
+      "id": "6fff63bd-9c54-5ef6-91cf-27389e533b3c",
+      "brand": "BLU",
+      "model": "Studio 5.0 K",
+      "attributes": {
+        "os": "Android 4.4",
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 3.0
+      }
+    },
+    "cbf18a20-12c5-5f66-8381-a57ab277d12d": {
+      "id": "cbf18a20-12c5-5f66-8381-a57ab277d12d",
+      "brand": "BLU",
+      "model": "Studio 5.0 LTE",
+      "attributes": {
+        "os": "Android 4.3",
+        "battery_capacity": 2000.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 1.6
+      }
+    },
+    "79fc0c53-6097-50ed-841f-7914d3bdac4d": {
+      "id": "79fc0c53-6097-50ed-841f-7914d3bdac4d",
+      "brand": "BLU",
+      "model": "Studio 5.0 S II",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 1.6
+      }
+    },
+    "8a4cac0d-4df9-5347-85d6-46b888170a7e": {
+      "id": "8a4cac0d-4df9-5347-85d6-46b888170a7e",
+      "brand": "BLU",
+      "model": "Studio 5.0II",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 2000.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "7c2502c4-da12-5e49-bfdd-953c5c19a852": {
+      "id": "7c2502c4-da12-5e49-bfdd-953c5c19a852",
+      "brand": "BLU",
+      "model": "Studio 5.0S",
+      "attributes": {
+        "os": "Android 4.1.2",
+        "battery_capacity": 2000.0,
+        "chipset": "Qualcomm Snapdragon",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "4bb41760-7b71-522d-9159-16242ac2ad70": {
+      "id": "4bb41760-7b71-522d-9159-16242ac2ad70",
+      "brand": "BLU",
+      "model": "Studio 5.3S",
+      "attributes": {
+        "os": "Android 4.1",
+        "battery_capacity": 2800.0,
+        "chipset": "Qualcomm Snapdragon",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.3,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "5407789e-6d7d-50a2-aab8-b5f671b18840": {
+      "id": "5407789e-6d7d-50a2-aab8-b5f671b18840",
+      "brand": "BLU",
+      "model": "Studio 5.5",
+      "attributes": {
+        "os": "Android 4.2",
+        "release_date": "Oct 01, 2013",
+        "battery_capacity": 2250.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "display_size": 5.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "bffc9a0f-908a-5efa-b30d-907ebb5f9408": {
+      "id": "bffc9a0f-908a-5efa-b30d-907ebb5f9408",
+      "brand": "BLU",
+      "model": "Studio 5.5 HD",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "d2ab2960-aada-52d7-9fdd-9b76314ebb41": {
+      "id": "d2ab2960-aada-52d7-9fdd-9b76314ebb41",
+      "brand": "BLU",
+      "model": "Studio 5.5 K",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Jan 01, 2015",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 854,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "50c19f19-af79-589a-be34-fc1fb9614d59": {
+      "id": "50c19f19-af79-589a-be34-fc1fb9614d59",
+      "brand": "BLU",
+      "model": "Studio 5.5 S",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 2350.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "ba348377-6b3f-50df-a9d2-3211d4c1c4c6": {
+      "id": "ba348377-6b3f-50df-a9d2-3211d4c1c4c6",
+      "brand": "BLU",
+      "model": "Studio 5.5C",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "release_date": "May 01, 2015",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "deee69ae-d4d7-5009-930e-bb93935fe30b": {
+      "id": "deee69ae-d4d7-5009-930e-bb93935fe30b",
+      "brand": "BLU",
+      "model": "Studio 6.0 HD",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Apr 01, 2014",
+        "battery_capacity": 3000.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "0d508353-9be3-5f68-b096-718a8bf81500": {
+      "id": "0d508353-9be3-5f68-b096-718a8bf81500",
+      "brand": "BLU",
+      "model": "Studio 6.0 LTE",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 3200.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "6ef7ba54-839c-56da-b794-093c131ead0d": {
+      "id": "6ef7ba54-839c-56da-b794-093c131ead0d",
+      "brand": "BLU",
+      "model": "Studio 7.0",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "Nov 01, 2014",
+        "battery_capacity": 3000.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 7.0,
+        "attr_display resolution": 1024,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "b0854eb7-f8c2-5c99-8e39-3a5d0731a532": {
+      "id": "b0854eb7-f8c2-5c99-8e39-3a5d0731a532",
+      "brand": "BLU",
+      "model": "Studio 7.0 II",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "release_date": "Aug 01, 2015",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 7.0,
+        "attr_display resolution": 1024,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "2f080cb0-30ee-5a26-9cb8-41446f570e0a": {
+      "id": "2f080cb0-30ee-5a26-9cb8-41446f570e0a",
+      "brand": "BLU",
+      "model": "Studio 7.0 LTE",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Oct 29, 2015",
+        "battery_capacity": 3700.0,
+        "chipset": "Qualcomm Snapdragon 410",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 7.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "114e83cc-f36c-513d-9166-31ec102f8aa0": {
+      "id": "114e83cc-f36c-513d-9166-31ec102f8aa0",
+      "brand": "BLU",
+      "model": "Studio C",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "release_date": "May 01, 2015",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "bd2fbe7e-84a4-5e7a-b0e5-b595c0e9729d": {
+      "id": "bd2fbe7e-84a4-5e7a-b0e5-b595c0e9729d",
+      "brand": "BLU",
+      "model": "Studio C 5+5",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "release_date": "Jul 01, 2015",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "e0d2953b-dabf-51d6-8858-14de8a50ecae": {
+      "id": "e0d2953b-dabf-51d6-8858-14de8a50ecae",
+      "brand": "BLU",
+      "model": "Studio C 5+5 LTE",
+      "attributes": {
+        "os": "Android ",
+        "release_date": "Aug 01, 2015",
+        "battery_capacity": 2000.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "65d33d59-fe37-58db-8660-996937fa59a0": {
+      "id": "65d33d59-fe37-58db-8660-996937fa59a0",
+      "brand": "BLU",
+      "model": "Studio C 8+8 LTE",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 8
+      }
+    },
+    "5214fe4c-5069-510c-804a-5368f037a166": {
+      "id": "5214fe4c-5069-510c-804a-5368f037a166",
+      "brand": "BLU",
+      "model": "Studio C HD",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Jan 01, 2016",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "fe4ed338-bd1c-5f55-9b27-ec1797f6f8be": {
+      "id": "fe4ed338-bd1c-5f55-9b27-ec1797f6f8be",
+      "brand": "BLU",
+      "model": "Studio C Super Camera",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "release_date": "Aug 01, 2015",
+        "battery_capacity": 2800.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "e56b3b59-3154-5b28-8ad2-46d3bb269b6a": {
+      "id": "e56b3b59-3154-5b28-8ad2-46d3bb269b6a",
+      "brand": "BLU",
+      "model": "Studio C mini",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.7,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "35a70879-cdd4-5155-8fcf-423f19dacff1": {
+      "id": "35a70879-cdd4-5155-8fcf-423f19dacff1",
+      "brand": "BLU",
+      "model": "Studio Energy",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "Jan 01, 2015",
+        "battery_capacity": 5000.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "e0600342-d62b-5585-b1ad-03f399f113c2": {
+      "id": "e0600342-d62b-5585-b1ad-03f399f113c2",
+      "brand": "BLU",
+      "model": "Studio Energy 2",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "battery_capacity": 5000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.5,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "cd983f99-0574-536e-8046-edc03c579eaa": {
+      "id": "cd983f99-0574-536e-8046-edc03c579eaa",
+      "brand": "BLU",
+      "model": "Studio G",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "Jan 12, 2015",
+        "battery_capacity": 2000.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "c6989b91-2d43-55c5-8dab-bc204a9a07bf": {
+      "id": "c6989b91-2d43-55c5-8dab-bc204a9a07bf",
+      "brand": "BLU",
+      "model": "Studio G HD",
+      "attributes": {
+        "os": "Android ",
+        "battery_capacity": 2200.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "ada6f87d-6758-5629-a94b-5e3ec7f942cc": {
+      "id": "ada6f87d-6758-5629-a94b-5e3ec7f942cc",
+      "brand": "BLU",
+      "model": "Studio G HD LTE",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2200.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "3a8beb4d-5255-527b-a7f5-e840190ccc81": {
+      "id": "3a8beb4d-5255-527b-a7f5-e840190ccc81",
+      "brand": "BLU",
+      "model": "Studio G LTE",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2500.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "13cfab8d-87eb-559a-99f8-2c4aebc02583": {
+      "id": "13cfab8d-87eb-559a-99f8-2c4aebc02583",
+      "brand": "BLU",
+      "model": "Studio G Max",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2300.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.2,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 8
+      }
+    },
+    "89399ead-90ee-5cc3-b4fc-c05ac41e77df": {
+      "id": "89399ead-90ee-5cc3-b4fc-c05ac41e77df",
+      "brand": "BLU",
+      "model": "Studio G Mini",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 1700.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "d6d3816c-d21a-572d-ab4d-b4ca6b00d51e": {
+      "id": "d6d3816c-d21a-572d-ab4d-b4ca6b00d51e",
+      "brand": "BLU",
+      "model": "Studio G Plus",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2800.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "1198d86c-86a6-53a5-842e-49bb3d733ace": {
+      "id": "1198d86c-86a6-53a5-842e-49bb3d733ace",
+      "brand": "BLU",
+      "model": "Studio G Plus HD",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "bad0437e-a56f-5577-aa01-e57279624dab": {
+      "id": "bad0437e-a56f-5577-aa01-e57279624dab",
+      "brand": "BLU",
+      "model": "Studio G2",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2200.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "bee4a23f-3178-5595-8f03-94ecb61fbb8c": {
+      "id": "bee4a23f-3178-5595-8f03-94ecb61fbb8c",
+      "brand": "BLU",
+      "model": "Studio G2 HD",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "9f00676c-9f83-56c3-844e-b8855c05566b": {
+      "id": "9f00676c-9f83-56c3-844e-b8855c05566b",
+      "brand": "BLU",
+      "model": "Studio G3",
+      "attributes": {
+        "os": "Android ",
+        "battery_capacity": 2050.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "9af04d3c-45ca-5a49-8ff0-daf43907b7ce": {
+      "id": "9af04d3c-45ca-5a49-8ff0-daf43907b7ce",
+      "brand": "BLU",
+      "model": "Studio G4",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.2,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "d5059cb1-1b50-5e5c-a03d-45d6a8e30ef1": {
+      "id": "d5059cb1-1b50-5e5c-a03d-45d6a8e30ef1",
+      "brand": "BLU",
+      "model": "Studio J1",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 1350.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "f735825d-bbf6-576b-8ac4-6222ccab1bf7": {
+      "id": "f735825d-bbf6-576b-8ac4-6222ccab1bf7",
+      "brand": "BLU",
+      "model": "Studio J2",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "08b981c6-c699-52c5-b7a2-e9d86ec53466": {
+      "id": "08b981c6-c699-52c5-b7a2-e9d86ec53466",
+      "brand": "BLU",
+      "model": "Studio J5",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2300.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "8a388b71-a092-5a50-8899-9093a9c42eb2": {
+      "id": "8a388b71-a092-5a50-8899-9093a9c42eb2",
+      "brand": "BLU",
+      "model": "Studio J8",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 2500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "096bbbcd-aff8-595f-96be-d050e0ae6d7a": {
+      "id": "096bbbcd-aff8-595f-96be-d050e0ae6d7a",
+      "brand": "BLU",
+      "model": "Studio J8 LTE",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 2500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "cf0f8616-fba6-500a-a6f3-b42046b816f4": {
+      "id": "cf0f8616-fba6-500a-a6f3-b42046b816f4",
+      "brand": "BLU",
+      "model": "Studio J8M LTE",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "2ab5a83d-7e33-5f51-af82-3c2dba346fc7": {
+      "id": "2ab5a83d-7e33-5f51-af82-3c2dba346fc7",
+      "brand": "BLU",
+      "model": "Studio M HD",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "194f1ced-c40f-58a3-8e4b-0f065a70e355": {
+      "id": "194f1ced-c40f-58a3-8e4b-0f065a70e355",
+      "brand": "BLU",
+      "model": "Studio M LTE",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2300.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "133fe292-bd90-5a9b-b089-c84294ea5cf2": {
+      "id": "133fe292-bd90-5a9b-b089-c84294ea5cf2",
+      "brand": "BLU",
+      "model": "Studio Max",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 4000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "cb65f58d-6948-548b-97f5-1216a79a214f": {
+      "id": "cb65f58d-6948-548b-97f5-1216a79a214f",
+      "brand": "BLU",
+      "model": "Studio Mega",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 2500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "22cfe8e2-6ca9-5e15-be32-8735b1215e0d": {
+      "id": "22cfe8e2-6ca9-5e15-be32-8735b1215e0d",
+      "brand": "BLU",
+      "model": "Studio Mega 2018",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "battery_capacity": 2600.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1440,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "399b20f3-2cda-53ea-b041-576aba125f67": {
+      "id": "399b20f3-2cda-53ea-b041-576aba125f67",
+      "brand": "BLU",
+      "model": "Studio One",
+      "attributes": {
+        "os": "Android ",
+        "battery_capacity": 2450.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "7eef7c10-8e30-530d-805d-37bf9595c274": {
+      "id": "7eef7c10-8e30-530d-805d-37bf9595c274",
+      "brand": "BLU",
+      "model": "Studio One Plus",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 3200.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "aeefb1f6-5ba0-5d09-af13-fffe0002dc84": {
+      "id": "aeefb1f6-5ba0-5d09-af13-fffe0002dc84",
+      "brand": "BLU",
+      "model": "Studio Pro",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "4e9e689a-feda-5560-84b1-7c91e51a43e4": {
+      "id": "4e9e689a-feda-5560-84b1-7c91e51a43e4",
+      "brand": "BLU",
+      "model": "Studio Selfie",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSD",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "2cd66e21-ebc0-566d-bb7d-f18919630eb2": {
+      "id": "2cd66e21-ebc0-566d-bb7d-f18919630eb2",
+      "brand": "BLU",
+      "model": "Studio Selfie 2",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "bccaf1ff-db1b-579d-91a4-14052350375a": {
+      "id": "bccaf1ff-db1b-579d-91a4-14052350375a",
+      "brand": "BLU",
+      "model": "Studio Selfie 3",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2200.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 8
+      }
+    },
+    "8d84edac-f3bd-5b7c-a72f-b66f9c81909a": {
+      "id": "8d84edac-f3bd-5b7c-a72f-b66f9c81909a",
+      "brand": "BLU",
+      "model": "Studio Selfie LTE",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2000.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "237cd79b-9040-5e24-b147-c18321836fb6": {
+      "id": "237cd79b-9040-5e24-b147-c18321836fb6",
+      "brand": "BLU",
+      "model": "Studio Touch",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "597e928a-8930-52d4-b82a-b1a9ba01d4e5": {
+      "id": "597e928a-8930-52d4-b82a-b1a9ba01d4e5",
+      "brand": "BLU",
+      "model": "Studio View",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 2850.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "4f9eb61e-c3de-5c48-a93d-654421814c0e": {
+      "id": "4f9eb61e-c3de-5c48-a93d-654421814c0e",
+      "brand": "BLU",
+      "model": "Studio View XL",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 720,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "fdc02f3b-8da5-5dc9-bc12-4987dcde7128": {
+      "id": "fdc02f3b-8da5-5dc9-bc12-4987dcde7128",
+      "brand": "BLU",
+      "model": "Studio X",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 2100.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "5b4f789a-998b-5946-b855-c236e6155158": {
+      "id": "5b4f789a-998b-5946-b855-c236e6155158",
+      "brand": "BLU",
+      "model": "Studio X Mini",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 1800.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "5bf34629-9019-5733-866f-7f782eb55c16": {
+      "id": "5bf34629-9019-5733-866f-7f782eb55c16",
+      "brand": "BLU",
+      "model": "Studio X Plus",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 2600.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "ab7f0a6d-8a27-54dc-93b8-ff29ba2153a1": {
+      "id": "ab7f0a6d-8a27-54dc-93b8-ff29ba2153a1",
+      "brand": "BLU",
+      "model": "Studio X5",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2300.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0
+      }
+    },
+    "da9b7322-cf61-50b4-a94b-1b63b77ef04a": {
+      "id": "da9b7322-cf61-50b4-a94b-1b63b77ef04a",
+      "brand": "BLU",
+      "model": "Studio X6",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2800.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "c4a7be05-29c8-5a27-844e-fcea6c065dcc": {
+      "id": "c4a7be05-29c8-5a27-844e-fcea6c065dcc",
+      "brand": "BLU",
+      "model": "Studio X8 HD",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2200.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "8fa05309-b9a1-541d-95be-39e8d7c29653": {
+      "id": "8fa05309-b9a1-541d-95be-39e8d7c29653",
+      "brand": "BLU",
+      "model": "Studio X8 HD 2019",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "release_date": "February 2019",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "8a11d47b-571e-52e5-b4e2-a755d55fab88": {
+      "id": "8a11d47b-571e-52e5-b4e2-a755d55fab88",
+      "brand": "BLU",
+      "model": "Studio XL",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "release_date": "Aug 01, 2015",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 6.0,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "aff30dcf-7ed2-5c5f-a141-0f241b71360c": {
+      "id": "aff30dcf-7ed2-5c5f-a141-0f241b71360c",
+      "brand": "BLU",
+      "model": "Studio XL 2",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Nov 25, 2016",
+        "battery_capacity": 4900.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "7b1add13-141c-5d4f-9186-bb5d9bcc726b": {
+      "id": "7b1add13-141c-5d4f-9186-bb5d9bcc726b",
+      "brand": "BLU",
+      "model": "Studio XL LTE",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 3000.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "c8dff830-6fcb-54f0-abef-d8fa852d90af": {
+      "id": "c8dff830-6fcb-54f0-abef-d8fa852d90af",
+      "brand": "BLU",
+      "model": "Studio mini LTE",
+      "attributes": {
+        "os": "Android 4.3",
+        "release_date": "Nov 01, 2014",
+        "battery_capacity": 1850.0,
+        "chipset": "Qualcomm Snapdragon 410",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "e334ebd6-6611-51dc-91b7-3c81ed73445f": {
+      "id": "e334ebd6-6611-51dc-91b7-3c81ed73445f",
+      "brand": "BLU",
+      "model": "Tango",
+      "attributes": {
+        "os": "Android 2.2",
+        "battery_capacity": 1000.0,
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "camera_main": 3.0
+      }
+    },
+    "64131751-da2e-5834-affd-dde6655d311d": {
+      "id": "64131751-da2e-5834-affd-dde6655d311d",
+      "brand": "BLU",
+      "model": "Tank 4.5",
+      "attributes": {
+        "os": "Android 4.1",
+        "battery_capacity": 1760.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "7cda1a6f-8215-52f7-936b-d42283b055e5": {
+      "id": "7cda1a6f-8215-52f7-936b-d42283b055e5",
+      "brand": "BLU",
+      "model": "Tank Xtreme 4.0",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2800.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0,
+        "camera_front": 2.2
+      }
+    },
+    "d0d4f73a-a80c-5678-bdfa-2223524e15c2": {
+      "id": "d0d4f73a-a80c-5678-bdfa-2223524e15c2",
+      "brand": "BLU",
+      "model": "Tank Xtreme 5.0",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "c8704223-2f0c-557f-9312-846a29a86550": {
+      "id": "c8704223-2f0c-557f-9312-846a29a86550",
+      "brand": "BLU",
+      "model": "Tank Xtreme Pro",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 4300.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "f06d73ba-ee23-59fb-a3b4-069fd0943a68": {
+      "id": "f06d73ba-ee23-59fb-a3b4-069fd0943a68",
+      "brand": "BLU",
+      "model": "Touchbook M7",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2800.0,
+        "chipset": "Intel",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 7.0,
+        "attr_display resolution": 1024,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "33e980a7-1902-5c39-b5a5-6d2c1742a203": {
+      "id": "33e980a7-1902-5c39-b5a5-6d2c1742a203",
+      "brand": "BLU",
+      "model": "VIVO 4.3",
+      "attributes": {
+        "os": "Android 4.0",
+        "release_date": "Sep 01, 2012",
+        "battery_capacity": 1600.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 800,
+        "camera_main": 8.0,
+        "camera_front": 1.3
+      }
+    },
+    "12d8171e-da79-53c5-95e0-82a69fa0be75": {
+      "id": "12d8171e-da79-53c5-95e0-82a69fa0be75",
+      "brand": "BLU",
+      "model": "VIVO GO",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "Dec 14, 2018",
+        "battery_capacity": 2600.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1440,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "5be30e70-0722-5a63-8f14-596040bc9b5e": {
+      "id": "5be30e70-0722-5a63-8f14-596040bc9b5e",
+      "brand": "BLU",
+      "model": "VIVO ONE",
+      "attributes": {
+        "os": "Android 7.1 Nougat",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.5,
+        "attr_display resolution": 720,
+        "camera_main": 12.0,
+        "camera_front": 8
+      }
+    },
+    "cc9aea6a-ede8-5831-94ed-fdde54d14f96": {
+      "id": "cc9aea6a-ede8-5831-94ed-fdde54d14f96",
+      "brand": "BLU",
+      "model": "VIVO XI",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "release_date": "Oct 07, 2018",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek Helio P22",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.9,
+        "attr_display resolution": 1520,
+        "camera_main": 16.0,
+        "camera_front": 16
+      }
+    },
+    "ddbc52e1-adb9-5cb5-9da9-6f7a37a7f42c": {
+      "id": "ddbc52e1-adb9-5cb5-9da9-6f7a37a7f42c",
+      "brand": "BLU",
+      "model": "VIVO XI+",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "release_date": "Aug 28, 2018",
+        "battery_capacity": 3050.0,
+        "chipset": "MediaTek Helio P60",
+        "attr_memory": 6.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.2,
+        "attr_display resolution": 2246,
+        "camera_main": 16.0,
+        "camera_front": 16
+      }
+    },
+    "6b836eff-e0a3-54b6-9d41-f9c7c90befa6": {
+      "id": "6b836eff-e0a3-54b6-9d41-f9c7c90befa6",
+      "brand": "BLU",
+      "model": "VIVO XL4",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "release_date": "Dec 06, 2018",
+        "battery_capacity": 4000.0,
+        "chipset": "MediaTek Helio P22",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 6.2,
+        "attr_display resolution": 1520,
+        "camera_main": 13.0,
+        "camera_front": 13
+      }
+    },
+    "41a7e9f0-52d5-5ead-83b4-987fc4011a92": {
+      "id": "41a7e9f0-52d5-5ead-83b4-987fc4011a92",
+      "brand": "BLU",
+      "model": "Vivo 4.8 HD",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 2000.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "display_size": 4.8,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "1355041d-7b7b-5727-b0a6-c7cd2b33efda": {
+      "id": "1355041d-7b7b-5727-b0a6-c7cd2b33efda",
+      "brand": "BLU",
+      "model": "Vivo 5",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 3150.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "8751524e-5883-50b5-91c5-8afd1d9c4068": {
+      "id": "8751524e-5883-50b5-91c5-8afd1d9c4068",
+      "brand": "BLU",
+      "model": "Vivo 5 Mini",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 1500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 3.2
+      }
+    },
+    "f9dbb7a2-c366-584f-bebd-c1201a647e1e": {
+      "id": "f9dbb7a2-c366-584f-bebd-c1201a647e1e",
+      "brand": "BLU",
+      "model": "Vivo 5R",
+      "attributes": {
+        "os": "Android ",
+        "battery_capacity": 3150.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDHC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "124f8253-00b1-5f61-9483-7cc18583a9df": {
+      "id": "124f8253-00b1-5f61-9483-7cc18583a9df",
+      "brand": "BLU",
+      "model": "Vivo 6",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 3130.0,
+        "chipset": "MediaTek Helio P10",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDHC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "2bd8e533-1f71-5f14-b63e-56c83960e89f": {
+      "id": "2bd8e533-1f71-5f14-b63e-56c83960e89f",
+      "brand": "BLU",
+      "model": "Vivo 8",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "release_date": "Aug 30, 2017",
+        "battery_capacity": 4010.0,
+        "chipset": "MediaTek Helio P10",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDHC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 16
+      }
+    },
+    "69babb4a-6e14-5ac0-9169-96537fb908b7": {
+      "id": "69babb4a-6e14-5ac0-9169-96537fb908b7",
+      "brand": "BLU",
+      "model": "Vivo 8L",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "release_date": "Oct 24, 2017",
+        "battery_capacity": 4000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDHC",
+        "display_size": 5.3,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 20
+      }
+    },
+    "5b2ebc6e-2398-5315-866a-61bfbc78c523": {
+      "id": "5b2ebc6e-2398-5315-866a-61bfbc78c523",
+      "brand": "BLU",
+      "model": "Vivo Air",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "Jan 01, 2015",
+        "battery_capacity": 2100.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "display_size": 4.8,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "2c70344f-2719-5009-b8fc-d41de8935330": {
+      "id": "2c70344f-2719-5009-b8fc-d41de8935330",
+      "brand": "BLU",
+      "model": "Vivo Air LTE",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "release_date": "Sep 22, 2015",
+        "battery_capacity": 2050.0,
+        "chipset": "Qualcomm Snapdragon 410",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "display_size": 4.8,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "12b1f916-56bb-51fa-9801-6908c1511f5c": {
+      "id": "12b1f916-56bb-51fa-9801-6908c1511f5c",
+      "brand": "BLU",
+      "model": "Vivo IV",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 2300.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "ab72f38d-269a-575c-bc9c-7cd95f331ac9": {
+      "id": "ab72f38d-269a-575c-bc9c-7cd95f331ac9",
+      "brand": "BLU",
+      "model": "Vivo One Plus",
+      "attributes": {
+        "os": "Android 7.1 Nougat",
+        "battery_capacity": 4000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1440,
+        "camera_main": 13.0,
+        "camera_front": 13
+      }
+    },
+    "f03583cd-cb3e-5370-8a54-c703c53d30d3": {
+      "id": "f03583cd-cb3e-5370-8a54-c703c53d30d3",
+      "brand": "BLU",
+      "model": "Vivo One Plus 2019",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek MT6739",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 6.2,
+        "attr_display resolution": 1520,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "a12bf1f0-9d68-5662-8c42-cc7c0aba83b5": {
+      "id": "a12bf1f0-9d68-5662-8c42-cc7c0aba83b5",
+      "brand": "BLU",
+      "model": "Vivo Selfie",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "release_date": "Jul 01, 2015",
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.8,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 8
+      }
+    },
+    "b9ad95f4-52be-5532-bc63-14dfa65c8e9d": {
+      "id": "b9ad95f4-52be-5532-bc63-14dfa65c8e9d",
+      "brand": "BLU",
+      "model": "Vivo X",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "release_date": "Feb 21, 2018",
+        "battery_capacity": 4010.0,
+        "chipset": "MediaTek Helio P25",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1440,
+        "camera_main": 13.0,
+        "camera_front": 20
+      }
+    },
+    "5bd4f002-42c5-51ac-8615-8fc476079ecc": {
+      "id": "5bd4f002-42c5-51ac-8615-8fc476079ecc",
+      "brand": "BLU",
+      "model": "Vivo XL",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 3150.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "09e8455f-5e3f-5032-b1e6-b8397241be8c": {
+      "id": "09e8455f-5e3f-5032-b1e6-b8397241be8c",
+      "brand": "BLU",
+      "model": "Vivo XL2",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 3150.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDHC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "9a24b1aa-dad4-52a2-a873-853d66c01620": {
+      "id": "9a24b1aa-dad4-52a2-a873-853d66c01620",
+      "brand": "BLU",
+      "model": "Vivo XL3",
+      "attributes": {
+        "os": "Android 8.0 Oreo",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDHC",
+        "display_size": 5.5,
+        "attr_display resolution": 1440,
+        "camera_main": 13.0,
+        "camera_front": 13
+      }
+    },
+    "32572078-8959-5f3a-93cb-b6efa0a8e5d0": {
+      "id": "32572078-8959-5f3a-93cb-b6efa0a8e5d0",
+      "brand": "BLU",
+      "model": "Vivo XL3 Plus",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 425",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDHC",
+        "display_size": 6.0,
+        "attr_display resolution": 1440,
+        "camera_main": 13.0,
+        "camera_front": 16
+      }
+    },
+    "8c079316-34ef-574c-b333-f7c2deba86e1": {
+      "id": "8c079316-34ef-574c-b333-f7c2deba86e1",
+      "brand": "BLU",
+      "model": "Win HD",
+      "attributes": {
+        "os": "Windows Phone 8.1",
+        "battery_capacity": 2200.0,
+        "chipset": "Qualcomm Snapdragon 200",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "89fd1c0d-b9c7-5c7a-8b97-141ff81b0825": {
+      "id": "89fd1c0d-b9c7-5c7a-8b97-141ff81b0825",
+      "brand": "BLU",
+      "model": "Win HD LTE",
+      "attributes": {
+        "os": "Windows Phone 8.1",
+        "release_date": "Apr 27, 2015",
+        "battery_capacity": 2500.0,
+        "chipset": "Qualcomm Snapdragon 410",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "9f8c5e5a-dabd-5470-856f-7768c555278e": {
+      "id": "9f8c5e5a-dabd-5470-856f-7768c555278e",
+      "brand": "BLU",
+      "model": "Win JR LTE",
+      "attributes": {
+        "os": "Windows Phone 8.1",
+        "release_date": "Apr 27, 2015",
+        "battery_capacity": 2000.0,
+        "chipset": "Qualcomm Snapdragon 410",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "3d4ec908-95fc-5b11-8c65-0efa606fca1d": {
+      "id": "3d4ec908-95fc-5b11-8c65-0efa606fca1d",
+      "brand": "BLU",
+      "model": "Win Jr",
+      "attributes": {
+        "os": "Windows Phone 8.1",
+        "battery_capacity": 1950.0,
+        "chipset": "Qualcomm Snapdragon 200",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    }
+  }
+}

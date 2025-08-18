@@ -1,0 +1,30 @@
+{
+  "brand": "Kogan",
+  "phones": {
+    "d8ada410-f18f-51a7-b4f8-b2f2705ad582": {
+      "id": "d8ada410-f18f-51a7-b4f8-b2f2705ad582",
+      "brand": "Kogan",
+      "model": "Agora",
+      "attributes": {
+        "os": "Android ",
+        "battery_capacity": 1300.0,
+        "storage": " microSD",
+        "display_size": 2.5,
+        "attr_display resolution": 240
+      }
+    },
+    "aeee4564-17da-59df-90d6-86130b8f83c5": {
+      "id": "aeee4564-17da-59df-90d6-86130b8f83c5",
+      "brand": "Kogan",
+      "model": "Agora Pro",
+      "attributes": {
+        "os": "Android ",
+        "battery_capacity": 1300.0,
+        "storage": " microSD",
+        "display_size": 2.5,
+        "attr_display resolution": 240,
+        "camera_main": 2.0
+      }
+    }
+  }
+}

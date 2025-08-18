@@ -1,0 +1,49 @@
+{
+  "brand": "Eunity",
+  "phones": {
+    "b35ab1d1-4800-54ea-83ec-6a203202c61f": {
+      "id": "b35ab1d1-4800-54ea-83ec-6a203202c61f",
+      "brand": "Eunity",
+      "model": "U1 5605N",
+      "attributes": {
+        "price": "₹699",
+        "sim": "Dual Sim",
+        "chipset": "No 3G",
+        "ram": "Dual Core, 500 MHz Processor",
+        "battery_capacity": 32,
+        "display_size": 3000,
+        "camera_main": 1.8,
+        "attr_card": 0.3,
+        "os": "Memory Card Supported, upto 16 GB"
+      }
+    },
+    "ebea6b8e-b187-5e3f-aa17-623d6355bd32": {
+      "id": "ebea6b8e-b187-5e3f-aa17-623d6355bd32",
+      "brand": "Eunity",
+      "model": "U1 King",
+      "attributes": {
+        "price": "₹599",
+        "sim": "Dual Sim",
+        "chipset": 1.77,
+        "ram": 32,
+        "battery_capacity": 1000,
+        "display_size": 1.8,
+        "camera_main": 0.3
+      }
+    },
+    "e1a4959d-9e25-5a74-a0d7-fe64b19bc0b5": {
+      "id": "e1a4959d-9e25-5a74-a0d7-fe64b19bc0b5",
+      "brand": "Eunity",
+      "model": "U1 Livo",
+      "attributes": {
+        "price": "₹649",
+        "sim": "Dual Sim",
+        "chipset": 1.77,
+        "ram": 16,
+        "battery_capacity": 1000,
+        "display_size": 1.8,
+        "camera_main": 0.3
+      }
+    }
+  }
+}

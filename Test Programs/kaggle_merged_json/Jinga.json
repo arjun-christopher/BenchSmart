@@ -1,0 +1,19 @@
+{
+  "brand": "Jinga",
+  "phones": {
+    "1680600f-bb7d-5b42-b554-d41ca9fe41c9": {
+      "id": "1680600f-bb7d-5b42-b554-d41ca9fe41c9",
+      "brand": "Jinga",
+      "model": "Simple F200n Black",
+      "attributes": {
+        "attr_unnamed 0": 904,
+        "attr_popularity": 292,
+        "attr_sellers amount": 1,
+        "display_size": 1.77,
+        "attr_memory size": 0.032,
+        "attr_battery size": 600.0,
+        "release_date": 2
+      }
+    }
+  }
+}

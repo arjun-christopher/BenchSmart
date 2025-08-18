@@ -1,0 +1,21 @@
+{
+  "brand": "Amazon",
+  "phones": {
+    "5615e9da-79a2-52ea-a372-1e73d328f675": {
+      "id": "5615e9da-79a2-52ea-a372-1e73d328f675",
+      "brand": "Amazon",
+      "model": "Fire Phone",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 2400.0,
+        "chipset": "Qualcomm Snapdragon 800",
+        "attr_memory": 2.0,
+        "attr_primary storage": 64.0,
+        "display_size": 4.7,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 2.1
+      }
+    }
+  }
+}

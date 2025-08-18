@@ -1,0 +1,52 @@
+{
+  "brand": "Assistant",
+  "phones": {
+    "efc1b347-b816-50c9-9c23-80ac87f05f01": {
+      "id": "efc1b347-b816-50c9-9c23-80ac87f05f01",
+      "brand": "Assistant",
+      "model": "AS-201 Dual Sim Blue",
+      "attributes": {
+        "attr_unnamed 0": 185,
+        "attr_popularity": 316,
+        "mrp": 263.0,
+        "attr_highest price": 330.0,
+        "attr_sellers amount": 11,
+        "display_size": 2.4,
+        "attr_memory size": 0.064,
+        "attr_battery size": 1500.0,
+        "release_date": 12
+      }
+    },
+    "930e44ee-8c99-5701-90b5-75f2fa2be869": {
+      "id": "930e44ee-8c99-5701-90b5-75f2fa2be869",
+      "brand": "Assistant",
+      "model": "AS-203 Dual Sim Black",
+      "attributes": {
+        "attr_unnamed 0": 186,
+        "attr_popularity": 377,
+        "mrp": 345.0,
+        "attr_highest price": 659.0,
+        "attr_sellers amount": 20,
+        "display_size": 2.2,
+        "attr_memory size": 0.032,
+        "attr_battery size": 1000.0,
+        "release_date": 10
+      }
+    },
+    "149d08e9-f3e8-50f3-9342-c6cd6fe15068": {
+      "id": "149d08e9-f3e8-50f3-9342-c6cd6fe15068",
+      "brand": "Assistant",
+      "model": "Shine AS-5435 Blue",
+      "attributes": {
+        "attr_unnamed 0": 903,
+        "os": "Android",
+        "attr_popularity": 60,
+        "attr_sellers amount": 1,
+        "display_size": 5.0,
+        "attr_memory size": 16.0,
+        "attr_battery size": 2000.0,
+        "release_date": 6
+      }
+    }
+  }
+}

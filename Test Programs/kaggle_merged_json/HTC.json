@@ -1,0 +1,4468 @@
+{
+  "brand": "HTC",
+  "phones": {
+    "597e3715-135e-5faf-850a-fbec11b5c821": {
+      "id": "597e3715-135e-5faf-850a-fbec11b5c821",
+      "brand": "HTC",
+      "model": "U11 4/64GB Black 99HAMB075-00",
+      "attributes": {
+        "attr_unnamed 0": 925,
+        "os": "Android",
+        "attr_popularity": 682,
+        "mrp": 5399.0,
+        "attr_highest price": 5899.0,
+        "attr_sellers amount": 2,
+        "display_size": 5.5,
+        "attr_memory size": 64.0,
+        "attr_battery size": 3000.0,
+        "release_date": 6
+      }
+    },
+    "4ad81166-6001-5d5d-b548-b9619335b1ed": {
+      "id": "4ad81166-6001-5d5d-b548-b9619335b1ed",
+      "brand": "HTC",
+      "model": "U11 4/64GB White",
+      "attributes": {
+        "attr_unnamed 0": 926,
+        "os": "Android",
+        "attr_popularity": 20,
+        "attr_sellers amount": 1,
+        "display_size": 5.5,
+        "attr_memory size": 64.0,
+        "attr_battery size": 3000.0,
+        "release_date": 6
+      }
+    },
+    "a68c8945-af71-55a3-9f7b-c45eb8a8ea1b": {
+      "id": "a68c8945-af71-55a3-9f7b-c45eb8a8ea1b",
+      "brand": "HTC",
+      "model": "U20 5G 8/256GB White",
+      "attributes": {
+        "attr_unnamed 0": 927,
+        "os": "Android",
+        "attr_popularity": 579,
+        "mrp": 18895.0,
+        "attr_highest price": 20999.0,
+        "attr_sellers amount": 10,
+        "display_size": 6.8,
+        "attr_memory size": 256.0,
+        "attr_battery size": 5000.0,
+        "release_date": 11
+      }
+    },
+    "c81e473c-0aaf-558a-8c86-ac3807b988af": {
+      "id": "c81e473c-0aaf-558a-8c86-ac3807b988af",
+      "brand": "htc",
+      "model": "htc u11 plus",
+      "attributes": {
+        "price": 56990,
+        "ram": 6.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 3930,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 12.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 6.0,
+        "display_type": "lcd display"
+      }
+    },
+    "bb7ef640-66f3-5675-8e10-c5d5b1726e78": {
+      "id": "bb7ef640-66f3-5675-8e10-c5d5b1726e78",
+      "brand": "htc",
+      "model": "htc desire 816",
+      "attributes": {
+        "price": 21090,
+        "ram": 1.5,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2600,
+        "charging": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "348098b6-ae97-5ffa-829c-a62e5461d553": {
+      "id": "348098b6-ae97-5ffa-829c-a62e5461d553",
+      "brand": "htc",
+      "model": "htc desire 820s dual sim",
+      "attributes": {
+        "price": 17541,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2600,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "tft display"
+      }
+    },
+    "0dded4fc-4a96-5baa-9fed-011484ffb494": {
+      "id": "0dded4fc-4a96-5baa-9fed-011484ffb494",
+      "brand": "htc",
+      "model": "htc desire 820",
+      "attributes": {
+        "price": 18950,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2600,
+        "charging": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "77d39f06-8958-58e8-adb3-c78873176625": {
+      "id": "77d39f06-8958-58e8-adb3-c78873176625",
+      "brand": "htc",
+      "model": "htc desire 626 dual sim",
+      "attributes": {
+        "price": 11810,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2000,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "defa082b-9232-568b-9f0d-718ebce6e64d": {
+      "id": "defa082b-9232-568b-9f0d-718ebce6e64d",
+      "brand": "htc",
+      "model": "htc one e9+",
+      "attributes": {
+        "price": 26498,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 2800,
+        "charging": "No",
+        "attr_has fingerprints": "No",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 20.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "tft display"
+      }
+    },
+    "932ad94c-c16d-5cb9-ad8e-1df7f459899f": {
+      "id": "932ad94c-c16d-5cb9-ad8e-1df7f459899f",
+      "brand": "htc",
+      "model": "htc u ultra",
+      "attributes": {
+        "price": 62990,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 12.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.7,
+        "display_type": "lcd display"
+      }
+    },
+    "747b0cc3-dab3-51b2-ab7a-af75ed3b49f2": {
+      "id": "747b0cc3-dab3-51b2-ab7a-af75ed3b49f2",
+      "brand": "htc",
+      "model": "htc wildfire x",
+      "attributes": {
+        "price": 12999,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 3300,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 12.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.22,
+        "display_type": "lcd display"
+      }
+    },
+    "2b31f9b8-9d70-5524-81bc-1de8fccda366": {
+      "id": "2b31f9b8-9d70-5524-81bc-1de8fccda366",
+      "brand": "htc",
+      "model": "htc desire 728 dual sim",
+      "attributes": {
+        "price": 7999,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2800,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "a516a73f-b3d6-571d-a286-b324338a3fd5": {
+      "id": "a516a73f-b3d6-571d-a286-b324338a3fd5",
+      "brand": "htc",
+      "model": "htc desire 626g plus",
+      "attributes": {
+        "price": 11961,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2000,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "6675509e-2395-5eea-b4ec-69d035037184": {
+      "id": "6675509e-2395-5eea-b4ec-69d035037184",
+      "brand": "htc",
+      "model": "htc desire 630",
+      "attributes": {
+        "price": 10599,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2200,
+        "charging": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "8aba88b0-712a-58b3-bc6c-0cb8f168e970": {
+      "id": "8aba88b0-712a-58b3-bc6c-0cb8f168e970",
+      "brand": "htc",
+      "model": "htc desire 210 dual sim",
+      "attributes": {
+        "price": 6299,
+        "ram": 0.5,
+        "os": "android",
+        "storage": 4.0,
+        "battery_capacity": 1300,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.0,
+        "display_type": "tft display"
+      }
+    },
+    "92ee1a94-e612-5ace-88d5-bd145d50935c": {
+      "id": "92ee1a94-e612-5ace-88d5-bd145d50935c",
+      "brand": "htc",
+      "model": "htc desire 616",
+      "attributes": {
+        "price": 11204,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 4.0,
+        "battery_capacity": 2000,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "a45f7693-7291-52e1-bdd2-4db38ef82b1a": {
+      "id": "a45f7693-7291-52e1-bdd2-4db38ef82b1a",
+      "brand": "htc",
+      "model": "htc desire 516",
+      "attributes": {
+        "price": 7499,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 4.0,
+        "battery_capacity": 1950,
+        "charging": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "other display"
+      }
+    },
+    "a80fffa0-06a2-5ee5-8cb6-d3da3f9f0c0f": {
+      "id": "a80fffa0-06a2-5ee5-8cb6-d3da3f9f0c0f",
+      "brand": "htc",
+      "model": "htc desire 816g",
+      "attributes": {
+        "price": 14999,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2600,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "bcac5641-cb9a-59e9-9538-0906017d1389": {
+      "id": "bcac5641-cb9a-59e9-9538-0906017d1389",
+      "brand": "htc",
+      "model": "htc desire eye",
+      "attributes": {
+        "price": 24291,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2400,
+        "charging": "No",
+        "attr_has fingerprints": "No",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.2,
+        "display_type": "lcd display"
+      }
+    },
+    "5a2bbf9c-3839-598c-b7cd-9eb1d58f5aa2": {
+      "id": "5a2bbf9c-3839-598c-b7cd-9eb1d58f5aa2",
+      "brand": "htc",
+      "model": "htc desire 526g plus 8gb",
+      "attributes": {
+        "price": 7739,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2000,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.7,
+        "display_type": "tft display"
+      }
+    },
+    "52835c96-1570-57ea-a630-eb0b1135916d": {
+      "id": "52835c96-1570-57ea-a630-eb0b1135916d",
+      "brand": "htc",
+      "model": "htc one m9 plus",
+      "attributes": {
+        "price": 36540,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 2840,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 20.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 5.2,
+        "display_type": "lcd display"
+      }
+    },
+    "ef3806e6-e6b1-5694-877e-22028e647a3e": {
+      "id": "ef3806e6-e6b1-5694-877e-22028e647a3e",
+      "brand": "htc",
+      "model": "htc desire 820g+ dual sim",
+      "attributes": {
+        "price": 14579,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2600,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "0ceccda4-8f68-5250-b767-ae1ac54fd2fc": {
+      "id": "0ceccda4-8f68-5250-b767-ae1ac54fd2fc",
+      "brand": "htc",
+      "model": "htc desire 828 dual sim",
+      "attributes": {
+        "price": 7999,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2800,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "7d56c40c-5d55-532f-8130-eeb5b0186d65": {
+      "id": "7d56c40c-5d55-532f-8130-eeb5b0186d65",
+      "brand": "htc",
+      "model": "htc 10",
+      "attributes": {
+        "price": 47990,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 12.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.2,
+        "display_type": "lcd display"
+      }
+    },
+    "f703579f-f3fa-519c-aa94-289dc115576b": {
+      "id": "f703579f-f3fa-519c-aa94-289dc115576b",
+      "brand": "htc",
+      "model": "htc desire 628 dual sim",
+      "attributes": {
+        "price": 13999,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 2200,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "b67cc62c-87fa-5067-8958-f907d9d209c8": {
+      "id": "b67cc62c-87fa-5067-8958-f907d9d209c8",
+      "brand": "htc",
+      "model": "htc desire 816g 2015",
+      "attributes": {
+        "price": 21990,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2600,
+        "charging": "No",
+        "attr_processor brand": "tru-mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "376c57aa-2528-5bff-95f6-4e14368fc3a9": {
+      "id": "376c57aa-2528-5bff-95f6-4e14368fc3a9",
+      "brand": "htc",
+      "model": "htc u11",
+      "attributes": {
+        "price": 53990,
+        "ram": 6.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 12.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "71bfac69-f787-5cfc-b764-1e21111ae9e9": {
+      "id": "71bfac69-f787-5cfc-b764-1e21111ae9e9",
+      "brand": "htc",
+      "model": "htc wildfire x 128gb",
+      "attributes": {
+        "price": 16999,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 3300,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 12.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.22,
+        "display_type": "lcd display"
+      }
+    },
+    "ed5050c1-b477-5543-a464-44529a14379b": {
+      "id": "ed5050c1-b477-5543-a464-44529a14379b",
+      "brand": "htc",
+      "model": "htc desire 526g plus 16gb",
+      "attributes": {
+        "price": 6999,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2000,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.7,
+        "display_type": "tft display"
+      }
+    },
+    "ad19269d-9bf2-506c-bfa7-29000729b8a7": {
+      "id": "ad19269d-9bf2-506c-bfa7-29000729b8a7",
+      "brand": "htc",
+      "model": "htc desire 620g",
+      "attributes": {
+        "price": 7999,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2100,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "96594bfa-3776-50c7-9a7b-9296912574df": {
+      "id": "96594bfa-3776-50c7-9a7b-9296912574df",
+      "brand": "htc",
+      "model": "htc one m8",
+      "attributes": {
+        "price": 59900,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2600,
+        "charging": "No",
+        "attr_has fingerprints": "No",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_primery rear camera": 4.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "184755d2-2382-519f-baf4-20a2160045d0": {
+      "id": "184755d2-2382-519f-baf4-20a2160045d0",
+      "brand": "htc",
+      "model": "htc desire 820q",
+      "attributes": {
+        "price": 18990,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2600,
+        "charging": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "tft display"
+      }
+    },
+    "7f2f7832-23b0-5da3-b365-4450ba300c03": {
+      "id": "7f2f7832-23b0-5da3-b365-4450ba300c03",
+      "brand": "htc",
+      "model": "htc desire 326g dual sim",
+      "attributes": {
+        "price": 6578,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2000,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.5,
+        "display_type": "tft display"
+      }
+    },
+    "c349ecbc-99d3-5e83-8fe1-b7dd241ac5e7": {
+      "id": "c349ecbc-99d3-5e83-8fe1-b7dd241ac5e7",
+      "brand": "htc",
+      "model": "htc one x9",
+      "attributes": {
+        "price": 14770,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "724a1c98-8a62-5073-8679-afd6692380e7": {
+      "id": "724a1c98-8a62-5073-8679-afd6692380e7",
+      "brand": "HTC",
+      "model": "10",
+      "attributes": {
+        "os": "Android 8.0 Oreo",
+        "release_date": "May 04, 2016",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 820",
+        "attr_memory": 4.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 2560,
+        "camera_main": 12.0,
+        "camera_front": 5
+      }
+    },
+    "589aba21-93fc-513a-b64b-432486a543c3": {
+      "id": "589aba21-93fc-513a-b64b-432486a543c3",
+      "brand": "HTC",
+      "model": "7 Mozart",
+      "attributes": {
+        "os": "Windows Phone 7.5 Mango",
+        "release_date": "Oct 21, 2010",
+        "battery_capacity": 1300.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.6,
+        "attr_primary storage": 8.0,
+        "display_size": 3.7,
+        "attr_display resolution": 800,
+        "camera_main": 8.0
+      }
+    },
+    "ea6dae68-b5d3-5055-97cf-a9a177e9a71b": {
+      "id": "ea6dae68-b5d3-5055-97cf-a9a177e9a71b",
+      "brand": "HTC",
+      "model": "7 Pro",
+      "attributes": {
+        "os": "Windows Phone 7.5 Mango",
+        "release_date": "Jan 17, 2011",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.4,
+        "attr_primary storage": 8.0,
+        "display_size": 3.6,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "b28b4d09-1f51-50e0-85dd-041eb5fb814a": {
+      "id": "b28b4d09-1f51-50e0-85dd-041eb5fb814a",
+      "brand": "HTC",
+      "model": "7 Pro CDMA",
+      "attributes": {
+        "os": "Windows Phone 7.5 Mango",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.6,
+        "attr_primary storage": 16.0,
+        "display_size": 3.6,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "14237fed-b77d-53cb-bca7-c7e1dc82bfe1": {
+      "id": "14237fed-b77d-53cb-bca7-c7e1dc82bfe1",
+      "brand": "HTC",
+      "model": "7 Trophy",
+      "attributes": {
+        "os": "Windows Phone 7.5 Mango",
+        "release_date": "Oct 21, 2010",
+        "battery_capacity": 1300.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.6,
+        "attr_primary storage": 8.0,
+        "display_size": 3.8,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "67ab777b-872f-53f9-aa72-352fef07f3ae": {
+      "id": "67ab777b-872f-53f9-aa72-352fef07f3ae",
+      "brand": "HTC",
+      "model": "8XT",
+      "attributes": {
+        "os": "Windows Phone 8",
+        "release_date": "Jul 19, 2013",
+        "battery_capacity": 1800.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 4.3,
+        "attr_display resolution": 800,
+        "camera_main": 8.0,
+        "camera_front": 1.6
+      }
+    },
+    "b6b7e0f5-c4e8-5d38-aaee-8d1ec2adb551": {
+      "id": "b6b7e0f5-c4e8-5d38-aaee-8d1ec2adb551",
+      "brand": "HTC",
+      "model": "9500",
+      "attributes": {
+        "os": "Windows Mobile Professional 2002",
+        "attr_memory": 0.03,
+        "storage": " SD",
+        "attr_display resolution": 320
+      }
+    },
+    "ea718c5a-b142-5869-a5e7-504e97a2c0a4": {
+      "id": "ea718c5a-b142-5869-a5e7-504e97a2c0a4",
+      "brand": "HTC",
+      "model": "Amaze 4G",
+      "attributes": {
+        "os": "Android 4.0",
+        "release_date": "Oct 10, 2011",
+        "battery_capacity": 1730.0,
+        "chipset": "Qualcomm Snapdragon S3",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "38c69655-ba84-51ae-938a-fe2212582111": {
+      "id": "38c69655-ba84-51ae-938a-fe2212582111",
+      "brand": "HTC",
+      "model": "Apache",
+      "attributes": {
+        "os": "Windows Mobile Professional 5.0",
+        "battery_capacity": 1350.0,
+        "storage": " miniSD",
+        "attr_display resolution": 320,
+        "camera_main": 1.0
+      }
+    },
+    "2b9864bc-3835-5851-975a-c84b937b8795": {
+      "id": "2b9864bc-3835-5851-975a-c84b937b8795",
+      "brand": "HTC",
+      "model": "Aria",
+      "attributes": {
+        "os": "Android 2.2",
+        "release_date": "Jun 20, 2010",
+        "battery_capacity": 1200.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "6127f9e6-3d39-5b3d-a9c2-910d5adc2193": {
+      "id": "6127f9e6-3d39-5b3d-a9c2-910d5adc2193",
+      "brand": "HTC",
+      "model": "Arrive",
+      "attributes": {
+        "os": "Windows Phone 7.5 Mango",
+        "release_date": "Mar 21, 2011",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_primary storage": 16.0,
+        "display_size": 3.6,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "9d35e9d7-33ab-5995-95ba-3c395ae0d6d9": {
+      "id": "9d35e9d7-33ab-5995-95ba-3c395ae0d6d9",
+      "brand": "HTC",
+      "model": "Blue Angel",
+      "attributes": {
+        "os": "Windows Mobile Professional 2003 SE",
+        "battery_capacity": 1490.0,
+        "attr_memory": 0.1,
+        "storage": " MMC",
+        "attr_display resolution": 320,
+        "camera_main": 0.0
+      }
+    },
+    "e863d3e8-8b4a-5ee2-8b62-fb338cb533a3": {
+      "id": "e863d3e8-8b4a-5ee2-8b62-fb338cb533a3",
+      "brand": "HTC",
+      "model": "Bolt",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "release_date": "Nov 11, 2016",
+        "battery_capacity": 3200.0,
+        "chipset": "Qualcomm Snapdragon 810",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 2560,
+        "camera_main": 16.0,
+        "camera_front": 8
+      }
+    },
+    "b3c3ff72-8bb0-50a0-9a5d-40bf333391a7": {
+      "id": "b3c3ff72-8bb0-50a0-9a5d-40bf333391a7",
+      "brand": "HTC",
+      "model": "Butterfly",
+      "attributes": {
+        "os": "Android 4.3",
+        "release_date": "Jan 01, 2013",
+        "battery_capacity": 2020.0,
+        "chipset": "Qualcomm Snapdragon S4 Pro",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 8.0,
+        "camera_front": 2.1
+      }
+    },
+    "a148cc8a-dc60-5ddd-b858-1f8ba43bc305": {
+      "id": "a148cc8a-dc60-5ddd-b858-1f8ba43bc305",
+      "brand": "HTC",
+      "model": "Butterfly 2",
+      "attributes": {
+        "os": "Android ",
+        "battery_capacity": 2700.0,
+        "chipset": "Qualcomm Snapdragon 801",
+        "attr_memory": 2.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "ece89cad-6b02-51a8-974d-13327457a3fe": {
+      "id": "ece89cad-6b02-51a8-974d-13327457a3fe",
+      "brand": "HTC",
+      "model": "Butterfly S",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 3200.0,
+        "chipset": "Qualcomm Snapdragon 600",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 4.0,
+        "camera_front": 2.1
+      }
+    },
+    "f9ec0aeb-a0fb-554b-b854-ee986cc2bf20": {
+      "id": "f9ec0aeb-a0fb-554b-b854-ee986cc2bf20",
+      "brand": "HTC",
+      "model": "Canary",
+      "attributes": {
+        "os": "Windows Mobile Standard ",
+        "battery_capacity": 1000.0,
+        "chipset": "TI OMAP",
+        "attr_memory": 0.02,
+        "storage": " SD",
+        "attr_display resolution": 220
+      }
+    },
+    "4306e2a0-3581-5874-a5a7-dd29a324ec7e": {
+      "id": "4306e2a0-3581-5874-a5a7-dd29a324ec7e",
+      "brand": "HTC",
+      "model": "ChaCha",
+      "attributes": {
+        "os": "Android 2.3.5",
+        "release_date": "Jun 02, 2011",
+        "battery_capacity": 1250.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 2.6,
+        "attr_display resolution": 320,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "f8ef39ab-c952-5c98-b66b-6ad40d7a1462": {
+      "id": "f8ef39ab-c952-5c98-b66b-6ad40d7a1462",
+      "brand": "HTC",
+      "model": "DROID DNA",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2020.0,
+        "chipset": "Qualcomm Snapdragon S4 Pro",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 8.0,
+        "camera_front": 2.1
+      }
+    },
+    "213af776-2922-527e-aa9e-8f300199c3ea": {
+      "id": "213af776-2922-527e-aa9e-8f300199c3ea",
+      "brand": "HTC",
+      "model": "DROID ERIS",
+      "attributes": {
+        "os": "Android 2.1",
+        "release_date": "Nov 06, 2009",
+        "battery_capacity": 1300.0,
+        "chipset": "Qualcomm MSM7600",
+        "attr_memory": 0.3,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "68d37de4-149d-5f2a-88f8-b712a1124955": {
+      "id": "68d37de4-149d-5f2a-88f8-b712a1124955",
+      "brand": "HTC",
+      "model": "DROID Incredible 2",
+      "attributes": {
+        "os": "Android 2.3.4",
+        "release_date": "Apr 28, 2011",
+        "battery_capacity": 1450.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.75,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 8.0,
+        "camera_front": 1.3
+      }
+    },
+    "7ad23fc8-40a8-5fe4-98ce-4c6d018d605b": {
+      "id": "7ad23fc8-40a8-5fe4-98ce-4c6d018d605b",
+      "brand": "HTC",
+      "model": "DROID Incredible 4G LTE",
+      "attributes": {
+        "os": "Android 4.0",
+        "release_date": "Jul 05, 2012",
+        "battery_capacity": 1700.0,
+        "chipset": "Qualcomm Snapdragon S4 Plus",
+        "attr_memory": 1.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 0.3
+      }
+    },
+    "b6b381bc-3ffc-5245-8826-1e9d3a02fafe": {
+      "id": "b6b381bc-3ffc-5245-8826-1e9d3a02fafe",
+      "brand": "HTC",
+      "model": "Desire",
+      "attributes": {
+        "os": "Android 2.2",
+        "release_date": "Mar 31, 2010",
+        "battery_capacity": 1400.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.6,
+        "storage": " microSDHC",
+        "display_size": 3.7,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "d40ccf18-9dd3-522e-a0a8-90a35078f4b1": {
+      "id": "d40ccf18-9dd3-522e-a0a8-90a35078f4b1",
+      "brand": "HTC",
+      "model": "Desire 10 lifestyle",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Oct 01, 2016",
+        "battery_capacity": 2700.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "fb6c2395-188f-57bb-ba9a-285c5bba28fb": {
+      "id": "fb6c2395-188f-57bb-ba9a-285c5bba28fb",
+      "brand": "HTC",
+      "model": "Desire 10 pro",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Oct 01, 2016",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek Helio P10",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 20.0,
+        "camera_front": 13
+      }
+    },
+    "243ef03d-255d-5541-894b-b36919e3f08a": {
+      "id": "243ef03d-255d-5541-894b-b36919e3f08a",
+      "brand": "HTC",
+      "model": "Desire 12",
+      "attributes": {
+        "os": "Android 8.0 Oreo",
+        "release_date": "May 31, 2018",
+        "battery_capacity": 2730.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1440,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "63012f60-3089-5f7c-8257-8c96ee123a31": {
+      "id": "63012f60-3089-5f7c-8257-8c96ee123a31",
+      "brand": "HTC",
+      "model": "Desire 12+",
+      "attributes": {
+        "os": "Android 8.0 Oreo",
+        "release_date": "May 31, 2018",
+        "battery_capacity": 2965.0,
+        "chipset": "Qualcomm Snapdragon 450",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1440,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "35c05892-9260-54e0-942a-60ca704fafd5": {
+      "id": "35c05892-9260-54e0-942a-60ca704fafd5",
+      "brand": "HTC",
+      "model": "Desire 200",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1230.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "0c1fb8ff-602d-5905-9905-f59ca3c84f23": {
+      "id": "0c1fb8ff-602d-5905-9905-f59ca3c84f23",
+      "brand": "HTC",
+      "model": "Desire 210",
+      "attributes": {
+        "os": "Android 4.2",
+        "release_date": "Jun 01, 2014",
+        "battery_capacity": 1300.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "845ecf32-e6a7-5d9d-9edf-7d13424fdaea": {
+      "id": "845ecf32-e6a7-5d9d-9edf-7d13424fdaea",
+      "brand": "HTC",
+      "model": "Desire 22 Pro",
+      "attributes": {
+        "os": "Android 12",
+        "release_date": "Jul 10, 2022",
+        "battery_capacity": 4520.0,
+        "chipset": "Qualcomm Snapdragon 695 5G",
+        "attr_memory": 8.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.6,
+        "attr_display resolution": 2412,
+        "refresh_rate": 120.0,
+        "camera_main": 64.0,
+        "camera_front": 32
+      }
+    },
+    "4d2156f8-d8b1-5178-8b9a-0d9f5678686b": {
+      "id": "4d2156f8-d8b1-5178-8b9a-0d9f5678686b",
+      "brand": "HTC",
+      "model": "Desire 300",
+      "attributes": {
+        "os": "Android 4.1.2",
+        "release_date": "Dec 01, 2013",
+        "battery_capacity": 1650.0,
+        "chipset": "Qualcomm Snapdragon S4",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.3,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "f054dd07-beb9-5266-9215-9ce1ce7c3409": {
+      "id": "f054dd07-beb9-5266-9215-9ce1ce7c3409",
+      "brand": "HTC",
+      "model": "Desire 310",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "c7355c36-bee1-5163-8118-b41954f29c94": {
+      "id": "c7355c36-bee1-5163-8118-b41954f29c94",
+      "brand": "HTC",
+      "model": "Desire 320",
+      "attributes": {
+        "os": "Android ",
+        "battery_capacity": 2100.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "264e76d8-10ec-5920-9bd4-fc54848b9e2c": {
+      "id": "264e76d8-10ec-5920-9bd4-fc54848b9e2c",
+      "brand": "HTC",
+      "model": "Desire 400",
+      "attributes": {
+        "os": "Android 4.1.1",
+        "battery_capacity": 1800.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.3,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 1.6
+      }
+    },
+    "1828ab71-6097-57b4-a9fc-1fee48355772": {
+      "id": "1828ab71-6097-57b4-a9fc-1fee48355772",
+      "brand": "HTC",
+      "model": "Desire 500",
+      "attributes": {
+        "os": "Android 4.1.2",
+        "release_date": "Sep 01, 2013",
+        "battery_capacity": 1800.0,
+        "chipset": "Qualcomm Snapdragon 200",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.3,
+        "attr_display resolution": 800,
+        "camera_main": 8.0,
+        "camera_front": 1.6
+      }
+    },
+    "4192da99-0484-5b7d-867a-2d5989f184ac": {
+      "id": "4192da99-0484-5b7d-867a-2d5989f184ac",
+      "brand": "HTC",
+      "model": "Desire 501",
+      "attributes": {
+        "os": "Android ",
+        "battery_capacity": 2100.0,
+        "chipset": "NovaThor U8500",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 800,
+        "camera_main": 8.0,
+        "camera_front": 2.1
+      }
+    },
+    "349f21e4-c645-5207-9652-89595e18e231": {
+      "id": "349f21e4-c645-5207-9652-89595e18e231",
+      "brand": "HTC",
+      "model": "Desire 510",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2100.0,
+        "chipset": "Qualcomm Snapdragon 410",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 4.7,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "7f83d4c0-dadd-513f-9dd1-5c146553e216": {
+      "id": "7f83d4c0-dadd-513f-9dd1-5c146553e216",
+      "brand": "HTC",
+      "model": "Desire 512",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Mar 01, 2015",
+        "battery_capacity": 2100.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.7,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "83f6a779-716f-5ded-abcf-bf7e5d749ea2": {
+      "id": "83f6a779-716f-5ded-abcf-bf7e5d749ea2",
+      "brand": "HTC",
+      "model": "Desire 516",
+      "attributes": {
+        "os": "Android 4.3",
+        "release_date": "Jun 01, 2014",
+        "battery_capacity": 1950.0,
+        "chipset": "Qualcomm Snapdragon 200",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "d941b776-0a95-56ef-a8d2-49546df32ba6": {
+      "id": "d941b776-0a95-56ef-a8d2-49546df32ba6",
+      "brand": "HTC",
+      "model": "Desire 520",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Sep 11, 2015",
+        "battery_capacity": 2000.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "7f5c2186-ce56-5ea6-b439-5c76840f5873": {
+      "id": "7f5c2186-ce56-5ea6-b439-5c76840f5873",
+      "brand": "HTC",
+      "model": "Desire 526",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Jul 21, 2015",
+        "battery_capacity": 2000.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 1.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 4.7,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "7ccc4e28-1cf1-546a-a2fa-8176f240b7d9": {
+      "id": "7ccc4e28-1cf1-546a-a2fa-8176f240b7d9",
+      "brand": "HTC",
+      "model": "Desire 530",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "release_date": "Mar 11, 2016",
+        "battery_capacity": 2200.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 1.5,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "35fa1b7e-0767-5d24-82a0-e4d4c9d853ac": {
+      "id": "35fa1b7e-0767-5d24-82a0-e4d4c9d853ac",
+      "brand": "HTC",
+      "model": "Desire 555",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "release_date": "Jul 15, 2017",
+        "battery_capacity": 2200.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "0c12cf6d-c290-5184-a12b-164dcec4ec10": {
+      "id": "0c12cf6d-c290-5184-a12b-164dcec4ec10",
+      "brand": "HTC",
+      "model": "Desire 600",
+      "attributes": {
+        "os": "Android 4.1",
+        "battery_capacity": 1860.0,
+        "chipset": "Qualcomm Snapdragon 200",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 4.5,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 1.6
+      }
+    },
+    "304d8dc6-e624-530c-9423-ce6415b95e6a": {
+      "id": "304d8dc6-e624-530c-9423-ce6415b95e6a",
+      "brand": "HTC",
+      "model": "Desire 601",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 2100.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 4.5,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "8abc2ee6-f03f-5ccf-a7bb-8c3a5b4ee86a": {
+      "id": "8abc2ee6-f03f-5ccf-a7bb-8c3a5b4ee86a",
+      "brand": "HTC",
+      "model": "Desire 610",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2040.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 4.7,
+        "attr_display resolution": 854,
+        "camera_main": 8.0,
+        "camera_front": 1.3
+      }
+    },
+    "a6bef268-3df5-5c84-93b1-b26290c02f8a": {
+      "id": "a6bef268-3df5-5c84-93b1-b26290c02f8a",
+      "brand": "HTC",
+      "model": "Desire 616",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "release_date": "Jun 01, 2014",
+        "battery_capacity": 2000.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "c690eef5-289e-51d0-9543-7ba9d4bff437": {
+      "id": "c690eef5-289e-51d0-9543-7ba9d4bff437",
+      "brand": "HTC",
+      "model": "Desire 620",
+      "attributes": {
+        "os": "Android ",
+        "battery_capacity": 2100.0,
+        "chipset": "Qualcomm Snapdragon 410",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "8ae53d01-fa63-5fe0-96ca-d80976e315f5": {
+      "id": "8ae53d01-fa63-5fe0-96ca-d80976e315f5",
+      "brand": "HTC",
+      "model": "Desire 626",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Aug 27, 2015",
+        "battery_capacity": 2000.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 1.5,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "0013d159-ff6d-5a00-8731-c9d004dc307b": {
+      "id": "0013d159-ff6d-5a00-8731-c9d004dc307b",
+      "brand": "HTC",
+      "model": "Desire 626 (International)",
+      "attributes": {
+        "os": "Android 4.4.4",
+        "release_date": "Mar 01, 2015",
+        "battery_capacity": 2000.0,
+        "chipset": "Qualcomm Snapdragon 410",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "f8ed49c0-9a35-5121-a0c5-0fce6dab1d3c": {
+      "id": "f8ed49c0-9a35-5121-a0c5-0fce6dab1d3c",
+      "brand": "HTC",
+      "model": "Desire 626s",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Jul 22, 2015",
+        "battery_capacity": 2000.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 1.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "776427fe-1c68-5b36-bab0-0560b9510339": {
+      "id": "776427fe-1c68-5b36-bab0-0560b9510339",
+      "brand": "HTC",
+      "model": "Desire 628",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Jun 01, 2016",
+        "battery_capacity": 2200.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "e774cc13-99da-58bd-8918-27a7cb50f9f1": {
+      "id": "e774cc13-99da-58bd-8918-27a7cb50f9f1",
+      "brand": "HTC",
+      "model": "Desire 630",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Jun 21, 2016",
+        "battery_capacity": 2200.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "35388ba1-3d69-5142-91e4-5968349638d4": {
+      "id": "35388ba1-3d69-5142-91e4-5968349638d4",
+      "brand": "HTC",
+      "model": "Desire 650",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Dec 01, 2016",
+        "battery_capacity": 2200.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "ef659a70-e963-5d4f-a555-64624a6344ba": {
+      "id": "ef659a70-e963-5d4f-a555-64624a6344ba",
+      "brand": "HTC",
+      "model": "Desire 700",
+      "attributes": {
+        "os": "Android 4.1.2",
+        "release_date": "Jan 01, 2014",
+        "battery_capacity": 2100.0,
+        "chipset": "Qualcomm Snapdragon 200",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "ed40a013-c2fb-5fa4-91a8-d8d312de31a8": {
+      "id": "ed40a013-c2fb-5fa4-91a8-d8d312de31a8",
+      "brand": "HTC",
+      "model": "Desire 728",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Nov 01, 2015",
+        "battery_capacity": 2800.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "c3500eb4-ddfe-5c9d-8cdb-c4bd62a5d06d": {
+      "id": "c3500eb4-ddfe-5c9d-8cdb-c4bd62a5d06d",
+      "brand": "HTC",
+      "model": "Desire 816",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "battery_capacity": 2600.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 1.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "abd1a17d-3e06-5b97-bd45-a5a7ae3b5a7a": {
+      "id": "abd1a17d-3e06-5b97-bd45-a5a7ae3b5a7a",
+      "brand": "HTC",
+      "model": "Desire 820",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2600.0,
+        "chipset": "Qualcomm Snapdragon 615",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "ac217055-e82d-5ab7-9a61-5c14584008c1": {
+      "id": "ac217055-e82d-5ab7-9a61-5c14584008c1",
+      "brand": "HTC",
+      "model": "Desire 825",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Apr 01, 2016",
+        "battery_capacity": 2700.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "cbb1f5e1-41d9-55e1-8690-7c0bca7053e7": {
+      "id": "cbb1f5e1-41d9-55e1-8690-7c0bca7053e7",
+      "brand": "HTC",
+      "model": "Desire 826",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "release_date": "Apr 01, 2015",
+        "battery_capacity": 2600.0,
+        "chipset": "Qualcomm Snapdragon 615",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 4
+      }
+    },
+    "5fe54ca3-dbe4-54b8-a7ce-08199ce34b2c": {
+      "id": "5fe54ca3-dbe4-54b8-a7ce-08199ce34b2c",
+      "brand": "HTC",
+      "model": "Desire C",
+      "attributes": {
+        "os": "Android 4.0.3",
+        "release_date": "Jun 01, 2012",
+        "battery_capacity": 1230.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "8c9da46b-609b-5090-a776-0cd9f1e2f4e6": {
+      "id": "8c9da46b-609b-5090-a776-0cd9f1e2f4e6",
+      "brand": "HTC",
+      "model": "Desire CDMA",
+      "attributes": {
+        "os": "Android 2.2",
+        "release_date": "Sep 01, 2010",
+        "battery_capacity": 1400.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.4,
+        "storage": " microSDHC",
+        "display_size": 3.7,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "cf5bd8b2-cbbd-561f-b425-acf85f4718f5": {
+      "id": "cf5bd8b2-cbbd-561f-b425-acf85f4718f5",
+      "brand": "HTC",
+      "model": "Desire EYE",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "battery_capacity": 2400.0,
+        "chipset": "Qualcomm Snapdragon 801",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 13
+      }
+    },
+    "4117e841-04c4-5e9a-9b9c-a4530f9dd622": {
+      "id": "4117e841-04c4-5e9a-9b9c-a4530f9dd622",
+      "brand": "HTC",
+      "model": "Desire HD",
+      "attributes": {
+        "os": "Android 2.3.5",
+        "release_date": "Oct 20, 2010",
+        "battery_capacity": 1230.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.75,
+        "attr_primary storage": 1.0,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 800,
+        "camera_main": 8.0
+      }
+    },
+    "dffab667-5380-56ae-aaf9-dce784528d3d": {
+      "id": "dffab667-5380-56ae-aaf9-dce784528d3d",
+      "brand": "HTC",
+      "model": "Desire L",
+      "attributes": {
+        "os": "Android ",
+        "battery_capacity": 1800.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "a6c43788-36c7-50b9-b191-0021452f7576": {
+      "id": "a6c43788-36c7-50b9-b191-0021452f7576",
+      "brand": "HTC",
+      "model": "Desire P",
+      "attributes": {
+        "os": "Android ",
+        "battery_capacity": 1620.0,
+        "chipset": "Qualcomm Snapdragon S4 Play",
+        "attr_memory": 0.75,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 800,
+        "camera_main": 8.0
+      }
+    },
+    "b0ea056b-2361-5a44-aa55-8795cf2dab15": {
+      "id": "b0ea056b-2361-5a44-aa55-8795cf2dab15",
+      "brand": "HTC",
+      "model": "Desire Q",
+      "attributes": {
+        "os": "Android 4.1",
+        "battery_capacity": 1650.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "6ab7afc8-8308-5a25-afbc-78e2df48af0a": {
+      "id": "6ab7afc8-8308-5a25-afbc-78e2df48af0a",
+      "brand": "HTC",
+      "model": "Desire S",
+      "attributes": {
+        "os": "Android 2.3.5",
+        "battery_capacity": 1450.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.75,
+        "attr_primary storage": 1.0,
+        "storage": " microSDHC",
+        "display_size": 3.7,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "5a320e29-3e92-5b3b-9d59-8807c22f8c46": {
+      "id": "5a320e29-3e92-5b3b-9d59-8807c22f8c46",
+      "brand": "HTC",
+      "model": "Desire US",
+      "attributes": {
+        "os": "Android 2.2",
+        "battery_capacity": 1400.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.6,
+        "storage": " microSDHC",
+        "display_size": 3.7,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "b6f98bef-a265-55f2-9a63-15ff2350f4ef": {
+      "id": "b6f98bef-a265-55f2-9a63-15ff2350f4ef",
+      "brand": "HTC",
+      "model": "Desire V",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1650.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "ac93cee8-b5eb-5b5e-97f3-0f849dceeec2": {
+      "id": "ac93cee8-b5eb-5b5e-97f3-0f849dceeec2",
+      "brand": "HTC",
+      "model": "Desire X",
+      "attributes": {
+        "os": "Android 4.0",
+        "release_date": "Oct 08, 2012",
+        "battery_capacity": 1650.0,
+        "chipset": "Qualcomm Snapdragon S4 Play",
+        "attr_memory": 0.75,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "291335aa-d61a-53b4-b02c-03108685f897": {
+      "id": "291335aa-d61a-53b4-b02c-03108685f897",
+      "brand": "HTC",
+      "model": "Desire Z",
+      "attributes": {
+        "os": "Android 2.3.3",
+        "release_date": "Nov 28, 2010",
+        "battery_capacity": 1300.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 1.0,
+        "storage": " microSDHC",
+        "display_size": 3.7,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "ca776be7-f841-5675-ac92-8f48ed6ffe44": {
+      "id": "ca776be7-f841-5675-ac92-8f48ed6ffe44",
+      "brand": "HTC",
+      "model": "Desire Z American Version",
+      "attributes": {
+        "os": "Android 2.3.3",
+        "battery_capacity": 1300.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.5,
+        "attr_primary storage": 1.0,
+        "storage": " microSDHC",
+        "display_size": 3.7,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "0b44fa64-6ee8-54b9-9a8b-1ed2fac26be9": {
+      "id": "0b44fa64-6ee8-54b9-9a8b-1ed2fac26be9",
+      "brand": "HTC",
+      "model": "Droid Incredible",
+      "attributes": {
+        "os": "Android 2.3.4",
+        "release_date": "Apr 29, 2010",
+        "battery_capacity": 1300.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 3.7,
+        "attr_display resolution": 800,
+        "camera_main": 8.0
+      }
+    },
+    "65518049-4d29-59f9-89cf-8095a2098866": {
+      "id": "65518049-4d29-59f9-89cf-8095a2098866",
+      "brand": "HTC",
+      "model": "EVO 3D",
+      "attributes": {
+        "os": "Android 4.0",
+        "release_date": "Jun 24, 2011",
+        "battery_capacity": 1730.0,
+        "chipset": "Qualcomm Snapdragon S3",
+        "attr_memory": 1.0,
+        "attr_primary storage": 1.0,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "3d2af997-97c4-53e4-b2c4-6b096d80387e": {
+      "id": "3d2af997-97c4-53e4-b2c4-6b096d80387e",
+      "brand": "HTC",
+      "model": "EVO 3D GSM",
+      "attributes": {
+        "os": "Android 2.3",
+        "battery_capacity": 1730.0,
+        "chipset": "Qualcomm Snapdragon S3",
+        "attr_memory": 1.0,
+        "attr_primary storage": 1.0,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "e6593053-c0f5-5533-8bb9-7ef4781e842e": {
+      "id": "e6593053-c0f5-5533-8bb9-7ef4781e842e",
+      "brand": "HTC",
+      "model": "EVO 4G",
+      "attributes": {
+        "os": "Android 2.3",
+        "release_date": "Jun 04, 2010",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 800,
+        "camera_main": 8.0,
+        "camera_front": 1.3
+      }
+    },
+    "8af23a11-b926-593c-907f-ced16f7ba37b": {
+      "id": "8af23a11-b926-593c-907f-ced16f7ba37b",
+      "brand": "HTC",
+      "model": "EVO 4G LTE",
+      "attributes": {
+        "os": "Android 4.0.3",
+        "release_date": "Jun 02, 2012",
+        "chipset": "Qualcomm Snapdragon S4 Plus",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 4.7,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 1.3
+      }
+    },
+    "0ca142eb-aed8-55af-a889-70a7f8eea4a8": {
+      "id": "0ca142eb-aed8-55af-a889-70a7f8eea4a8",
+      "brand": "HTC",
+      "model": "EVO Design 4G",
+      "attributes": {
+        "os": "Android 4.0",
+        "release_date": "Oct 23, 2011",
+        "battery_capacity": 1520.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.75,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "0c82668f-3b57-574e-bf4a-43fce14247b9": {
+      "id": "0c82668f-3b57-574e-bf4a-43fce14247b9",
+      "brand": "HTC",
+      "model": "EVO Shift 4G",
+      "attributes": {
+        "os": "Android 2.2",
+        "release_date": "Jan 09, 2011",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 3.6,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "a4d28381-b197-579d-a853-8d20d20074a6": {
+      "id": "a4d28381-b197-579d-a853-8d20d20074a6",
+      "brand": "HTC",
+      "model": "Explorer",
+      "attributes": {
+        "os": "Android 2.3",
+        "battery_capacity": 1230.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.5,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "56920c98-88c3-5bc2-9f52-1a44a4ac2299": {
+      "id": "56920c98-88c3-5bc2-9f52-1a44a4ac2299",
+      "brand": "HTC",
+      "model": "FOREseer",
+      "attributes": {
+        "os": "Windows Mobile Standard 5.0",
+        "battery_capacity": 1100.0,
+        "chipset": "TI OMAP850",
+        "attr_memory": 0.06,
+        "storage": " microSD",
+        "display_size": 2.2,
+        "attr_display resolution": 240,
+        "camera_main": 1.0
+      }
+    },
+    "2aeeca78-bab8-5f9e-b6ee-1a09b7ea1e68": {
+      "id": "2aeeca78-bab8-5f9e-b6ee-1a09b7ea1e68",
+      "brand": "HTC",
+      "model": "Faraday",
+      "attributes": {
+        "os": "Windows Mobile Standard 5.0",
+        "battery_capacity": 1150.0,
+        "chipset": "TI OMAP850",
+        "attr_memory": 0.06,
+        "storage": " miniSD",
+        "attr_display resolution": 320,
+        "camera_main": 1.0
+      }
+    },
+    "d2935701-bbee-5f84-90b0-0beb29b2b0a2": {
+      "id": "d2935701-bbee-5f84-90b0-0beb29b2b0a2",
+      "brand": "HTC",
+      "model": "Feeler",
+      "attributes": {
+        "os": "Windows Mobile Standard 2003 SE",
+        "battery_capacity": 1050.0,
+        "chipset": "TI OMAP",
+        "attr_memory": 0.03,
+        "attr_primary storage": 0.0,
+        "storage": " miniSD",
+        "attr_display resolution": 220,
+        "camera_main": 0.0
+      }
+    },
+    "de0fae96-f25a-5366-ac49-6f837b3530a5": {
+      "id": "de0fae96-f25a-5366-ac49-6f837b3530a5",
+      "brand": "HTC",
+      "model": "First",
+      "attributes": {
+        "os": "Android 4.1",
+        "release_date": "Apr 12, 2013",
+        "battery_capacity": 2000.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "display_size": 4.3,
+        "attr_display resolution": 1280,
+        "camera_main": 5.0,
+        "camera_front": 1.6
+      }
+    },
+    "d13b4cc1-848c-5f97-bc9a-96f3f722a0c1": {
+      "id": "d13b4cc1-848c-5f97-bc9a-96f3f722a0c1",
+      "brand": "HTC",
+      "model": "Gratia",
+      "attributes": {
+        "os": "Android 2.2",
+        "battery_capacity": 1200.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.4,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "f94ed49a-cd04-56fc-be83-0cc6836e95a4": {
+      "id": "f94ed49a-cd04-56fc-be83-0cc6836e95a4",
+      "brand": "HTC",
+      "model": "HD mini",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.5",
+        "release_date": "Mar 31, 2010",
+        "battery_capacity": 1200.0,
+        "attr_memory": 0.4,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "ca1f5de5-cb8f-5c9e-bf6e-b6e645436726": {
+      "id": "ca1f5de5-cb8f-5c9e-bf6e-b6e645436726",
+      "brand": "HTC",
+      "model": "HD2",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.5",
+        "release_date": "Nov 05, 2009",
+        "battery_capacity": 1230.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.4,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "fac3631f-64a9-529f-adc9-780237d76cb9": {
+      "id": "fac3631f-64a9-529f-adc9-780237d76cb9",
+      "brand": "HTC",
+      "model": "HD2 US",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.5",
+        "release_date": "Mar 24, 2010",
+        "battery_capacity": 1230.0,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "ee9dc586-da0a-52fb-962a-a915088d8aef": {
+      "id": "ee9dc586-da0a-52fb-962a-a915088d8aef",
+      "brand": "HTC",
+      "model": "HD7",
+      "attributes": {
+        "os": "Windows Phone 7.5 Mango",
+        "release_date": "Nov 08, 2010",
+        "battery_capacity": 1230.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.6,
+        "attr_primary storage": 16.0,
+        "display_size": 4.3,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "9f3b100b-97f1-5a1d-b263-a083068bba74": {
+      "id": "9f3b100b-97f1-5a1d-b263-a083068bba74",
+      "brand": "HTC",
+      "model": "HD7S",
+      "attributes": {
+        "os": "Windows Phone 7.5 Mango",
+        "release_date": "Jun 05, 2011",
+        "battery_capacity": 1230.0,
+        "attr_memory": 0.6,
+        "attr_primary storage": 16.0,
+        "display_size": 4.3,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "5cdd42d5-75d4-58c1-9a04-f3c30603bba0": {
+      "id": "5cdd42d5-75d4-58c1-9a04-f3c30603bba0",
+      "brand": "HTC",
+      "model": "Harrier",
+      "attributes": {
+        "os": "Windows Mobile Professional 2003",
+        "battery_capacity": 1490.0,
+        "attr_memory": 0.1,
+        "storage": " MMC",
+        "attr_display resolution": 320,
+        "camera_main": 0.0
+      }
+    },
+    "276440f3-6a4e-5904-adee-2086f1c36a54": {
+      "id": "276440f3-6a4e-5904-adee-2086f1c36a54",
+      "brand": "HTC",
+      "model": "Hero",
+      "attributes": {
+        "os": "Android 2.1",
+        "release_date": "Jul 23, 2009",
+        "battery_capacity": 1350.0,
+        "chipset": "Qualcomm MSM7200A",
+        "attr_memory": 0.3,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "3765b393-b101-5716-86c8-dae1a8e7d489": {
+      "id": "3765b393-b101-5716-86c8-dae1a8e7d489",
+      "brand": "HTC",
+      "model": "Hero CDMA",
+      "attributes": {
+        "os": "Android 2.1",
+        "release_date": "Oct 09, 2009",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm MSM7200A",
+        "attr_memory": 0.3,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "3ff6dc05-e877-5a4d-8e14-9168c8acae8f": {
+      "id": "3ff6dc05-e877-5a4d-8e14-9168c8acae8f",
+      "brand": "HTC",
+      "model": "Hero S",
+      "attributes": {
+        "os": "Android 2.3",
+        "release_date": "Oct 14, 2011",
+        "battery_capacity": 1520.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.75,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "3500d741-a08f-51c4-9301-c3cfc6cd5a7b": {
+      "id": "3500d741-a08f-51c4-9301-c3cfc6cd5a7b",
+      "brand": "HTC",
+      "model": "Himalayas",
+      "attributes": {
+        "os": "Windows Mobile Professional 2003 SE",
+        "battery_capacity": 1200.0,
+        "attr_memory": 0.1,
+        "storage": " SD",
+        "attr_display resolution": 320,
+        "camera_main": 0.0
+      }
+    },
+    "ecec5777-7061-5886-8a52-0633a9aa3a84": {
+      "id": "ecec5777-7061-5886-8a52-0633a9aa3a84",
+      "brand": "HTC",
+      "model": "Hurricane",
+      "attributes": {
+        "os": "Windows Mobile Standard 2003 SE",
+        "battery_capacity": 1150.0,
+        "chipset": "TI OMAP850",
+        "attr_memory": 0.06,
+        "attr_primary storage": 0.0,
+        "storage": " miniSD",
+        "attr_display resolution": 320,
+        "camera_main": 1.0
+      }
+    },
+    "6291754f-141a-5809-ae22-b91ce3058768": {
+      "id": "6291754f-141a-5809-ae22-b91ce3058768",
+      "brand": "HTC",
+      "model": "Imagio",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.5",
+        "release_date": "Oct 06, 2009",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm MSM7200A",
+        "attr_memory": 0.3,
+        "storage": " microSDHC",
+        "display_size": 3.6,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "59f011ee-59f4-553a-9f89-7b362bc0a406": {
+      "id": "59f011ee-59f4-553a-9f89-7b362bc0a406",
+      "brand": "HTC",
+      "model": "Incredible S",
+      "attributes": {
+        "os": "Android 4.0.4",
+        "battery_capacity": 1450.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.75,
+        "attr_primary storage": 1.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 8.0,
+        "camera_front": 1.3
+      }
+    },
+    "e7db59be-5058-5c5f-9e47-0211a4ce7562": {
+      "id": "e7db59be-5058-5c5f-9e47-0211a4ce7562",
+      "brand": "HTC",
+      "model": "Inspire 4G",
+      "attributes": {
+        "os": "Android 2.3",
+        "release_date": "Feb 13, 2011",
+        "battery_capacity": 1230.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.75,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 800,
+        "camera_main": 8.0
+      }
+    },
+    "9756e558-a075-5f41-8caf-78ee4b7f6211": {
+      "id": "9756e558-a075-5f41-8caf-78ee4b7f6211",
+      "brand": "HTC",
+      "model": "J",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1810.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 1.3
+      }
+    },
+    "8f8657aa-6afc-5011-9259-76077a2ac8d6": {
+      "id": "8f8657aa-6afc-5011-9259-76077a2ac8d6",
+      "brand": "HTC",
+      "model": "Lancaster",
+      "attributes": {
+        "os": "Android ",
+        "battery_capacity": 1350.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "camera_main": 3.0
+      }
+    },
+    "ce8bcf23-6704-594f-bf84-e843ac27fb09": {
+      "id": "ce8bcf23-6704-594f-bf84-e843ac27fb09",
+      "brand": "HTC",
+      "model": "Legend",
+      "attributes": {
+        "os": "Android 2.1",
+        "release_date": "Mar 12, 2010",
+        "battery_capacity": 1300.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.4,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "46589fd3-abdb-5ffe-b270-6babd0332304": {
+      "id": "46589fd3-abdb-5ffe-b270-6babd0332304",
+      "brand": "HTC",
+      "model": "Legend American version",
+      "attributes": {
+        "os": "Android 2.1",
+        "release_date": "Jun 16, 2010",
+        "battery_capacity": 1300.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.4,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "3df65ee2-c4dd-5ef1-a499-90bfd09854c7": {
+      "id": "3df65ee2-c4dd-5ef1-a499-90bfd09854c7",
+      "brand": "HTC",
+      "model": "MAX 4G",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.1",
+        "release_date": "Nov 29, 2008",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm ESM7206A",
+        "attr_memory": 0.3,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 3.8,
+        "attr_display resolution": 800,
+        "camera_main": 3.0
+      }
+    },
+    "4da7327b-63b8-5aeb-a570-9b5932b5eebd": {
+      "id": "4da7327b-63b8-5aeb-a570-9b5932b5eebd",
+      "brand": "HTC",
+      "model": "MTeoR",
+      "attributes": {
+        "os": "Windows Mobile Standard 5.0",
+        "battery_capacity": 1190.0,
+        "chipset": "Samsung",
+        "attr_memory": 0.06,
+        "storage": " microSD",
+        "attr_display resolution": 320,
+        "camera_main": 1.0
+      }
+    },
+    "a3ccebf5-de26-5911-9c08-e2cd1c9f551a": {
+      "id": "a3ccebf5-de26-5911-9c08-e2cd1c9f551a",
+      "brand": "HTC",
+      "model": "Magic",
+      "attributes": {
+        "os": "Android 1.6",
+        "release_date": "Apr 27, 2009",
+        "battery_capacity": 1340.0,
+        "chipset": "Qualcomm MSM7200A",
+        "attr_memory": 0.3,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "bea6056f-f78a-5125-90f2-63493133d2ee": {
+      "id": "bea6056f-f78a-5125-90f2-63493133d2ee",
+      "brand": "HTC",
+      "model": "Magician",
+      "attributes": {
+        "os": "Windows Mobile Professional 2003 SE",
+        "battery_capacity": 1200.0,
+        "attr_memory": 0.06,
+        "storage": " SD",
+        "attr_display resolution": 320,
+        "camera_main": 1.0
+      }
+    },
+    "ce0528c7-622c-5890-8858-eaa62ca43e66": {
+      "id": "ce0528c7-622c-5890-8858-eaa62ca43e66",
+      "brand": "HTC",
+      "model": "Merge",
+      "attributes": {
+        "os": "Android 2.3",
+        "release_date": "Apr 07, 2011",
+        "battery_capacity": 1400.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.5,
+        "attr_primary storage": 2.0,
+        "storage": " microSDHC",
+        "display_size": 3.8,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "9a371ade-28b8-5f3f-8ebc-4f7a4152a486": {
+      "id": "9a371ade-28b8-5f3f-8ebc-4f7a4152a486",
+      "brand": "HTC",
+      "model": "Nexus One",
+      "attributes": {
+        "os": "Android 2.3.4",
+        "release_date": "Mar 16, 2010",
+        "battery_capacity": 1400.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 3.7,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "c3f59dd1-c534-5bc9-ab1c-1cd1b132305c": {
+      "id": "c3f59dd1-c534-5bc9-ab1c-1cd1b132305c",
+      "brand": "HTC",
+      "model": "Nexus One CDMA",
+      "attributes": {
+        "os": "Android 2.1",
+        "battery_capacity": 1400.0,
+        "chipset": "Qualcomm Snapdragon",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 3.7,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "ee4eb2fe-bebe-540c-9ca6-f1b49078321b": {
+      "id": "ee4eb2fe-bebe-540c-9ca6-f1b49078321b",
+      "brand": "HTC",
+      "model": "Nexus One US",
+      "attributes": {
+        "os": "Android 2.3.4",
+        "release_date": "Jan 05, 2010",
+        "battery_capacity": 1400.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 3.7,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "8f14af9f-864b-546a-99a1-04c88f29583b": {
+      "id": "8f14af9f-864b-546a-99a1-04c88f29583b",
+      "brand": "HTC",
+      "model": "One",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "battery_capacity": 2300.0,
+        "chipset": "Qualcomm Snapdragon 600",
+        "attr_memory": 2.0,
+        "attr_primary storage": 64.0,
+        "display_size": 4.7,
+        "attr_display resolution": 1920,
+        "camera_main": 4.0,
+        "camera_front": 2.1
+      }
+    },
+    "7716427c-8c77-5bf9-a4fa-a97ee0a9e4b3": {
+      "id": "7716427c-8c77-5bf9-a4fa-a97ee0a9e4b3",
+      "brand": "HTC",
+      "model": "One (E8)",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2600.0,
+        "chipset": "Qualcomm Snapdragon 801",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "f9c0f970-5851-5bd7-a6ee-9c5c93102d6c": {
+      "id": "f9c0f970-5851-5bd7-a6ee-9c5c93102d6c",
+      "brand": "HTC",
+      "model": "One (M8)",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Mar 25, 2014",
+        "battery_capacity": 2600.0,
+        "chipset": "Qualcomm Snapdragon 801",
+        "attr_memory": 2.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 4.0,
+        "camera_front": 5
+      }
+    },
+    "0025cb49-61ee-559d-91c5-a7276aa2ca31": {
+      "id": "0025cb49-61ee-559d-91c5-a7276aa2ca31",
+      "brand": "HTC",
+      "model": "One (M8) for Windows",
+      "attributes": {
+        "os": "Windows Phone 8.1",
+        "battery_capacity": 2600.0,
+        "chipset": "Qualcomm Snapdragon 801",
+        "attr_memory": 2.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 4.0,
+        "camera_front": 5
+      }
+    },
+    "110bdcd7-980e-575e-8091-4f33555218a6": {
+      "id": "110bdcd7-980e-575e-8091-4f33555218a6",
+      "brand": "HTC",
+      "model": "One (M8) max",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 805",
+        "attr_memory": 3.0,
+        "display_size": 5.5,
+        "attr_display resolution": 2560,
+        "camera_main": 18.0
+      }
+    },
+    "d303a2cd-7c6a-5716-84de-12e44f331a44": {
+      "id": "d303a2cd-7c6a-5716-84de-12e44f331a44",
+      "brand": "HTC",
+      "model": "One A9",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "release_date": "Nov 06, 2015",
+        "battery_capacity": 2150.0,
+        "chipset": "Qualcomm Snapdragon 617",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 4
+      }
+    },
+    "6fd07032-f3b4-568a-aeed-3112b744df12": {
+      "id": "6fd07032-f3b4-568a-aeed-3112b744df12",
+      "brand": "HTC",
+      "model": "One A9s",
+      "attributes": {
+        "os": "Android ",
+        "battery_capacity": 2300.0,
+        "chipset": "MediaTek Helio P10",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "7f469bff-4d6f-5ec4-aa10-7a1653006191": {
+      "id": "7f469bff-4d6f-5ec4-aa10-7a1653006191",
+      "brand": "HTC",
+      "model": "One E9+",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "release_date": "May 01, 2015",
+        "battery_capacity": 2800.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 2560,
+        "camera_main": 20.0,
+        "camera_front": 13
+      }
+    },
+    "4202699d-b137-514c-9021-f534018bab52": {
+      "id": "4202699d-b137-514c-9021-f534018bab52",
+      "brand": "HTC",
+      "model": "One M8s",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "battery_capacity": 2840.0,
+        "chipset": "Qualcomm Snapdragon 615",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "4415f225-a877-57d2-aec9-ac6d4ae9e34e": {
+      "id": "4415f225-a877-57d2-aec9-ac6d4ae9e34e",
+      "brand": "HTC",
+      "model": "One M9",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "release_date": "Mar 21, 2015",
+        "battery_capacity": 2840.0,
+        "chipset": "Qualcomm Snapdragon 810",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 20.0,
+        "camera_front": 4
+      }
+    },
+    "e7f88b76-440e-5ead-8525-996b5a0f3432": {
+      "id": "e7f88b76-440e-5ead-8525-996b5a0f3432",
+      "brand": "HTC",
+      "model": "One M9+",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "release_date": "Jun 01, 2015",
+        "battery_capacity": 2840.0,
+        "chipset": "MediaTek Helio X10",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 2560,
+        "camera_main": 20.0,
+        "camera_front": 4
+      }
+    },
+    "75ff809e-8dda-569e-b3ad-2f056f41b8a8": {
+      "id": "75ff809e-8dda-569e-b3ad-2f056f41b8a8",
+      "brand": "HTC",
+      "model": "One ME",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "release_date": "Jul 01, 2015",
+        "battery_capacity": 2840.0,
+        "chipset": "MediaTek Helio X10",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 2560,
+        "camera_main": 20.0,
+        "camera_front": 4
+      }
+    },
+    "45b5fcb0-5bfa-5738-a73c-2a5e2fedcc91": {
+      "id": "45b5fcb0-5bfa-5738-a73c-2a5e2fedcc91",
+      "brand": "HTC",
+      "model": "One S",
+      "attributes": {
+        "os": "Android 4.1.1",
+        "release_date": "Mar 30, 2012",
+        "battery_capacity": 1650.0,
+        "chipset": "Qualcomm Snapdragon S4 Plus",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "display_size": 4.3,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 0.3
+      }
+    },
+    "b4277cb5-8872-5cdc-8533-7d3e751b2ae1": {
+      "id": "b4277cb5-8872-5cdc-8533-7d3e751b2ae1",
+      "brand": "HTC",
+      "model": "One S9",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Jun 01, 2016",
+        "battery_capacity": 2840.0,
+        "chipset": "MediaTek Helio X10",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 4
+      }
+    },
+    "f344ba14-63b8-5c78-ab27-7ddb2deab7cb": {
+      "id": "f344ba14-63b8-5c78-ab27-7ddb2deab7cb",
+      "brand": "HTC",
+      "model": "One SV",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "release_date": "Jan 01, 2013",
+        "battery_capacity": 1800.0,
+        "chipset": "Qualcomm Snapdragon S4",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 1.6
+      }
+    },
+    "5fa56e12-a7da-56f7-8497-00b39d699517": {
+      "id": "5fa56e12-a7da-56f7-8497-00b39d699517",
+      "brand": "HTC",
+      "model": "One SV LTE",
+      "attributes": {
+        "os": "Android 4.0.4",
+        "release_date": "Jan 16, 2013",
+        "battery_capacity": 1800.0,
+        "chipset": "Qualcomm Snapdragon S4",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 1.6
+      }
+    },
+    "91d5cea9-77a5-5401-9125-8235fc0bb484": {
+      "id": "91d5cea9-77a5-5401-9125-8235fc0bb484",
+      "brand": "HTC",
+      "model": "One V",
+      "attributes": {
+        "os": "Android 4.0.3",
+        "release_date": "Mar 30, 2012",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 3.7,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "29aff16c-7d66-54b9-bf5b-1cca1996df50": {
+      "id": "29aff16c-7d66-54b9-bf5b-1cca1996df50",
+      "brand": "HTC",
+      "model": "One V CDMA",
+      "attributes": {
+        "os": "Android 4.0.3",
+        "release_date": "Jun 29, 2012",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S3",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 3.7,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "0a5d7be2-9417-5cdc-944c-534c69698125": {
+      "id": "0a5d7be2-9417-5cdc-944c-534c69698125",
+      "brand": "HTC",
+      "model": "One VX",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1800.0,
+        "chipset": "Qualcomm Snapdragon S4 Plus",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "5118e7c0-8f4e-5065-91bd-95e294bb2710": {
+      "id": "5118e7c0-8f4e-5065-91bd-95e294bb2710",
+      "brand": "HTC",
+      "model": "One X",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "release_date": "Mar 30, 2012",
+        "battery_capacity": 1800.0,
+        "chipset": "NVIDIA Tegra 3 T30",
+        "attr_memory": 1.0,
+        "attr_primary storage": 32.0,
+        "display_size": 4.7,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 1.3
+      }
+    },
+    "8ed4d892-8a6e-509f-acdb-606111ddb215": {
+      "id": "8ed4d892-8a6e-509f-acdb-606111ddb215",
+      "brand": "HTC",
+      "model": "One X AT&T",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "release_date": "May 06, 2012",
+        "battery_capacity": 1800.0,
+        "chipset": "Qualcomm Snapdragon S4 Plus",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "display_size": 4.7,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 1.3
+      }
+    },
+    "97c80079-da59-5447-bc69-233ca8766c94": {
+      "id": "97c80079-da59-5447-bc69-233ca8766c94",
+      "brand": "HTC",
+      "model": "One X+",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 2100.0,
+        "chipset": "Nvidia Tegra 3",
+        "attr_memory": 1.0,
+        "attr_primary storage": 64.0,
+        "display_size": 4.7,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 1.6
+      }
+    },
+    "dfc44189-af2c-5183-9e3f-82303375a197": {
+      "id": "dfc44189-af2c-5183-9e3f-82303375a197",
+      "brand": "HTC",
+      "model": "One X+ LTE",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 2100.0,
+        "chipset": "NVIDIA Tegra 3 AP37",
+        "attr_memory": 1.0,
+        "attr_primary storage": 64.0,
+        "display_size": 4.7,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 1.6
+      }
+    },
+    "8267ec27-12ac-5779-a64e-e814437a6d3d": {
+      "id": "8267ec27-12ac-5779-a64e-e814437a6d3d",
+      "brand": "HTC",
+      "model": "One X10",
+      "attributes": {
+        "os": "Android ",
+        "release_date": "Apr 13, 2017",
+        "battery_capacity": 4000.0,
+        "chipset": "MediaTek Helio P10",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 16.0,
+        "camera_front": 8
+      }
+    },
+    "3f7e4864-c5d9-5df9-b166-de82ab8be2c0": {
+      "id": "3f7e4864-c5d9-5df9-b166-de82ab8be2c0",
+      "brand": "HTC",
+      "model": "One X9",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Jan 01, 2016",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek Helio X10",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "5caebd7f-ba77-5d75-89c3-bdd144acca29": {
+      "id": "5caebd7f-ba77-5d75-89c3-bdd144acca29",
+      "brand": "HTC",
+      "model": "One max",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 3300.0,
+        "chipset": "Qualcomm Snapdragon 600",
+        "attr_memory": 2.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.9,
+        "attr_display resolution": 1920,
+        "camera_main": 4.0,
+        "camera_front": 2.1
+      }
+    },
+    "c46ab20d-0105-5cd6-afe7-a6bb8f089acc": {
+      "id": "c46ab20d-0105-5cd6-afe7-a6bb8f089acc",
+      "brand": "HTC",
+      "model": "One mini",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 1800.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "display_size": 4.3,
+        "attr_display resolution": 1280,
+        "camera_main": 4.0,
+        "camera_front": 1.6
+      }
+    },
+    "0aa2480c-f9b2-5f11-aa76-7e565ede9bc5": {
+      "id": "0aa2480c-f9b2-5f11-aa76-7e565ede9bc5",
+      "brand": "HTC",
+      "model": "One mini 2",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "May 01, 2014",
+        "battery_capacity": 2100.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 4.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "b831df8d-860f-566b-bd93-8aca4e9ede48": {
+      "id": "b831df8d-860f-566b-bd93-8aca4e9ede48",
+      "brand": "HTC",
+      "model": "Ozone",
+      "attributes": {
+        "os": "Windows Mobile Standard 6.1",
+        "release_date": "Jun 29, 2009",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.2,
+        "storage": " microSDHC",
+        "display_size": 2.4,
+        "attr_display resolution": 240,
+        "camera_main": 2.0
+      }
+    },
+    "890371be-c0cd-53c3-952b-6641e516d0c7": {
+      "id": "890371be-c0cd-53c3-952b-6641e516d0c7",
+      "brand": "HTC",
+      "model": "P3300 Artemis",
+      "attributes": {
+        "os": "Windows Mobile Professional 5.0",
+        "battery_capacity": 1250.0,
+        "chipset": "TI OMAP850",
+        "attr_memory": 0.06,
+        "storage": " microSD",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "47418ee3-0e7f-56c1-9692-4791a8a64cf3": {
+      "id": "47418ee3-0e7f-56c1-9692-4791a8a64cf3",
+      "brand": "HTC",
+      "model": "P3350 Love",
+      "attributes": {
+        "os": "Windows Mobile Professional ",
+        "battery_capacity": 1200.0,
+        "chipset": "TI OMAP850",
+        "attr_memory": 0.06,
+        "storage": " microSD",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "7393bd56-bde2-5fc5-aa94-e655167c1395": {
+      "id": "7393bd56-bde2-5fc5-aa94-e655167c1395",
+      "brand": "HTC",
+      "model": "P3400 Gene",
+      "attributes": {
+        "os": "Windows Mobile Professional 5.0",
+        "battery_capacity": 1250.0,
+        "chipset": "TI OMAP850",
+        "attr_memory": 0.06,
+        "storage": " SD",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "9c5b5aea-4042-5dd3-a600-b960ef7db9ab": {
+      "id": "9c5b5aea-4042-5dd3-a600-b960ef7db9ab",
+      "brand": "HTC",
+      "model": "P3470",
+      "attributes": {
+        "os": "Windows Mobile Professional ",
+        "battery_capacity": 1100.0,
+        "chipset": "TI OMAP850",
+        "attr_memory": 0.1,
+        "storage": " microSD",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "6881f7ff-15d3-5742-8ccf-8eb6740798f9": {
+      "id": "6881f7ff-15d3-5742-8ccf-8eb6740798f9",
+      "brand": "HTC",
+      "model": "P3600 Trinity",
+      "attributes": {
+        "os": "Windows Mobile Professional ",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.06,
+        "storage": " miniSD",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "cefe176b-dce4-55f0-8e86-e1cbf25691ab": {
+      "id": "cefe176b-dce4-55f0-8e86-e1cbf25691ab",
+      "brand": "HTC",
+      "model": "P4000 Titan",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.0",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm MSM7500",
+        "storage": " microSD",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "0903fdd8-a177-5167-a15f-d3ff1d905701": {
+      "id": "0903fdd8-a177-5167-a15f-d3ff1d905701",
+      "brand": "HTC",
+      "model": "P4350 Herald",
+      "attributes": {
+        "os": "Windows Mobile Professional ",
+        "battery_capacity": 1130.0,
+        "chipset": "TI OMAP850",
+        "attr_memory": 0.06,
+        "storage": " microSD",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "29e4a080-8a53-50a3-ab68-4b05556fe556": {
+      "id": "29e4a080-8a53-50a3-ab68-4b05556fe556",
+      "brand": "HTC",
+      "model": "P6300 Panda",
+      "attributes": {
+        "os": "Windows Mobile Professional ",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.1,
+        "storage": " SD",
+        "display_size": 3.5,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "fdbd055c-0bb6-5711-8c01-d0ee25b2f783": {
+      "id": "fdbd055c-0bb6-5711-8c01-d0ee25b2f783",
+      "brand": "HTC",
+      "model": "P6500",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.0",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm",
+        "attr_memory": 0.1,
+        "attr_primary storage": 1.0,
+        "storage": " microSD",
+        "display_size": 3.5,
+        "attr_display resolution": 320,
+        "camera_main": 3.0
+      }
+    },
+    "96ecb665-a79e-5f17-a617-81b37fa54666": {
+      "id": "96ecb665-a79e-5f17-a617-81b37fa54666",
+      "brand": "HTC",
+      "model": "Paradise",
+      "attributes": {
+        "os": "Android ",
+        "storage": " microSDHC",
+        "camera_main": 3.0
+      }
+    },
+    "b5a9c27b-2f2d-5aaf-af7b-3ca1ae84a975": {
+      "id": "b5a9c27b-2f2d-5aaf-af7b-3ca1ae84a975",
+      "brand": "HTC",
+      "model": "Phoebus",
+      "attributes": {
+        "os": "Windows Mobile Standard 6.0",
+        "battery_capacity": 920.0,
+        "chipset": "TI OMAP850",
+        "attr_memory": 0.1,
+        "storage": " microSD",
+        "display_size": 2.6,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "24203354-b753-5286-ae1f-aa7dc5150616": {
+      "id": "24203354-b753-5286-ae1f-aa7dc5150616",
+      "brand": "HTC",
+      "model": "Prophet",
+      "attributes": {
+        "os": "Windows Mobile Professional 5.0",
+        "battery_capacity": 1200.0,
+        "chipset": "TI OMAP850",
+        "attr_memory": 0.06,
+        "storage": " SD",
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "0a67fb51-7f77-5716-b459-5c6d5a59bb2d": {
+      "id": "0a67fb51-7f77-5716-b459-5c6d5a59bb2d",
+      "brand": "HTC",
+      "model": "Pure",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.5",
+        "release_date": "Oct 05, 2009",
+        "battery_capacity": 1100.0,
+        "chipset": "Qualcomm MSM7201A",
+        "attr_memory": 0.3,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "7ea38826-f175-5cc0-95aa-94c3dc3edc61": {
+      "id": "7ea38826-f175-5cc0-95aa-94c3dc3edc61",
+      "brand": "HTC",
+      "model": "Radar",
+      "attributes": {
+        "os": "Windows Phone 7.5 Mango",
+        "release_date": "Oct 31, 2011",
+        "battery_capacity": 1520.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.5,
+        "attr_primary storage": 8.0,
+        "display_size": 3.8,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "66b63ae6-69bb-56f4-9445-c9faa8f158b7": {
+      "id": "66b63ae6-69bb-56f4-9445-c9faa8f158b7",
+      "brand": "HTC",
+      "model": "Radiant",
+      "attributes": {
+        "os": "Windows Phone 7.5 Mango"
+      }
+    },
+    "9ba27e87-18ce-5d72-a61f-78e2c8c6a670": {
+      "id": "9ba27e87-18ce-5d72-a61f-78e2c8c6a670",
+      "brand": "HTC",
+      "model": "Rezound",
+      "attributes": {
+        "os": "Android 4.0",
+        "release_date": "Nov 14, 2011",
+        "battery_capacity": 1620.0,
+        "chipset": "Qualcomm Snapdragon S3",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "f0f27b60-b619-5b30-97c7-7ba7fa7bb396": {
+      "id": "f0f27b60-b619-5b30-97c7-7ba7fa7bb396",
+      "brand": "HTC",
+      "model": "Rhyme",
+      "attributes": {
+        "release_date": "Sep 29, 2011",
+        "battery_capacity": 1600.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.75,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 3.7,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "e8ea356f-fb15-5cdc-9cc2-eed4a5b4890a": {
+      "id": "e8ea356f-fb15-5cdc-9cc2-eed4a5b4890a",
+      "brand": "HTC",
+      "model": "S310 Oxygen",
+      "attributes": {
+        "os": "Windows Mobile Standard ",
+        "battery_capacity": 1150.0,
+        "chipset": "TI OMAP850",
+        "attr_memory": 0.06,
+        "storage": " miniSD",
+        "display_size": 2.0,
+        "attr_display resolution": 220,
+        "camera_main": 1.0
+      }
+    },
+    "be305fde-00fa-5f25-84d4-c9ddc2d7cec3": {
+      "id": "be305fde-00fa-5f25-84d4-c9ddc2d7cec3",
+      "brand": "HTC",
+      "model": "S522",
+      "attributes": {
+        "os": "Windows Mobile Standard 6.1",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.2,
+        "storage": " microSDHC",
+        "display_size": 2.4,
+        "attr_display resolution": 240,
+        "camera_main": 2.0
+      }
+    },
+    "5312a1f9-e71c-5306-9674-27cda7891825": {
+      "id": "5312a1f9-e71c-5306-9674-27cda7891825",
+      "brand": "HTC",
+      "model": "S620 Excalibur",
+      "attributes": {
+        "os": "Windows Mobile Standard 5.0",
+        "battery_capacity": 960.0,
+        "chipset": "TI OMAP850",
+        "attr_memory": 0.06,
+        "storage": " microSD",
+        "display_size": 2.4,
+        "attr_display resolution": 240,
+        "camera_main": 1.0
+      }
+    },
+    "7abaffb3-1d90-519d-bd22-379750723bbe": {
+      "id": "7abaffb3-1d90-519d-bd22-379750723bbe",
+      "brand": "HTC",
+      "model": "S630 Cavalier",
+      "attributes": {
+        "os": "Windows Mobile Standard 6.0",
+        "battery_capacity": 1050.0,
+        "attr_memory": 0.06,
+        "storage": " microSD",
+        "display_size": 2.4,
+        "attr_display resolution": 240,
+        "camera_main": 2.0
+      }
+    },
+    "8c7c9c5e-fd77-5741-825f-2e122eae3801": {
+      "id": "8c7c9c5e-fd77-5741-825f-2e122eae3801",
+      "brand": "HTC",
+      "model": "S640",
+      "attributes": {
+        "os": "Windows Mobile Standard 6.0",
+        "battery_capacity": 1200.0,
+        "chipset": "Qualcomm MSM7500",
+        "attr_memory": 0.1,
+        "storage": " microSD",
+        "display_size": 2.8,
+        "attr_display resolution": 240,
+        "camera_main": 2.0
+      }
+    },
+    "04a8c5c7-92cc-5968-8898-6e78e3a2c7df": {
+      "id": "04a8c5c7-92cc-5968-8898-6e78e3a2c7df",
+      "brand": "HTC",
+      "model": "S710 Vox",
+      "attributes": {
+        "os": "Windows Mobile Standard 6.0",
+        "battery_capacity": 1050.0,
+        "chipset": "TI OMAP850",
+        "attr_memory": 0.06,
+        "storage": " microSD",
+        "display_size": 2.4,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "a6bca4e0-391e-5179-bb8e-dec3e61c704c": {
+      "id": "a6bca4e0-391e-5179-bb8e-dec3e61c704c",
+      "brand": "HTC",
+      "model": "S720 Libra",
+      "attributes": {
+        "os": "Windows Mobile Standard 6.0",
+        "battery_capacity": 1050.0,
+        "chipset": "Qualcomm MSM7500",
+        "storage": " microSD",
+        "display_size": 2.4,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "ba66cae2-728c-583d-90c1-0ffe1f940f69": {
+      "id": "ba66cae2-728c-583d-90c1-0ffe1f940f69",
+      "brand": "HTC",
+      "model": "S730",
+      "attributes": {
+        "os": "Windows Mobile Standard 6.0",
+        "battery_capacity": 1050.0,
+        "chipset": "Qualcomm MSM7200",
+        "attr_memory": 0.06,
+        "storage": " microSD",
+        "display_size": 2.4,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "613a8d19-5f20-5411-8110-fcb6a5136548": {
+      "id": "613a8d19-5f20-5411-8110-fcb6a5136548",
+      "brand": "HTC",
+      "model": "S740",
+      "attributes": {
+        "os": "Windows Mobile Standard ",
+        "release_date": "Sep 25, 2008",
+        "battery_capacity": 1000.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.25,
+        "storage": " microSD",
+        "display_size": 2.4,
+        "attr_display resolution": 320,
+        "camera_main": 3.0
+      }
+    },
+    "654da133-01cf-50e3-ae06-bb257b4fcaf9": {
+      "id": "654da133-01cf-50e3-ae06-bb257b4fcaf9",
+      "brand": "HTC",
+      "model": "S743",
+      "attributes": {
+        "os": "Windows Mobile Standard 6.1",
+        "release_date": "Apr 16, 2009",
+        "battery_capacity": 1000.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.25,
+        "storage": " microSD",
+        "display_size": 2.4,
+        "attr_display resolution": 320,
+        "camera_main": 3.0
+      }
+    },
+    "48f5a0e7-764a-5579-9727-2eadfb150c2f": {
+      "id": "48f5a0e7-764a-5579-9727-2eadfb150c2f",
+      "brand": "HTC",
+      "model": "Salsa",
+      "attributes": {
+        "os": "Android 2.3.3",
+        "battery_capacity": 1520.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.5,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.4,
+        "attr_display resolution": 480,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "5b85dac5-48ae-5d87-9ce8-45752956642b": {
+      "id": "5b85dac5-48ae-5d87-9ce8-45752956642b",
+      "brand": "HTC",
+      "model": "Sensation 4G",
+      "attributes": {
+        "os": "Android 4.0.3",
+        "release_date": "May 19, 2011",
+        "battery_capacity": 1520.0,
+        "chipset": "Qualcomm Snapdragon S3",
+        "attr_memory": 0.75,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 0.3
+      }
+    },
+    "254437bc-6608-551f-b8b6-8916fea9a8a3": {
+      "id": "254437bc-6608-551f-b8b6-8916fea9a8a3",
+      "brand": "HTC",
+      "model": "Sensation XE",
+      "attributes": {
+        "os": "Android 4.0",
+        "release_date": "Oct 04, 2011",
+        "battery_capacity": 1730.0,
+        "attr_memory": 0.75,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 0.3
+      }
+    },
+    "5e2381c5-e3d3-5a2e-b4b3-40b41fe199e2": {
+      "id": "5e2381c5-e3d3-5a2e-b4b3-40b41fe199e2",
+      "brand": "HTC",
+      "model": "Sensation XL",
+      "attributes": {
+        "os": "Android 2.3.5",
+        "battery_capacity": 1600.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.75,
+        "attr_primary storage": 16.0,
+        "display_size": 4.7,
+        "attr_display resolution": 800,
+        "camera_main": 8.0,
+        "camera_front": 1.3
+      }
+    },
+    "e877508b-a893-5720-a26b-a765942af5f2": {
+      "id": "e877508b-a893-5720-a26b-a765942af5f2",
+      "brand": "HTC",
+      "model": "Smart",
+      "attributes": {
+        "os": "Brew Mobile Platform (Brew MP) ",
+        "battery_capacity": 1100.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "attr_display resolution": 240,
+        "camera_main": 3.0
+      }
+    },
+    "fb97c64f-e0a1-5f09-8249-642b5bd4ed7d": {
+      "id": "fb97c64f-e0a1-5f09-8249-642b5bd4ed7d",
+      "brand": "HTC",
+      "model": "Snap",
+      "attributes": {
+        "os": "Windows Mobile Standard 6.1",
+        "release_date": "Jun 02, 2009",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.2,
+        "storage": " microSDHC",
+        "display_size": 2.4,
+        "attr_display resolution": 240,
+        "camera_main": 2.0
+      }
+    },
+    "093441c2-afb0-56ba-a8e9-4b8105b1b9e2": {
+      "id": "093441c2-afb0-56ba-a8e9-4b8105b1b9e2",
+      "brand": "HTC",
+      "model": "Snap CDMA",
+      "attributes": {
+        "os": "Windows Mobile Standard 6.1",
+        "release_date": "Jun 15, 2009",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.2,
+        "storage": " microSDHC",
+        "display_size": 2.4,
+        "attr_display resolution": 240,
+        "camera_main": 2.0
+      }
+    },
+    "323a3bf8-e931-5378-b5cb-1cc8bd175c94": {
+      "id": "323a3bf8-e931-5378-b5cb-1cc8bd175c94",
+      "brand": "HTC",
+      "model": "Snap S510",
+      "attributes": {
+        "os": "Windows Mobile Standard 6.1",
+        "release_date": "Jul 30, 2009",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.2,
+        "storage": " microSDHC",
+        "display_size": 2.4,
+        "attr_display resolution": 240,
+        "camera_main": 2.0
+      }
+    },
+    "d987764e-5431-5ec8-ba0d-b035b0606002": {
+      "id": "d987764e-5431-5ec8-ba0d-b035b0606002",
+      "brand": "HTC",
+      "model": "Star Trek",
+      "attributes": {
+        "os": "Windows Mobile Standard 5.0",
+        "battery_capacity": 750.0,
+        "chipset": "TI OMAP850",
+        "attr_memory": 0.06,
+        "storage": " microSD",
+        "attr_display resolution": 320,
+        "camera_main": 1.0
+      }
+    },
+    "2b99f85e-da2c-5329-a8bf-8b52e70a0d10": {
+      "id": "2b99f85e-da2c-5329-a8bf-8b52e70a0d10",
+      "brand": "HTC",
+      "model": "Status",
+      "attributes": {
+        "os": "Android 2.3.3",
+        "release_date": "Jul 15, 2011",
+        "battery_capacity": 1250.0,
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 2.6,
+        "attr_display resolution": 320,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "21fc8512-1914-52a8-9419-9f25d37703c7": {
+      "id": "21fc8512-1914-52a8-9419-9f25d37703c7",
+      "brand": "HTC",
+      "model": "Surround",
+      "attributes": {
+        "os": "Windows Phone 7.5 Mango",
+        "release_date": "Nov 08, 2010",
+        "battery_capacity": 1230.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.4,
+        "attr_primary storage": 16.0,
+        "display_size": 3.8,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "c3caf387-7eb6-5d16-bf33-dc20f1014b43": {
+      "id": "c3caf387-7eb6-5d16-bf33-dc20f1014b43",
+      "brand": "HTC",
+      "model": "Tanager",
+      "attributes": {
+        "os": "Windows Mobile Standard ",
+        "battery_capacity": 1000.0,
+        "chipset": "TI OMAP",
+        "attr_memory": 0.02,
+        "storage": " SD",
+        "attr_display resolution": 220
+      }
+    },
+    "4cd81895-e99a-5f37-9070-f47c0a688295": {
+      "id": "4cd81895-e99a-5f37-9070-f47c0a688295",
+      "brand": "HTC",
+      "model": "Tattoo",
+      "attributes": {
+        "os": "Android 1.6",
+        "release_date": "Oct 12, 2009",
+        "battery_capacity": 1100.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 3.0
+      }
+    },
+    "16b4a67f-1ba2-5da7-85e0-cfc07bd139f6": {
+      "id": "16b4a67f-1ba2-5da7-85e0-cfc07bd139f6",
+      "brand": "HTC",
+      "model": "ThunderBolt",
+      "attributes": {
+        "os": "Android 4.0",
+        "release_date": "Mar 17, 2011",
+        "battery_capacity": 1400.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.75,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 800,
+        "camera_main": 8.0,
+        "camera_front": 1.3
+      }
+    },
+    "18ea62ef-48e2-5fca-a0c3-3aa3132bd3fb": {
+      "id": "18ea62ef-48e2-5fca-a0c3-3aa3132bd3fb",
+      "brand": "HTC",
+      "model": "Tilt 2",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.5",
+        "release_date": "Oct 09, 2009",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm MSM7201A",
+        "attr_memory": 0.3,
+        "storage": " microSDHC",
+        "display_size": 3.6,
+        "attr_display resolution": 800,
+        "camera_main": 3.0
+      }
+    },
+    "09af6d2d-1a4b-5bba-b485-220460ef9b84": {
+      "id": "09af6d2d-1a4b-5bba-b485-220460ef9b84",
+      "brand": "HTC",
+      "model": "Titan",
+      "attributes": {
+        "os": "Windows Phone 7.5 Mango",
+        "release_date": "Nov 20, 2011",
+        "battery_capacity": 1600.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.5,
+        "attr_primary storage": 16.0,
+        "display_size": 4.7,
+        "attr_display resolution": 800,
+        "camera_main": 8.0,
+        "camera_front": 1.3
+      }
+    },
+    "446ca365-55e3-516c-8525-67fc87c2b7b6": {
+      "id": "446ca365-55e3-516c-8525-67fc87c2b7b6",
+      "brand": "HTC",
+      "model": "Titan II",
+      "attributes": {
+        "os": "Windows Phone 7.5 Mango",
+        "release_date": "Apr 08, 2012",
+        "battery_capacity": 1730.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.5,
+        "attr_primary storage": 16.0,
+        "display_size": 4.7,
+        "attr_display resolution": 800,
+        "camera_main": 16.0,
+        "camera_front": 1.3
+      }
+    },
+    "e5a6de17-ff86-510d-ae92-f2e6cef86064": {
+      "id": "e5a6de17-ff86-510d-ae92-f2e6cef86064",
+      "brand": "HTC",
+      "model": "Tornado",
+      "attributes": {
+        "os": "Windows Mobile Standard 5.0",
+        "battery_capacity": 1150.0,
+        "chipset": "TI OMAP850",
+        "attr_memory": 0.06,
+        "storage": " miniSD",
+        "attr_display resolution": 320,
+        "camera_main": 1.0
+      }
+    },
+    "5732d2f9-6b06-5294-b594-cc9cfa5d4db3": {
+      "id": "5732d2f9-6b06-5294-b594-cc9cfa5d4db3",
+      "brand": "HTC",
+      "model": "Touch",
+      "attributes": {
+        "battery_capacity": 1100.0,
+        "chipset": "TI OMAP850",
+        "attr_memory": 0.06,
+        "storage": " microSD",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "1fd2e4d0-7c9d-57bd-8e41-2285d58c4201": {
+      "id": "1fd2e4d0-7c9d-57bd-8e41-2285d58c4201",
+      "brand": "HTC",
+      "model": "Touch 3G",
+      "attributes": {
+        "os": "Windows Mobile Professional ",
+        "release_date": "Nov 06, 2008",
+        "battery_capacity": 1100.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.2,
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 3.0
+      }
+    },
+    "6368d5f8-3a90-5575-bc20-04b0ebfa97b8": {
+      "id": "6368d5f8-3a90-5575-bc20-04b0ebfa97b8",
+      "brand": "HTC",
+      "model": "Touch CDMA",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.0",
+        "battery_capacity": 1100.0,
+        "chipset": "Qualcomm MSM7500",
+        "attr_memory": 0.1,
+        "storage": " microSD",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "3c68f74c-5e97-5935-9a1e-d04f41264a94": {
+      "id": "3c68f74c-5e97-5935-9a1e-d04f41264a94",
+      "brand": "HTC",
+      "model": "Touch Cruise",
+      "attributes": {
+        "os": "Windows Mobile Professional ",
+        "battery_capacity": 1350.0,
+        "chipset": "Qualcomm MSM7200",
+        "attr_memory": 0.1,
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 3.0
+      }
+    },
+    "f71244f0-c926-5141-b731-1952f6a23349": {
+      "id": "f71244f0-c926-5141-b731-1952f6a23349",
+      "brand": "HTC",
+      "model": "Touch Cruise (2009)",
+      "attributes": {
+        "os": "Windows Mobile Professional ",
+        "release_date": "Feb 10, 2009",
+        "battery_capacity": 1100.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 3.0
+      }
+    },
+    "8b439139-bf7d-59e7-8b65-edcd0b2f3c53": {
+      "id": "8b439139-bf7d-59e7-8b65-edcd0b2f3c53",
+      "brand": "HTC",
+      "model": "Touch Cruise US",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.1",
+        "release_date": "Nov 30, 2009",
+        "battery_capacity": 1100.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 3.0
+      }
+    },
+    "a64368e1-74b4-5962-b8ad-3eefc5ad9a74": {
+      "id": "a64368e1-74b4-5962-b8ad-3eefc5ad9a74",
+      "brand": "HTC",
+      "model": "Touch Diamond",
+      "attributes": {
+        "os": "Windows Mobile Professional ",
+        "release_date": "May 27, 2008",
+        "battery_capacity": 900.0,
+        "chipset": "Qualcomm MSM7201",
+        "attr_memory": 0.2,
+        "attr_primary storage": 4.0,
+        "display_size": 2.8,
+        "attr_display resolution": 640,
+        "camera_main": 3.0
+      }
+    },
+    "cf516df3-c2eb-5501-b9f9-f100955b2f46": {
+      "id": "cf516df3-c2eb-5501-b9f9-f100955b2f46",
+      "brand": "HTC",
+      "model": "Touch Diamond CDMA",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.1",
+        "release_date": "Aug 18, 2008",
+        "battery_capacity": 1340.0,
+        "attr_memory": 0.3,
+        "attr_primary storage": 4.0,
+        "display_size": 2.8,
+        "attr_display resolution": 640,
+        "camera_main": 3.0
+      }
+    },
+    "575f5011-8a08-5f86-89b1-420094a35694": {
+      "id": "575f5011-8a08-5f86-89b1-420094a35694",
+      "brand": "HTC",
+      "model": "Touch Diamond CDMA - Verizon",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.1",
+        "release_date": "Apr 03, 2009",
+        "battery_capacity": 1340.0,
+        "chipset": "Qualcomm MSM7500A",
+        "attr_memory": 0.2,
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "attr_display resolution": 640,
+        "camera_main": 3.0
+      }
+    },
+    "a27fb772-5227-53fb-81c5-84e4d5cc1de9": {
+      "id": "a27fb772-5227-53fb-81c5-84e4d5cc1de9",
+      "brand": "HTC",
+      "model": "Touch Diamond2",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.1",
+        "release_date": "Apr 04, 2009",
+        "battery_capacity": 1100.0,
+        "chipset": "Qualcomm MSM7200A",
+        "attr_memory": 0.3,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "072add69-176b-5229-929d-ea0a86400eb6": {
+      "id": "072add69-176b-5229-929d-ea0a86400eb6",
+      "brand": "HTC",
+      "model": "Touch Dual",
+      "attributes": {
+        "os": "Windows Mobile Professional ",
+        "battery_capacity": 1120.0,
+        "chipset": "Qualcomm MSM7200",
+        "attr_memory": 0.1,
+        "storage": " microSD",
+        "display_size": 2.6,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "b063f90d-11a5-53fe-8657-7d7672803fd4": {
+      "id": "b063f90d-11a5-53fe-8657-7d7672803fd4",
+      "brand": "HTC",
+      "model": "Touch Dual US",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.1",
+        "release_date": "Jun 12, 2008",
+        "battery_capacity": 1120.0,
+        "chipset": "Qualcomm MSM7200",
+        "attr_memory": 0.1,
+        "storage": " microSD",
+        "display_size": 2.6,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "23aab924-a6e8-5938-8447-df490330272c": {
+      "id": "23aab924-a6e8-5938-8447-df490330272c",
+      "brand": "HTC",
+      "model": "Touch HD",
+      "attributes": {
+        "os": "Windows Mobile Professional ",
+        "release_date": "Nov 04, 2008",
+        "battery_capacity": 1350.0,
+        "chipset": "Qualcomm MSM7201A",
+        "attr_memory": 0.3,
+        "storage": " microSDHC",
+        "display_size": 3.8,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "5e5324bb-4013-5767-aa67-585a4a20db98": {
+      "id": "5e5324bb-4013-5767-aa67-585a4a20db98",
+      "brand": "HTC",
+      "model": "Touch Pro",
+      "attributes": {
+        "os": "Windows Mobile Professional ",
+        "release_date": "Aug 11, 2008",
+        "battery_capacity": 1340.0,
+        "chipset": "Qualcomm MSM7201",
+        "attr_memory": 0.3,
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "attr_display resolution": 640,
+        "camera_main": 3.0
+      }
+    },
+    "14c0f3f0-bb20-5e3d-b7aa-ca14f836a50b": {
+      "id": "14c0f3f0-bb20-5e3d-b7aa-ca14f836a50b",
+      "brand": "HTC",
+      "model": "Touch Pro CDMA",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.1",
+        "release_date": "Oct 27, 2008",
+        "battery_capacity": 1340.0,
+        "attr_memory": 0.3,
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "attr_display resolution": 640,
+        "camera_main": 3.0
+      }
+    },
+    "33b0026c-5a47-53c6-a61f-27f19106c767": {
+      "id": "33b0026c-5a47-53c6-a61f-27f19106c767",
+      "brand": "HTC",
+      "model": "Touch Pro CDMA - Verizon",
+      "attributes": {
+        "os": "Windows Mobile Professional ",
+        "release_date": "Nov 24, 2008",
+        "battery_capacity": 1340.0,
+        "attr_memory": 0.2,
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "attr_display resolution": 640,
+        "camera_main": 3.0
+      }
+    },
+    "8777e799-8f8c-5f7e-9d79-1616d2304a95": {
+      "id": "8777e799-8f8c-5f7e-9d79-1616d2304a95",
+      "brand": "HTC",
+      "model": "Touch Pro2",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.1",
+        "release_date": "May 26, 2009",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm MSM7200A",
+        "attr_memory": 0.3,
+        "storage": " microSDHC",
+        "display_size": 3.6,
+        "attr_display resolution": 800,
+        "camera_main": 3.0
+      }
+    },
+    "e9934a38-bb04-502c-b627-4f63437d62cf": {
+      "id": "e9934a38-bb04-502c-b627-4f63437d62cf",
+      "brand": "HTC",
+      "model": "Touch Pro2 CDMA",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.1",
+        "release_date": "Jul 31, 2009",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.3,
+        "storage": " microSDHC",
+        "display_size": 3.6,
+        "attr_display resolution": 800,
+        "camera_main": 3.0
+      }
+    },
+    "4000c314-4c82-5225-a952-b77b71040781": {
+      "id": "4000c314-4c82-5225-a952-b77b71040781",
+      "brand": "HTC",
+      "model": "Touch Pro2 US",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.1",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm MSM7200A",
+        "attr_memory": 0.3,
+        "storage": " microSDHC",
+        "display_size": 3.6,
+        "attr_display resolution": 800,
+        "camera_main": 3.0
+      }
+    },
+    "d19c8f6b-12b0-525c-a0af-ba870d07ee21": {
+      "id": "d19c8f6b-12b0-525c-a0af-ba870d07ee21",
+      "brand": "HTC",
+      "model": "Touch Viva",
+      "attributes": {
+        "os": "Windows Mobile Professional ",
+        "release_date": "Oct 20, 2008",
+        "battery_capacity": 1100.0,
+        "chipset": "TI OMAP850",
+        "attr_memory": 0.1,
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "457bb611-5b4f-598f-85ec-a288cb230556": {
+      "id": "457bb611-5b4f-598f-85ec-a288cb230556",
+      "brand": "HTC",
+      "model": "Touch2",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.5",
+        "release_date": "Oct 06, 2009",
+        "battery_capacity": 1100.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 3.0
+      }
+    },
+    "e6d3f1d4-6678-5540-b58c-587c289794fa": {
+      "id": "e6d3f1d4-6678-5540-b58c-587c289794fa",
+      "brand": "HTC",
+      "model": "Trophy",
+      "attributes": {
+        "os": "Windows Phone 7.5 Mango",
+        "release_date": "May 26, 2011",
+        "battery_capacity": 1300.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.6,
+        "attr_primary storage": 16.0,
+        "display_size": 3.8,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "ed171c70-d559-5d2e-9560-d94a8ffb6d62": {
+      "id": "ed171c70-d559-5d2e-9560-d94a8ffb6d62",
+      "brand": "HTC",
+      "model": "TyTN",
+      "attributes": {
+        "os": "Windows Mobile Professional 5.0",
+        "battery_capacity": 1350.0,
+        "attr_memory": 0.06,
+        "storage": " microSD",
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "3825b3c0-1268-5f2e-a4bb-847fb7bc8007": {
+      "id": "3825b3c0-1268-5f2e-a4bb-847fb7bc8007",
+      "brand": "HTC",
+      "model": "TyTN II",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.0",
+        "battery_capacity": 1350.0,
+        "chipset": "Qualcomm MSM7200",
+        "attr_memory": 0.1,
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 3.0
+      }
+    },
+    "254da267-5e9e-5c75-939d-d967174cf19d": {
+      "id": "254da267-5e9e-5c75-939d-d967174cf19d",
+      "brand": "HTC",
+      "model": "Typhoon",
+      "attributes": {
+        "os": "Windows Mobile Standard 2003 SE",
+        "battery_capacity": 1050.0,
+        "chipset": "TI OMAP",
+        "attr_memory": 0.03,
+        "storage": " miniSD",
+        "attr_display resolution": 220,
+        "camera_main": 0.0
+      }
+    },
+    "11baefc8-d5bd-5d2f-a5b3-7616a03eb56d": {
+      "id": "11baefc8-d5bd-5d2f-a5b3-7616a03eb56d",
+      "brand": "HTC",
+      "model": "U Play",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "release_date": "Mar 01, 2017",
+        "battery_capacity": 2500.0,
+        "chipset": "MediaTek Helio P10",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 1920,
+        "camera_main": 16.0,
+        "camera_front": 16
+      }
+    },
+    "e4505c7d-f03c-5d97-a568-778a6f79766e": {
+      "id": "e4505c7d-f03c-5d97-a568-778a6f79766e",
+      "brand": "HTC",
+      "model": "U Ultra",
+      "attributes": {
+        "os": "Android 8.0 Oreo",
+        "release_date": "Feb 21, 2017",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 821",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 2560,
+        "camera_main": 12.0,
+        "camera_front": 16
+      }
+    },
+    "6149630b-4ac6-5dc2-b76b-4f06d8270190": {
+      "id": "6149630b-4ac6-5dc2-b76b-4f06d8270190",
+      "brand": "HTC",
+      "model": "U11",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "May 18, 2017",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 835",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 2560,
+        "camera_main": 12.0,
+        "camera_front": 16
+      }
+    },
+    "8e3a8570-aa52-505d-bfa7-60bdda986d50": {
+      "id": "8e3a8570-aa52-505d-bfa7-60bdda986d50",
+      "brand": "HTC",
+      "model": "U11 EYEs",
+      "attributes": {
+        "os": "Android ",
+        "release_date": "Jan 17, 2018",
+        "battery_capacity": 3930.0,
+        "chipset": "Qualcomm Snapdragon 652",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 2160,
+        "camera_main": 12.0,
+        "camera_front": 5
+      }
+    },
+    "d69bf74c-e08a-5240-8df4-cbb41cc0421b": {
+      "id": "d69bf74c-e08a-5240-8df4-cbb41cc0421b",
+      "brand": "HTC",
+      "model": "U11 life",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "Nov 02, 2017",
+        "battery_capacity": 2600.0,
+        "chipset": "Qualcomm Snapdragon 630",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 1920,
+        "camera_main": 16.0,
+        "camera_front": 16
+      }
+    },
+    "e300a9e2-e29e-5635-9e44-054ce1dfaad8": {
+      "id": "e300a9e2-e29e-5635-9e44-054ce1dfaad8",
+      "brand": "HTC",
+      "model": "U11+",
+      "attributes": {
+        "os": "Android 8.0 Oreo",
+        "release_date": "Nov 20, 2017",
+        "battery_capacity": 3930.0,
+        "chipset": "Qualcomm Snapdragon 835",
+        "attr_memory": 6.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 2880,
+        "camera_main": 12.0,
+        "camera_front": 8
+      }
+    },
+    "ebdc3178-bed2-5dc4-8b06-289af9500646": {
+      "id": "ebdc3178-bed2-5dc4-8b06-289af9500646",
+      "brand": "HTC",
+      "model": "U12 Life",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "battery_capacity": 3600.0,
+        "chipset": "Qualcomm Snapdragon 636",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 2160,
+        "camera_main": 16.0,
+        "camera_front": 13
+      }
+    },
+    "cf459000-272f-5c7c-afcd-0f0504352634": {
+      "id": "cf459000-272f-5c7c-afcd-0f0504352634",
+      "brand": "HTC",
+      "model": "U12+",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "Jun 28, 2018",
+        "battery_capacity": 3500.0,
+        "chipset": "Qualcomm Snapdragon 845",
+        "attr_memory": 6.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 2880,
+        "camera_main": 12.0,
+        "camera_front": 8
+      }
+    },
+    "4ff69e6a-f13b-5249-bfcd-e54738359744": {
+      "id": "4ff69e6a-f13b-5249-bfcd-e54738359744",
+      "brand": "HTC",
+      "model": "Universal",
+      "attributes": {
+        "os": "Windows Mobile Professional ",
+        "battery_capacity": 1620.0,
+        "attr_memory": 0.06,
+        "storage": " SD",
+        "attr_display resolution": 480,
+        "camera_main": 1.0,
+        "camera_front": 0.1
+      }
+    },
+    "f0b0ecf1-8d8a-5101-b42b-ac1fde5c180c": {
+      "id": "f0b0ecf1-8d8a-5101-b42b-ac1fde5c180c",
+      "brand": "HTC",
+      "model": "Vivid",
+      "attributes": {
+        "os": "Android 4.0.3",
+        "release_date": "Nov 06, 2011",
+        "battery_capacity": 1620.0,
+        "chipset": "Qualcomm Snapdragon S3",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 1.3
+      }
+    },
+    "be15c474-07c5-5a7a-a1d5-166a43df2f6b": {
+      "id": "be15c474-07c5-5a7a-a1d5-166a43df2f6b",
+      "brand": "HTC",
+      "model": "Vivida",
+      "attributes": {
+        "os": "Windows Mobile Standard 2003",
+        "storage": " SD",
+        "attr_display resolution": 220,
+        "camera_main": 0.0
+      }
+    },
+    "532d0d56-1c67-54cb-8b75-140c2602bb38": {
+      "id": "532d0d56-1c67-54cb-8b75-140c2602bb38",
+      "brand": "HTC",
+      "model": "Voyager",
+      "attributes": {
+        "os": "Windows Mobile Standard 2003",
+        "chipset": "TI OMAP",
+        "attr_memory": 0.03,
+        "storage": " SD",
+        "attr_display resolution": 220,
+        "camera_main": 0.0
+      }
+    },
+    "df8d21d9-125f-550a-bcb6-539c228e10ab": {
+      "id": "df8d21d9-125f-550a-bcb6-539c228e10ab",
+      "brand": "HTC",
+      "model": "Wildfire",
+      "attributes": {
+        "os": "Android 2.2",
+        "release_date": "Jul 27, 2010",
+        "battery_capacity": 1300.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.4,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 320,
+        "camera_main": 5.0
+      }
+    },
+    "beb1388b-dbad-5344-9ba7-657c42a42d99": {
+      "id": "beb1388b-dbad-5344-9ba7-657c42a42d99",
+      "brand": "HTC",
+      "model": "Wildfire CDMA",
+      "attributes": {
+        "os": "Android 2.1",
+        "release_date": "Oct 29, 2010",
+        "battery_capacity": 1300.0,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 320,
+        "camera_main": 5.0
+      }
+    },
+    "cbea31c9-1b86-5810-bff0-2fedcbd33f82": {
+      "id": "cbea31c9-1b86-5810-bff0-2fedcbd33f82",
+      "brand": "HTC",
+      "model": "Wildfire S",
+      "attributes": {
+        "os": "Android 2.3",
+        "release_date": "Apr 27, 2011",
+        "battery_capacity": 1230.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "5ed24986-02c3-5ee6-885e-9cb88cb329d7": {
+      "id": "5ed24986-02c3-5ee6-885e-9cb88cb329d7",
+      "brand": "HTC",
+      "model": "Wildfire S CDMA",
+      "attributes": {
+        "os": "Android 2.3.4",
+        "battery_capacity": 1230.0,
+        "chipset": "Qualcomm Snapdragon S4 Plus",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "f2ea22f6-b17f-5554-8f45-34e0f44608a2": {
+      "id": "f2ea22f6-b17f-5554-8f45-34e0f44608a2",
+      "brand": "HTC",
+      "model": "Wildfire S T-Mobile",
+      "attributes": {
+        "os": "Android 2.3",
+        "release_date": "Aug 04, 2011",
+        "battery_capacity": 1230.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "330314a4-2c17-5963-aa7d-7beade686f2d": {
+      "id": "330314a4-2c17-5963-aa7d-7beade686f2d",
+      "brand": "HTC",
+      "model": "Wildfire X",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "Aug 22, 2019",
+        "battery_capacity": 3300.0,
+        "chipset": "MediaTek Helio P22",
+        "attr_memory": 4.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.2,
+        "attr_display resolution": 1520,
+        "camera_main": 12.0,
+        "camera_front": 8
+      }
+    },
+    "ebd35fd7-2b56-5089-b2a2-17202eab382a": {
+      "id": "ebd35fd7-2b56-5089-b2a2-17202eab382a",
+      "brand": "HTC",
+      "model": "Windows Phone 8S",
+      "attributes": {
+        "os": "Windows Phone 8",
+        "battery_capacity": 1700.0,
+        "chipset": "Qualcomm Snapdragon S4 Plus",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "255bc686-eb53-5b0a-be68-aa010d4570e8": {
+      "id": "255bc686-eb53-5b0a-be68-aa010d4570e8",
+      "brand": "HTC",
+      "model": "Windows Phone 8X",
+      "attributes": {
+        "os": "Windows Phone 8.1",
+        "release_date": "Nov 09, 2012",
+        "battery_capacity": 1800.0,
+        "chipset": "Qualcomm Snapdragon S4 Plus",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "display_size": 4.3,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "f75b3232-b1d1-576a-b751-f5c1b2e46408": {
+      "id": "f75b3232-b1d1-576a-b751-f5c1b2e46408",
+      "brand": "HTC",
+      "model": "Wizard",
+      "attributes": {
+        "os": "Windows Mobile Professional 5.0",
+        "battery_capacity": 1250.0,
+        "chipset": "TI OMAP850",
+        "attr_memory": 0.06,
+        "storage": " miniSD",
+        "attr_display resolution": 320,
+        "camera_main": 1.0
+      }
+    },
+    "881c0724-4f3d-57e3-9b9e-7ce36353a70d": {
+      "id": "881c0724-4f3d-57e3-9b9e-7ce36353a70d",
+      "brand": "HTC",
+      "model": "X7500 Advantage",
+      "attributes": {
+        "os": "Windows Mobile Professional ",
+        "battery_capacity": 2200.0,
+        "attr_memory": 0.1,
+        "attr_primary storage": 8.0,
+        "storage": " miniSD",
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "31930dfd-fc7a-55e5-a842-7feabed0a12b": {
+      "id": "31930dfd-fc7a-55e5-a842-7feabed0a12b",
+      "brand": "HTC",
+      "model": "X7510 Advantage",
+      "attributes": {
+        "os": "Windows Mobile Professional ",
+        "release_date": "Jun 12, 2008",
+        "battery_capacity": 2100.0,
+        "attr_memory": 0.1,
+        "attr_primary storage": 16.0,
+        "storage": " miniSD",
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    }
+  }
+}

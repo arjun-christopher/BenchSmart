@@ -1,0 +1,679 @@
+{
+  "brand": "GIGABYTE",
+  "phones": {
+    "de448067-16ea-50f8-be96-9a375ffbe86e": {
+      "id": "de448067-16ea-50f8-be96-9a375ffbe86e",
+      "brand": "GIGABYTE",
+      "model": "G1305",
+      "attributes": {
+        "os": "Android 1.6",
+        "battery_capacity": 1230.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "f022530d-9dbb-5795-ad6a-88418636598c": {
+      "id": "f022530d-9dbb-5795-ad6a-88418636598c",
+      "brand": "GIGABYTE",
+      "model": "G1342",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1300.0,
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "a6a39bfe-f07c-5cfa-8cb3-b7e90b74fa12": {
+      "id": "a6a39bfe-f07c-5cfa-8cb3-b7e90b74fa12",
+      "brand": "GIGABYTE",
+      "model": "G1345",
+      "attributes": {
+        "os": "Android 2.3",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm MSM7227-T",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "2240ba71-db34-5513-b9a2-c178c10a6653": {
+      "id": "2240ba71-db34-5513-b9a2-c178c10a6653",
+      "brand": "GIGABYTE",
+      "model": "GSmart Aku A1",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "333ac9ca-fdf0-5ea4-9202-7f0c3e27279b": {
+      "id": "333ac9ca-fdf0-5ea4-9202-7f0c3e27279b",
+      "brand": "GIGABYTE",
+      "model": "GSmart Alto A2",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "7ed6fd38-e0b7-5a1e-b37f-16d90944b98d": {
+      "id": "7ed6fd38-e0b7-5a1e-b37f-16d90944b98d",
+      "brand": "GIGABYTE",
+      "model": "GSmart Arty A3",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "b988fb3a-5b39-59ed-8874-6d7ff179e798": {
+      "id": "b988fb3a-5b39-59ed-8874-6d7ff179e798",
+      "brand": "GIGABYTE",
+      "model": "GSmart Classic",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2000.0,
+        "chipset": "Spreadtrum",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "f5c3d257-d5f1-5017-9ef3-767960ffec20": {
+      "id": "f5c3d257-d5f1-5017-9ef3-767960ffec20",
+      "brand": "GIGABYTE",
+      "model": "GSmart Classic Lite",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Nov 01, 2015",
+        "battery_capacity": 2100.0,
+        "chipset": "Spreadtrum",
+        "attr_memory": 0.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "6a221ca7-07ba-5ec8-b093-0de2022b7610": {
+      "id": "6a221ca7-07ba-5ec8-b093-0de2022b7610",
+      "brand": "GIGABYTE",
+      "model": "GSmart Essence",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 1600.0,
+        "chipset": "Spreadtrum",
+        "attr_memory": 0.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "acc5352b-3edb-5ce7-9bf9-14704dcd5140": {
+      "id": "acc5352b-3edb-5ce7-9bf9-14704dcd5140",
+      "brand": "GIGABYTE",
+      "model": "GSmart Essence 4",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Nov 01, 2015",
+        "battery_capacity": 1300.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "25fa822e-ccc6-5e33-9db0-ab1c9d42fa04": {
+      "id": "25fa822e-ccc6-5e33-9db0-ab1c9d42fa04",
+      "brand": "GIGABYTE",
+      "model": "GSmart G1317D",
+      "attributes": {
+        "os": "Android 2.2",
+        "battery_capacity": 1260.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 400,
+        "camera_main": 3.0
+      }
+    },
+    "cfb6d529-155d-5f36-b863-55fcb2e06245": {
+      "id": "cfb6d529-155d-5f36-b863-55fcb2e06245",
+      "brand": "GIGABYTE",
+      "model": "GSmart G1355",
+      "attributes": {
+        "os": "Android 2.3",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "e972b3c8-972b-5bb9-b1c4-8b7766583dea": {
+      "id": "e972b3c8-972b-5bb9-b1c4-8b7766583dea",
+      "brand": "GIGABYTE",
+      "model": "GSmart GX2",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2200.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 2.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 2
+      }
+    },
+    "e4f277f8-1f08-5837-871d-aaebcd4d942b": {
+      "id": "e4f277f8-1f08-5837-871d-aaebcd4d942b",
+      "brand": "GIGABYTE",
+      "model": "GSmart Guru",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 2500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 32.0,
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "85d88358-3488-55ad-bbfc-3d2203723444": {
+      "id": "85d88358-3488-55ad-bbfc-3d2203723444",
+      "brand": "GIGABYTE",
+      "model": "GSmart Guru (White Edition)",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "3cfbcdec-2be0-5902-9696-938823cd7557": {
+      "id": "3cfbcdec-2be0-5902-9696-938823cd7557",
+      "brand": "GIGABYTE",
+      "model": "GSmart MS800",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.0",
+        "release_date": "Jun 12, 2008",
+        "battery_capacity": 1300.0,
+        "attr_memory": 0.06,
+        "storage": " microSD",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "7395f253-556d-5b39-8d19-8f2f6a31b8d9": {
+      "id": "7395f253-556d-5b39-8d19-8f2f6a31b8d9",
+      "brand": "GIGABYTE",
+      "model": "GSmart MS802",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.1",
+        "release_date": "Dec 12, 2008",
+        "battery_capacity": 1300.0,
+        "attr_memory": 0.1,
+        "storage": " microSD",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 3.0
+      }
+    },
+    "e5bf67c7-9f51-586e-b9f5-8d0288d66c96": {
+      "id": "e5bf67c7-9f51-586e-b9f5-8d0288d66c96",
+      "brand": "GIGABYTE",
+      "model": "GSmart MS820",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.1",
+        "release_date": "Apr 15, 2009",
+        "battery_capacity": 1300.0,
+        "attr_memory": 0.1,
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "attr_display resolution": 640,
+        "camera_main": 5.0
+      }
+    },
+    "e0b719d0-6566-593e-bd23-b8fa6e2d59a2": {
+      "id": "e0b719d0-6566-593e-bd23-b8fa6e2d59a2",
+      "brand": "GIGABYTE",
+      "model": "GSmart MW700",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.0",
+        "release_date": "Jun 30, 2008",
+        "battery_capacity": 1300.0,
+        "attr_memory": 0.06,
+        "storage": " microSD",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "f615580d-263d-5739-aaa7-d598659011af": {
+      "id": "f615580d-263d-5739-aaa7-d598659011af",
+      "brand": "GIGABYTE",
+      "model": "GSmart MW702",
+      "attributes": {
+        "release_date": "Dec 12, 2008",
+        "battery_capacity": 1300.0,
+        "attr_memory": 0.1,
+        "storage": " microSD",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 3.0
+      }
+    },
+    "b62f7b80-698d-5633-8d69-d3c4d7ec8391": {
+      "id": "b62f7b80-698d-5633-8d69-d3c4d7ec8391",
+      "brand": "GIGABYTE",
+      "model": "GSmart MW998",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.0",
+        "release_date": "Sep 30, 2008",
+        "battery_capacity": 1300.0,
+        "attr_memory": 0.06,
+        "storage": " microSD",
+        "display_size": 2.6,
+        "attr_display resolution": 640,
+        "camera_main": 2.0
+      }
+    },
+    "92c9f196-9996-58ea-aa93-cb1b6d3eb75d": {
+      "id": "92c9f196-9996-58ea-aa93-cb1b6d3eb75d",
+      "brand": "GIGABYTE",
+      "model": "GSmart Maya M1",
+      "attributes": {
+        "os": "Android 4.1",
+        "battery_capacity": 1700.0,
+        "attr_memory": 1.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "a12240d6-81e7-58e1-9e69-36277e3501fe": {
+      "id": "a12240d6-81e7-58e1-9e69-36277e3501fe",
+      "brand": "GIGABYTE",
+      "model": "GSmart Maya M1 v2",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 1700.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "58ec36ad-42b4-5391-a390-0bb430311145": {
+      "id": "58ec36ad-42b4-5391-a390-0bb430311145",
+      "brand": "GIGABYTE",
+      "model": "GSmart Mika M2",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "0284b1f4-d727-5af0-bd81-cc94d612ada2": {
+      "id": "0284b1f4-d727-5af0-bd81-cc94d612ada2",
+      "brand": "GIGABYTE",
+      "model": "GSmart Mika M3",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 1900.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "20ead5cc-9b49-53f8-a717-5855224f296b": {
+      "id": "20ead5cc-9b49-53f8-a717-5855224f296b",
+      "brand": "GIGABYTE",
+      "model": "GSmart Rey R3",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 1800.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 8.0,
+        "camera_front": 0.3
+      }
+    },
+    "ceca1e0b-1053-5ca1-9da4-c296892ef040": {
+      "id": "ceca1e0b-1053-5ca1-9da4-c296892ef040",
+      "brand": "GIGABYTE",
+      "model": "GSmart Rio R1",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "fb75a853-7c5c-5a43-84ae-7ce5f63a1f3c": {
+      "id": "fb75a853-7c5c-5a43-84ae-7ce5f63a1f3c",
+      "brand": "GIGABYTE",
+      "model": "GSmart Roma R2",
+      "attributes": {
+        "os": "Android 4.2",
+        "release_date": "Oct 01, 2013",
+        "battery_capacity": 1400.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "fa5ab33b-2285-5f6c-9152-688998abf74d": {
+      "id": "fa5ab33b-2285-5f6c-9152-688998abf74d",
+      "brand": "GIGABYTE",
+      "model": "GSmart S1200",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.5",
+        "release_date": "Jul 17, 2009",
+        "battery_capacity": 1010.0,
+        "attr_memory": 0.3,
+        "storage": " microSDHC",
+        "display_size": 3.1,
+        "attr_display resolution": 800,
+        "camera_main": 3.0
+      }
+    },
+    "601d7a98-409a-5a66-a080-3e0185d7e82f": {
+      "id": "601d7a98-409a-5a66-a080-3e0185d7e82f",
+      "brand": "GIGABYTE",
+      "model": "GSmart S1205",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.5",
+        "battery_capacity": 1320.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.1,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 400,
+        "camera_main": 3.0
+      }
+    },
+    "2d274e0b-d6e0-5843-8a2e-e0bb6fd87db2": {
+      "id": "2d274e0b-d6e0-5843-8a2e-e0bb6fd87db2",
+      "brand": "GIGABYTE",
+      "model": "GSmart Saga S3",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 6.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "1d629ccb-4127-5dab-8d04-d2bd6acc413b": {
+      "id": "1d629ccb-4127-5dab-8d04-d2bd6acc413b",
+      "brand": "GIGABYTE",
+      "model": "GSmart Sierra S1",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 2
+      }
+    },
+    "d03f8bad-ad48-5503-b182-9ef0d2dc7732": {
+      "id": "d03f8bad-ad48-5503-b182-9ef0d2dc7732",
+      "brand": "GIGABYTE",
+      "model": "GSmart Simba SX1",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 1900.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 1.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 2
+      }
+    },
+    "5131bdca-86cd-5cb0-a2aa-49483fc44297": {
+      "id": "5131bdca-86cd-5cb0-a2aa-49483fc44297",
+      "brand": "GIGABYTE",
+      "model": "GSmart T4",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 1400.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 8.0,
+        "camera_front": 0.3
+      }
+    },
+    "24352c9c-c64b-5335-8fb5-3d204e20331c": {
+      "id": "24352c9c-c64b-5335-8fb5-3d204e20331c",
+      "brand": "GIGABYTE",
+      "model": "GSmart T4 (Lite Edition)",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 1300.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "b772647a-b871-5649-bcfc-987c30204ba0": {
+      "id": "b772647a-b871-5649-bcfc-987c30204ba0",
+      "brand": "GIGABYTE",
+      "model": "GSmart Tuku T2",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S4 Play",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "6c24bdf9-7221-57da-8802-a73e2988dd21": {
+      "id": "6c24bdf9-7221-57da-8802-a73e2988dd21",
+      "brand": "GIGABYTE",
+      "model": "GSmart g-Smart",
+      "attributes": {
+        "os": "Windows Mobile Professional 5.0",
+        "battery_capacity": 1300.0,
+        "attr_memory": 0.06,
+        "storage": " miniSD",
+        "display_size": 2.4,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "7f2e1cb3-85ad-521f-b80d-15e03bc6d281": {
+      "id": "7f2e1cb3-85ad-521f-b80d-15e03bc6d281",
+      "brand": "GIGABYTE",
+      "model": "GSmart i",
+      "attributes": {
+        "os": "Windows Mobile Professional 5.0",
+        "battery_capacity": 1300.0,
+        "attr_memory": 0.06,
+        "storage": " miniSD",
+        "display_size": 2.4,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "03fa5e1d-01f0-50ea-8b44-2dc17c03fde5": {
+      "id": "03fa5e1d-01f0-50ea-8b44-2dc17c03fde5",
+      "brand": "GIGABYTE",
+      "model": "GSmart i120",
+      "attributes": {
+        "os": "Windows Mobile Professional 5.0",
+        "battery_capacity": 1300.0,
+        "attr_memory": 0.06,
+        "storage": " miniSD",
+        "display_size": 2.4,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "378d7929-37a1-56bc-97ae-a5dcdad3966e": {
+      "id": "378d7929-37a1-56bc-97ae-a5dcdad3966e",
+      "brand": "GIGABYTE",
+      "model": "GSmart i128",
+      "attributes": {
+        "os": "Windows Mobile Professional 5.0",
+        "battery_capacity": 1300.0,
+        "attr_memory": 0.06,
+        "storage": " miniSD",
+        "display_size": 2.4,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "46aa4894-d32b-533e-b2a7-b0a956e5e0f8": {
+      "id": "46aa4894-d32b-533e-b2a7-b0a956e5e0f8",
+      "brand": "GIGABYTE",
+      "model": "GSmart i300",
+      "attributes": {
+        "os": "Windows Mobile Professional 5.0",
+        "battery_capacity": 920.0,
+        "attr_memory": 0.06,
+        "storage": " miniSD",
+        "display_size": 2.4,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "ab65d491-49fd-506e-ace2-1e008894211f": {
+      "id": "ab65d491-49fd-506e-ace2-1e008894211f",
+      "brand": "GIGABYTE",
+      "model": "GSmart i350",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.0",
+        "battery_capacity": 1300.0,
+        "attr_memory": 0.06,
+        "storage": " miniSDHC",
+        "display_size": 2.6,
+        "attr_display resolution": 640,
+        "camera_main": 2.0
+      }
+    },
+    "718d85d5-f0bf-569b-a5a9-b1bebb1c1617": {
+      "id": "718d85d5-f0bf-569b-a5a9-b1bebb1c1617",
+      "brand": "GIGABYTE",
+      "model": "GSmart t600",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.0",
+        "release_date": "Jun 04, 2008",
+        "battery_capacity": 1300.0,
+        "attr_memory": 0.06,
+        "storage": " microSD",
+        "display_size": 2.6,
+        "attr_display resolution": 640,
+        "camera_main": 2.0
+      }
+    }
+  }
+}

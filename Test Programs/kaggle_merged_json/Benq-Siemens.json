@@ -1,0 +1,18 @@
+{
+  "brand": "Benq-Siemens",
+  "phones": {
+    "301d07c3-e405-5ea4-8d2d-3c4136c31359": {
+      "id": "301d07c3-e405-5ea4-8d2d-3c4136c31359",
+      "brand": "Benq-Siemens",
+      "model": "P51",
+      "attributes": {
+        "os": "Windows Mobile Professional 5.0",
+        "battery_capacity": 1370.0,
+        "attr_memory": 0.1,
+        "storage": " SD",
+        "attr_display resolution": 320,
+        "camera_main": 1.0
+      }
+    }
+  }
+}

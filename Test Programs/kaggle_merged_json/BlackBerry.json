@@ -1,0 +1,1311 @@
+{
+  "brand": "BlackBerry",
+  "phones": {
+    "6d96f205-5985-5cc5-9ca7-f98e29e7067b": {
+      "id": "6d96f205-5985-5cc5-9ca7-f98e29e7067b",
+      "brand": "BlackBerry",
+      "model": "KEYone",
+      "attributes": {
+        "attr_unnamed 0": 560,
+        "os": "Android",
+        "attr_popularity": 916,
+        "mrp": 5499.0,
+        "attr_highest price": 5849.0,
+        "attr_sellers amount": 2,
+        "display_size": 4.5,
+        "attr_memory size": 32.0,
+        "attr_battery size": 3505.0,
+        "release_date": 9,
+        "battery_capacity": 3505.0,
+        "chipset": "Qualcomm Snapdragon 625",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "attr_display resolution": 1620,
+        "camera_main": 12.0,
+        "camera_front": 8
+      }
+    },
+    "0f5231b6-8516-5fb0-bf27-7112cce7af65": {
+      "id": "0f5231b6-8516-5fb0-bf27-7112cce7af65",
+      "brand": "BlackBerry",
+      "model": "5810",
+      "attributes": {
+        "os": "BlackBerry "
+      }
+    },
+    "d54d61db-3b25-546c-8608-4d5f1cf6b27f": {
+      "id": "d54d61db-3b25-546c-8608-4d5f1cf6b27f",
+      "brand": "BlackBerry",
+      "model": "6210",
+      "attributes": {
+        "os": "BlackBerry "
+      }
+    },
+    "dfff9444-3083-50de-8718-20b591019e83": {
+      "id": "dfff9444-3083-50de-8718-20b591019e83",
+      "brand": "BlackBerry",
+      "model": "6280",
+      "attributes": {
+        "os": "BlackBerry "
+      }
+    },
+    "f20a385a-ef80-5141-ba81-b3a9634dfbaa": {
+      "id": "f20a385a-ef80-5141-ba81-b3a9634dfbaa",
+      "brand": "BlackBerry",
+      "model": "6510",
+      "attributes": {
+        "os": "BlackBerry ",
+        "battery_capacity": 900.0,
+        "attr_primary storage": 0.0,
+        "attr_display resolution": 100
+      }
+    },
+    "ff4c45e8-7a8c-55c0-9aae-1efd6ec3a54d": {
+      "id": "ff4c45e8-7a8c-55c0-9aae-1efd6ec3a54d",
+      "brand": "BlackBerry",
+      "model": "6710",
+      "attributes": {
+        "os": "BlackBerry ",
+        "attr_display resolution": 160
+      }
+    },
+    "9bebb0eb-041f-55c9-b798-8ff71dd38c32": {
+      "id": "9bebb0eb-041f-55c9-b798-8ff71dd38c32",
+      "brand": "BlackBerry",
+      "model": "6750",
+      "attributes": {
+        "os": "BlackBerry "
+      }
+    },
+    "c03ed501-3c25-5293-a549-ad1dab5025ef": {
+      "id": "c03ed501-3c25-5293-a549-ad1dab5025ef",
+      "brand": "BlackBerry",
+      "model": "7100g",
+      "attributes": {
+        "os": "BlackBerry ",
+        "attr_display resolution": 260
+      }
+    },
+    "82dcc65d-4a9d-535d-8e72-33bca449e9d6": {
+      "id": "82dcc65d-4a9d-535d-8e72-33bca449e9d6",
+      "brand": "BlackBerry",
+      "model": "7100i",
+      "attributes": {
+        "os": "BlackBerry ",
+        "battery_capacity": 1000.0,
+        "attr_primary storage": 0.0,
+        "attr_display resolution": 260
+      }
+    },
+    "ed91db4c-8776-5ac5-9342-ad8b74e00f71": {
+      "id": "ed91db4c-8776-5ac5-9342-ad8b74e00f71",
+      "brand": "BlackBerry",
+      "model": "7100t",
+      "attributes": {
+        "os": "BlackBerry ",
+        "attr_display resolution": 260
+      }
+    },
+    "7309636c-0b54-5cb8-87a0-fbbee74078ad": {
+      "id": "7309636c-0b54-5cb8-87a0-fbbee74078ad",
+      "brand": "BlackBerry",
+      "model": "7100v",
+      "attributes": {
+        "os": "BlackBerry ",
+        "attr_display resolution": 260
+      }
+    },
+    "550c35ac-6b86-507d-926b-f11508f1feb3": {
+      "id": "550c35ac-6b86-507d-926b-f11508f1feb3",
+      "brand": "BlackBerry",
+      "model": "7100x",
+      "attributes": {
+        "os": "BlackBerry ",
+        "attr_display resolution": 260
+      }
+    },
+    "d933fa47-4179-5aa2-a5ce-3b4147f5f9af": {
+      "id": "d933fa47-4179-5aa2-a5ce-3b4147f5f9af",
+      "brand": "BlackBerry",
+      "model": "7130c",
+      "attributes": {
+        "os": "BlackBerry ",
+        "battery_capacity": 1100.0,
+        "attr_memory": 0.02,
+        "attr_primary storage": 0.0,
+        "attr_display resolution": 260
+      }
+    },
+    "bf3cab86-0475-5a4a-9f60-53b4bac322c1": {
+      "id": "bf3cab86-0475-5a4a-9f60-53b4bac322c1",
+      "brand": "BlackBerry",
+      "model": "7130e",
+      "attributes": {
+        "os": "BlackBerry ",
+        "battery_capacity": 1000.0,
+        "attr_primary storage": 0.0,
+        "attr_display resolution": 260
+      }
+    },
+    "a335e1dc-305d-50b3-9826-54af41d036d2": {
+      "id": "a335e1dc-305d-50b3-9826-54af41d036d2",
+      "brand": "BlackBerry",
+      "model": "7230",
+      "attributes": {
+        "os": "BlackBerry ",
+        "attr_display resolution": 160
+      }
+    },
+    "405f0de5-0bc6-5085-b4be-449cd23df6e0": {
+      "id": "405f0de5-0bc6-5085-b4be-449cd23df6e0",
+      "brand": "BlackBerry",
+      "model": "7250",
+      "attributes": {
+        "os": "BlackBerry ",
+        "attr_display resolution": 160
+      }
+    },
+    "a1135d84-58be-594c-b635-6467144386a9": {
+      "id": "a1135d84-58be-594c-b635-6467144386a9",
+      "brand": "BlackBerry",
+      "model": "7280",
+      "attributes": {
+        "os": "BlackBerry ",
+        "attr_display resolution": 160
+      }
+    },
+    "1337d711-750e-5993-bce2-8144dbbbdfaa": {
+      "id": "1337d711-750e-5993-bce2-8144dbbbdfaa",
+      "brand": "BlackBerry",
+      "model": "7290",
+      "attributes": {
+        "os": "BlackBerry ",
+        "battery_capacity": 1000.0,
+        "attr_display resolution": 160
+      }
+    },
+    "24b23169-d31a-56cb-b8f3-ab5e2b9057c8": {
+      "id": "24b23169-d31a-56cb-b8f3-ab5e2b9057c8",
+      "brand": "BlackBerry",
+      "model": "7510",
+      "attributes": {
+        "os": "BlackBerry ",
+        "attr_display resolution": 160
+      }
+    },
+    "c154f193-faa5-57fa-8ec7-f9b2b3c593f5": {
+      "id": "c154f193-faa5-57fa-8ec7-f9b2b3c593f5",
+      "brand": "BlackBerry",
+      "model": "7520",
+      "attributes": {
+        "os": "BlackBerry ",
+        "battery_capacity": 900.0,
+        "attr_primary storage": 0.0,
+        "attr_display resolution": 160
+      }
+    },
+    "5490a0ca-68b6-541b-96d1-0eed425a0dd1": {
+      "id": "5490a0ca-68b6-541b-96d1-0eed425a0dd1",
+      "brand": "BlackBerry",
+      "model": "7730",
+      "attributes": {
+        "os": "BlackBerry ",
+        "attr_display resolution": 240
+      }
+    },
+    "eb1708b7-833b-5087-9895-567f20f0378f": {
+      "id": "eb1708b7-833b-5087-9895-567f20f0378f",
+      "brand": "BlackBerry",
+      "model": "7750",
+      "attributes": {
+        "os": "BlackBerry ",
+        "attr_display resolution": 240
+      }
+    },
+    "cdb208f2-ca5a-5d8c-8750-20a2e285ef47": {
+      "id": "cdb208f2-ca5a-5d8c-8750-20a2e285ef47",
+      "brand": "BlackBerry",
+      "model": "8700",
+      "attributes": {
+        "os": "BlackBerry ",
+        "attr_primary storage": 0.0,
+        "attr_display resolution": 240
+      }
+    },
+    "98986a6d-1957-5b24-a703-745d71d88b8b": {
+      "id": "98986a6d-1957-5b24-a703-745d71d88b8b",
+      "brand": "BlackBerry",
+      "model": "8703e",
+      "attributes": {
+        "os": "BlackBerry ",
+        "battery_capacity": 1100.0,
+        "attr_primary storage": 0.0,
+        "attr_display resolution": 240
+      }
+    },
+    "00e4867d-bcba-56aa-8120-3172ce347fa5": {
+      "id": "00e4867d-bcba-56aa-8120-3172ce347fa5",
+      "brand": "BlackBerry",
+      "model": "8800",
+      "attributes": {
+        "os": "BlackBerry 4.5.x",
+        "release_date": "Feb 01, 2007",
+        "battery_capacity": 1400.0,
+        "attr_primary storage": 0.0,
+        "storage": " microSD",
+        "attr_display resolution": 240
+      }
+    },
+    "ae6af78e-2c5c-58b8-9b89-5f0923b0a2e7": {
+      "id": "ae6af78e-2c5c-58b8-9b89-5f0923b0a2e7",
+      "brand": "BlackBerry",
+      "model": "8820",
+      "attributes": {
+        "os": "BlackBerry 4.5.x",
+        "battery_capacity": 1400.0,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "attr_display resolution": 240
+      }
+    },
+    "0f68e196-6858-55c9-b4b4-3b2e1fc7d0f4": {
+      "id": "0f68e196-6858-55c9-b4b4-3b2e1fc7d0f4",
+      "brand": "BlackBerry",
+      "model": "8830",
+      "attributes": {
+        "os": "BlackBerry 4.5.x",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.02,
+        "attr_primary storage": 0.0,
+        "storage": " microSD",
+        "attr_display resolution": 240
+      }
+    },
+    "d70cad2e-2d27-5ee8-8f82-240bc2121a54": {
+      "id": "d70cad2e-2d27-5ee8-8f82-240bc2121a54",
+      "brand": "BlackBerry",
+      "model": "9720",
+      "attributes": {
+        "os": "BlackBerry 7.1",
+        "release_date": "Aug 01, 2013",
+        "battery_capacity": 1450.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "attr_display resolution": 360,
+        "camera_main": 5.0
+      }
+    },
+    "175d51a2-908c-5cfc-b6c9-01d314adad37": {
+      "id": "175d51a2-908c-5cfc-b6c9-01d314adad37",
+      "brand": "BlackBerry",
+      "model": "Bold 9000",
+      "attributes": {
+        "os": "BlackBerry 5.0.x",
+        "release_date": "Aug 05, 2008",
+        "battery_capacity": 1500.0,
+        "attr_primary storage": 1.0,
+        "storage": " microSDHC",
+        "display_size": 2.6,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "381b611c-b196-59a1-9d97-129cd3679ae9": {
+      "id": "381b611c-b196-59a1-9d97-129cd3679ae9",
+      "brand": "BlackBerry",
+      "model": "Bold 9650",
+      "attributes": {
+        "os": "BlackBerry 5.0.x",
+        "release_date": "May 16, 2010",
+        "battery_capacity": 1400.0,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 2.4,
+        "attr_display resolution": 360,
+        "camera_main": 3.0
+      }
+    },
+    "72f34ed7-5d49-5d4b-950b-63a18425462c": {
+      "id": "72f34ed7-5d49-5d4b-950b-63a18425462c",
+      "brand": "BlackBerry",
+      "model": "Bold 9700",
+      "attributes": {
+        "os": "BlackBerry 5.0.x",
+        "release_date": "Nov 03, 2009",
+        "battery_capacity": 1500.0,
+        "storage": " microSDHC",
+        "display_size": 2.4,
+        "attr_display resolution": 360,
+        "camera_main": 3.0
+      }
+    },
+    "03993170-0019-536c-bbc3-8b12d1667638": {
+      "id": "03993170-0019-536c-bbc3-8b12d1667638",
+      "brand": "BlackBerry",
+      "model": "Bold 9700 T-Mobile",
+      "attributes": {
+        "os": "BlackBerry 5.0.x",
+        "release_date": "Nov 16, 2009",
+        "battery_capacity": 1500.0,
+        "storage": " microSDHC",
+        "display_size": 2.4,
+        "attr_display resolution": 360,
+        "camera_main": 3.0
+      }
+    },
+    "409421e9-1f66-536c-99f1-78aa3522b769": {
+      "id": "409421e9-1f66-536c-99f1-78aa3522b769",
+      "brand": "BlackBerry",
+      "model": "Bold 9780",
+      "attributes": {
+        "os": "BlackBerry 6.0.x",
+        "release_date": "Nov 14, 2010",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 2.4,
+        "attr_display resolution": 360,
+        "camera_main": 5.0
+      }
+    },
+    "3d64b6ed-865a-5f14-b3cd-1efb040139f4": {
+      "id": "3d64b6ed-865a-5f14-b3cd-1efb040139f4",
+      "brand": "BlackBerry",
+      "model": "Bold 9780 T-Mobile",
+      "attributes": {
+        "os": "BlackBerry 6.0.x",
+        "release_date": "Nov 17, 2010",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 2.4,
+        "attr_display resolution": 360,
+        "camera_main": 5.0
+      }
+    },
+    "570c0e1c-40df-59c9-a18e-bc46d0bddf96": {
+      "id": "570c0e1c-40df-59c9-a18e-bc46d0bddf96",
+      "brand": "BlackBerry",
+      "model": "Bold 9790",
+      "attributes": {
+        "os": "BlackBerry 7",
+        "battery_capacity": 1230.0,
+        "attr_memory": 0.75,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 2.5,
+        "attr_display resolution": 360,
+        "camera_main": 5.0
+      }
+    },
+    "8572e1c2-b740-56a0-8c61-9258ecbe22b9": {
+      "id": "8572e1c2-b740-56a0-8c61-9258ecbe22b9",
+      "brand": "BlackBerry",
+      "model": "Bold 9900",
+      "attributes": {
+        "os": "BlackBerry 7.1",
+        "release_date": "Aug 11, 2011",
+        "battery_capacity": 1230.0,
+        "attr_memory": 0.75,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "ce0812f6-f3e0-5cd5-8918-dde9a9130651": {
+      "id": "ce0812f6-f3e0-5cd5-8918-dde9a9130651",
+      "brand": "BlackBerry",
+      "model": "Bold 9930",
+      "attributes": {
+        "os": "BlackBerry 7.1",
+        "release_date": "Aug 15, 2011",
+        "battery_capacity": 1230.0,
+        "attr_memory": 0.75,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "5a914f61-c946-5d14-9412-de974c1c19a4": {
+      "id": "5a914f61-c946-5d14-9412-de974c1c19a4",
+      "brand": "BlackBerry",
+      "model": "Classic",
+      "attributes": {
+        "os": "BlackBerry 10.3",
+        "release_date": "Dec 17, 2014",
+        "battery_capacity": 2515.0,
+        "chipset": "Qualcomm Snapdragon S4",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 3.5,
+        "attr_display resolution": 720,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "bf699f61-b4cb-5c2d-bc93-8eec78d40d3b": {
+      "id": "bf699f61-b4cb-5c2d-bc93-8eec78d40d3b",
+      "brand": "BlackBerry",
+      "model": "Curve 3G",
+      "attributes": {
+        "os": "BlackBerry 6.0.x",
+        "battery_capacity": 1150.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 2.4,
+        "attr_display resolution": 240,
+        "camera_main": 2.0
+      }
+    },
+    "3b76ff86-8a6a-5ec3-b23e-84485f1160fa": {
+      "id": "3b76ff86-8a6a-5ec3-b23e-84485f1160fa",
+      "brand": "BlackBerry",
+      "model": "Curve 3G 9330",
+      "attributes": {
+        "os": "BlackBerry 5.0.x",
+        "release_date": "Sep 16, 2010",
+        "battery_capacity": 1150.0,
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 2.4,
+        "attr_display resolution": 240,
+        "camera_main": 2.0
+      }
+    },
+    "8d3d127b-822b-5da4-85b4-ccd744e3c925": {
+      "id": "8d3d127b-822b-5da4-85b4-ccd744e3c925",
+      "brand": "BlackBerry",
+      "model": "Curve 3G T-Mobile",
+      "attributes": {
+        "os": "BlackBerry 6.0.x",
+        "release_date": "Sep 08, 2010",
+        "battery_capacity": 1150.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 2.4,
+        "attr_display resolution": 240,
+        "camera_main": 2.0
+      }
+    },
+    "0bd5dfa9-5d93-5faa-b5a6-666012f1b374": {
+      "id": "0bd5dfa9-5d93-5faa-b5a6-666012f1b374",
+      "brand": "BlackBerry",
+      "model": "Curve 8300",
+      "attributes": {
+        "os": "BlackBerry ",
+        "battery_capacity": 1100.0,
+        "storage": " microSD",
+        "attr_display resolution": 240,
+        "camera_main": 2.0
+      }
+    },
+    "64c7a7bf-a624-5073-8a5f-4fe1fc758eaa": {
+      "id": "64c7a7bf-a624-5073-8a5f-4fe1fc758eaa",
+      "brand": "BlackBerry",
+      "model": "Curve 8310",
+      "attributes": {
+        "os": "BlackBerry ",
+        "battery_capacity": 1100.0,
+        "storage": " microSD",
+        "attr_display resolution": 240,
+        "camera_main": 2.0
+      }
+    },
+    "140ec8b0-c212-52db-a971-026bdb0e48ad": {
+      "id": "140ec8b0-c212-52db-a971-026bdb0e48ad",
+      "brand": "BlackBerry",
+      "model": "Curve 8320",
+      "attributes": {
+        "os": "BlackBerry ",
+        "battery_capacity": 1100.0,
+        "storage": " microSD",
+        "attr_display resolution": 240,
+        "camera_main": 2.0
+      }
+    },
+    "50349e06-ca33-500e-b7ad-36e7bf2e3e7c": {
+      "id": "50349e06-ca33-500e-b7ad-36e7bf2e3e7c",
+      "brand": "BlackBerry",
+      "model": "Curve 8330",
+      "attributes": {
+        "os": "BlackBerry ",
+        "battery_capacity": 1150.0,
+        "storage": " microSDHC",
+        "attr_display resolution": 240,
+        "camera_main": 2.0
+      }
+    },
+    "b3c646fa-8124-505d-b9a8-08812c64ebf0": {
+      "id": "b3c646fa-8124-505d-b9a8-08812c64ebf0",
+      "brand": "BlackBerry",
+      "model": "Curve 8350i",
+      "attributes": {
+        "os": "BlackBerry 4.6.x",
+        "release_date": "Dec 15, 2008",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.1,
+        "storage": " microSDHC",
+        "attr_display resolution": 240,
+        "camera_main": 2.0
+      }
+    },
+    "4fbdc351-f13b-5b98-b134-35d1e77258d8": {
+      "id": "4fbdc351-f13b-5b98-b134-35d1e77258d8",
+      "brand": "BlackBerry",
+      "model": "Curve 8520",
+      "attributes": {
+        "os": "BlackBerry ",
+        "release_date": "Aug 03, 2009",
+        "battery_capacity": 1150.0,
+        "attr_memory": 0.1,
+        "storage": " microSDHC",
+        "display_size": 2.6,
+        "attr_display resolution": 240,
+        "camera_main": 2.0
+      }
+    },
+    "35c44af4-0e85-5d09-80cc-3dfd381fcf40": {
+      "id": "35c44af4-0e85-5d09-80cc-3dfd381fcf40",
+      "brand": "BlackBerry",
+      "model": "Curve 8530",
+      "attributes": {
+        "os": "BlackBerry 5.0.x",
+        "release_date": "Nov 20, 2009",
+        "battery_capacity": 1150.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "storage": " microSDHC",
+        "display_size": 2.4,
+        "attr_display resolution": 240,
+        "camera_main": 2.0
+      }
+    },
+    "91f04e32-b467-58ea-9363-f73d559a40e9": {
+      "id": "91f04e32-b467-58ea-9363-f73d559a40e9",
+      "brand": "BlackBerry",
+      "model": "Curve 8900",
+      "attributes": {
+        "os": "BlackBerry 4.7.x",
+        "release_date": "Nov 14, 2008",
+        "battery_capacity": 1400.0,
+        "storage": " microSDHC",
+        "display_size": 2.4,
+        "attr_display resolution": 360,
+        "camera_main": 3.0
+      }
+    },
+    "362242e0-f231-5aec-8588-bdacde1de24a": {
+      "id": "362242e0-f231-5aec-8588-bdacde1de24a",
+      "brand": "BlackBerry",
+      "model": "Curve 9220",
+      "attributes": {
+        "os": "BlackBerry 7.1",
+        "battery_capacity": 1450.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 2.4,
+        "attr_display resolution": 240,
+        "camera_main": 2.0
+      }
+    },
+    "b9aa88dc-7d4f-567e-9883-46710d196779": {
+      "id": "b9aa88dc-7d4f-567e-9883-46710d196779",
+      "brand": "BlackBerry",
+      "model": "Curve 9310",
+      "attributes": {
+        "os": "BlackBerry 7.1",
+        "release_date": "Jul 12, 2012",
+        "battery_capacity": 1450.0,
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 2.4,
+        "attr_display resolution": 240,
+        "camera_main": 3.0
+      }
+    },
+    "c35ad7d8-0f86-503e-99a8-3cfd518ccfde": {
+      "id": "c35ad7d8-0f86-503e-99a8-3cfd518ccfde",
+      "brand": "BlackBerry",
+      "model": "Curve 9315",
+      "attributes": {
+        "os": "BlackBerry 7.1",
+        "battery_capacity": 1450.0,
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 2.4,
+        "attr_display resolution": 240,
+        "camera_main": 3.0
+      }
+    },
+    "a3c33b56-0d2a-54f1-be07-9be465624ee1": {
+      "id": "a3c33b56-0d2a-54f1-be07-9be465624ee1",
+      "brand": "BlackBerry",
+      "model": "Curve 9320",
+      "attributes": {
+        "os": "BlackBerry 7.1",
+        "battery_capacity": 1450.0,
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 2.4,
+        "attr_display resolution": 240,
+        "camera_main": 3.0
+      }
+    },
+    "a71a950c-3265-544a-a12a-d73bc99a9caa": {
+      "id": "a71a950c-3265-544a-a12a-d73bc99a9caa",
+      "brand": "BlackBerry",
+      "model": "Curve 9350",
+      "attributes": {
+        "os": "BlackBerry 7",
+        "release_date": "Oct 02, 2011",
+        "battery_capacity": 1000.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 2.4,
+        "attr_display resolution": 360,
+        "camera_main": 5.0
+      }
+    },
+    "ecd25094-d246-516c-9311-b07c9a8cd3dc": {
+      "id": "ecd25094-d246-516c-9311-b07c9a8cd3dc",
+      "brand": "BlackBerry",
+      "model": "Curve 9360",
+      "attributes": {
+        "os": "BlackBerry 7.1",
+        "release_date": "Sep 28, 2011",
+        "battery_capacity": 1000.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 2.4,
+        "attr_display resolution": 360,
+        "camera_main": 5.0
+      }
+    },
+    "dce1b827-a2d6-5798-b76a-54ce56831a9d": {
+      "id": "dce1b827-a2d6-5798-b76a-54ce56831a9d",
+      "brand": "BlackBerry",
+      "model": "Curve 9370",
+      "attributes": {
+        "os": "BlackBerry 7",
+        "battery_capacity": 1000.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 1.0,
+        "storage": " microSDHC",
+        "display_size": 2.4,
+        "attr_display resolution": 360,
+        "camera_main": 5.0
+      }
+    },
+    "395964fb-9010-5705-858b-c21a64f15338": {
+      "id": "395964fb-9010-5705-858b-c21a64f15338",
+      "brand": "BlackBerry",
+      "model": "Curve 9380",
+      "attributes": {
+        "os": "BlackBerry 7.1",
+        "battery_capacity": 1230.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "5b3da512-0dae-52d0-9d23-f6229315ade0": {
+      "id": "5b3da512-0dae-52d0-9d23-f6229315ade0",
+      "brand": "BlackBerry",
+      "model": "DTEK50",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Jul 26, 2016",
+        "battery_capacity": 2610.0,
+        "chipset": "Qualcomm Snapdragon 617",
+        "attr_memory": 3.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "dde19ad3-ab90-580b-bea6-89ec84915907": {
+      "id": "dde19ad3-ab90-580b-bea6-89ec84915907",
+      "brand": "BlackBerry",
+      "model": "DTEK60",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Oct 25, 2016",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 820",
+        "attr_memory": 4.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 2560,
+        "camera_main": 21.0,
+        "camera_front": 8
+      }
+    },
+    "504dc7b5-fa12-515c-971d-be10d322581d": {
+      "id": "504dc7b5-fa12-515c-971d-be10d322581d",
+      "brand": "BlackBerry",
+      "model": "Evolve X",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "release_date": "August 2018",
+        "battery_capacity": 4000.0,
+        "chipset": "Qualcomm Snapdragon 660",
+        "attr_memory": 6.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 2160,
+        "refresh_rate": 60.0,
+        "camera_main": 12.0,
+        "camera_front": 16
+      }
+    },
+    "03171478-f394-5569-85f2-093cdb91d616": {
+      "id": "03171478-f394-5569-85f2-093cdb91d616",
+      "brand": "BlackBerry",
+      "model": "KEY2",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "release_date": "Jul 06, 2018",
+        "battery_capacity": 3500.0,
+        "chipset": "Qualcomm Snapdragon 660",
+        "attr_memory": 6.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 4.5,
+        "attr_display resolution": 1620,
+        "camera_main": 12.0,
+        "camera_front": 8
+      }
+    },
+    "9eeb077f-dd04-5163-a13a-7e40cb59bc60": {
+      "id": "9eeb077f-dd04-5163-a13a-7e40cb59bc60",
+      "brand": "BlackBerry",
+      "model": "KEY2 LE",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "release_date": "Oct 12, 2018",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 636",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 4.5,
+        "attr_display resolution": 1620,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "4f5f18f4-d03e-5672-b5b3-041efd35c99c": {
+      "id": "4f5f18f4-d03e-5672-b5b3-041efd35c99c",
+      "brand": "BlackBerry",
+      "model": "Kickstart 8210",
+      "attributes": {
+        "os": "BlackBerry ",
+        "battery_capacity": 900.0,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 2.6,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "45d2f40b-c202-5f23-a6a3-b963960329fa": {
+      "id": "45d2f40b-c202-5f23-a6a3-b963960329fa",
+      "brand": "BlackBerry",
+      "model": "Leap",
+      "attributes": {
+        "os": "BlackBerry 10.3",
+        "battery_capacity": 2800.0,
+        "chipset": "Qualcomm Snapdragon S4 Plus",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "bbd74d43-7ecc-51e4-b2cf-56e82df5bc71": {
+      "id": "bbd74d43-7ecc-51e4-b2cf-56e82df5bc71",
+      "brand": "BlackBerry",
+      "model": "Motion",
+      "attributes": {
+        "os": "Android 8.0 Oreo",
+        "release_date": "Nov 17, 2017",
+        "battery_capacity": 4000.0,
+        "chipset": "Qualcomm Snapdragon 625",
+        "attr_memory": 4.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 12.0,
+        "camera_front": 8
+      }
+    },
+    "6fc35c57-0a1e-5652-992a-16db1ea3fedc": {
+      "id": "6fc35c57-0a1e-5652-992a-16db1ea3fedc",
+      "brand": "BlackBerry",
+      "model": "Passport",
+      "attributes": {
+        "os": "BlackBerry 10.3",
+        "release_date": "Sep 24, 2014",
+        "battery_capacity": 3450.0,
+        "chipset": "Qualcomm Snapdragon 801",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 4.5,
+        "attr_display resolution": 1440,
+        "camera_main": 13.0,
+        "camera_front": 2
+      }
+    },
+    "ab7ee34d-28e7-527c-b4fa-25844d17d669": {
+      "id": "ab7ee34d-28e7-527c-b4fa-25844d17d669",
+      "brand": "BlackBerry",
+      "model": "Pearl 3G",
+      "attributes": {
+        "os": "BlackBerry 5.0.x",
+        "release_date": "Jul 28, 2010",
+        "battery_capacity": 1150.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "attr_display resolution": 400,
+        "camera_main": 3.0
+      }
+    },
+    "de4bcd22-bf2d-58bc-a2a6-14207a3723c5": {
+      "id": "de4bcd22-bf2d-58bc-a2a6-14207a3723c5",
+      "brand": "BlackBerry",
+      "model": "Pearl 8100",
+      "attributes": {
+        "os": "BlackBerry ",
+        "battery_capacity": 900.0,
+        "attr_memory": 0.03,
+        "storage": " microSD",
+        "attr_display resolution": 260,
+        "camera_main": 1.0
+      }
+    },
+    "0045c98d-d75f-5502-8a78-ce7b7d87590a": {
+      "id": "0045c98d-d75f-5502-8a78-ce7b7d87590a",
+      "brand": "BlackBerry",
+      "model": "Pearl 8110",
+      "attributes": {
+        "os": "BlackBerry ",
+        "battery_capacity": 900.0,
+        "attr_memory": 0.03,
+        "storage": " microSDHC",
+        "attr_display resolution": 260,
+        "camera_main": 2.0
+      }
+    },
+    "56813b6d-48fc-5fc0-a6cd-cb45b249c691": {
+      "id": "56813b6d-48fc-5fc0-a6cd-cb45b249c691",
+      "brand": "BlackBerry",
+      "model": "Pearl 8120",
+      "attributes": {
+        "os": "BlackBerry ",
+        "battery_capacity": 900.0,
+        "attr_memory": 0.03,
+        "storage": " microSD",
+        "attr_display resolution": 260,
+        "camera_main": 2.0
+      }
+    },
+    "ceb2b370-8e05-5def-817a-f3a5b964c5c7": {
+      "id": "ceb2b370-8e05-5def-817a-f3a5b964c5c7",
+      "brand": "BlackBerry",
+      "model": "Pearl 8130",
+      "attributes": {
+        "os": "BlackBerry ",
+        "battery_capacity": 900.0,
+        "storage": " microSD",
+        "attr_display resolution": 260,
+        "camera_main": 2.0
+      }
+    },
+    "e2dfb7d8-4413-564d-98ad-e3a746c25c29": {
+      "id": "e2dfb7d8-4413-564d-98ad-e3a746c25c29",
+      "brand": "BlackBerry",
+      "model": "Pearl 9105",
+      "attributes": {
+        "os": "BlackBerry 5.0.x",
+        "battery_capacity": 1150.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "attr_display resolution": 400,
+        "camera_main": 3.0
+      }
+    },
+    "e78e9187-9d3e-55d1-ab10-9f1a96ef3a34": {
+      "id": "e78e9187-9d3e-55d1-ab10-9f1a96ef3a34",
+      "brand": "BlackBerry",
+      "model": "Pearl Flip 8220",
+      "attributes": {
+        "os": "BlackBerry ",
+        "release_date": "Oct 06, 2008",
+        "battery_capacity": 900.0,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 2.6,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "cb2efa5a-43b9-5ee4-a6c9-d14d4aaad0a9": {
+      "id": "cb2efa5a-43b9-5ee4-a6c9-d14d4aaad0a9",
+      "brand": "BlackBerry",
+      "model": "Pearl Flip 8230",
+      "attributes": {
+        "os": "BlackBerry ",
+        "release_date": "Feb 28, 2009",
+        "battery_capacity": 900.0,
+        "attr_memory": 0.1,
+        "storage": " microSDHC",
+        "display_size": 2.6,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "c0e61713-2cb8-5841-9cf9-b824c480c80b": {
+      "id": "c0e61713-2cb8-5841-9cf9-b824c480c80b",
+      "brand": "BlackBerry",
+      "model": "Porsche Design P'9981",
+      "attributes": {
+        "os": "BlackBerry 7",
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.75,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "d42b10fb-70ab-5f32-b240-063417f45497": {
+      "id": "d42b10fb-70ab-5f32-b240-063417f45497",
+      "brand": "BlackBerry",
+      "model": "Porsche Design P'9983",
+      "attributes": {
+        "os": "BlackBerry 10.3",
+        "battery_capacity": 2100.0,
+        "chipset": "Qualcomm Snapdragon S4",
+        "attr_memory": 2.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 3.1,
+        "attr_display resolution": 720,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "a496e0b5-9968-5603-962c-a609768fdef5": {
+      "id": "a496e0b5-9968-5603-962c-a609768fdef5",
+      "brand": "BlackBerry",
+      "model": "Priv",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Nov 06, 2015",
+        "battery_capacity": 3410.0,
+        "chipset": "Qualcomm Snapdragon 808",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.4,
+        "attr_display resolution": 2560,
+        "camera_main": 18.0,
+        "camera_front": 2
+      }
+    },
+    "4d65e235-09d0-5a06-8711-b183a4043ff3": {
+      "id": "4d65e235-09d0-5a06-8711-b183a4043ff3",
+      "brand": "BlackBerry",
+      "model": "Q10",
+      "attributes": {
+        "os": "BlackBerry 10.3",
+        "release_date": "Apr 30, 2013",
+        "battery_capacity": 2100.0,
+        "chipset": "Qualcomm Snapdragon S4 Plus",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 3.1,
+        "attr_display resolution": 720,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "e742cfcf-7f99-5039-95bf-0cb2e26fd643": {
+      "id": "e742cfcf-7f99-5039-95bf-0cb2e26fd643",
+      "brand": "BlackBerry",
+      "model": "Q5",
+      "attributes": {
+        "os": "BlackBerry 10.3",
+        "battery_capacity": 2180.0,
+        "chipset": "Qualcomm Snapdragon",
+        "attr_memory": 2.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 3.1,
+        "attr_display resolution": 720,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "69fdbac1-6c98-53f4-9b8b-c949c09aca36": {
+      "id": "69fdbac1-6c98-53f4-9b8b-c949c09aca36",
+      "brand": "BlackBerry",
+      "model": "R10",
+      "attributes": {
+        "os": "BlackBerry 10",
+        "battery_capacity": 2180.0,
+        "attr_memory": 2.0,
+        "attr_primary storage": 8.0,
+        "display_size": 3.1,
+        "attr_display resolution": 720,
+        "camera_main": 5.0
+      }
+    },
+    "be36bbe2-a046-583e-9527-276fd436c5ce": {
+      "id": "be36bbe2-a046-583e-9527-276fd436c5ce",
+      "brand": "BlackBerry",
+      "model": "Storm 9500",
+      "attributes": {
+        "os": "BlackBerry 4.7.x",
+        "release_date": "Nov 14, 2008",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.1,
+        "attr_primary storage": 1.0,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "8c2c71b6-1da7-5535-b85e-4777c25b2439": {
+      "id": "8c2c71b6-1da7-5535-b85e-4777c25b2439",
+      "brand": "BlackBerry",
+      "model": "Storm 9530",
+      "attributes": {
+        "os": "BlackBerry 4.7.x",
+        "release_date": "Nov 21, 2008",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.1,
+        "attr_primary storage": 1.0,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "81717a28-6fbb-54b4-846b-a1a80427a647": {
+      "id": "81717a28-6fbb-54b4-846b-a1a80427a647",
+      "brand": "BlackBerry",
+      "model": "Storm2 9520",
+      "attributes": {
+        "os": "BlackBerry 5.0.x",
+        "release_date": "Oct 29, 2009",
+        "battery_capacity": 1400.0,
+        "attr_primary storage": 2.0,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "aaf70350-5039-5b49-9d6a-9fd7d886936e": {
+      "id": "aaf70350-5039-5b49-9d6a-9fd7d886936e",
+      "brand": "BlackBerry",
+      "model": "Storm2 9550",
+      "attributes": {
+        "os": "BlackBerry 5.0.x",
+        "release_date": "Oct 28, 2009",
+        "battery_capacity": 1400.0,
+        "attr_primary storage": 2.0,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "04100975-d352-5835-a7d8-9be000faf6c3": {
+      "id": "04100975-d352-5835-a7d8-9be000faf6c3",
+      "brand": "BlackBerry",
+      "model": "Style 9670",
+      "attributes": {
+        "os": "BlackBerry 6.0.x",
+        "release_date": "Oct 31, 2010",
+        "battery_capacity": 1150.0,
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "attr_display resolution": 400,
+        "camera_main": 5.0
+      }
+    },
+    "56c48512-031f-530f-aef7-c8186efb3e7d": {
+      "id": "56c48512-031f-530f-aef7-c8186efb3e7d",
+      "brand": "BlackBerry",
+      "model": "Torch 9800",
+      "attributes": {
+        "os": "BlackBerry 6.0.x",
+        "release_date": "Aug 12, 2010",
+        "battery_capacity": 1300.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "4125539d-7655-5893-a675-64a12211ad5f": {
+      "id": "4125539d-7655-5893-a675-64a12211ad5f",
+      "brand": "BlackBerry",
+      "model": "Torch 9810",
+      "attributes": {
+        "os": "BlackBerry 7.1",
+        "release_date": "Aug 11, 2011",
+        "battery_capacity": 1270.0,
+        "attr_memory": 0.75,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 640,
+        "camera_main": 5.0
+      }
+    },
+    "e7dc8eca-b2cd-5b8d-8e98-7ceb0b2ab82d": {
+      "id": "e7dc8eca-b2cd-5b8d-8e98-7ceb0b2ab82d",
+      "brand": "BlackBerry",
+      "model": "Torch 9850",
+      "attributes": {
+        "os": "BlackBerry 7.1",
+        "release_date": "Aug 21, 2011",
+        "battery_capacity": 1230.0,
+        "attr_memory": 0.75,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 3.7,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "f9cf2151-c466-5af0-b752-1828756f97e9": {
+      "id": "f9cf2151-c466-5af0-b752-1828756f97e9",
+      "brand": "BlackBerry",
+      "model": "Torch 9860",
+      "attributes": {
+        "os": "BlackBerry 7",
+        "release_date": "Nov 06, 2011",
+        "battery_capacity": 1230.0,
+        "attr_memory": 0.75,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 3.7,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "82556077-a6c2-52e1-9937-26d4a0db9b91": {
+      "id": "82556077-a6c2-52e1-9937-26d4a0db9b91",
+      "brand": "BlackBerry",
+      "model": "Tour 9630",
+      "attributes": {
+        "os": "BlackBerry ",
+        "release_date": "Jul 12, 2009",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 2.4,
+        "attr_display resolution": 360,
+        "camera_main": 3.0
+      }
+    },
+    "8573b190-1937-5584-ac38-48d12acf8192": {
+      "id": "8573b190-1937-5584-ac38-48d12acf8192",
+      "brand": "BlackBerry",
+      "model": "Z10",
+      "attributes": {
+        "os": "BlackBerry 10.3",
+        "release_date": "Jan 31, 2013",
+        "battery_capacity": 1800.0,
+        "chipset": "Qualcomm Snapdragon S4 Plus",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 4.2,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "41245737-85ac-5bbe-b469-367b5c782c5c": {
+      "id": "41245737-85ac-5bbe-b469-367b5c782c5c",
+      "brand": "BlackBerry",
+      "model": "Z20",
+      "attributes": {
+        "os": "BlackBerry ",
+        "battery_capacity": 2800.0,
+        "chipset": "Qualcomm Snapdragon S4",
+        "attr_memory": 2.0,
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "4001b13f-8091-5b95-95e8-b31d6e8c6171": {
+      "id": "4001b13f-8091-5b95-95e8-b31d6e8c6171",
+      "brand": "BlackBerry",
+      "model": "Z3",
+      "attributes": {
+        "os": "BlackBerry 10.3",
+        "battery_capacity": 2500.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 1.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 1.1
+      }
+    },
+    "761733f6-8bce-5ab5-8801-d14953620402": {
+      "id": "761733f6-8bce-5ab5-8801-d14953620402",
+      "brand": "BlackBerry",
+      "model": "Z30",
+      "attributes": {
+        "os": "BlackBerry 10.3",
+        "battery_capacity": 2880.0,
+        "chipset": "Qualcomm Snapdragon S4 Pro",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    }
+  }
+}

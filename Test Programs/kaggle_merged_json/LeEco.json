@@ -1,0 +1,51 @@
+{
+  "brand": "LeEco",
+  "phones": {
+    "bac9e646-99de-5506-8fb4-32ab25598bec": {
+      "id": "bac9e646-99de-5506-8fb4-32ab25598bec",
+      "brand": "LeEco",
+      "model": "S1 Pro",
+      "attributes": {
+        "price": "₹10,999",
+        "rating": 65.0,
+        "sim": "Dual Sim, 3G, 4G, VoLTE, Wi-Fi",
+        "chipset": "Tiger T7150, Quad Core, 1.8 GHz Processor",
+        "ram": 8,
+        "battery_capacity": 5000,
+        "display_size": 6.5,
+        "camera_main": 13,
+        "attr_card": "Android v11",
+        "os": "No FM Radio"
+      }
+    },
+    "2599c3e3-47c1-5fb9-8bb8-741b922b0729": {
+      "id": "2599c3e3-47c1-5fb9-8bb8-741b922b0729",
+      "brand": "leeco",
+      "model": "LeEco S1 Pro",
+      "attributes": {
+        "price": 10999,
+        "rating": 6.5,
+        "attr_5g or not": 0,
+        "attr_processor brand": "tiger",
+        "attr_num cores": 4.0,
+        "attr_processor speed": 1.8,
+        "battery_capacity": 5000.0,
+        "attr_fast charging available": 1,
+        "charging": 10.0,
+        "attr_ram capacity": 8,
+        "attr_internal memory": 128,
+        "display_size": 6.5,
+        "refresh_rate": 60,
+        "camera_main": 5.0,
+        "os": "android",
+        "attr_extended memory available": 0,
+        "attr_resolution height": 1600,
+        "attr_resolution width": 720,
+        "attr_has 5g": false,
+        "attr_has nfc": false,
+        "attr_has ir blaster": false,
+        "camera_front": 1.0
+      }
+    }
+  }
+}

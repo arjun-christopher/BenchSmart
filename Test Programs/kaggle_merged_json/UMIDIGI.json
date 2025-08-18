@@ -1,0 +1,71 @@
+{
+  "brand": "UMIDIGI",
+  "phones": {
+    "0bad60dd-b588-5631-9028-2883299c4b3c": {
+      "id": "0bad60dd-b588-5631-9028-2883299c4b3c",
+      "brand": "UMIDIGI",
+      "model": "A7 Pro 4/128GB Black",
+      "attributes": {
+        "attr_unnamed 0": 171,
+        "os": "Android",
+        "attr_popularity": 29,
+        "mrp": 3499.0,
+        "attr_highest price": 4104.0,
+        "attr_sellers amount": 4,
+        "display_size": 6.3,
+        "attr_memory size": 128.0,
+        "attr_battery size": 4150.0,
+        "release_date": 8
+      }
+    },
+    "5367f1ef-539d-5b47-8d29-a4af8acadeac": {
+      "id": "5367f1ef-539d-5b47-8d29-a4af8acadeac",
+      "brand": "UMIDIGI",
+      "model": "A7 Pro 4/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 173,
+        "os": "Android",
+        "attr_popularity": 419,
+        "mrp": 3149.0,
+        "attr_highest price": 3506.0,
+        "attr_sellers amount": 2,
+        "display_size": 6.3,
+        "attr_memory size": 64.0,
+        "attr_battery size": 4150.0,
+        "release_date": 6
+      }
+    },
+    "03740615-8a2c-5983-be97-0d46021b9a02": {
+      "id": "03740615-8a2c-5983-be97-0d46021b9a02",
+      "brand": "UMIDIGI",
+      "model": "A7S 2/32GB Black",
+      "attributes": {
+        "attr_unnamed 0": 176,
+        "os": "Android",
+        "attr_popularity": 622,
+        "attr_sellers amount": 1,
+        "display_size": 6.53,
+        "attr_memory size": 32.0,
+        "attr_battery size": 4150.0,
+        "release_date": 11
+      }
+    },
+    "83fcc6a6-b85a-5ab8-97a7-9aafc4ed4ad1": {
+      "id": "83fcc6a6-b85a-5ab8-97a7-9aafc4ed4ad1",
+      "brand": "UMIDIGI",
+      "model": "Bison 6/128GB Red",
+      "attributes": {
+        "attr_unnamed 0": 253,
+        "os": "Android",
+        "attr_popularity": 884,
+        "mrp": 4940.0,
+        "attr_highest price": 5049.0,
+        "attr_sellers amount": 4,
+        "display_size": 6.3,
+        "attr_memory size": 128.0,
+        "attr_battery size": 5000.0,
+        "release_date": 12
+      }
+    }
+  }
+}

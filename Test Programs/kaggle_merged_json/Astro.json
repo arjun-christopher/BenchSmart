@@ -1,0 +1,107 @@
+{
+  "brand": "Astro",
+  "phones": {
+    "f5652185-985e-54f6-a664-dd20e16a13de": {
+      "id": "f5652185-985e-54f6-a664-dd20e16a13de",
+      "brand": "Astro",
+      "model": "A144 Black/Red",
+      "attributes": {
+        "attr_unnamed 0": 141,
+        "attr_popularity": 519,
+        "mrp": 199.0,
+        "attr_highest price": 229.0,
+        "attr_sellers amount": 2,
+        "display_size": 1.77,
+        "attr_memory size": 0.032,
+        "attr_battery size": 600.0,
+        "release_date": 9
+      }
+    },
+    "d3870752-c88d-5d11-af31-b68f023e8760": {
+      "id": "d3870752-c88d-5d11-af31-b68f023e8760",
+      "brand": "Astro",
+      "model": "A167 Black/Red",
+      "attributes": {
+        "attr_unnamed 0": 142,
+        "attr_popularity": 172,
+        "attr_sellers amount": 3,
+        "display_size": 3.2,
+        "attr_battery size": 1000.0,
+        "release_date": 10
+      }
+    },
+    "ee5ac07b-17a0-5811-80fa-42a177d84d18": {
+      "id": "ee5ac07b-17a0-5811-80fa-42a177d84d18",
+      "brand": "Astro",
+      "model": "A169 Black Gray",
+      "attributes": {
+        "attr_unnamed 0": 145,
+        "attr_popularity": 11,
+        "attr_sellers amount": 2,
+        "display_size": 1.77,
+        "attr_battery size": 1000.0,
+        "release_date": 4
+      }
+    },
+    "e534e805-c9fe-5495-89c5-2e4aea3e029b": {
+      "id": "e534e805-c9fe-5495-89c5-2e4aea3e029b",
+      "brand": "Astro",
+      "model": "A173 Black/Orange",
+      "attributes": {
+        "attr_unnamed 0": 151,
+        "attr_popularity": 204,
+        "attr_sellers amount": 1,
+        "display_size": 1.77,
+        "attr_memory size": 0.032,
+        "attr_battery size": 800.0,
+        "release_date": 6
+      }
+    },
+    "e0cdb60c-45f1-5448-86a4-acc1530153b0": {
+      "id": "e0cdb60c-45f1-5448-86a4-acc1530153b0",
+      "brand": "Astro",
+      "model": "A225 Black",
+      "attributes": {
+        "attr_unnamed 0": 152,
+        "attr_popularity": 295,
+        "attr_sellers amount": 1,
+        "display_size": 2.4,
+        "attr_memory size": 0.032,
+        "attr_battery size": 1000.0,
+        "release_date": 6
+      }
+    },
+    "e765ac68-8715-5810-9973-b3c93f269f5d": {
+      "id": "e765ac68-8715-5810-9973-b3c93f269f5d",
+      "brand": "Astro",
+      "model": "B200RX (White)",
+      "attributes": {
+        "attr_unnamed 0": 210,
+        "attr_popularity": 390,
+        "mrp": 552.0,
+        "attr_highest price": 799.0,
+        "attr_sellers amount": 30,
+        "display_size": 2.0,
+        "attr_memory size": 0.064,
+        "attr_battery size": 1300.0,
+        "release_date": 5
+      }
+    },
+    "a4ff00fc-5111-5fb2-a9d3-861d8e2e1fa2": {
+      "id": "a4ff00fc-5111-5fb2-a9d3-861d8e2e1fa2",
+      "brand": "Astro",
+      "model": "B200RX (Yellow)",
+      "attributes": {
+        "attr_unnamed 0": 211,
+        "attr_popularity": 599,
+        "mrp": 532.0,
+        "attr_highest price": 799.0,
+        "attr_sellers amount": 28,
+        "display_size": 2.0,
+        "attr_memory size": 0.064,
+        "attr_battery size": 1300.0,
+        "release_date": 5
+      }
+    }
+  }
+}

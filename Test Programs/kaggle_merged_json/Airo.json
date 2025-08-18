@@ -1,0 +1,18 @@
+{
+  "brand": "Airo",
+  "phones": {
+    "1f4ebf47-63a7-5e62-a61f-b3b64d6bfdb4": {
+      "id": "1f4ebf47-63a7-5e62-a61f-b3b64d6bfdb4",
+      "brand": "Airo",
+      "model": "Wireless A25is",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.1",
+        "battery_capacity": 1570.0,
+        "attr_memory": 0.1,
+        "storage": " miniSD",
+        "display_size": 2.8,
+        "attr_display resolution": 320
+      }
+    }
+  }
+}

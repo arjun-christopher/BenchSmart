@@ -1,0 +1,100 @@
+{
+  "brand": "Sharp",
+  "phones": {
+    "ae71bab0-9b7a-5bcb-a38b-35a924532387": {
+      "id": "ae71bab0-9b7a-5bcb-a38b-35a924532387",
+      "brand": "Sharp",
+      "model": "Aquos D10 4/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 188,
+        "os": "Android",
+        "attr_popularity": 632,
+        "mrp": 6199.0,
+        "attr_highest price": 9999.0,
+        "attr_sellers amount": 7,
+        "display_size": 5.99,
+        "attr_memory size": 64.0,
+        "attr_battery size": 2900.0,
+        "release_date": 6
+      }
+    },
+    "2c2d3062-5a45-58be-8213-e06d4b7eba32": {
+      "id": "2c2d3062-5a45-58be-8213-e06d4b7eba32",
+      "brand": "Sharp",
+      "model": "Aquos R5G",
+      "attributes": {
+        "price": "₹59,990",
+        "rating": 88.0,
+        "sim": "Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",
+        "chipset": "Snapdragon 865, Octa Core, 2.84 GHz Processor",
+        "ram": 12,
+        "battery_capacity": 3730,
+        "display_size": 6.5,
+        "camera_main": 48,
+        "attr_card": "Memory Card (Hybrid), upto 1 TB",
+        "os": "Android v10"
+      }
+    },
+    "e99851a3-9076-5b0e-a9b4-5350823c74af": {
+      "id": "e99851a3-9076-5b0e-a9b4-5350823c74af",
+      "brand": "sharp",
+      "model": "Sharp Aquos R5G",
+      "attributes": {
+        "price": 59990,
+        "rating": 8.8,
+        "attr_5g or not": 0,
+        "attr_processor brand": "snapdragon",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.84,
+        "battery_capacity": 3730.0,
+        "attr_fast charging available": 1,
+        "attr_ram capacity": 12,
+        "attr_internal memory": 256,
+        "display_size": 6.5,
+        "refresh_rate": 60,
+        "camera_main": 16.0,
+        "os": "android",
+        "attr_extended memory available": 1,
+        "attr_resolution height": 3168,
+        "attr_resolution width": 1440,
+        "attr_has 5g": false,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
+        "camera_front": 1.0,
+        "attr_extended upto": 1024.0
+      }
+    },
+    "e45acf02-7e83-51bf-9b2f-500f2dc36fd3": {
+      "id": "e45acf02-7e83-51bf-9b2f-500f2dc36fd3",
+      "brand": "Sharp",
+      "model": "AQUOS Crystal",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 2040.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 1.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 1.2
+      }
+    },
+    "f203f502-2985-5a4e-a716-75f9314b57cd": {
+      "id": "f203f502-2985-5a4e-a716-75f9314b57cd",
+      "brand": "Sharp",
+      "model": "FX Plus",
+      "attributes": {
+        "os": "Android 2.2",
+        "battery_capacity": 1240.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    }
+  }
+}

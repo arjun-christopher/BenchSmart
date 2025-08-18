@@ -1,0 +1,20 @@
+{
+  "brand": "myPhone",
+  "phones": {
+    "05f4df3c-8263-5746-8d29-a257fb895ab0": {
+      "id": "05f4df3c-8263-5746-8d29-a257fb895ab0",
+      "brand": "myPhone",
+      "model": "Hammer Energy Black",
+      "attributes": {
+        "attr_unnamed 0": 549,
+        "os": "Android",
+        "attr_popularity": 4,
+        "attr_sellers amount": 1,
+        "display_size": 5.0,
+        "attr_memory size": 16.0,
+        "attr_battery size": 5000.0,
+        "release_date": 1
+      }
+    }
+  }
+}

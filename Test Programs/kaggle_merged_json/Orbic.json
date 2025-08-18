@@ -1,0 +1,24 @@
+{
+  "brand": "Orbic",
+  "phones": {
+    "e1a1a096-82f9-5ce7-bc27-76f28c2bbe2a": {
+      "id": "e1a1a096-82f9-5ce7-bc27-76f28c2bbe2a",
+      "brand": "Orbic",
+      "model": "Myra 5G",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": 2021,
+        "battery_capacity": 5000.0,
+        "chipset": "Qualcomm Snapdragon 750G",
+        "attr_memory": 6.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.8,
+        "attr_display resolution": 1600,
+        "refresh_rate": 60.0,
+        "camera_main": 48.0,
+        "camera_front": 16
+      }
+    }
+  }
+}

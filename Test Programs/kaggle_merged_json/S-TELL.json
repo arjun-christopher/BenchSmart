@@ -1,0 +1,76 @@
+{
+  "brand": "S-TELL",
+  "phones": {
+    "c5c97164-cfdb-56b4-b053-6c05fd624fa5": {
+      "id": "c5c97164-cfdb-56b4-b053-6c05fd624fa5",
+      "brand": "S-TELL",
+      "model": "C552 Black",
+      "attributes": {
+        "attr_unnamed 0": 292,
+        "os": "Android",
+        "attr_popularity": 307,
+        "attr_sellers amount": 1,
+        "display_size": 5.0,
+        "attr_memory size": 4.0,
+        "attr_battery size": 2000.0,
+        "release_date": 3
+      }
+    },
+    "c7181cb0-85c6-5d2e-9abe-cd55e295db69": {
+      "id": "c7181cb0-85c6-5d2e-9abe-cd55e295db69",
+      "brand": "S-TELL",
+      "model": "C552 Red",
+      "attributes": {
+        "attr_unnamed 0": 293,
+        "os": "Android",
+        "attr_popularity": 319,
+        "attr_sellers amount": 1,
+        "display_size": 5.0,
+        "attr_memory size": 4.0,
+        "attr_battery size": 2000.0,
+        "release_date": 3
+      }
+    },
+    "6561cb75-dc35-59d4-b763-311ea6080fca": {
+      "id": "6561cb75-dc35-59d4-b763-311ea6080fca",
+      "brand": "S-TELL",
+      "model": "P760 Black",
+      "attributes": {
+        "attr_unnamed 0": 714,
+        "os": "Android",
+        "attr_popularity": 391,
+        "attr_sellers amount": 1,
+        "display_size": 5.5,
+        "attr_memory size": 16.0,
+        "attr_battery size": 4000.0,
+        "release_date": 3
+      }
+    },
+    "5cbef6f0-40ba-53e5-9894-a678d2fcaedf": {
+      "id": "5cbef6f0-40ba-53e5-9894-a678d2fcaedf",
+      "brand": "S-TELL",
+      "model": "S1-07 Black",
+      "attributes": {
+        "attr_unnamed 0": 858,
+        "attr_popularity": 76,
+        "attr_sellers amount": 1,
+        "display_size": 1.8,
+        "attr_battery size": 1000.0,
+        "release_date": 6
+      }
+    },
+    "d3ad4a27-c7c3-5ae8-b5a3-b5dce2fb4591": {
+      "id": "d3ad4a27-c7c3-5ae8-b5a3-b5dce2fb4591",
+      "brand": "S-TELL",
+      "model": "S1-07 Gold",
+      "attributes": {
+        "attr_unnamed 0": 859,
+        "attr_popularity": 1,
+        "attr_sellers amount": 1,
+        "display_size": 1.8,
+        "attr_battery size": 1000.0,
+        "release_date": 6
+      }
+    }
+  }
+}

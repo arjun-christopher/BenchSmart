@@ -1,0 +1,683 @@
+{
+  "brand": "Doogee",
+  "phones": {
+    "fb363315-ed3e-5ce5-8e10-d41d7b23ce8a": {
+      "id": "fb363315-ed3e-5ce5-8e10-d41d7b23ce8a",
+      "brand": "Doogee",
+      "model": "V20",
+      "attributes": {
+        "cpu": "MediaTek Dimensity 700 MT6833 Processor",
+        "attr_camera specs rear": 64,
+        "attr_camera specs front": 16,
+        "display_size": 6.43,
+        "attr_ram of phone": 8,
+        "storage": 256,
+        "battery_capacity": 6000,
+        "os": "Android v11 OS",
+        "attr_first site": "Flipkart",
+        "attr_price in first site": "₹39,999 ❯",
+        "attr_second site": "Amazon",
+        "attr_price in second site": "₹48,500 ❯",
+        "attr_real price available": 48500
+      }
+    },
+    "c44a493c-e9e8-50b6-bae2-9c6b15815bf4": {
+      "id": "c44a493c-e9e8-50b6-bae2-9c6b15815bf4",
+      "brand": "Doogee",
+      "model": "V10 5G",
+      "attributes": {
+        "cpu": "MediaTek Dimensity 700 Processor",
+        "attr_camera specs rear": 48,
+        "attr_camera specs front": 16,
+        "display_size": 6.39,
+        "attr_ram of phone": 8,
+        "storage": 128,
+        "battery_capacity": 8500,
+        "os": "Android v11 OS",
+        "attr_first site": "Out of Stock",
+        "attr_real price available": 39500
+      }
+    },
+    "3ff31b67-fe3c-52f9-a254-bc4cae611f86": {
+      "id": "3ff31b67-fe3c-52f9-a254-bc4cae611f86",
+      "brand": "DOOGEE",
+      "model": "BL5000 Black (6924351609900)",
+      "attributes": {
+        "attr_unnamed 0": 215,
+        "os": "Android",
+        "attr_popularity": 25,
+        "attr_sellers amount": 1,
+        "display_size": 5.5,
+        "attr_memory size": 64.0,
+        "attr_battery size": 5050.0,
+        "release_date": 8
+      }
+    },
+    "6c271173-a7f8-58bc-b6fc-47aa82d4f80c": {
+      "id": "6c271173-a7f8-58bc-b6fc-47aa82d4f80c",
+      "brand": "DOOGEE",
+      "model": "BL5500 Lite 2/16GB Dual Sim Gold",
+      "attributes": {
+        "attr_unnamed 0": 217,
+        "os": "Android",
+        "attr_popularity": 540,
+        "mrp": 2099.0,
+        "attr_highest price": 2548.0,
+        "attr_sellers amount": 2,
+        "display_size": 6.19,
+        "attr_memory size": 16.0,
+        "attr_battery size": 5500.0,
+        "release_date": 1
+      }
+    },
+    "6b7d6b04-277b-590b-8919-08463d53c135": {
+      "id": "6b7d6b04-277b-590b-8919-08463d53c135",
+      "brand": "DOOGEE",
+      "model": "MIX 2 6/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 583,
+        "os": "Android",
+        "attr_popularity": 169,
+        "mrp": 3636.0,
+        "attr_highest price": 3733.0,
+        "attr_sellers amount": 3,
+        "display_size": 6.0,
+        "attr_memory size": 64.0,
+        "attr_battery size": 4060.0,
+        "release_date": 1
+      }
+    },
+    "71ef4c9a-62c3-5dc4-8ce6-ccf1643aad7a": {
+      "id": "71ef4c9a-62c3-5dc4-8ce6-ccf1643aad7a",
+      "brand": "DOOGEE",
+      "model": "N10 3/32GB Purple",
+      "attributes": {
+        "attr_unnamed 0": 654,
+        "os": "Android",
+        "attr_popularity": 614,
+        "attr_sellers amount": 1,
+        "display_size": 5.84,
+        "attr_memory size": 32.0,
+        "attr_battery size": 3360.0,
+        "release_date": 11
+      }
+    },
+    "3cbe6749-17f1-56fc-8d2b-5647817483db": {
+      "id": "3cbe6749-17f1-56fc-8d2b-5647817483db",
+      "brand": "DOOGEE",
+      "model": "N20 4/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 655,
+        "os": "Android",
+        "attr_popularity": 875,
+        "mrp": 2835.0,
+        "attr_highest price": 3306.0,
+        "attr_sellers amount": 10,
+        "display_size": 6.3,
+        "attr_memory size": 64.0,
+        "attr_battery size": 4350.0,
+        "release_date": 10
+      }
+    },
+    "27751e9a-5f0f-5d82-8428-7751a97b0d09": {
+      "id": "27751e9a-5f0f-5d82-8428-7751a97b0d09",
+      "brand": "DOOGEE",
+      "model": "N20 Pro 6/128GB Green",
+      "attributes": {
+        "attr_unnamed 0": 656,
+        "os": "Android",
+        "attr_popularity": 959,
+        "mrp": 3799.0,
+        "attr_highest price": 5299.0,
+        "attr_sellers amount": 24,
+        "display_size": 6.3,
+        "attr_memory size": 128.0,
+        "attr_battery size": 4400.0,
+        "release_date": 9
+      }
+    },
+    "31456571-ba0a-5288-a06b-f5dc894219c7": {
+      "id": "31456571-ba0a-5288-a06b-f5dc894219c7",
+      "brand": "DOOGEE",
+      "model": "N30 4/128GB Dreamy Blue",
+      "attributes": {
+        "attr_unnamed 0": 657,
+        "os": "Android",
+        "attr_popularity": 672,
+        "mrp": 3244.0,
+        "attr_highest price": 3870.0,
+        "attr_sellers amount": 8,
+        "display_size": 6.55,
+        "attr_memory size": 128.0,
+        "attr_battery size": 4500.0,
+        "release_date": 11
+      }
+    },
+    "2f6a559a-4884-51ae-a34a-5e2a6bba221d": {
+      "id": "2f6a559a-4884-51ae-a34a-5e2a6bba221d",
+      "brand": "DOOGEE",
+      "model": "S40 3/32GB Black",
+      "attributes": {
+        "attr_unnamed 0": 865,
+        "os": "Android",
+        "attr_popularity": 924,
+        "mrp": 2740.0,
+        "attr_highest price": 3699.0,
+        "attr_sellers amount": 20,
+        "display_size": 5.5,
+        "attr_memory size": 32.0,
+        "attr_battery size": 4650.0,
+        "release_date": 8
+      }
+    },
+    "e4b208bc-0f80-5f47-9d46-556fe723a2e0": {
+      "id": "e4b208bc-0f80-5f47-9d46-556fe723a2e0",
+      "brand": "DOOGEE",
+      "model": "S40 Lite 2/16GB Black",
+      "attributes": {
+        "attr_unnamed 0": 866,
+        "os": "Android",
+        "attr_popularity": 288,
+        "mrp": 2199.0,
+        "attr_highest price": 3029.0,
+        "attr_sellers amount": 17,
+        "display_size": 5.5,
+        "attr_memory size": 16.0,
+        "attr_battery size": 4650.0,
+        "release_date": 8
+      }
+    },
+    "37e5c1b5-2a54-5c92-8b01-301c7170183f": {
+      "id": "37e5c1b5-2a54-5c92-8b01-301c7170183f",
+      "brand": "DOOGEE",
+      "model": "S40 Pro 4/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 869,
+        "os": "Android",
+        "attr_popularity": 552,
+        "mrp": 3269.0,
+        "attr_highest price": 3795.0,
+        "attr_sellers amount": 10,
+        "display_size": 5.45,
+        "attr_memory size": 64.0,
+        "attr_battery size": 4650.0,
+        "release_date": 11
+      }
+    },
+    "ba332394-c736-5fc6-8561-35b6e3722efc": {
+      "id": "ba332394-c736-5fc6-8561-35b6e3722efc",
+      "brand": "DOOGEE",
+      "model": "S55 4/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 877,
+        "os": "Android",
+        "attr_popularity": 647,
+        "mrp": 3370.0,
+        "attr_highest price": 3689.0,
+        "attr_sellers amount": 8,
+        "display_size": 5.5,
+        "attr_memory size": 64.0,
+        "attr_battery size": 5500.0,
+        "release_date": 2
+      }
+    },
+    "3d0929c6-308d-5dd5-92dc-326a7562a0d0": {
+      "id": "3d0929c6-308d-5dd5-92dc-326a7562a0d0",
+      "brand": "DOOGEE",
+      "model": "S58 Pro 6/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 879,
+        "os": "Android",
+        "attr_popularity": 986,
+        "mrp": 4270.0,
+        "attr_highest price": 5999.0,
+        "attr_sellers amount": 22,
+        "display_size": 5.71,
+        "attr_memory size": 64.0,
+        "attr_battery size": 5180.0,
+        "release_date": 9
+      }
+    },
+    "9f45d253-0894-5355-8e40-73c7ba4e5750": {
+      "id": "9f45d253-0894-5355-8e40-73c7ba4e5750",
+      "brand": "DOOGEE",
+      "model": "S60 Lite 4/32GB Black",
+      "attributes": {
+        "attr_unnamed 0": 881,
+        "os": "Android",
+        "attr_popularity": 297,
+        "mrp": 3549.0,
+        "attr_highest price": 4161.0,
+        "attr_sellers amount": 7,
+        "display_size": 5.2,
+        "attr_memory size": 32.0,
+        "attr_battery size": 5580.0,
+        "release_date": 5
+      }
+    },
+    "8ddc1264-b9bd-5a3c-b0c2-b6b5915d42a2": {
+      "id": "8ddc1264-b9bd-5a3c-b0c2-b6b5915d42a2",
+      "brand": "DOOGEE",
+      "model": "S68 Pro 6/128GB Black",
+      "attributes": {
+        "attr_unnamed 0": 885,
+        "os": "Android",
+        "attr_popularity": 848,
+        "mrp": 5410.0,
+        "attr_highest price": 8699.0,
+        "attr_sellers amount": 36,
+        "display_size": 5.9,
+        "attr_memory size": 128.0,
+        "attr_battery size": 6300.0,
+        "release_date": 1
+      }
+    },
+    "d8b6b028-0150-5481-b0e0-6be45c0f95b4": {
+      "id": "d8b6b028-0150-5481-b0e0-6be45c0f95b4",
+      "brand": "DOOGEE",
+      "model": "S88 Pro 6/128GB Black",
+      "attributes": {
+        "attr_unnamed 0": 886,
+        "os": "Android",
+        "attr_popularity": 1053,
+        "mrp": 5439.0,
+        "attr_highest price": 7299.0,
+        "attr_sellers amount": 13,
+        "display_size": 6.3,
+        "attr_memory size": 128.0,
+        "attr_battery size": 10000.0,
+        "release_date": 8
+      }
+    },
+    "2de77d02-8fef-5fc3-a265-0cd0d6f45ee7": {
+      "id": "2de77d02-8fef-5fc3-a265-0cd0d6f45ee7",
+      "brand": "DOOGEE",
+      "model": "S90C 4/128GB Black",
+      "attributes": {
+        "attr_unnamed 0": 887,
+        "os": "Android",
+        "attr_popularity": 476,
+        "mrp": 4899.0,
+        "attr_highest price": 6128.0,
+        "attr_sellers amount": 6,
+        "display_size": 6.18,
+        "attr_memory size": 128.0,
+        "attr_battery size": 5050.0,
+        "release_date": 8
+      }
+    },
+    "8174f0ed-4e16-5e05-8910-b578bcd411e0": {
+      "id": "8174f0ed-4e16-5e05-8910-b578bcd411e0",
+      "brand": "DOOGEE",
+      "model": "S90C 4/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 888,
+        "os": "Android",
+        "attr_popularity": 89,
+        "attr_sellers amount": 1,
+        "display_size": 6.18,
+        "attr_memory size": 64.0,
+        "attr_battery size": 5050.0,
+        "release_date": 12
+      }
+    },
+    "ebf7c350-e1e2-5298-9280-157a7a1ef08d": {
+      "id": "ebf7c350-e1e2-5298-9280-157a7a1ef08d",
+      "brand": "DOOGEE",
+      "model": "S90C 4/64GB GIFT Orange",
+      "attributes": {
+        "attr_unnamed 0": 891,
+        "os": "Android",
+        "attr_popularity": 68,
+        "mrp": 5649.0,
+        "attr_highest price": 9418.0,
+        "attr_sellers amount": 6,
+        "display_size": 6.18,
+        "attr_memory size": 64.0,
+        "attr_battery size": 5050.0,
+        "release_date": 4
+      }
+    },
+    "47d7be64-ef71-5c53-a094-519864bad95f": {
+      "id": "47d7be64-ef71-5c53-a094-519864bad95f",
+      "brand": "DOOGEE",
+      "model": "S95 Pro 8/128GB Black",
+      "attributes": {
+        "attr_unnamed 0": 892,
+        "os": "Android",
+        "attr_popularity": 955,
+        "mrp": 8599.0,
+        "attr_highest price": 9499.0,
+        "attr_sellers amount": 13,
+        "display_size": 6.3,
+        "attr_memory size": 128.0,
+        "attr_battery size": 5150.0,
+        "release_date": 2
+      }
+    },
+    "214916db-41bd-514e-8f2a-d2b6e6bbb735": {
+      "id": "214916db-41bd-514e-8f2a-d2b6e6bbb735",
+      "brand": "DOOGEE",
+      "model": "S95 Pro 8/256GB Mineral Black",
+      "attributes": {
+        "attr_unnamed 0": 893,
+        "os": "Android",
+        "attr_popularity": 445,
+        "mrp": 9249.0,
+        "attr_highest price": 9649.0,
+        "attr_sellers amount": 7,
+        "display_size": 6.3,
+        "attr_memory size": 256.0,
+        "attr_battery size": 5150.0,
+        "release_date": 7
+      }
+    },
+    "6e071c9f-fced-5fc4-a879-bf27bb9f44bd": {
+      "id": "6e071c9f-fced-5fc4-a879-bf27bb9f44bd",
+      "brand": "DOOGEE",
+      "model": "S96 Pro 8/128GB Black",
+      "attributes": {
+        "attr_unnamed 0": 894,
+        "os": "Android",
+        "attr_popularity": 534,
+        "mrp": 7599.0,
+        "attr_highest price": 8237.0,
+        "attr_sellers amount": 8,
+        "display_size": 6.22,
+        "attr_memory size": 128.0,
+        "attr_battery size": 6350.0,
+        "release_date": 1
+      }
+    },
+    "290c0b9a-2a68-5043-a865-2ae79d8a85c9": {
+      "id": "290c0b9a-2a68-5043-a865-2ae79d8a85c9",
+      "brand": "DOOGEE",
+      "model": "S96 Pro 8/128GB Green",
+      "attributes": {
+        "attr_unnamed 0": 895,
+        "os": "Android",
+        "attr_popularity": 139,
+        "mrp": 7599.0,
+        "attr_highest price": 8237.0,
+        "attr_sellers amount": 5,
+        "display_size": 6.22,
+        "attr_memory size": 128.0,
+        "attr_battery size": 6350.0,
+        "release_date": 1
+      }
+    },
+    "d8def24f-a005-5450-8521-b846f95822fa": {
+      "id": "d8def24f-a005-5450-8521-b846f95822fa",
+      "brand": "DOOGEE",
+      "model": "S96 Pro 8/128GB Orange",
+      "attributes": {
+        "attr_unnamed 0": 896,
+        "os": "Android",
+        "attr_popularity": 438,
+        "mrp": 7679.0,
+        "attr_highest price": 8237.0,
+        "attr_sellers amount": 4,
+        "display_size": 6.22,
+        "attr_memory size": 128.0,
+        "attr_battery size": 6350.0,
+        "release_date": 1
+      }
+    },
+    "294ef083-d6a3-5a98-9873-4a7930737427": {
+      "id": "294ef083-d6a3-5a98-9873-4a7930737427",
+      "brand": "DOOGEE",
+      "model": "X60L Matte Black (6924351653118)",
+      "attributes": {
+        "attr_unnamed 0": 1013,
+        "os": "Android",
+        "attr_popularity": 16,
+        "mrp": 2149.0,
+        "attr_highest price": 2251.0,
+        "attr_sellers amount": 2,
+        "display_size": 5.5,
+        "attr_memory size": 16.0,
+        "attr_battery size": 3300.0,
+        "release_date": 4
+      }
+    },
+    "580df173-09e4-53c3-9824-5bfe6245efdb": {
+      "id": "580df173-09e4-53c3-9824-5bfe6245efdb",
+      "brand": "DOOGEE",
+      "model": "X90 1/16GB Black",
+      "attributes": {
+        "attr_unnamed 0": 1016,
+        "os": "Android",
+        "attr_popularity": 725,
+        "mrp": 1333.0,
+        "attr_highest price": 2089.0,
+        "attr_sellers amount": 7,
+        "display_size": 6.1,
+        "attr_memory size": 16.0,
+        "attr_battery size": 3400.0,
+        "release_date": 5
+      }
+    },
+    "aec640cf-cc11-54a2-b0be-80eda61e4b47": {
+      "id": "aec640cf-cc11-54a2-b0be-80eda61e4b47",
+      "brand": "DOOGEE",
+      "model": "X90 1/16GB Blue",
+      "attributes": {
+        "attr_unnamed 0": 1017,
+        "os": "Android",
+        "attr_popularity": 479,
+        "mrp": 1779.0,
+        "attr_highest price": 2089.0,
+        "attr_sellers amount": 4,
+        "display_size": 6.1,
+        "attr_memory size": 16.0,
+        "attr_battery size": 3400.0,
+        "release_date": 5
+      }
+    },
+    "0138b7d4-a9f6-57cd-85ec-d0141f451936": {
+      "id": "0138b7d4-a9f6-57cd-85ec-d0141f451936",
+      "brand": "DOOGEE",
+      "model": "X90 1/16GB Gold",
+      "attributes": {
+        "attr_unnamed 0": 1018,
+        "os": "Android",
+        "attr_popularity": 30,
+        "mrp": 1775.0,
+        "attr_highest price": 2249.0,
+        "attr_sellers amount": 11,
+        "display_size": 6.1,
+        "attr_memory size": 16.0,
+        "attr_battery size": 3400.0,
+        "release_date": 5
+      }
+    },
+    "6b1ebb79-2ff4-55e0-aa38-821f05d18b3a": {
+      "id": "6b1ebb79-2ff4-55e0-aa38-821f05d18b3a",
+      "brand": "DOOGEE",
+      "model": "X90L 3/16GB Green",
+      "attributes": {
+        "attr_unnamed 0": 1020,
+        "os": "Android",
+        "attr_popularity": 311,
+        "attr_sellers amount": 1,
+        "display_size": 6.1,
+        "attr_memory size": 16.0,
+        "attr_battery size": 3400.0,
+        "release_date": 5
+      }
+    },
+    "11a192f0-b7cd-5d09-8ecf-a89a5ae17ede": {
+      "id": "11a192f0-b7cd-5d09-8ecf-a89a5ae17ede",
+      "brand": "DOOGEE",
+      "model": "X90L 3/16GB Purple",
+      "attributes": {
+        "attr_unnamed 0": 1021,
+        "os": "Android",
+        "attr_popularity": 130,
+        "attr_sellers amount": 1,
+        "display_size": 6.1,
+        "attr_memory size": 16.0,
+        "attr_battery size": 3400.0,
+        "release_date": 5
+      }
+    },
+    "557ba463-ea92-5638-9726-9884c2c4c501": {
+      "id": "557ba463-ea92-5638-9726-9884c2c4c501",
+      "brand": "DOOGEE",
+      "model": "X95 2/16GB Black",
+      "attributes": {
+        "attr_unnamed 0": 1023,
+        "os": "Android",
+        "attr_popularity": 677,
+        "mrp": 2040.0,
+        "attr_highest price": 2799.0,
+        "attr_sellers amount": 19,
+        "display_size": 6.52,
+        "attr_memory size": 16.0,
+        "attr_battery size": 4350.0,
+        "release_date": 6
+      }
+    },
+    "514ec5bc-fe0d-5db7-963a-421a27de128c": {
+      "id": "514ec5bc-fe0d-5db7-963a-421a27de128c",
+      "brand": "DOOGEE",
+      "model": "X95 2/16GB Green",
+      "attributes": {
+        "attr_unnamed 0": 1024,
+        "os": "Android",
+        "attr_popularity": 457,
+        "mrp": 2090.0,
+        "attr_highest price": 2923.0,
+        "attr_sellers amount": 28,
+        "display_size": 6.52,
+        "attr_memory size": 16.0,
+        "attr_battery size": 4350.0,
+        "release_date": 6
+      }
+    },
+    "7560839b-1a4b-559d-a48b-da9ee658c1fc": {
+      "id": "7560839b-1a4b-559d-a48b-da9ee658c1fc",
+      "brand": "DOOGEE",
+      "model": "Y9 Plus 4/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 1084,
+        "os": "Android",
+        "attr_popularity": 15,
+        "attr_sellers amount": 1,
+        "display_size": 6.3,
+        "attr_memory size": 64.0,
+        "attr_battery size": 4350.0,
+        "release_date": 12
+      }
+    },
+    "6d5df759-505b-558d-b9cc-7d7def32ecaf": {
+      "id": "6d5df759-505b-558d-b9cc-7d7def32ecaf",
+      "brand": "DOOGEE",
+      "model": "Y9 Plus 4/64GB Blue",
+      "attributes": {
+        "attr_unnamed 0": 1085,
+        "os": "Android",
+        "attr_popularity": 55,
+        "attr_sellers amount": 1,
+        "display_size": 6.3,
+        "attr_memory size": 64.0,
+        "attr_battery size": 4350.0,
+        "release_date": 12
+      }
+    },
+    "40afc1ae-cc89-5959-b713-d699d5b29752": {
+      "id": "40afc1ae-cc89-5959-b713-d699d5b29752",
+      "brand": "Doogee",
+      "model": "V Max",
+      "attributes": {
+        "price": "₹45,999",
+        "rating": 88.0,
+        "sim": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",
+        "chipset": "Dimensity 1080, Octa Core, 2.6 GHz Processor",
+        "ram": 12,
+        "battery_capacity": 22000,
+        "display_size": 6.58,
+        "camera_main": 108,
+        "attr_card": "Memory Card (Hybrid), upto 2 TB",
+        "os": "Android v12"
+      }
+    },
+    "376bd748-e101-5935-bf1e-cdf361ab66fe": {
+      "id": "376bd748-e101-5935-bf1e-cdf361ab66fe",
+      "brand": "Doogee",
+      "model": "S99",
+      "attributes": {
+        "price": "₹14,999",
+        "rating": 84.0,
+        "sim": "Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",
+        "chipset": "Helio G96, Octa Core, 2.05 GHz Processor",
+        "ram": 8,
+        "battery_capacity": 6000,
+        "display_size": 6.3,
+        "camera_main": 108,
+        "attr_card": "Memory Card Supported, upto 1 TB",
+        "os": "Android v12"
+      }
+    },
+    "f83a0baf-0a34-5079-ba39-34f545c58e65": {
+      "id": "f83a0baf-0a34-5079-ba39-34f545c58e65",
+      "brand": "doogee",
+      "model": "Doogee S99",
+      "attributes": {
+        "price": 14999,
+        "rating": 8.4,
+        "attr_5g or not": 0,
+        "attr_processor brand": "helio",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.05,
+        "battery_capacity": 6000.0,
+        "attr_fast charging available": 1,
+        "charging": 33.0,
+        "attr_ram capacity": 8,
+        "attr_internal memory": 128,
+        "display_size": 6.3,
+        "refresh_rate": 60,
+        "camera_main": 32.0,
+        "os": "android",
+        "attr_extended memory available": 1,
+        "attr_resolution height": 2340,
+        "attr_resolution width": 1080,
+        "attr_has 5g": false,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
+        "camera_front": 1.0,
+        "attr_extended upto": 1024.0
+      }
+    },
+    "8db140be-bcfb-5a7a-baeb-fbb87ba12b5b": {
+      "id": "8db140be-bcfb-5a7a-baeb-fbb87ba12b5b",
+      "brand": "doogee",
+      "model": "Doogee V Max",
+      "attributes": {
+        "price": 45999,
+        "rating": 8.8,
+        "attr_5g or not": 1,
+        "attr_processor brand": "dimensity",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.6,
+        "battery_capacity": 22000.0,
+        "attr_fast charging available": 1,
+        "charging": 33.0,
+        "attr_ram capacity": 12,
+        "attr_internal memory": 256,
+        "display_size": 6.58,
+        "refresh_rate": 120,
+        "camera_main": 32.0,
+        "os": "android",
+        "attr_extended memory available": 1,
+        "attr_resolution height": 2408,
+        "attr_resolution width": 1080,
+        "attr_has 5g": true,
+        "attr_has nfc": false,
+        "attr_has ir blaster": false,
+        "camera_front": 1.0,
+        "attr_extended upto": 2048.0
+      }
+    }
+  }
+}

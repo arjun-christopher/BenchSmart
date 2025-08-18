@@ -1,0 +1,62 @@
+{
+  "brand": "Fairphone",
+  "phones": {
+    "a9e0f17c-09bc-5c8b-9069-3e4fc655393e": {
+      "id": "a9e0f17c-09bc-5c8b-9069-3e4fc655393e",
+      "brand": "Fairphone",
+      "model": "3",
+      "attributes": {
+        "os": "Android 10",
+        "release_date": "Sep 03, 2019",
+        "battery_capacity": 3040.0,
+        "chipset": "Qualcomm Snapdragon 632",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 2160,
+        "refresh_rate": 60.0,
+        "camera_main": 12.0,
+        "camera_front": 16
+      }
+    },
+    "5e5b6cb2-78de-5034-8f45-1231fa7b83f6": {
+      "id": "5e5b6cb2-78de-5034-8f45-1231fa7b83f6",
+      "brand": "Fairphone",
+      "model": "3+",
+      "attributes": {
+        "os": "Android 10",
+        "release_date": "Sep 14, 2020",
+        "battery_capacity": 3040.0,
+        "chipset": "Qualcomm Snapdragon 632",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 2160,
+        "refresh_rate": 60.0,
+        "camera_main": 48.0,
+        "camera_front": 16
+      }
+    },
+    "f62bd5a3-1b56-5173-bb15-c2977d704ea1": {
+      "id": "f62bd5a3-1b56-5173-bb15-c2977d704ea1",
+      "brand": "Fairphone",
+      "model": "4",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "Oct 25, 2021",
+        "battery_capacity": 3905.0,
+        "chipset": "Qualcomm Snapdragon 750G",
+        "attr_memory": 6.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.3,
+        "attr_display resolution": 2340,
+        "refresh_rate": 60.0,
+        "camera_main": 48.0,
+        "camera_front": 25
+      }
+    }
+  }
+}

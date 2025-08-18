@@ -1,0 +1,372 @@
+{
+  "brand": "Nomi",
+  "phones": {
+    "69444a12-b0a0-5a07-9615-4186efe82e65": {
+      "id": "69444a12-b0a0-5a07-9615-4186efe82e65",
+      "brand": "Nomi",
+      "model": "i144c Black",
+      "attributes": {
+        "attr_unnamed 0": 1090,
+        "attr_popularity": 486,
+        "mrp": 219.0,
+        "attr_highest price": 317.0,
+        "attr_sellers amount": 14,
+        "display_size": 1.44,
+        "attr_battery size": 600.0,
+        "release_date": 9
+      }
+    },
+    "3842d8aa-c182-5e56-a1d2-f8c001ef8611": {
+      "id": "3842d8aa-c182-5e56-a1d2-f8c001ef8611",
+      "brand": "Nomi",
+      "model": "i144c Red",
+      "attributes": {
+        "attr_unnamed 0": 1091,
+        "attr_popularity": 409,
+        "mrp": 218.0,
+        "attr_highest price": 291.0,
+        "attr_sellers amount": 18,
+        "display_size": 1.44,
+        "attr_battery size": 600.0,
+        "release_date": 9
+      }
+    },
+    "60b13de8-08ab-5e01-8181-2f497c78c647": {
+      "id": "60b13de8-08ab-5e01-8181-2f497c78c647",
+      "brand": "Nomi",
+      "model": "i144m Black",
+      "attributes": {
+        "attr_unnamed 0": 1093,
+        "attr_popularity": 492,
+        "mrp": 209.0,
+        "attr_highest price": 229.0,
+        "attr_sellers amount": 4,
+        "display_size": 1.44,
+        "attr_battery size": 600.0,
+        "release_date": 9
+      }
+    },
+    "582327ea-7752-58db-927e-d0597cff8a68": {
+      "id": "582327ea-7752-58db-927e-d0597cff8a68",
+      "brand": "Nomi",
+      "model": "i144m Blue",
+      "attributes": {
+        "attr_unnamed 0": 1094,
+        "attr_popularity": 844,
+        "mrp": 198.0,
+        "attr_highest price": 314.0,
+        "attr_sellers amount": 24,
+        "display_size": 1.44,
+        "attr_battery size": 600.0,
+        "release_date": 12
+      }
+    },
+    "59a2ceb9-1b5f-57d9-b94d-6c443954d215": {
+      "id": "59a2ceb9-1b5f-57d9-b94d-6c443954d215",
+      "brand": "Nomi",
+      "model": "i187 Black",
+      "attributes": {
+        "attr_unnamed 0": 1095,
+        "attr_popularity": 266,
+        "mrp": 353.0,
+        "attr_highest price": 496.0,
+        "attr_sellers amount": 23,
+        "display_size": 1.77,
+        "attr_memory size": 0.032,
+        "attr_battery size": 800.0,
+        "release_date": 7
+      }
+    },
+    "5fa3ebd0-11b8-53db-95a0-6ae086aa005e": {
+      "id": "5fa3ebd0-11b8-53db-95a0-6ae086aa005e",
+      "brand": "Nomi",
+      "model": "i187 White",
+      "attributes": {
+        "attr_unnamed 0": 1097,
+        "attr_popularity": 61,
+        "mrp": 346.0,
+        "attr_highest price": 461.0,
+        "attr_sellers amount": 11,
+        "display_size": 1.77,
+        "attr_memory size": 0.032,
+        "attr_battery size": 800.0,
+        "release_date": 7
+      }
+    },
+    "1e8be3c9-b1bb-5a32-bcb5-779eee77048f": {
+      "id": "1e8be3c9-b1bb-5a32-bcb5-779eee77048f",
+      "brand": "Nomi",
+      "model": "i189 Black",
+      "attributes": {
+        "attr_unnamed 0": 1098,
+        "attr_popularity": 246,
+        "mrp": 270.0,
+        "attr_highest price": 409.0,
+        "attr_sellers amount": 25,
+        "display_size": 1.77,
+        "attr_battery size": 800.0,
+        "release_date": 12
+      }
+    },
+    "8bebcb17-19e6-5666-9ff2-8bdfa60dd448": {
+      "id": "8bebcb17-19e6-5666-9ff2-8bdfa60dd448",
+      "brand": "Nomi",
+      "model": "i189 Blue",
+      "attributes": {
+        "attr_unnamed 0": 1099,
+        "attr_popularity": 14,
+        "mrp": 260.0,
+        "attr_highest price": 377.0,
+        "attr_sellers amount": 31,
+        "display_size": 1.77,
+        "attr_battery size": 800.0,
+        "release_date": 1
+      }
+    },
+    "3fe29b38-a173-5b01-98a7-d470eab72d74": {
+      "id": "3fe29b38-a173-5b01-98a7-d470eab72d74",
+      "brand": "Nomi",
+      "model": "i220 Black",
+      "attributes": {
+        "attr_unnamed 0": 1100,
+        "attr_popularity": 927,
+        "mrp": 542.0,
+        "attr_highest price": 719.0,
+        "attr_sellers amount": 28,
+        "display_size": 2.2,
+        "attr_memory size": 0.032,
+        "attr_battery size": 1900.0,
+        "release_date": 10
+      }
+    },
+    "841889d5-cfb8-5227-a434-aad6e95df98e": {
+      "id": "841889d5-cfb8-5227-a434-aad6e95df98e",
+      "brand": "Nomi",
+      "model": "i220 Red",
+      "attributes": {
+        "attr_unnamed 0": 1101,
+        "attr_popularity": 917,
+        "mrp": 542.0,
+        "attr_highest price": 719.0,
+        "attr_sellers amount": 26,
+        "display_size": 2.2,
+        "attr_memory size": 0.032,
+        "attr_battery size": 1900.0,
+        "release_date": 10
+      }
+    },
+    "0098ded5-ace2-5c95-96aa-67a0e08815b5": {
+      "id": "0098ded5-ace2-5c95-96aa-67a0e08815b5",
+      "brand": "Nomi",
+      "model": "i240 (Black)",
+      "attributes": {
+        "attr_unnamed 0": 1102,
+        "attr_popularity": 80,
+        "mrp": 350.0,
+        "attr_highest price": 699.0,
+        "attr_sellers amount": 16,
+        "display_size": 2.4,
+        "attr_memory size": 0.064,
+        "attr_battery size": 800.0,
+        "release_date": 12
+      }
+    },
+    "d0d1fdfe-ad90-52ca-a95f-2d36ef23eca9": {
+      "id": "d0d1fdfe-ad90-52ca-a95f-2d36ef23eca9",
+      "brand": "Nomi",
+      "model": "i2400 Black",
+      "attributes": {
+        "attr_unnamed 0": 1103,
+        "attr_popularity": 356,
+        "mrp": 616.0,
+        "attr_highest price": 829.0,
+        "attr_sellers amount": 25,
+        "display_size": 2.4,
+        "attr_battery size": 800.0,
+        "release_date": 1
+      }
+    },
+    "ff475872-6ad8-5309-9cee-ad777b71097c": {
+      "id": "ff475872-6ad8-5309-9cee-ad777b71097c",
+      "brand": "Nomi",
+      "model": "i2400 Red",
+      "attributes": {
+        "attr_unnamed 0": 1105,
+        "attr_popularity": 826,
+        "mrp": 595.0,
+        "attr_highest price": 829.0,
+        "attr_sellers amount": 29,
+        "display_size": 2.4,
+        "attr_battery size": 800.0,
+        "release_date": 8
+      }
+    },
+    "0fb46b94-fbb2-5dd0-96c2-3480ddc70d08": {
+      "id": "0fb46b94-fbb2-5dd0-96c2-3480ddc70d08",
+      "brand": "Nomi",
+      "model": "i2401 Red",
+      "attributes": {
+        "attr_unnamed 0": 1106,
+        "attr_popularity": 466,
+        "mrp": 353.0,
+        "attr_highest price": 469.0,
+        "attr_sellers amount": 15,
+        "display_size": 2.4,
+        "attr_battery size": 1000.0,
+        "release_date": 2
+      }
+    },
+    "182d0756-0a04-52e4-8f52-c5eccdfa933e": {
+      "id": "182d0756-0a04-52e4-8f52-c5eccdfa933e",
+      "brand": "Nomi",
+      "model": "i2410 Grey",
+      "attributes": {
+        "attr_unnamed 0": 1107,
+        "attr_popularity": 37,
+        "mrp": 499.0,
+        "attr_highest price": 549.0,
+        "attr_sellers amount": 6,
+        "display_size": 2.4,
+        "attr_battery size": 1000.0,
+        "release_date": 1
+      }
+    },
+    "8223ca4c-d550-5b9f-affd-fde1554d9811": {
+      "id": "8223ca4c-d550-5b9f-affd-fde1554d9811",
+      "brand": "Nomi",
+      "model": "i248 Black",
+      "attributes": {
+        "attr_unnamed 0": 1109,
+        "attr_popularity": 10,
+        "mrp": 349.0,
+        "attr_highest price": 433.0,
+        "attr_sellers amount": 4,
+        "display_size": 2.4,
+        "attr_battery size": 800.0,
+        "release_date": 2
+      }
+    },
+    "bed8569a-e476-52ff-97d2-04f32b4aab3c": {
+      "id": "bed8569a-e476-52ff-97d2-04f32b4aab3c",
+      "brand": "Nomi",
+      "model": "i281 Black",
+      "attributes": {
+        "attr_unnamed 0": 1110,
+        "attr_popularity": 26,
+        "mrp": 647.0,
+        "attr_highest price": 888.0,
+        "attr_sellers amount": 29,
+        "display_size": 2.8,
+        "attr_memory size": 0.032,
+        "attr_battery size": 1400.0,
+        "release_date": 8
+      }
+    },
+    "97cd6748-4741-5600-9448-907d32f73136": {
+      "id": "97cd6748-4741-5600-9448-907d32f73136",
+      "brand": "Nomi",
+      "model": "i281 Red",
+      "attributes": {
+        "attr_unnamed 0": 1112,
+        "attr_popularity": 308,
+        "mrp": 636.0,
+        "attr_highest price": 998.0,
+        "attr_sellers amount": 29,
+        "display_size": 2.8,
+        "attr_memory size": 0.032,
+        "attr_battery size": 1400.0,
+        "release_date": 8
+      }
+    },
+    "4a15983e-8c59-58f3-85bf-a8c60b5fc702": {
+      "id": "4a15983e-8c59-58f3-85bf-a8c60b5fc702",
+      "brand": "Nomi",
+      "model": "i282 Grey",
+      "attributes": {
+        "attr_unnamed 0": 1113,
+        "attr_popularity": 152,
+        "mrp": 599.0,
+        "attr_highest price": 780.0,
+        "attr_sellers amount": 2,
+        "display_size": 2.8,
+        "attr_memory size": 0.032,
+        "attr_battery size": 1200.0,
+        "release_date": 9
+      }
+    },
+    "9d750c00-b099-59c4-8611-ad27fc7e557a": {
+      "id": "9d750c00-b099-59c4-8611-ad27fc7e557a",
+      "brand": "Nomi",
+      "model": "i283 Red",
+      "attributes": {
+        "attr_unnamed 0": 1114,
+        "attr_popularity": 50,
+        "attr_sellers amount": 1,
+        "display_size": 2.8,
+        "attr_memory size": 0.032,
+        "attr_battery size": 1000.0,
+        "release_date": 10
+      }
+    },
+    "846bb516-b23b-5099-a297-640bffd7b415": {
+      "id": "846bb516-b23b-5099-a297-640bffd7b415",
+      "brand": "Nomi",
+      "model": "i284 Black",
+      "attributes": {
+        "attr_unnamed 0": 1115,
+        "attr_popularity": 702,
+        "mrp": 504.0,
+        "attr_highest price": 763.0,
+        "attr_sellers amount": 35,
+        "display_size": 2.8,
+        "attr_battery size": 1750.0,
+        "release_date": 1
+      }
+    },
+    "d0a34595-ee6c-50a8-8167-c04b6024eff0": {
+      "id": "d0a34595-ee6c-50a8-8167-c04b6024eff0",
+      "brand": "Nomi",
+      "model": "i284 Red",
+      "attributes": {
+        "attr_unnamed 0": 1116,
+        "attr_popularity": 140,
+        "mrp": 529.0,
+        "attr_highest price": 695.0,
+        "attr_sellers amount": 32,
+        "display_size": 2.8,
+        "attr_battery size": 1750.0,
+        "release_date": 1
+      }
+    },
+    "bc20c930-b90a-503c-873a-874d16609d1f": {
+      "id": "bc20c930-b90a-503c-873a-874d16609d1f",
+      "brand": "Nomi",
+      "model": "i284 Violet-blue",
+      "attributes": {
+        "attr_unnamed 0": 1117,
+        "attr_popularity": 613,
+        "mrp": 528.0,
+        "attr_highest price": 709.0,
+        "attr_sellers amount": 34,
+        "display_size": 2.8,
+        "attr_battery size": 1750.0,
+        "release_date": 1
+      }
+    },
+    "a504e46b-94bb-569e-8ba6-21a07d901f79": {
+      "id": "a504e46b-94bb-569e-8ba6-21a07d901f79",
+      "brand": "Nomi",
+      "model": "i285 X-Treme Black-Yellow",
+      "attributes": {
+        "attr_unnamed 0": 1118,
+        "attr_popularity": 381,
+        "mrp": 999.0,
+        "attr_highest price": 1144.0,
+        "attr_sellers amount": 2,
+        "display_size": 2.8,
+        "attr_battery size": 2500.0,
+        "release_date": 8
+      }
+    }
+  }
+}

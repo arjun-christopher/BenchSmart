@@ -1,0 +1,151 @@
+{
+  "brand": "Vertu",
+  "phones": {
+    "613e01c1-8501-583c-840c-04f8018da0f6": {
+      "id": "613e01c1-8501-583c-840c-04f8018da0f6",
+      "brand": "Vertu",
+      "model": "Signature Touch",
+      "attributes": {
+        "price": "₹6,50,000",
+        "rating": 62.0,
+        "sim": "Single Sim, 3G, 4G, Wi-Fi, NFC",
+        "chipset": "Snapdragon 801, Octa Core, 1.5 GHz Processor",
+        "ram": 2,
+        "battery_capacity": 2275,
+        "display_size": 4.7,
+        "camera_main": 13,
+        "attr_card": "Memory Card Not Supported",
+        "os": "Android v4.4.2 (KitKat)",
+        "attr_primary storage": 64.0,
+        "attr_display resolution": 1920,
+        "camera_front": 2.1
+      }
+    },
+    "6b92f237-f1af-5692-b916-df0b163169d4": {
+      "id": "6b92f237-f1af-5692-b916-df0b163169d4",
+      "brand": "vertu",
+      "model": "Vertu Signature Touch",
+      "attributes": {
+        "price": 650000,
+        "rating": 6.2,
+        "attr_5g or not": 0,
+        "attr_processor brand": "snapdragon",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 1.5,
+        "battery_capacity": 2275.0,
+        "attr_fast charging available": 0,
+        "attr_ram capacity": 2,
+        "attr_internal memory": 64,
+        "display_size": 4.7,
+        "refresh_rate": 60,
+        "camera_main": 2.0,
+        "os": "android",
+        "attr_extended memory available": 0,
+        "attr_resolution height": 1920,
+        "attr_resolution width": 1080,
+        "attr_has 5g": false,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
+        "camera_front": 1.0
+      }
+    },
+    "62aa6f8c-f00c-55c7-b397-ea23cbe8d08b": {
+      "id": "62aa6f8c-f00c-55c7-b397-ea23cbe8d08b",
+      "brand": "Vertu",
+      "model": "Aster",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Dec 01, 2014",
+        "battery_capacity": 2275.0,
+        "chipset": "Qualcomm Snapdragon 801",
+        "attr_memory": 2.0,
+        "attr_primary storage": 64.0,
+        "display_size": 4.7,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 2.1
+      }
+    },
+    "0808d83b-f668-5fc9-a254-66cba3932075": {
+      "id": "0808d83b-f668-5fc9-a254-66cba3932075",
+      "brand": "Vertu",
+      "model": "Constellation Quest",
+      "attributes": {
+        "os": "Symbian ",
+        "release_date": "Dec 01, 2010",
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 2.5,
+        "attr_display resolution": 640,
+        "camera_main": 5.0
+      }
+    },
+    "8974ed4d-6427-5b41-9345-0697b109dc81": {
+      "id": "8974ed4d-6427-5b41-9345-0697b109dc81",
+      "brand": "Vertu",
+      "model": "Constellation Smile",
+      "attributes": {
+        "os": "Symbian Symbian^3",
+        "battery_capacity": 1200.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 32.0,
+        "display_size": 3.5,
+        "attr_display resolution": 640,
+        "camera_main": 8.0
+      }
+    },
+    "ce512100-74ad-52a8-91df-1992da679103": {
+      "id": "ce512100-74ad-52a8-91df-1992da679103",
+      "brand": "Vertu",
+      "model": "Signature Touch (2015)",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Oct 16, 2015",
+        "battery_capacity": 3160.0,
+        "chipset": "Qualcomm Snapdragon 810",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 1920,
+        "camera_main": 21.0,
+        "camera_front": 2.1
+      }
+    },
+    "d049a57a-2f08-5b8a-bde7-5400daf7729d": {
+      "id": "d049a57a-2f08-5b8a-bde7-5400daf7729d",
+      "brand": "Vertu",
+      "model": "Signature Touch for Bentley",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Jan 12, 2016",
+        "battery_capacity": 3160.0,
+        "chipset": "Qualcomm Snapdragon 810",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 1080,
+        "camera_main": 21.0,
+        "camera_front": 2.1
+      }
+    },
+    "1310a9bd-c561-552d-9f3c-f80f1c79bfbf": {
+      "id": "1310a9bd-c561-552d-9f3c-f80f1c79bfbf",
+      "brand": "Vertu",
+      "model": "Ti",
+      "attributes": {
+        "os": "Android 4.0",
+        "release_date": "Feb 01, 2013",
+        "chipset": "Qualcomm Snapdragon",
+        "attr_memory": 1.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDHC",
+        "display_size": 3.7,
+        "attr_display resolution": 800,
+        "camera_main": 8.0,
+        "camera_front": 1.3
+      }
+    }
+  }
+}

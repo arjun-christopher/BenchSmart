@@ -1,0 +1,1188 @@
+{
+  "brand": "intex",
+  "phones": {
+    "099dc142-ad6b-59bf-be2c-e0eae6023142": {
+      "id": "099dc142-ad6b-59bf-be2c-e0eae6023142",
+      "brand": "intex",
+      "model": "intex cloud glory 4g",
+      "attributes": {
+        "price": 3912,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 1800,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.5,
+        "display_type": "lcd display"
+      }
+    },
+    "e9e72c68-e0ef-5226-9c3c-f41da47a0df6": {
+      "id": "e9e72c68-e0ef-5226-9c3c-f41da47a0df6",
+      "brand": "intex",
+      "model": "intex elyt e7",
+      "attributes": {
+        "price": 6990,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 4020,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.2,
+        "display_type": "lcd display"
+      }
+    },
+    "258d95fd-8ce4-5a57-88a8-b772903b14b1": {
+      "id": "258d95fd-8ce4-5a57-88a8-b772903b14b1",
+      "brand": "intex",
+      "model": "intex aqua pride",
+      "attributes": {
+        "price": 4899,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2800,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "tft display"
+      }
+    },
+    "606fe629-d6ec-5867-8891-5e8e48bbe114": {
+      "id": "606fe629-d6ec-5867-8891-5e8e48bbe114",
+      "brand": "intex",
+      "model": "intex aqua power m",
+      "attributes": {
+        "price": 3899,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 4350,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "3bbcb19e-9ff8-50b4-b6c8-b6ee1ffe30a6": {
+      "id": "3bbcb19e-9ff8-50b4-b6c8-b6ee1ffe30a6",
+      "brand": "intex",
+      "model": "intex aqua s3",
+      "attributes": {
+        "price": 6649,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2450,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "1bffe4a3-a387-59a3-8185-bdff531ca32a": {
+      "id": "1bffe4a3-a387-59a3-8185-bdff531ca32a",
+      "brand": "intex",
+      "model": "intex infie 3",
+      "attributes": {
+        "price": 3399,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2000,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.95,
+        "display_type": "lcd display"
+      }
+    },
+    "5041ad22-eebe-5be4-b424-4f2b36492d55": {
+      "id": "5041ad22-eebe-5be4-b424-4f2b36492d55",
+      "brand": "intex",
+      "model": "intex indie 5",
+      "attributes": {
+        "price": 7299,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 4000,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "85eafc14-47d3-5048-86cd-e5c57f9df945": {
+      "id": "85eafc14-47d3-5048-86cd-e5c57f9df945",
+      "brand": "intex",
+      "model": "intex cloud y5",
+      "attributes": {
+        "price": 4999,
+        "ram": 0.5,
+        "os": "android",
+        "storage": 4.0,
+        "battery_capacity": 1850,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_primery rear camera": 3.2,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.5,
+        "display_type": "tft display"
+      }
+    },
+    "47b2f16d-5c34-5a74-a6de-4b221c2342b9": {
+      "id": "47b2f16d-5c34-5a74-a6de-4b221c2342b9",
+      "brand": "intex",
+      "model": "intex aqua y2 pro",
+      "attributes": {
+        "price": 3499,
+        "ram": 0.5,
+        "os": "android",
+        "storage": 4.0,
+        "battery_capacity": 1600,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 2.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.5,
+        "display_type": "tft display"
+      }
+    },
+    "62420ada-1b67-511e-b8fa-e7888026604e": {
+      "id": "62420ada-1b67-511e-b8fa-e7888026604e",
+      "brand": "intex",
+      "model": "intex aqua 4.5e",
+      "attributes": {
+        "price": 3375,
+        "ram": 0.5,
+        "os": "android",
+        "storage": 4.0,
+        "battery_capacity": 1600,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.5,
+        "display_type": "lcd display"
+      }
+    },
+    "a7bde1ec-ca73-50a7-837d-4edc4f59e0c2": {
+      "id": "a7bde1ec-ca73-50a7-837d-4edc4f59e0c2",
+      "brand": "intex",
+      "model": "intex aqua 3g pro",
+      "attributes": {
+        "price": 3000,
+        "ram": 0.5,
+        "os": "android",
+        "storage": 4.0,
+        "battery_capacity": 1400,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_primery rear camera": 2.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.0,
+        "display_type": "tft display"
+      }
+    },
+    "c7f94bb8-3c4d-5444-abb5-bd38e3666126": {
+      "id": "c7f94bb8-3c4d-5444-abb5-bd38e3666126",
+      "brand": "intex",
+      "model": "intex aqua 3g strong",
+      "attributes": {
+        "price": 2699,
+        "ram": 0.25,
+        "os": "android",
+        "storage": 0.5,
+        "battery_capacity": 1400,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_primery rear camera": 2.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.0,
+        "display_type": "tft display"
+      }
+    },
+    "e753403b-e3ff-5608-a572-4526a44e041f": {
+      "id": "e753403b-e3ff-5608-a572-4526a44e041f",
+      "brand": "intex",
+      "model": "intex aqua y4",
+      "attributes": {
+        "price": 3689,
+        "ram": 0.5,
+        "os": "android",
+        "storage": 4.0,
+        "battery_capacity": 1700,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 2.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.5,
+        "display_type": "tft display"
+      }
+    },
+    "aa30f7ea-66b9-5c7f-bd14-260fd007384f": {
+      "id": "aa30f7ea-66b9-5c7f-bd14-260fd007384f",
+      "brand": "intex",
+      "model": "intex cloud 4g star",
+      "attributes": {
+        "price": 7999,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2300,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "b5b780cb-1bdc-599e-a6e5-8b1d95a050e2": {
+      "id": "b5b780cb-1bdc-599e-a6e5-8b1d95a050e2",
+      "brand": "intex",
+      "model": "intex aqua trend",
+      "attributes": {
+        "price": 8035,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "570c5b1d-7b72-567c-8623-234c2a624c2f": {
+      "id": "570c5b1d-7b72-567c-8623-234c2a624c2f",
+      "brand": "intex",
+      "model": "intex aqua young",
+      "attributes": {
+        "price": 4999,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2500,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "b6354053-5b7a-59db-9260-179b9da33a16": {
+      "id": "b6354053-5b7a-59db-9260-179b9da33a16",
+      "brand": "intex",
+      "model": "intex aqua super",
+      "attributes": {
+        "price": 6999,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2150,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "4912b9bb-c809-517f-822a-62584a61f0a7": {
+      "id": "4912b9bb-c809-517f-822a-62584a61f0a7",
+      "brand": "intex",
+      "model": "intex aqua star 4g",
+      "attributes": {
+        "price": 6299,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2000,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "5a343b19-dd28-5ad7-8433-3f39d8aa544f": {
+      "id": "5a343b19-dd28-5ad7-8433-3f39d8aa544f",
+      "brand": "intex",
+      "model": "intex cloud 4g smart",
+      "attributes": {
+        "price": 5999,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2000,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "67ec511d-a72c-58d9-a4b9-4e62bce9cdf9": {
+      "id": "67ec511d-a72c-58d9-a4b9-4e62bce9cdf9",
+      "brand": "intex",
+      "model": "intex cloud crystal 2.5d",
+      "attributes": {
+        "price": 9490,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2200,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "e9f687f9-338f-5d9d-9046-38d57ded4f35": {
+      "id": "e9f687f9-338f-5d9d-9046-38d57ded4f35",
+      "brand": "intex",
+      "model": "intex aqua craze",
+      "attributes": {
+        "price": 3999,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2500,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "47871f3b-3869-5867-bdee-dde030249ad6": {
+      "id": "47871f3b-3869-5867-bdee-dde030249ad6",
+      "brand": "intex",
+      "model": "intex aqua lions 3g",
+      "attributes": {
+        "price": 3450,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 3500,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "d0159993-3ad9-5657-8385-fcab69c10074": {
+      "id": "d0159993-3ad9-5657-8385-fcab69c10074",
+      "brand": "intex",
+      "model": "intex aqua 3g pro q",
+      "attributes": {
+        "price": 2999,
+        "ram": 0.5,
+        "os": "android",
+        "storage": 4.0,
+        "battery_capacity": 1300,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 2.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.0,
+        "display_type": "tft display"
+      }
+    },
+    "61a556be-1ad6-509f-b584-3fb8bd9e609b": {
+      "id": "61a556be-1ad6-509f-b584-3fb8bd9e609b",
+      "brand": "intex",
+      "model": "intex aqua strong 5.1",
+      "attributes": {
+        "price": 5990,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2800,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "tft display"
+      }
+    },
+    "1e780cac-80b3-56c1-abb7-bc962c32a236": {
+      "id": "1e780cac-80b3-56c1-abb7-bc962c32a236",
+      "brand": "intex",
+      "model": "intex aqua costa",
+      "attributes": {
+        "price": 4316,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2200,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "tft display"
+      }
+    },
+    "9633ad01-5769-5f6a-9f49-9329acdca2f4": {
+      "id": "9633ad01-5769-5f6a-9f49-9329acdca2f4",
+      "brand": "intex",
+      "model": "intex aqua strong 5.2",
+      "attributes": {
+        "price": 5799,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2800,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "tft display"
+      }
+    },
+    "76d5d170-dacf-5e87-8c0e-307459585c8a": {
+      "id": "76d5d170-dacf-5e87-8c0e-307459585c8a",
+      "brand": "intex",
+      "model": "intex aqua 5.5 vr",
+      "attributes": {
+        "price": 5849,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2800,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "7443508a-f72c-5328-9da8-7b12b4498ea6": {
+      "id": "7443508a-f72c-5328-9da8-7b12b4498ea6",
+      "brand": "intex",
+      "model": "intex aqua q8",
+      "attributes": {
+        "price": 3990,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 1650,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.5,
+        "display_type": "tft display"
+      }
+    },
+    "b1845061-f341-51a4-9f6b-fe076f0b040b": {
+      "id": "b1845061-f341-51a4-9f6b-fe076f0b040b",
+      "brand": "intex",
+      "model": "intex aqua lions 4g",
+      "attributes": {
+        "price": 6790,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2000,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "tft display"
+      }
+    },
+    "dc7717a5-70fd-59bc-9609-b4d6f5094e26": {
+      "id": "dc7717a5-70fd-59bc-9609-b4d6f5094e26",
+      "brand": "intex",
+      "model": "intex aqua trend lite",
+      "attributes": {
+        "price": 4295,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2600,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "tft display"
+      }
+    },
+    "67b62336-0cba-56c9-ac86-bc7cba616560": {
+      "id": "67b62336-0cba-56c9-ac86-bc7cba616560",
+      "brand": "intex",
+      "model": "intex aqua a4",
+      "attributes": {
+        "price": 2849,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 1750,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.0,
+        "display_type": "tft display"
+      }
+    },
+    "c8d98bf0-22ea-5396-b951-05d443ff2265": {
+      "id": "c8d98bf0-22ea-5396-b951-05d443ff2265",
+      "brand": "intex",
+      "model": "intex aqua crystal plus",
+      "attributes": {
+        "price": 7490,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2100,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "b6583eea-e333-5b74-aa5d-9954c38078c1": {
+      "id": "b6583eea-e333-5b74-aa5d-9954c38078c1",
+      "brand": "intex",
+      "model": "intex aqua zenith",
+      "attributes": {
+        "price": 5499,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2000,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "1d4cab02-d035-5b46-8439-cd98bb0d1af6": {
+      "id": "1d4cab02-d035-5b46-8439-cd98bb0d1af6",
+      "brand": "intex",
+      "model": "intex aqua style iii",
+      "attributes": {
+        "price": 5899,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2500,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "tft display"
+      }
+    },
+    "b23241d5-83b8-51f2-a286-989be5eb4444": {
+      "id": "b23241d5-83b8-51f2-a286-989be5eb4444",
+      "brand": "intex",
+      "model": "intex aqua lions x1",
+      "attributes": {
+        "price": 7795,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2800,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.2,
+        "display_type": "lcd display"
+      }
+    },
+    "964594c1-3908-5939-85ef-2b713d7fc0da": {
+      "id": "964594c1-3908-5939-85ef-2b713d7fc0da",
+      "brand": "intex",
+      "model": "intex aqua lions x1 plus",
+      "attributes": {
+        "price": 6199,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 2800,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.2,
+        "display_type": "lcd display"
+      }
+    },
+    "0189fe98-f7b1-51f6-a4d4-0a8d911b917a": {
+      "id": "0189fe98-f7b1-51f6-a4d4-0a8d911b917a",
+      "brand": "intex",
+      "model": "intex aqua lions n1",
+      "attributes": {
+        "price": 3199,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 1400,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 2.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.0,
+        "display_type": "tft display"
+      }
+    },
+    "e1966e5b-7b88-5e09-85ff-df5793d27d76": {
+      "id": "e1966e5b-7b88-5e09-85ff-df5793d27d76",
+      "brand": "intex",
+      "model": "intex staari 10",
+      "attributes": {
+        "price": 10249,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 2800,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.2,
+        "display_type": "lcd display"
+      }
+    },
+    "5f8d583f-6475-5aca-8576-a4cd5d3699dc": {
+      "id": "5f8d583f-6475-5aca-8576-a4cd5d3699dc",
+      "brand": "intex",
+      "model": "intex infie 33",
+      "attributes": {
+        "price": 3850,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.34,
+        "display_type": "lcd display"
+      }
+    },
+    "2ffd0071-4fc7-5eb8-9d88-9ee39233e24d": {
+      "id": "2ffd0071-4fc7-5eb8-9d88-9ee39233e24d",
+      "brand": "intex",
+      "model": "intex infie 77",
+      "attributes": {
+        "price": 5199,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2800,
+        "charging": "No",
+        "attr_processor brand": "quad",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.45,
+        "display_type": "lcd display"
+      }
+    },
+    "25d98a10-69c7-5593-a8fd-4fdb98e3a34f": {
+      "id": "25d98a10-69c7-5593-a8fd-4fdb98e3a34f",
+      "brand": "intex",
+      "model": "intex aqua lions t1 lite vr",
+      "attributes": {
+        "price": 5199,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2200,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "tft display"
+      }
+    },
+    "3a739564-c071-595d-8f45-81c3a8978aef": {
+      "id": "3a739564-c071-595d-8f45-81c3a8978aef",
+      "brand": "intex",
+      "model": "intex cloud string v2",
+      "attributes": {
+        "price": 6499,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2200,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "7704783e-06f8-5312-9023-2e2c833fa05b": {
+      "id": "7704783e-06f8-5312-9023-2e2c833fa05b",
+      "brand": "intex",
+      "model": "intex aqua ring",
+      "attributes": {
+        "price": 4999,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2450,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "14464e95-87e2-541c-994c-e522602ee51e": {
+      "id": "14464e95-87e2-541c-994c-e522602ee51e",
+      "brand": "intex",
+      "model": "intex aqua q7n",
+      "attributes": {
+        "price": 4190,
+        "ram": 0.5,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2000,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.5,
+        "display_type": "lcd display"
+      }
+    },
+    "34d7b1be-652e-5f4b-a377-165f62b60633": {
+      "id": "34d7b1be-652e-5f4b-a377-165f62b60633",
+      "brand": "intex",
+      "model": "intex aqua sense 5.1",
+      "attributes": {
+        "price": 3560,
+        "ram": 0.5,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2500,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 2.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "tft display"
+      }
+    },
+    "97be8852-05b3-5c6a-9765-171f9b6da9b0": {
+      "id": "97be8852-05b3-5c6a-9765-171f9b6da9b0",
+      "brand": "intex",
+      "model": "intex aqua lite",
+      "attributes": {
+        "price": 3236,
+        "ram": 0.5,
+        "os": "android",
+        "storage": 4.0,
+        "battery_capacity": 1400,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_primery rear camera": 2.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.0,
+        "display_type": "tft display"
+      }
+    },
+    "edba3242-6554-56d0-a50e-823fb64b152e": {
+      "id": "edba3242-6554-56d0-a50e-823fb64b152e",
+      "brand": "intex",
+      "model": "intex cloud y1",
+      "attributes": {
+        "price": 4299,
+        "ram": 0.5,
+        "os": "android",
+        "storage": 4.0,
+        "battery_capacity": 1450,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_primery rear camera": 2.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.0,
+        "display_type": "tft display"
+      }
+    },
+    "e07c7d46-5583-58c9-8927-869f4967f212": {
+      "id": "e07c7d46-5583-58c9-8927-869f4967f212",
+      "brand": "intex",
+      "model": "intex aqua star power",
+      "attributes": {
+        "price": 6919,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.5,
+        "display_type": "lcd display"
+      }
+    },
+    "24ccfe02-5aab-58b8-978a-63d78c87db34": {
+      "id": "24ccfe02-5aab-58b8-978a-63d78c87db34",
+      "brand": "intex",
+      "model": "intex aqua y2 1gb ram",
+      "attributes": {
+        "price": 4199,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 1400,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.0,
+        "display_type": "lcd display"
+      }
+    },
+    "4d7581c7-e335-52f2-ba57-0330ec247858": {
+      "id": "4d7581c7-e335-52f2-ba57-0330ec247858",
+      "brand": "intex",
+      "model": "intex aqua ace",
+      "attributes": {
+        "price": 11192,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2300,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "amoled display"
+      }
+    },
+    "0fda02ab-5220-53fe-9fcc-682f378184df": {
+      "id": "0fda02ab-5220-53fe-9fcc-682f378184df",
+      "brand": "intex",
+      "model": "intex cloud cube",
+      "attributes": {
+        "price": 3299,
+        "ram": 0.5,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2000,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 2.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.5,
+        "display_type": "tft display"
+      }
+    },
+    "dde54b44-73b6-5a93-be21-e9b994eb7496": {
+      "id": "dde54b44-73b6-5a93-be21-e9b994eb7496",
+      "brand": "intex",
+      "model": "intex aqua 4g strong",
+      "attributes": {
+        "price": 4999,
+        "ram": 0.75,
+        "os": "android",
+        "storage": 4.0,
+        "battery_capacity": 1700,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_primery rear camera": 2.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.0,
+        "display_type": "tft display"
+      }
+    },
+    "df3e0aa2-e6e9-5a33-a40e-cd7709efe60e": {
+      "id": "df3e0aa2-e6e9-5a33-a40e-cd7709efe60e",
+      "brand": "intex",
+      "model": "intex cloud q11",
+      "attributes": {
+        "price": 4499,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2800,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "0deb5648-e08e-51da-9203-0a1424fc4903": {
+      "id": "0deb5648-e08e-51da-9203-0a1424fc4903",
+      "brand": "intex",
+      "model": "intex aqua amaze plus",
+      "attributes": {
+        "price": 4299,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2000,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.7,
+        "display_type": "lcd display"
+      }
+    },
+    "e312cdd0-5118-5e31-a0e6-ced4a2ae586d": {
+      "id": "e312cdd0-5118-5e31-a0e6-ced4a2ae586d",
+      "brand": "intex",
+      "model": "intex aqua lions 3",
+      "attributes": {
+        "price": 4974,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 4000,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "749e08f8-1524-52ff-80ad-ea0274490496": {
+      "id": "749e08f8-1524-52ff-80ad-ea0274490496",
+      "brand": "intex",
+      "model": "intex aqua 5.5 vr plus",
+      "attributes": {
+        "price": 6199,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2800,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "e3d94b5b-63eb-55ea-b7a0-e1929ec6d528": {
+      "id": "e3d94b5b-63eb-55ea-b7a0-e1929ec6d528",
+      "brand": "intex",
+      "model": "intex aqua lions t1",
+      "attributes": {
+        "price": 4399,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2700,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.2,
+        "display_type": "tft display"
+      }
+    },
+    "75515367-9b6b-5956-a28e-5bb628bba78b": {
+      "id": "75515367-9b6b-5956-a28e-5bb628bba78b",
+      "brand": "intex",
+      "model": "intex aqua lions t1 plus",
+      "attributes": {
+        "price": 8499,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2400,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 2,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "a74de98e-b8e9-596c-8652-9a076cbf6c35": {
+      "id": "a74de98e-b8e9-596c-8652-9a076cbf6c35",
+      "brand": "intex",
+      "model": "intex indie 6",
+      "attributes": {
+        "price": 8499,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2400,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 2,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    }
+  }
+}

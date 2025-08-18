@@ -1,0 +1,23 @@
+{
+  "brand": "RED",
+  "phones": {
+    "b0f696ea-151b-5362-91f7-4369ae7edd00": {
+      "id": "b0f696ea-151b-5362-91f7-4369ae7edd00",
+      "brand": "RED",
+      "model": "Hydrogen One",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "release_date": "Nov 02, 2018",
+        "battery_capacity": 4500.0,
+        "chipset": "Qualcomm Snapdragon 835",
+        "attr_memory": 6.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 2560,
+        "camera_main": 12.0,
+        "camera_front": 8
+      }
+    }
+  }
+}

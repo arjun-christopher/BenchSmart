@@ -1,0 +1,43 @@
+{
+  "brand": "Razer",
+  "phones": {
+    "0b99cfc5-2345-5b4a-86a5-dead439a2df9": {
+      "id": "0b99cfc5-2345-5b4a-86a5-dead439a2df9",
+      "brand": "Razer",
+      "model": "Phone",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "Nov 15, 2017",
+        "battery_capacity": 4000.0,
+        "chipset": "Qualcomm Snapdragon 835",
+        "attr_memory": 8.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 2560,
+        "refresh_rate": 120.0,
+        "camera_main": 12.0,
+        "camera_front": 8
+      }
+    },
+    "9342a772-96a4-5458-af7a-4c7437c57ba6": {
+      "id": "9342a772-96a4-5458-af7a-4c7437c57ba6",
+      "brand": "Razer",
+      "model": "Phone 2",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "Oct 22, 2018",
+        "battery_capacity": 4000.0,
+        "chipset": "Qualcomm Snapdragon 845",
+        "attr_memory": 8.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 2560,
+        "refresh_rate": 120.0,
+        "camera_main": 12.0,
+        "camera_front": 8
+      }
+    }
+  }
+}

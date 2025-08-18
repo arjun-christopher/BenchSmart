@@ -1,0 +1,576 @@
+{
+  "brand": "T-Mobile",
+  "phones": {
+    "7f7f2895-6c76-5306-975f-2335f2506b67": {
+      "id": "7f7f2895-6c76-5306-975f-2335f2506b67",
+      "brand": "T-Mobile",
+      "model": "Concord",
+      "attributes": {
+        "os": "Android 2.3.7",
+        "release_date": "Aug 23, 2012",
+        "battery_capacity": 1500.0,
+        "chipset": "Broadcom BCM21553",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0
+      }
+    },
+    "0133f010-e9d6-501c-aa0b-6f7be71e60f7": {
+      "id": "0133f010-e9d6-501c-aa0b-6f7be71e60f7",
+      "brand": "T-Mobile",
+      "model": "Concord II",
+      "attributes": {
+        "os": "Android 4.3",
+        "battery_capacity": 1820.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "7d39e023-c1bb-5281-8264-f73e836daa1f": {
+      "id": "7d39e023-c1bb-5281-8264-f73e836daa1f",
+      "brand": "T-Mobile",
+      "model": "Dash 3G",
+      "attributes": {
+        "os": "Windows Mobile Standard 6.1",
+        "release_date": "Jul 08, 2009",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.2,
+        "storage": " microSDHC",
+        "display_size": 2.4,
+        "attr_display resolution": 240,
+        "camera_main": 2.0
+      }
+    },
+    "9953682f-f1e0-5741-8093-ceffef439947": {
+      "id": "9953682f-f1e0-5741-8093-ceffef439947",
+      "brand": "T-Mobile",
+      "model": "G1",
+      "attributes": {
+        "os": "Android ",
+        "release_date": "Oct 22, 2008",
+        "battery_capacity": 1150.0,
+        "chipset": "Qualcomm MSM7201A",
+        "attr_memory": 0.2,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "95940a4b-b268-5d7e-9563-21ae8f6a8e38": {
+      "id": "95940a4b-b268-5d7e-9563-21ae8f6a8e38",
+      "brand": "T-Mobile",
+      "model": "G2",
+      "attributes": {
+        "os": "Android 2.3.3",
+        "release_date": "Oct 03, 2010",
+        "battery_capacity": 1300.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 3.7,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "b250bd20-05d5-5666-a38e-6c7ff30376cf": {
+      "id": "b250bd20-05d5-5666-a38e-6c7ff30376cf",
+      "brand": "T-Mobile",
+      "model": "G2x",
+      "attributes": {
+        "os": "Android 2.3.3",
+        "release_date": "Apr 15, 2011",
+        "battery_capacity": 1500.0,
+        "chipset": "NVIDIA Tegra 2",
+        "attr_memory": 0.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 8.0,
+        "camera_front": 1.3
+      }
+    },
+    "3a8a4af1-34b0-5ccb-8e11-6c918f019e15": {
+      "id": "3a8a4af1-34b0-5ccb-8e11-6c918f019e15",
+      "brand": "T-Mobile",
+      "model": "Move",
+      "attributes": {
+        "os": "Android 2.2",
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "173f0464-24c9-509a-85fb-eb5caf4a8e3d": {
+      "id": "173f0464-24c9-509a-85fb-eb5caf4a8e3d",
+      "brand": "T-Mobile",
+      "model": "Prism",
+      "attributes": {
+        "os": "Android 2.3.6",
+        "release_date": "May 06, 2012",
+        "battery_capacity": 1400.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "204f1191-4c37-5498-b054-bfe37eb18db2": {
+      "id": "204f1191-4c37-5498-b054-bfe37eb18db2",
+      "brand": "T-Mobile",
+      "model": "Prism II",
+      "attributes": {
+        "os": "Android 4.1.1",
+        "battery_capacity": 1750.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "82ccc8be-020b-56bd-8d2d-4373826b9eb8": {
+      "id": "82ccc8be-020b-56bd-8d2d-4373826b9eb8",
+      "brand": "T-Mobile",
+      "model": "Pulse",
+      "attributes": {
+        "os": "Android 1.5",
+        "release_date": "Oct 02, 2009",
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "b84e55b0-1fff-5200-9406-e70f0d857834": {
+      "id": "b84e55b0-1fff-5200-9406-e70f0d857834",
+      "brand": "T-Mobile",
+      "model": "REVVL",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "release_date": "Aug 10, 2017",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "6a5ce803-b1dd-5cf3-b242-20429db7ba7b": {
+      "id": "6a5ce803-b1dd-5cf3-b242-20429db7ba7b",
+      "brand": "T-Mobile",
+      "model": "REVVL V+ 5G",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "Jul 12, 2021",
+        "battery_capacity": 5000.0,
+        "chipset": "MediaTek Dimensity 700",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.8,
+        "attr_display resolution": 1640,
+        "refresh_rate": 60.0,
+        "camera_main": 16.0,
+        "camera_front": 16
+      }
+    },
+    "538c9822-0d97-57c9-bf44-32cc1fc98a0c": {
+      "id": "538c9822-0d97-57c9-bf44-32cc1fc98a0c",
+      "brand": "T-Mobile",
+      "model": "Revvl 2",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "release_date": "Nov 16, 2018",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1440,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "5e244dad-2a85-5c19-bc9e-1d6ff25d1f18": {
+      "id": "5e244dad-2a85-5c19-bc9e-1d6ff25d1f18",
+      "brand": "T-Mobile",
+      "model": "Revvl 2 Plus",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "release_date": "Nov 16, 2018",
+        "battery_capacity": 4000.0,
+        "chipset": "MediaTek Helio P23",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 2160,
+        "camera_main": 12.0,
+        "camera_front": 8
+      }
+    },
+    "261710b7-50e8-5251-81b4-59427f9bbfbe": {
+      "id": "261710b7-50e8-5251-81b4-59427f9bbfbe",
+      "brand": "T-Mobile",
+      "model": "Revvl 4",
+      "attributes": {
+        "os": "Android 10",
+        "release_date": "Sep 04, 2020",
+        "battery_capacity": 3500.0,
+        "chipset": "MediaTek Helio A22",
+        "attr_memory": 2.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 6.2,
+        "attr_display resolution": 1520,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "6fc62c87-ad7d-5213-b250-509b25957b3c": {
+      "id": "6fc62c87-ad7d-5213-b250-509b25957b3c",
+      "brand": "T-Mobile",
+      "model": "Revvl 4+",
+      "attributes": {
+        "os": "Android 10",
+        "release_date": "Sep 04, 2020",
+        "battery_capacity": 4000.0,
+        "chipset": "Qualcomm Snapdragon 665",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.5,
+        "attr_display resolution": 1600,
+        "camera_main": 16.0,
+        "camera_front": 16
+      }
+    },
+    "b45198ad-0def-5907-ac94-5ab6f103d30f": {
+      "id": "b45198ad-0def-5907-ac94-5ab6f103d30f",
+      "brand": "T-Mobile",
+      "model": "Revvl 5G",
+      "attributes": {
+        "os": "Android 10",
+        "release_date": "Sep 04, 2020",
+        "battery_capacity": 4500.0,
+        "chipset": "Qualcomm Snapdragon 765",
+        "attr_memory": 6.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.5,
+        "attr_display resolution": 2340,
+        "camera_main": 48.0,
+        "camera_front": 16
+      }
+    },
+    "f60a9dc6-92a0-55b2-bac0-3cfb33a30d61": {
+      "id": "f60a9dc6-92a0-55b2-bac0-3cfb33a30d61",
+      "brand": "T-Mobile",
+      "model": "Revvl Plus",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "release_date": "Nov 17, 2017",
+        "battery_capacity": 3380.0,
+        "chipset": "Qualcomm Snapdragon 625",
+        "attr_memory": 2.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "efeefcd4-d72f-578c-bde6-d0a074fd33a8": {
+      "id": "efeefcd4-d72f-578c-bde6-d0a074fd33a8",
+      "brand": "T-Mobile",
+      "model": "Revvlry",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "Jul 19, 2019",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 632",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 1520,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "0d49b6df-6822-5493-82b0-e74c3caf1917": {
+      "id": "0d49b6df-6822-5493-82b0-e74c3caf1917",
+      "brand": "T-Mobile",
+      "model": "Revvlry+",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "Jul 19, 2019",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 636",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.2,
+        "attr_display resolution": 2270,
+        "camera_main": 16.0,
+        "camera_front": 12
+      }
+    },
+    "5870a146-9c45-52b3-bac6-e9703e8f1b25": {
+      "id": "5870a146-9c45-52b3-bac6-e9703e8f1b25",
+      "brand": "T-Mobile",
+      "model": "Shadow",
+      "attributes": {
+        "os": "Windows Mobile Standard 6.1",
+        "release_date": "Jan 28, 2009",
+        "battery_capacity": 1100.0,
+        "chipset": "TI OMAP V1030",
+        "attr_memory": 0.1,
+        "storage": " microSDHC",
+        "display_size": 2.6,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "11c5a908-8b28-5434-b97a-466fb467c647": {
+      "id": "11c5a908-8b28-5434-b97a-466fb467c647",
+      "brand": "T-Mobile",
+      "model": "Sidekick",
+      "attributes": {
+        "os": "Danger 4.7",
+        "release_date": "Jul 30, 2008",
+        "battery_capacity": 1030.0,
+        "attr_memory": 0.1,
+        "storage": " microSDHC",
+        "display_size": 2.6,
+        "attr_display resolution": 400,
+        "camera_main": 2.0
+      }
+    },
+    "9f9807af-f79f-5e58-8004-d304fe89b4ed": {
+      "id": "9f9807af-f79f-5e58-8004-d304fe89b4ed",
+      "brand": "T-Mobile",
+      "model": "Sidekick 4G",
+      "attributes": {
+        "os": "Android 2.2",
+        "release_date": "Apr 20, 2011",
+        "battery_capacity": 1500.0,
+        "chipset": "Samsung Exynos 3",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 800,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "04580237-d2d2-5cf1-be3b-444bed61420e": {
+      "id": "04580237-d2d2-5cf1-be3b-444bed61420e",
+      "brand": "T-Mobile",
+      "model": "Sidekick LX",
+      "attributes": {
+        "os": "Danger ",
+        "release_date": "May 13, 2009",
+        "battery_capacity": 1250.0,
+        "storage": " microSD",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "ae232377-0ef0-585c-87bd-1e29abfcacd0": {
+      "id": "ae232377-0ef0-585c-87bd-1e29abfcacd0",
+      "brand": "T-Mobile",
+      "model": "Sidekick Slide",
+      "attributes": {
+        "os": "Danger ",
+        "battery_capacity": 1130.0,
+        "attr_primary storage": 0.0,
+        "storage": " microSD",
+        "attr_display resolution": 240,
+        "camera_main": 1.0
+      }
+    },
+    "4d92a42a-7393-5eff-9b25-bc78089a0f41": {
+      "id": "4d92a42a-7393-5eff-9b25-bc78089a0f41",
+      "brand": "T-Mobile",
+      "model": "Vivacity",
+      "attributes": {
+        "os": "Android 2.3",
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "9d4aada1-4177-589b-a316-4782ba505e76": {
+      "id": "9d4aada1-4177-589b-a316-4782ba505e76",
+      "brand": "T-Mobile",
+      "model": "myTouch",
+      "attributes": {
+        "os": "Android 2.3.4",
+        "release_date": "Nov 02, 2011",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 3.8,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "7a84beae-29e4-5f78-86d7-fbfc4e7f637e": {
+      "id": "7a84beae-29e4-5f78-86d7-fbfc4e7f637e",
+      "brand": "T-Mobile",
+      "model": "myTouch 2",
+      "attributes": {
+        "os": "Android 2.3",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "b079d778-ebd3-5b73-9828-45b08698a715": {
+      "id": "b079d778-ebd3-5b73-9828-45b08698a715",
+      "brand": "T-Mobile",
+      "model": "myTouch 3G",
+      "attributes": {
+        "os": "Android ",
+        "release_date": "Jul 30, 2009",
+        "battery_capacity": 1340.0,
+        "chipset": "Qualcomm MSM7201A",
+        "attr_memory": 0.2,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "dfea0be9-7cff-50ad-9890-908b7454c09c": {
+      "id": "dfea0be9-7cff-50ad-9890-908b7454c09c",
+      "brand": "T-Mobile",
+      "model": "myTouch 3G Fender",
+      "attributes": {
+        "os": "Android 2.2",
+        "release_date": "Jan 20, 2010",
+        "battery_capacity": 1340.0,
+        "chipset": "Qualcomm MSM7201A",
+        "attr_memory": 0.3,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "bd95c637-1ed9-524e-a860-265abf22129d": {
+      "id": "bd95c637-1ed9-524e-a860-265abf22129d",
+      "brand": "T-Mobile",
+      "model": "myTouch 3G Slide",
+      "attributes": {
+        "os": "Android 2.2",
+        "battery_capacity": 1300.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 3.4,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "f005bbd5-4406-5014-b499-2c1b16a908ac": {
+      "id": "f005bbd5-4406-5014-b499-2c1b16a908ac",
+      "brand": "T-Mobile",
+      "model": "myTouch 4G",
+      "attributes": {
+        "os": "Android 2.2",
+        "release_date": "Nov 04, 2010",
+        "battery_capacity": 1400.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.75,
+        "storage": " microSDHC",
+        "display_size": 3.8,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "a72eccb0-ccaf-51e5-9a71-c11aa22e5280": {
+      "id": "a72eccb0-ccaf-51e5-9a71-c11aa22e5280",
+      "brand": "T-Mobile",
+      "model": "myTouch 4G Slide",
+      "attributes": {
+        "os": "Android 2.3.4",
+        "release_date": "Jul 22, 2011",
+        "battery_capacity": 1520.0,
+        "chipset": "Qualcomm Snapdragon S3",
+        "attr_memory": 0.75,
+        "attr_primary storage": 1.0,
+        "storage": " microSDHC",
+        "display_size": 3.7,
+        "attr_display resolution": 800,
+        "camera_main": 8.0
+      }
+    },
+    "30db3c12-721f-50f1-b299-fbcd99dca185": {
+      "id": "30db3c12-721f-50f1-b299-fbcd99dca185",
+      "brand": "T-Mobile",
+      "model": "myTouch Q",
+      "attributes": {
+        "os": "Android 2.3.6",
+        "release_date": "Nov 02, 2011",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "6d886b5c-b57f-585b-bb02-a160979ecd0f": {
+      "id": "6d886b5c-b57f-585b-bb02-a160979ecd0f",
+      "brand": "T-Mobile",
+      "model": "myTouch Q 2",
+      "attributes": {
+        "os": "Android 2.3",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    }
+  }
+}
