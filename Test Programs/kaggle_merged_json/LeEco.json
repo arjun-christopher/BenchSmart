@@ -23,7 +23,9 @@
       "brand": "leeco",
       "model": "LeEco S1 Pro",
       "attributes": {
-        "price": 10999,
+        "price": [
+          10999
+        ],
         "rating": 6.5,
         "attr_5g or not": 0,
         "attr_processor brand": "tiger",

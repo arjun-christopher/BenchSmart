@@ -23,7 +23,9 @@
       "brand": "tesla",
       "model": "Tesla Pi Phone",
       "attributes": {
-        "price": 69999,
+        "price": [
+          69999
+        ],
         "rating": 8.3,
         "attr_5g or not": 1,
         "attr_num cores": 8.0,

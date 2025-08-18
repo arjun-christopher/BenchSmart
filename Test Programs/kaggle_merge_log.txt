@@ -1,9 +1,6 @@
 === Start merging Kaggle smartphone CSVs ===
 --> E:\Cloud-AI-Native-Smartphone-Intelligence-Software\Test Programs\kaggle_datasets\5G smartphones available in india (updated in april 2022).csv
 [OK] E:\Cloud-AI-Native-Smartphone-Intelligence-Software\Test Programs\kaggle_datasets\5G smartphones available in india (updated in april 2022).csv -> processed 234 rows, merged 234 entries.
---> E:\Cloud-AI-Native-Smartphone-Intelligence-Software\Test Programs\kaggle_datasets\Amazon Top Rated Smartphones  Accessories 2021   - amazon_top_rated_smartphones.csv
-[WARN] E:\Cloud-AI-Native-Smartphone-Intelligence-Software\Test Programs\kaggle_datasets\Amazon Top Rated Smartphones  Accessories 2021   - amazon_top_rated_smartphones.csv -> no obvious brand/model columns; attempting generic heuristics.
-[SKIP] E:\Cloud-AI-Native-Smartphone-Intelligence-Software\Test Programs\kaggle_datasets\Amazon Top Rated Smartphones  Accessories 2021   - amazon_top_rated_smartphones.csv -> couldn't find model column.
 --> E:\Cloud-AI-Native-Smartphone-Intelligence-Software\Test Programs\kaggle_datasets\flipkart_smartphones.csv
 [OK] E:\Cloud-AI-Native-Smartphone-Intelligence-Software\Test Programs\kaggle_datasets\flipkart_smartphones.csv -> processed 836 rows, merged 836 entries.
 --> E:\Cloud-AI-Native-Smartphone-Intelligence-Software\Test Programs\kaggle_datasets\iphone_results (1).csv
@@ -12,6 +9,8 @@
 --> E:\Cloud-AI-Native-Smartphone-Intelligence-Software\Test Programs\kaggle_datasets\iphone_results.csv
 [WARN] E:\Cloud-AI-Native-Smartphone-Intelligence-Software\Test Programs\kaggle_datasets\iphone_results.csv -> no obvious brand/model columns; attempting generic heuristics.
 [SKIP] E:\Cloud-AI-Native-Smartphone-Intelligence-Software\Test Programs\kaggle_datasets\iphone_results.csv -> couldn't find model column.
+--> E:\Cloud-AI-Native-Smartphone-Intelligence-Software\Test Programs\kaggle_datasets\iphone_results_modified.csv
+[OK] E:\Cloud-AI-Native-Smartphone-Intelligence-Software\Test Programs\kaggle_datasets\iphone_results_modified.csv -> processed 357 rows, merged 357 entries.
 --> E:\Cloud-AI-Native-Smartphone-Intelligence-Software\Test Programs\kaggle_datasets\phones_data.csv
 [OK] E:\Cloud-AI-Native-Smartphone-Intelligence-Software\Test Programs\kaggle_datasets\phones_data.csv -> processed 1224 rows, merged 1224 entries.
 --> E:\Cloud-AI-Native-Smartphone-Intelligence-Software\Test Programs\kaggle_datasets\smartphones - smartphones.csv

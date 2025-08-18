@@ -156,7 +156,9 @@
       "brand": "cat",
       "model": "CAT S22 Flip",
       "attributes": {
-        "price": 14999,
+        "price": [
+          14999
+        ],
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 4.0,

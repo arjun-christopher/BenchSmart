@@ -620,7 +620,9 @@
       "brand": "honor",
       "model": "Honor 50",
       "attributes": {
-        "price": 32990,
+        "price": [
+          32990
+        ],
         "rating": 8.5,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -649,7 +651,9 @@
       "brand": "honor",
       "model": "Honor 60 SE 5G",
       "attributes": {
-        "price": 24990,
+        "price": [
+          24990
+        ],
         "rating": 7.5,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -678,7 +682,9 @@
       "brand": "honor",
       "model": "Honor 70 5G",
       "attributes": {
-        "price": 39990,
+        "price": [
+          39990
+        ],
         "rating": 8.8,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -707,7 +713,9 @@
       "brand": "honor",
       "model": "Honor 70 5G (8GB RAM + 256GB)",
       "attributes": {
-        "price": 30990,
+        "price": [
+          30990
+        ],
         "rating": 8.6,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -736,7 +744,9 @@
       "brand": "honor",
       "model": "Honor 80 Pro Plus",
       "attributes": {
-        "price": 54990,
+        "price": [
+          54990
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
@@ -764,7 +774,9 @@
       "brand": "honor",
       "model": "Honor Magic 4 Pro Plus 5G",
       "attributes": {
-        "price": 94990,
+        "price": [
+          94990
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
@@ -792,7 +804,9 @@
       "brand": "honor",
       "model": "Honor Play 30",
       "attributes": {
-        "price": 9999,
+        "price": [
+          9999
+        ],
         "rating": 6.8,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -820,7 +834,9 @@
       "brand": "honor",
       "model": "Honor X6",
       "attributes": {
-        "price": 13999,
+        "price": [
+          13999
+        ],
         "rating": 7.1,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -849,7 +865,9 @@
       "brand": "honor",
       "model": "Honor X7a",
       "attributes": {
-        "price": 13999,
+        "price": [
+          13999
+        ],
         "rating": 7.5,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -878,7 +896,9 @@
       "brand": "honor",
       "model": "Honor X8",
       "attributes": {
-        "price": 16999,
+        "price": [
+          16999
+        ],
         "rating": 7.6,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -907,7 +927,9 @@
       "brand": "honor",
       "model": "Honor X8 5G",
       "attributes": {
-        "price": 14990,
+        "price": [
+          14990
+        ],
         "rating": 7.5,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -937,7 +959,9 @@
       "brand": "honor",
       "model": "Honor X9 5G",
       "attributes": {
-        "price": 16999,
+        "price": [
+          16999
+        ],
         "rating": 8.0,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -966,7 +990,9 @@
       "brand": "honor",
       "model": "Honor X9a",
       "attributes": {
-        "price": 27999,
+        "price": [
+          27999
+        ],
         "rating": 8.1,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",

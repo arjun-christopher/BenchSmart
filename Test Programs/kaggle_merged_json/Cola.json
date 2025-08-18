@@ -23,7 +23,9 @@
       "brand": "cola",
       "model": "Cola Phone",
       "attributes": {
-        "price": 14999,
+        "price": [
+          14999
+        ],
         "rating": 7.4,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",

@@ -13,7 +13,7 @@ datasets = [
     "pranav941/evolution-of-smartphones",
     "ramjasmaurya/5g-smartphones-available-in-india",
     "rohsanyadav/smartphones-dataset",
-    "ankitkalauni/amazon-top-rated-smartphones-accessories-2021",
+    # "ankitkalauni/amazon-top-rated-smartphones-accessories-2021",
     "pantanjali/iphones-on-ecommerce-website-amazon",
 ]
 

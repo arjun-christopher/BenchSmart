@@ -11,7 +11,10 @@
         "attr_camera specs front": 32,
         "display_size": 6.58,
         "attr_ram of phone": 8,
-        "storage": 256,
+        "storage": [
+          256,
+          " Nano Memory (NM)"
+        ],
         "battery_capacity": 4200,
         "os": "Android v10 (Q) OS",
         "attr_first site": "Flipkart",
@@ -995,7 +998,9 @@
       "brand": "huawei",
       "model": "Huawei Honor 9N",
       "attributes": {
-        "price": 10949,
+        "price": [
+          10949
+        ],
         "rating": 6.6,
         "attr_5g or not": 0,
         "attr_processor brand": "kirin",
@@ -1024,7 +1029,9 @@
       "brand": "huawei",
       "model": "Huawei Mate 30 RS Porsche Design",
       "attributes": {
-        "price": 214990,
+        "price": [
+          214990
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "kirin",
         "attr_num cores": 8.0,
@@ -1052,7 +1059,9 @@
       "brand": "huawei",
       "model": "Huawei Mate 40 Pro 4G",
       "attributes": {
-        "price": 69990,
+        "price": [
+          69990
+        ],
         "attr_5g or not": 0,
         "attr_processor brand": "kirin",
         "attr_num cores": 8.0,
@@ -1081,7 +1090,9 @@
       "brand": "huawei",
       "model": "Huawei Mate 50 Pro 5G",
       "attributes": {
-        "price": 99990,
+        "price": [
+          99990
+        ],
         "rating": 8.5,
         "attr_5g or not": 1,
         "attr_processor brand": "kirin",
@@ -1110,7 +1121,9 @@
       "brand": "huawei",
       "model": "Huawei Mate 50 RS Porsche Design",
       "attributes": {
-        "price": 239999,
+        "price": [
+          239999
+        ],
         "rating": 8.1,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -1140,7 +1153,9 @@
       "brand": "huawei",
       "model": "Huawei Mate X",
       "attributes": {
-        "price": 169000,
+        "price": [
+          169000
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "kirin",
         "attr_num cores": 8.0,
@@ -1165,7 +1180,9 @@
       "brand": "huawei",
       "model": "Huawei Mate Xs 2",
       "attributes": {
-        "price": 162990,
+        "price": [
+          162990
+        ],
         "rating": 8.9,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -1193,7 +1210,9 @@
       "brand": "huawei",
       "model": "Huawei Nova 10",
       "attributes": {
-        "price": 29990,
+        "price": [
+          29990
+        ],
         "rating": 8.2,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -1222,7 +1241,9 @@
       "brand": "huawei",
       "model": "Huawei Nova 10 SE",
       "attributes": {
-        "price": 23999,
+        "price": [
+          23999
+        ],
         "rating": 8.4,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -1251,7 +1272,9 @@
       "brand": "huawei",
       "model": "Huawei Nova 7i",
       "attributes": {
-        "price": 21990,
+        "price": [
+          21990
+        ],
         "rating": 8.1,
         "attr_5g or not": 0,
         "attr_processor brand": "kirin",
@@ -1281,7 +1304,9 @@
       "brand": "huawei",
       "model": "Huawei Nova 9",
       "attributes": {
-        "price": 29990,
+        "price": [
+          29990
+        ],
         "rating": 8.3,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -1310,7 +1335,9 @@
       "brand": "huawei",
       "model": "Huawei Nova 9 SE",
       "attributes": {
-        "price": 19990,
+        "price": [
+          19990
+        ],
         "rating": 8.4,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -1339,7 +1366,9 @@
       "brand": "huawei",
       "model": "Huawei Nova Y61",
       "attributes": {
-        "price": 21990,
+        "price": [
+          21990
+        ],
         "rating": 6.3,
         "attr_5g or not": 0,
         "attr_num cores": 8.0,
@@ -1366,7 +1395,9 @@
       "brand": "huawei",
       "model": "Huawei Nova Y90",
       "attributes": {
-        "price": 22990,
+        "price": [
+          22990
+        ],
         "rating": 8.2,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -1395,7 +1426,9 @@
       "brand": "huawei",
       "model": "Huawei P40 Pro",
       "attributes": {
-        "price": 82990,
+        "price": [
+          82990
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "kirin",
         "attr_num cores": 8.0,
@@ -1424,7 +1457,9 @@
       "brand": "huawei",
       "model": "Huawei P50 Pro 4G",
       "attributes": {
-        "price": 60999,
+        "price": [
+          60999
+        ],
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,

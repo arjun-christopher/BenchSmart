@@ -452,7 +452,9 @@
       "brand": "sony",
       "model": "Sony Xperia 1 II",
       "attributes": {
-        "price": 69999,
+        "price": [
+          69999
+        ],
         "rating": 8.9,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -481,7 +483,9 @@
       "brand": "sony",
       "model": "Sony Xperia 1 IV (12GB RAM + 512GB)",
       "attributes": {
-        "price": 92980,
+        "price": [
+          92980
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
@@ -509,7 +513,9 @@
       "brand": "sony",
       "model": "Sony Xperia 10 II",
       "attributes": {
-        "price": 27999,
+        "price": [
+          27999
+        ],
         "rating": 7.5,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -538,7 +544,9 @@
       "brand": "sony",
       "model": "Sony Xperia 10 III Lite 5G",
       "attributes": {
-        "price": 30990,
+        "price": [
+          30990
+        ],
         "rating": 7.8,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -567,7 +575,9 @@
       "brand": "sony",
       "model": "Sony Xperia 5 II",
       "attributes": {
-        "price": 69990,
+        "price": [
+          69990
+        ],
         "rating": 8.6,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -596,7 +606,9 @@
       "brand": "sony",
       "model": "Sony Xperia 5 IV 5G",
       "attributes": {
-        "price": 82199,
+        "price": [
+          82199
+        ],
         "rating": 8.9,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -625,7 +637,9 @@
       "brand": "sony",
       "model": "Sony Xperia Ace IV",
       "attributes": {
-        "price": 19990,
+        "price": [
+          19990
+        ],
         "rating": 8.0,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -655,7 +669,9 @@
       "brand": "sony",
       "model": "Sony Xperia L5 5G",
       "attributes": {
-        "price": 15990,
+        "price": [
+          15990
+        ],
         "rating": 7.3,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -684,7 +700,9 @@
       "brand": "sony",
       "model": "Sony Xperia Pro-I",
       "attributes": {
-        "price": 134999,
+        "price": [
+          134999
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,

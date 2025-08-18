@@ -391,7 +391,9 @@
       "brand": "zte",
       "model": "ZTE Axon 30S",
       "attributes": {
-        "price": 19999,
+        "price": [
+          19999
+        ],
         "rating": 8.2,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -420,7 +422,9 @@
       "brand": "zte",
       "model": "ZTE Axon 40 Ultra 5G",
       "attributes": {
-        "price": 61990,
+        "price": [
+          61990
+        ],
         "rating": 8.9,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",

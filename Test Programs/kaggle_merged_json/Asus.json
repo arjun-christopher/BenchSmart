@@ -69,7 +69,10 @@
         "attr_camera specs front": 24,
         "display_size": 6.78,
         "attr_ram of phone": 8,
-        "storage": 128,
+        "storage": [
+          128,
+          " not expandable"
+        ],
         "battery_capacity": 6000,
         "os": "Android v11 OS",
         "attr_real price available": 49999,
@@ -112,7 +115,10 @@
         "attr_camera specs front": 24,
         "display_size": 6.59,
         "attr_ram of phone": 8,
-        "storage": 128,
+        "storage": [
+          128,
+          " not expandable"
+        ],
         "battery_capacity": 6000,
         "os": "Android v10 (Q) OS",
         "attr_real price available": 46999,
@@ -394,7 +400,10 @@
       "brand": "asus",
       "model": "Asus ROG Phone 5s 5G",
       "attributes": {
-        "price": 39999,
+        "price": [
+          39999,
+          55999
+        ],
         "rating": 8.7,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -429,7 +438,9 @@
       "brand": "asus",
       "model": "Asus ROG Phone 6",
       "attributes": {
-        "price": 71999,
+        "price": [
+          71999
+        ],
         "rating": 8.6,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -458,7 +469,9 @@
       "brand": "asus",
       "model": "Asus ROG Phone 6 Batman Edition",
       "attributes": {
-        "price": 72999,
+        "price": [
+          72999
+        ],
         "rating": 8.8,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -487,7 +500,9 @@
       "brand": "asus",
       "model": "Asus ROG Phone 6 Pro 5G",
       "attributes": {
-        "price": 89999,
+        "price": [
+          89999
+        ],
         "rating": 8.8,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -516,7 +531,9 @@
       "brand": "asus",
       "model": "Asus ROG Phone 6D Ultimate",
       "attributes": {
-        "price": 107990,
+        "price": [
+          107990
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
         "attr_num cores": 8.0,
@@ -543,7 +560,9 @@
       "brand": "asus",
       "model": "Asus ROG Phone 7",
       "attributes": {
-        "price": 75990,
+        "price": [
+          75990
+        ],
         "rating": 8.7,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -572,7 +591,9 @@
       "brand": "asus",
       "model": "Asus ZenFone 9",
       "attributes": {
-        "price": 63990,
+        "price": [
+          63990
+        ],
         "rating": 8.6,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",

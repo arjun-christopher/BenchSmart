@@ -55,7 +55,9 @@
       "brand": "gionee",
       "model": "Gionee G13 Pro",
       "attributes": {
-        "price": 6190,
+        "price": [
+          6190
+        ],
         "attr_5g or not": 0,
         "attr_processor brand": "tiger",
         "attr_num cores": 4.0,
@@ -82,7 +84,9 @@
       "brand": "gionee",
       "model": "Gionee K10",
       "attributes": {
-        "price": 6999,
+        "price": [
+          6999
+        ],
         "attr_5g or not": 0,
         "attr_processor brand": "tiger",
         "attr_num cores": 4.0,
@@ -109,7 +113,9 @@
       "brand": "gionee",
       "model": "Gionee M12 Pro",
       "attributes": {
-        "price": 7499,
+        "price": [
+          7499
+        ],
         "rating": 6.7,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",

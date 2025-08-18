@@ -380,7 +380,9 @@
       "brand": "oukitel",
       "model": "Oukitel WP19",
       "attributes": {
-        "price": 29990,
+        "price": [
+          29990
+        ],
         "rating": 8.4,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -409,7 +411,9 @@
       "brand": "oukitel",
       "model": "Oukitel WP21",
       "attributes": {
-        "price": 22990,
+        "price": [
+          22990
+        ],
         "rating": 8.2,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -436,7 +440,9 @@
       "brand": "oukitel",
       "model": "Oukitel WP9",
       "attributes": {
-        "price": 25899,
+        "price": [
+          25899
+        ],
         "rating": 7.2,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",

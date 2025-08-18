@@ -40,7 +40,9 @@
       "brand": "sharp",
       "model": "Sharp Aquos R5G",
       "attributes": {
-        "price": 59990,
+        "price": [
+          59990
+        ],
         "rating": 8.8,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",

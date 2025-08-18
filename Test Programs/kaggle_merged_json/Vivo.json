@@ -95,7 +95,10 @@
         "attr_camera specs front": 32,
         "display_size": 6.56,
         "attr_ram of phone": 12,
-        "storage": 256,
+        "storage": [
+          256,
+          " not expandable"
+        ],
         "battery_capacity": 4200,
         "os": "Android v11 OS",
         "attr_first site": "Flipkart",
@@ -232,7 +235,10 @@
         "attr_camera specs front": 32,
         "display_size": 6.56,
         "attr_ram of phone": 8,
-        "storage": 128,
+        "storage": [
+          128,
+          " not expandable"
+        ],
         "battery_capacity": 4300,
         "os": "Android v11 OS",
         "attr_second site": "Amazon",
@@ -495,14 +501,24 @@
       "brand": "VIVO",
       "model": "VIVO T1 44W",
       "attributes": {
-        "colors": "Starry Sky",
+        "colors": [
+          "Starry Sky",
+          "Midnight Galaxy"
+        ],
         "mrp": 19990,
-        "price": 14499,
+        "price": [
+          14499,
+          15999,
+          17999,
+          11988
+        ],
         "rating": 4.5,
         "review_count": 87331,
         "attr_reviews": 6044,
         "attr_memory": 4.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "Qualcomm Snapdragon 680",
         "camera_main": 50,
         "camera_front": 16,
@@ -538,14 +554,24 @@
       "brand": "VIVO",
       "model": "VIVO T1X",
       "attributes": {
-        "colors": "Gravity Black",
+        "colors": [
+          "Gravity Black",
+          "Space Blue"
+        ],
         "mrp": 17990,
-        "price": 12999,
+        "price": [
+          12999,
+          11999,
+          14999
+        ],
         "rating": 4.5,
         "review_count": 78071,
         "attr_reviews": 4429,
         "attr_memory": 4.0,
-        "storage": 128.0,
+        "storage": [
+          128.0,
+          64.0
+        ],
         "chipset": "Qualcomm Snapdragon 680",
         "camera_main": 50,
         "camera_front": 8,
@@ -558,14 +584,23 @@
       "brand": "VIVO",
       "model": "VIVO T1 5G",
       "attributes": {
-        "colors": "Starlight Black",
+        "colors": [
+          "Starlight Black",
+          "Rainbow Fantasy"
+        ],
         "mrp": 19990,
-        "price": 15990,
+        "price": [
+          15990,
+          19990,
+          16990
+        ],
         "rating": 4.3,
         "review_count": 63968,
         "attr_reviews": 5079,
         "attr_memory": 4.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "Qualcomm Snapdragon 695",
         "camera_main": 50,
         "camera_front": 16,
@@ -596,14 +631,28 @@
       "brand": "VIVO",
       "model": "VIVO Y16",
       "attributes": {
-        "colors": "Steller Black",
+        "colors": [
+          "Steller Black",
+          "Drizzling Gold"
+        ],
         "mrp": 15999,
-        "price": 12380,
+        "price": [
+          12380,
+          9999,
+          10999,
+          12499,
+          10799,
+          10699,
+          13999
+        ],
         "rating": 4.4,
         "review_count": 1084,
         "attr_reviews": 68,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0,
+          32.0
+        ],
         "chipset": "Mediatek Helio P35",
         "camera_main": 13,
         "camera_front": 5,
@@ -638,14 +687,22 @@
       "brand": "VIVO",
       "model": "VIVO Y01",
       "attributes": {
-        "colors": "Sapphire Blue",
+        "colors": [
+          "Sapphire Blue",
+          "Elegant Black"
+        ],
         "mrp": 12999,
-        "price": 7999,
+        "price": [
+          7999,
+          6640
+        ],
         "rating": 4.2,
         "review_count": 1275,
         "attr_reviews": 81,
         "attr_memory": 2.0,
-        "storage": 32.0,
+        "storage": [
+          32.0
+        ],
         "chipset": "Mediatek Helio P35",
         "camera_main": 8,
         "camera_front": 5,
@@ -680,14 +737,21 @@
       "brand": "VIVO",
       "model": "VIVO Y21",
       "attributes": {
-        "colors": "Diamond Glow",
+        "colors": [
+          "Diamond Glow"
+        ],
         "mrp": 17990,
-        "price": 12630,
+        "price": [
+          12630,
+          12628
+        ],
         "rating": 4.3,
         "review_count": 14580,
         "attr_reviews": 1090,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0
+        ],
         "chipset": "Mediatek Helio P35",
         "camera_main": 13,
         "camera_front": 8,
@@ -701,14 +765,22 @@
       "brand": "VIVO",
       "model": "VIVO Y02",
       "attributes": {
-        "colors": "Cosmic Grey",
+        "colors": [
+          "Cosmic Grey",
+          "Orchid Blue"
+        ],
         "mrp": 12999,
-        "price": 8999,
+        "price": [
+          8999,
+          7999
+        ],
         "rating": 4.3,
         "review_count": 200,
         "attr_reviews": 9,
         "attr_memory": 3.0,
-        "storage": 32.0,
+        "storage": [
+          32.0
+        ],
         "chipset": "MediaTek P22",
         "camera_main": 8,
         "camera_front": 5,
@@ -741,14 +813,23 @@
       "brand": "VIVO",
       "model": "VIVO T1 PRO 5G",
       "attributes": {
-        "colors": "Turbo Black",
+        "colors": [
+          "Turbo Black",
+          "Turbo Cyan"
+        ],
         "mrp": 28990,
-        "price": 23999,
+        "price": [
+          23999,
+          24999,
+          15890
+        ],
         "rating": 4.4,
         "review_count": 7982,
         "attr_reviews": 764,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "Qualcomm Snapdragon 778G 5G Mobile Platform",
         "camera_main": 64,
         "camera_front": 16,
@@ -773,14 +854,21 @@
       "brand": "VIVO",
       "model": "VIVO Y35",
       "attributes": {
-        "colors": "Dawn Gold",
+        "colors": [
+          "Dawn Gold",
+          "Agate Black"
+        ],
         "mrp": 22999,
-        "price": 18499,
+        "price": [
+          18499
+        ],
         "rating": 4.4,
         "review_count": 1670,
         "attr_reviews": 119,
         "attr_memory": 8.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "Qualcomm Snapdragon 680",
         "camera_main": 50,
         "camera_front": 16,
@@ -811,14 +899,25 @@
       "brand": "VIVO",
       "model": "VIVO Y15S",
       "attributes": {
-        "colors": "Wave Green",
+        "colors": [
+          "Wave Green",
+          "MYSTIC BLUE"
+        ],
         "mrp": 13990,
-        "price": 9499,
+        "price": [
+          9499,
+          9850,
+          8499,
+          7011
+        ],
         "rating": 4.3,
         "review_count": 3742,
         "attr_reviews": 274,
         "attr_memory": 3.0,
-        "storage": 32.0,
+        "storage": [
+          32.0,
+          8.0
+        ],
         "chipset": "Mediatek Helio P35",
         "camera_main": 13,
         "camera_front": 8,
@@ -853,14 +952,24 @@
       "brand": "VIVO",
       "model": "VIVO Y33S",
       "attributes": {
-        "colors": "Mirror Black",
+        "colors": [
+          "Mirror Black",
+          "Midday Dream"
+        ],
         "mrp": 21990,
-        "price": 15999,
+        "price": [
+          15999,
+          18990,
+          16685,
+          13499
+        ],
         "rating": 4.3,
         "review_count": 12159,
         "attr_reviews": 1104,
         "attr_memory": 8.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "MediaTek Helio G80",
         "camera_main": 50,
         "camera_front": 16,
@@ -898,12 +1007,17 @@
       "attributes": {
         "colors": "Dancing waves",
         "mrp": 25990,
-        "price": 19990,
+        "price": [
+          19990,
+          15990
+        ],
         "rating": 4.3,
         "review_count": 1862,
         "attr_reviews": 146,
         "attr_memory": 8.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "Mediatek G96",
         "camera_main": 50,
         "camera_front": 44,
@@ -927,14 +1041,22 @@
       "brand": "VIVO",
       "model": "VIVO Y100 5G",
       "attributes": {
-        "colors": "Metal Black",
+        "colors": [
+          "Metal Black",
+          "Pacific Blue",
+          "Twilight Gold"
+        ],
         "mrp": 29999,
-        "price": 24999,
+        "price": [
+          24999
+        ],
         "rating": 4.3,
         "review_count": 46,
         "attr_reviews": 4,
         "attr_memory": 8.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "Mediatek Dimensity 900",
         "camera_main": 64,
         "camera_front": 16,
@@ -947,14 +1069,26 @@
       "brand": "VIVO",
       "model": "VIVO Y33T",
       "attributes": {
-        "colors": "Starry Gold",
+        "colors": [
+          "Starry Gold",
+          "Mirror Black",
+          "Mid day dream"
+        ],
         "mrp": 22990,
-        "price": 16790,
+        "price": [
+          16790,
+          17099,
+          17989,
+          15990,
+          12999
+        ],
         "rating": 4.4,
         "review_count": 2576,
         "attr_reviews": 182,
         "attr_memory": 8.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "camera_main": 50,
         "camera_front": 16,
         "display_size": 16.71,
@@ -990,14 +1124,21 @@
       "brand": "VIVO",
       "model": "VIVO Y56 5G",
       "attributes": {
-        "colors": "Orange Shimmer",
+        "colors": [
+          "Orange Shimmer",
+          "Black Engine"
+        ],
         "mrp": 24999,
-        "price": 19999,
+        "price": [
+          19999
+        ],
         "rating": 4.7,
         "review_count": 3,
         "attr_reviews": 1,
         "attr_memory": 8.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "Mediatek Dimensity 700",
         "camera_main": 50,
         "camera_front": 16,
@@ -1010,14 +1151,22 @@
       "brand": "VIVO",
       "model": "VIVO Y22",
       "attributes": {
-        "colors": "Metaverse Green",
+        "colors": [
+          "Metaverse Green"
+        ],
         "mrp": 17990,
-        "price": 14499,
+        "price": [
+          14499,
+          16499
+        ],
         "rating": 4.3,
         "review_count": 684,
         "attr_reviews": 45,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0,
+          128.0
+        ],
         "chipset": "Mediatek Helio G70",
         "camera_main": 50,
         "camera_front": 8,
@@ -1050,12 +1199,17 @@
       "attributes": {
         "colors": "Midnight Blue",
         "mrp": 19990,
-        "price": 15499,
+        "price": [
+          15499,
+          10990
+        ],
         "rating": 4.3,
         "review_count": 1559,
         "attr_reviews": 107,
         "attr_memory": 4.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "Qualcomm Snapdragon 680",
         "camera_main": 50,
         "camera_front": 8,
@@ -1093,12 +1247,18 @@
       "attributes": {
         "colors": "Sunshine Gold",
         "mrp": 28990,
-        "price": 24999,
+        "price": [
+          24999,
+          21994,
+          14994
+        ],
         "rating": 4.2,
         "review_count": 2141,
         "attr_reviews": 189,
         "attr_memory": 8.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "Mediatek Dimensity 810",
         "camera_main": 50,
         "camera_front": 44,
@@ -1133,14 +1293,24 @@
       "brand": "VIVO",
       "model": "VIVO V21 5G",
       "attributes": {
-        "colors": "Dusk Blue",
+        "colors": [
+          "Dusk Blue",
+          "Sunset Dazzle"
+        ],
         "mrp": 32990,
-        "price": 23990,
+        "price": [
+          23990,
+          27990,
+          23994,
+          18994
+        ],
         "rating": 4.3,
         "review_count": 17150,
         "attr_reviews": 1704,
         "attr_memory": 8.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "MediaTek Dimensity 800U",
         "camera_main": 64,
         "camera_front": 44,
@@ -1177,7 +1347,9 @@
       "attributes": {
         "colors": "Deep Sea Blue",
         "mrp": 22990,
-        "price": 15490,
+        "price": [
+          15490
+        ],
         "rating": 4.3,
         "review_count": 18983,
         "attr_reviews": 1615,
@@ -1214,12 +1386,17 @@
       "attributes": {
         "colors": "Midnight Blue",
         "mrp": 17990,
-        "price": 13489,
+        "price": [
+          13489,
+          11499
+        ],
         "rating": 4.3,
         "review_count": 1867,
         "attr_reviews": 140,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0
+        ],
         "chipset": "Mediatek Helio P22",
         "camera_main": 13,
         "camera_front": 8,
@@ -1244,12 +1421,18 @@
       "attributes": {
         "colors": "Sunshine Gold",
         "mrp": 41990,
-        "price": 38990,
+        "price": [
+          38990,
+          31994,
+          29490
+        ],
         "rating": 4.3,
         "review_count": 3786,
         "attr_reviews": 408,
         "attr_memory": 8.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "Mediatek Dimensity 1200",
         "camera_main": 108,
         "camera_front": 50,
@@ -1284,14 +1467,25 @@
       "brand": "VIVO",
       "model": "VIVO V25 5G",
       "attributes": {
-        "colors": "Elegant Black",
+        "colors": [
+          "Elegant Black",
+          "Surfing Blue"
+        ],
         "mrp": 32999,
-        "price": 27999,
+        "price": [
+          27999,
+          28989,
+          31999,
+          22985
+        ],
         "rating": 4.3,
         "review_count": 6847,
         "attr_reviews": 677,
         "attr_memory": 8.0,
-        "storage": 128.0,
+        "storage": [
+          128.0,
+          256.0
+        ],
         "chipset": "Mediatek Dimensity 900",
         "camera_main": 64,
         "camera_front": 50,
@@ -1329,12 +1523,17 @@
       "attributes": {
         "colors": "Midnight Blue",
         "mrp": 17999,
-        "price": 12895,
+        "price": [
+          12895,
+          10999
+        ],
         "rating": 4.3,
         "review_count": 2134,
         "attr_reviews": 164,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0
+        ],
         "chipset": "Mediatek MT6769 Helio G70",
         "camera_main": 13,
         "camera_front": 8,
@@ -1361,12 +1560,18 @@
       "attributes": {
         "colors": "Wave Green",
         "mrp": 9976,
-        "price": 9949,
+        "price": [
+          9949,
+          8499,
+          7999
+        ],
         "rating": 4.2,
         "review_count": 1149,
         "attr_reviews": 81,
         "attr_memory": 3.0,
-        "storage": 32.0,
+        "storage": [
+          32.0
+        ],
         "chipset": "Mediatek Helio P35",
         "camera_main": 13,
         "camera_front": 8,
@@ -1404,7 +1609,10 @@
       "attributes": {
         "colors": "Sapphire Blue",
         "mrp": 12999,
-        "price": 7999,
+        "price": [
+          7999,
+          7790
+        ],
         "rating": 4.1,
         "review_count": 42,
         "attr_reviews": 3,
@@ -3488,7 +3696,10 @@
       "brand": "vivo",
       "model": "Vivo S1 Pro",
       "attributes": {
-        "price": 29999,
+        "price": [
+          29999,
+          18989
+        ],
         "rating": 8.2,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -3524,7 +3735,9 @@
       "brand": "vivo",
       "model": "Vivo S16",
       "attributes": {
-        "price": 29990,
+        "price": [
+          29990
+        ],
         "rating": 8.5,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -3553,7 +3766,9 @@
       "brand": "vivo",
       "model": "Vivo S16 Pro",
       "attributes": {
-        "price": 35499,
+        "price": [
+          35499
+        ],
         "rating": 8.6,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -3582,7 +3797,9 @@
       "brand": "vivo",
       "model": "Vivo S17 Pro",
       "attributes": {
-        "price": 49990,
+        "price": [
+          49990
+        ],
         "rating": 7.7,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -3610,7 +3827,9 @@
       "brand": "vivo",
       "model": "Vivo T1 44W (6GB RAM + 128GB)",
       "attributes": {
-        "price": 15999,
+        "price": [
+          15999
+        ],
         "rating": 7.9,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -3640,7 +3859,9 @@
       "brand": "vivo",
       "model": "Vivo T1 44W (8GB RAM + 128GB)",
       "attributes": {
-        "price": 17999,
+        "price": [
+          17999
+        ],
         "rating": 8.2,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -3670,7 +3891,9 @@
       "brand": "vivo",
       "model": "Vivo T1 5G (6GB RAM + 128GB)",
       "attributes": {
-        "price": 16990,
+        "price": [
+          16990
+        ],
         "rating": 8.0,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -3700,7 +3923,9 @@
       "brand": "vivo",
       "model": "Vivo T1 5G (8GB RAM + 128GB)",
       "attributes": {
-        "price": 19990,
+        "price": [
+          19990
+        ],
         "rating": 8.3,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -3730,7 +3955,9 @@
       "brand": "vivo",
       "model": "Vivo T1 Pro",
       "attributes": {
-        "price": 23999,
+        "price": [
+          23999
+        ],
         "rating": 8.1,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -3760,7 +3987,9 @@
       "brand": "vivo",
       "model": "Vivo T1 Pro 5G (8GB RAM + 128GB)",
       "attributes": {
-        "price": 24999,
+        "price": [
+          24999
+        ],
         "rating": 8.4,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -3790,7 +4019,9 @@
       "brand": "vivo",
       "model": "Vivo T1x (4GB RAM + 128GB)",
       "attributes": {
-        "price": 12999,
+        "price": [
+          12999
+        ],
         "rating": 7.5,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -3819,7 +4050,9 @@
       "brand": "vivo",
       "model": "Vivo T1x (6GB RAM + 128GB)",
       "attributes": {
-        "price": 14999,
+        "price": [
+          14999
+        ],
         "rating": 7.7,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -3848,7 +4081,10 @@
       "brand": "vivo",
       "model": "Vivo T1x 4G",
       "attributes": {
-        "price": 11999,
+        "price": [
+          11999,
+          9100
+        ],
         "rating": 7.4,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -3883,7 +4119,9 @@
       "brand": "vivo",
       "model": "Vivo T2 5G",
       "attributes": {
-        "price": 24990,
+        "price": [
+          24990
+        ],
         "rating": 8.5,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -3913,7 +4151,9 @@
       "brand": "vivo",
       "model": "Vivo T2 Pro 5G",
       "attributes": {
-        "price": 29990,
+        "price": [
+          29990
+        ],
         "rating": 7.6,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -3942,7 +4182,9 @@
       "brand": "vivo",
       "model": "Vivo T2x 5G",
       "attributes": {
-        "price": 18990,
+        "price": [
+          18990
+        ],
         "rating": 8.0,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -3971,7 +4213,10 @@
       "brand": "vivo",
       "model": "Vivo T3 Pro",
       "attributes": {
-        "price": 31990,
+        "price": [
+          31990,
+          22999
+        ],
         "rating": 8.6,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -4007,7 +4252,9 @@
       "brand": "vivo",
       "model": "Vivo U3",
       "attributes": {
-        "price": 9990,
+        "price": [
+          9990
+        ],
         "rating": 7.2,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -4037,7 +4284,9 @@
       "brand": "vivo",
       "model": "Vivo U3 (6GB RAM + 64GB)",
       "attributes": {
-        "price": 11990,
+        "price": [
+          11990
+        ],
         "rating": 7.4,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -4067,7 +4316,9 @@
       "brand": "vivo",
       "model": "Vivo U3x",
       "attributes": {
-        "price": 8990,
+        "price": [
+          8990
+        ],
         "rating": 7.1,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -4096,7 +4347,9 @@
       "brand": "vivo",
       "model": "Vivo V11i",
       "attributes": {
-        "price": 20990,
+        "price": [
+          20990
+        ],
         "rating": 7.0,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -4125,7 +4378,9 @@
       "brand": "vivo",
       "model": "Vivo V15 Pro (8GB RAM +128GB)",
       "attributes": {
-        "price": 25000,
+        "price": [
+          25000
+        ],
         "rating": 7.8,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -4154,7 +4409,9 @@
       "brand": "vivo",
       "model": "Vivo V19 (8GB RAM + 256GB)",
       "attributes": {
-        "price": 27990,
+        "price": [
+          27990
+        ],
         "rating": 8.4,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -4184,7 +4441,10 @@
       "brand": "vivo",
       "model": "Vivo V20",
       "attributes": {
-        "price": 23269,
+        "price": [
+          23269,
+          15239
+        ],
         "rating": 8.5,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -4220,7 +4480,10 @@
       "brand": "vivo",
       "model": "Vivo V20 Pro",
       "attributes": {
-        "price": 27000,
+        "price": [
+          27000,
+          22494
+        ],
         "rating": 8.4,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -4255,7 +4518,10 @@
       "brand": "vivo",
       "model": "Vivo V20 SE",
       "attributes": {
-        "price": 19000,
+        "price": [
+          19000,
+          21990
+        ],
         "rating": 8.2,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -4290,7 +4556,9 @@
       "brand": "vivo",
       "model": "Vivo V21",
       "attributes": {
-        "price": 24999,
+        "price": [
+          24999
+        ],
         "rating": 8.3,
         "attr_5g or not": 0,
         "attr_processor brand": "dimensity",
@@ -4319,7 +4587,9 @@
       "brand": "vivo",
       "model": "Vivo V21 Pro",
       "attributes": {
-        "price": 32999,
+        "price": [
+          32999
+        ],
         "rating": 8.5,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -4348,7 +4618,9 @@
       "brand": "vivo",
       "model": "Vivo V21s",
       "attributes": {
-        "price": 29999,
+        "price": [
+          29999
+        ],
         "rating": 8.6,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -4377,7 +4649,10 @@
       "brand": "vivo",
       "model": "Vivo V23 5G",
       "attributes": {
-        "price": 24994,
+        "price": [
+          24994,
+          17994
+        ],
         "rating": 8.3,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -4412,7 +4687,9 @@
       "brand": "vivo",
       "model": "Vivo V23 5G (12GB RAM + 256GB)",
       "attributes": {
-        "price": 27994,
+        "price": [
+          27994
+        ],
         "rating": 8.6,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -4441,7 +4718,9 @@
       "brand": "vivo",
       "model": "Vivo V23 Pro 5G (12GB RAM + 256GB)",
       "attributes": {
-        "price": 36994,
+        "price": [
+          36994
+        ],
         "rating": 8.7,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -4470,7 +4749,9 @@
       "brand": "vivo",
       "model": "Vivo V23e",
       "attributes": {
-        "price": 26990,
+        "price": [
+          26990
+        ],
         "rating": 8.2,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -4499,7 +4780,9 @@
       "brand": "vivo",
       "model": "Vivo V25 (12GB RAM + 256GB)",
       "attributes": {
-        "price": 31999,
+        "price": [
+          31999
+        ],
         "rating": 8.5,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -4529,7 +4812,9 @@
       "brand": "vivo",
       "model": "Vivo V25 Pro (12GB RAM + 256GB)",
       "attributes": {
-        "price": 39999,
+        "price": [
+          39999
+        ],
         "rating": 8.6,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -4558,7 +4843,10 @@
       "brand": "vivo",
       "model": "Vivo V25 Pro 5G",
       "attributes": {
-        "price": 35999,
+        "price": [
+          35999,
+          23299
+        ],
         "rating": 8.5,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -4593,7 +4881,9 @@
       "brand": "vivo",
       "model": "Vivo V25e",
       "attributes": {
-        "price": 19990,
+        "price": [
+          19990
+        ],
         "rating": 8.4,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -4622,7 +4912,9 @@
       "brand": "vivo",
       "model": "Vivo V26 Pro",
       "attributes": {
-        "price": 42990,
+        "price": [
+          42990
+        ],
         "rating": 8.7,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -4651,7 +4943,10 @@
       "brand": "vivo",
       "model": "Vivo V27",
       "attributes": {
-        "price": 27990,
+        "price": [
+          27990,
+          29499
+        ],
         "rating": 8.3,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -4686,7 +4981,10 @@
       "brand": "vivo",
       "model": "Vivo V27 Pro",
       "attributes": {
-        "price": 43999,
+        "price": [
+          43999,
+          28499
+        ],
         "rating": 8.7,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -4721,7 +5019,9 @@
       "brand": "vivo",
       "model": "Vivo V28",
       "attributes": {
-        "price": 28990,
+        "price": [
+          28990
+        ],
         "rating": 8.4,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -4750,7 +5050,10 @@
       "brand": "vivo",
       "model": "Vivo V29",
       "attributes": {
-        "price": 32990,
+        "price": [
+          32990,
+          32999
+        ],
         "rating": 8.4,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -4785,7 +5088,9 @@
       "brand": "vivo",
       "model": "Vivo X Fold 2",
       "attributes": {
-        "price": 119990,
+        "price": [
+          119990
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
@@ -4813,7 +5118,9 @@
       "brand": "vivo",
       "model": "Vivo X Fold 5G",
       "attributes": {
-        "price": 106990,
+        "price": [
+          106990
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
@@ -4841,7 +5148,9 @@
       "brand": "vivo",
       "model": "Vivo X Fold 5G (12GB RAM + 512GB)",
       "attributes": {
-        "price": 118990,
+        "price": [
+          118990
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
@@ -4869,7 +5178,9 @@
       "brand": "vivo",
       "model": "Vivo X Fold Plus",
       "attributes": {
-        "price": 113990,
+        "price": [
+          113990
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
@@ -4897,7 +5208,9 @@
       "brand": "vivo",
       "model": "Vivo X Note 5G (12GB RAM + 512GB)",
       "attributes": {
-        "price": 82990,
+        "price": [
+          82990
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
@@ -4925,7 +5238,10 @@
       "brand": "vivo",
       "model": "Vivo X80 5G",
       "attributes": {
-        "price": 54999,
+        "price": [
+          54999,
+          33999
+        ],
         "rating": 8.6,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -4960,7 +5276,9 @@
       "brand": "vivo",
       "model": "Vivo X80 5G (12GB RAM + 256GB)",
       "attributes": {
-        "price": 59999,
+        "price": [
+          59999
+        ],
         "rating": 8.8,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -4989,7 +5307,10 @@
       "brand": "vivo",
       "model": "Vivo X80 Pro 5G",
       "attributes": {
-        "price": 79999,
+        "price": [
+          79999,
+          40999
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
@@ -5023,7 +5344,9 @@
       "brand": "vivo",
       "model": "Vivo X80 Pro Plus 5G",
       "attributes": {
-        "price": 82990,
+        "price": [
+          82990
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
@@ -5051,7 +5374,10 @@
       "brand": "vivo",
       "model": "Vivo X90 5G",
       "attributes": {
-        "price": 41990,
+        "price": [
+          41990,
+          44490
+        ],
         "rating": 8.8,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -5086,7 +5412,9 @@
       "brand": "vivo",
       "model": "Vivo X90 Pro 5G",
       "attributes": {
-        "price": 56999,
+        "price": [
+          56999
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
         "attr_num cores": 8.0,
@@ -5114,7 +5442,9 @@
       "brand": "vivo",
       "model": "Vivo X90 Pro Plus 5G",
       "attributes": {
-        "price": 73999,
+        "price": [
+          73999
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
@@ -5142,7 +5472,9 @@
       "brand": "vivo",
       "model": "Vivo Y02 (2GB RAM + 32GB)",
       "attributes": {
-        "price": 7999,
+        "price": [
+          7999
+        ],
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
         "attr_num cores": 8.0,
@@ -5170,7 +5502,9 @@
       "brand": "vivo",
       "model": "Vivo Y02s",
       "attributes": {
-        "price": 8990,
+        "price": [
+          8990
+        ],
         "rating": 6.1,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -5199,7 +5533,9 @@
       "brand": "vivo",
       "model": "Vivo Y10",
       "attributes": {
-        "price": 12490,
+        "price": [
+          12490
+        ],
         "rating": 6.3,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -5227,7 +5563,10 @@
       "brand": "vivo",
       "model": "Vivo Y100",
       "attributes": {
-        "price": 29990,
+        "price": [
+          29990,
+          17990
+        ],
         "rating": 8.2,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -5262,7 +5601,9 @@
       "brand": "vivo",
       "model": "Vivo Y11 (2019)",
       "attributes": {
-        "price": 9490,
+        "price": [
+          9490
+        ],
         "rating": 6.4,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -5291,7 +5632,9 @@
       "brand": "vivo",
       "model": "Vivo Y12 (3GB RAM + 64GB)",
       "attributes": {
-        "price": 11000,
+        "price": [
+          11000
+        ],
         "rating": 6.8,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -5320,7 +5663,9 @@
       "brand": "vivo",
       "model": "Vivo Y12a",
       "attributes": {
-        "price": 9999,
+        "price": [
+          9999
+        ],
         "rating": 6.5,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -5348,7 +5693,9 @@
       "brand": "vivo",
       "model": "Vivo Y12G (3GB RAM + 64GB)",
       "attributes": {
-        "price": 11990,
+        "price": [
+          11990
+        ],
         "rating": 6.8,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -5376,7 +5723,10 @@
       "brand": "vivo",
       "model": "Vivo Y15",
       "attributes": {
-        "price": 12500,
+        "price": [
+          12500,
+          6500
+        ],
         "rating": 7.1,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -5411,7 +5761,9 @@
       "brand": "vivo",
       "model": "Vivo Y15C (3GB RAM + 64GB)",
       "attributes": {
-        "price": 10490,
+        "price": [
+          10490
+        ],
         "rating": 6.7,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -5440,7 +5792,9 @@
       "brand": "vivo",
       "model": "Vivo Y16 (3GB RAM + 64GB)",
       "attributes": {
-        "price": 10499,
+        "price": [
+          10499
+        ],
         "rating": 6.6,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -5469,7 +5823,9 @@
       "brand": "vivo",
       "model": "Vivo Y16 (4GB RAM + 64GB)",
       "attributes": {
-        "price": 12489,
+        "price": [
+          12489
+        ],
         "rating": 6.8,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -5498,7 +5854,10 @@
       "brand": "vivo",
       "model": "Vivo Y19",
       "attributes": {
-        "price": 20000,
+        "price": [
+          20000,
+          15900
+        ],
         "rating": 7.3,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -5534,7 +5893,10 @@
       "brand": "vivo",
       "model": "Vivo Y20G",
       "attributes": {
-        "price": 13990,
+        "price": [
+          13990,
+          14990
+        ],
         "rating": 6.9,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -5570,7 +5932,9 @@
       "brand": "vivo",
       "model": "Vivo Y21 (2020)",
       "attributes": {
-        "price": 9990,
+        "price": [
+          9990
+        ],
         "rating": 6.5,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -5599,7 +5963,10 @@
       "brand": "vivo",
       "model": "Vivo Y21 2021",
       "attributes": {
-        "price": 13489,
+        "price": [
+          13489,
+          10999
+        ],
         "rating": 6.9,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -5635,7 +6002,10 @@
       "brand": "vivo",
       "model": "Vivo Y21e",
       "attributes": {
-        "price": 12499,
+        "price": [
+          12499,
+          8790
+        ],
         "rating": 6.9,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -5671,7 +6041,9 @@
       "brand": "vivo",
       "model": "Vivo Y21s",
       "attributes": {
-        "price": 14990,
+        "price": [
+          14990
+        ],
         "rating": 7.4,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -5701,7 +6073,9 @@
       "brand": "vivo",
       "model": "Vivo Y22 (6GB RAM + 128GB)",
       "attributes": {
-        "price": 16499,
+        "price": [
+          16499
+        ],
         "rating": 7.5,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -5731,7 +6105,9 @@
       "brand": "vivo",
       "model": "Vivo Y22s",
       "attributes": {
-        "price": 14990,
+        "price": [
+          14990
+        ],
         "rating": 7.7,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -5761,7 +6137,9 @@
       "brand": "vivo",
       "model": "Vivo Y25",
       "attributes": {
-        "price": 7499,
+        "price": [
+          7499
+        ],
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
         "attr_num cores": 4.0,
@@ -5789,7 +6167,9 @@
       "brand": "vivo",
       "model": "Vivo Y3 (4GB RAM + 128GB)",
       "attributes": {
-        "price": 12990,
+        "price": [
+          12990
+        ],
         "rating": 7.1,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -5818,7 +6198,9 @@
       "brand": "vivo",
       "model": "Vivo Y35 5G",
       "attributes": {
-        "price": 13999,
+        "price": [
+          13999
+        ],
         "rating": 7.0,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -5848,7 +6230,9 @@
       "brand": "vivo",
       "model": "Vivo Y53t",
       "attributes": {
-        "price": 11999,
+        "price": [
+          11999
+        ],
         "rating": 6.7,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -5877,7 +6261,9 @@
       "brand": "vivo",
       "model": "Vivo Y55 4G",
       "attributes": {
-        "price": 22990,
+        "price": [
+          22990
+        ],
         "rating": 8.3,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -5907,7 +6293,9 @@
       "brand": "vivo",
       "model": "Vivo Y55 5G",
       "attributes": {
-        "price": 20990,
+        "price": [
+          20990
+        ],
         "rating": 7.7,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -5936,7 +6324,10 @@
       "brand": "vivo",
       "model": "Vivo Y55S",
       "attributes": {
-        "price": 13490,
+        "price": [
+          13490,
+          5490
+        ],
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 4.0,
@@ -5969,7 +6360,9 @@
       "brand": "vivo",
       "model": "Vivo Y55s 2023",
       "attributes": {
-        "price": 21999,
+        "price": [
+          21999
+        ],
         "rating": 7.8,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -5998,7 +6391,9 @@
       "brand": "vivo",
       "model": "Vivo Y55s 5G",
       "attributes": {
-        "price": 19990,
+        "price": [
+          19990
+        ],
         "rating": 7.9,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -6027,7 +6422,9 @@
       "brand": "vivo",
       "model": "Vivo Y71",
       "attributes": {
-        "price": 25000,
+        "price": [
+          25000
+        ],
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 4.0,
@@ -6054,7 +6451,10 @@
       "brand": "vivo",
       "model": "Vivo Y73 2021",
       "attributes": {
-        "price": 19990,
+        "price": [
+          19990,
+          14994
+        ],
         "rating": 8.0,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -6089,7 +6489,9 @@
       "brand": "vivo",
       "model": "Vivo Y73T",
       "attributes": {
-        "price": 16990,
+        "price": [
+          16990
+        ],
         "rating": 7.7,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -6118,7 +6520,9 @@
       "brand": "vivo",
       "model": "Vivo Y75 4G",
       "attributes": {
-        "price": 19990,
+        "price": [
+          19990
+        ],
         "rating": 8.2,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -6148,7 +6552,10 @@
       "brand": "vivo",
       "model": "Vivo Y75 5G",
       "attributes": {
-        "price": 21990,
+        "price": [
+          21990,
+          20990
+        ],
         "rating": 8.2,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -6183,7 +6590,9 @@
       "brand": "vivo",
       "model": "Vivo Y77 5G",
       "attributes": {
-        "price": 17990,
+        "price": [
+          17990
+        ],
         "rating": 7.6,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -6213,7 +6622,9 @@
       "brand": "vivo",
       "model": "Vivo Y78 5G",
       "attributes": {
-        "price": 24990,
+        "price": [
+          24990
+        ],
         "rating": 7.7,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -6241,7 +6652,9 @@
       "brand": "vivo",
       "model": "Vivo Y91c",
       "attributes": {
-        "price": 8199,
+        "price": [
+          8199
+        ],
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
         "attr_num cores": 8.0,
@@ -6269,7 +6682,10 @@
       "brand": "vivo",
       "model": "Vivo Y93",
       "attributes": {
-        "price": 18000,
+        "price": [
+          18000,
+          15990
+        ],
         "rating": 6.2,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -6305,7 +6721,10 @@
       "brand": "vivo",
       "model": "Vivo Y95",
       "attributes": {
-        "price": 15000,
+        "price": [
+          15000,
+          12499
+        ],
         "rating": 6.5,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",

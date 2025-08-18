@@ -6,14 +6,25 @@
       "brand": "IQOO",
       "model": "IQOO Z6 44W",
       "attributes": {
-        "colors": "Raven Black",
+        "colors": [
+          "Raven Black",
+          "Ravan Black",
+          "Lumina Blue"
+        ],
         "mrp": 17999,
-        "price": 16239,
+        "price": [
+          16239,
+          15824,
+          14535,
+          14394
+        ],
         "rating": 4.3,
         "review_count": 859,
         "attr_reviews": 66,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "camera_main": 50,
         "camera_front": 16,
         "display_size": 16.36,
@@ -27,12 +38,22 @@
       "attributes": {
         "colors": "Mystic Night",
         "mrp": 15999,
-        "price": 13976,
+        "price": [
+          13976,
+          16390,
+          14180,
+          16994,
+          14399,
+          13989,
+          13699
+        ],
         "rating": 4.1,
         "review_count": 54,
         "attr_reviews": 2,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0
+        ],
         "camera_main": 50,
         "display_size": 16.97,
         "battery_capacity": 5000.0,
@@ -66,14 +87,26 @@
       "brand": "IQOO",
       "model": "IQOO NEO 6 5G",
       "attributes": {
-        "colors": "Dark Nova",
+        "colors": [
+          "Dark Nova",
+          "Cyber Rage"
+        ],
         "mrp": 34999,
-        "price": 30300,
+        "price": [
+          30300,
+          29990,
+          34439,
+          29999,
+          28999
+        ],
         "rating": 4.4,
         "review_count": 1010,
         "attr_reviews": 125,
         "attr_memory": 8.0,
-        "storage": 128.0,
+        "storage": [
+          128.0,
+          256.0
+        ],
         "camera_main": 64,
         "camera_front": 16,
         "display_size": 16.81,
@@ -106,14 +139,23 @@
       "brand": "IQOO",
       "model": "IQOO Z6 PRO 5G",
       "attributes": {
-        "colors": "Legion Sky",
+        "colors": [
+          "Legion Sky",
+          "Phantom Dusk"
+        ],
         "mrp": 27990,
-        "price": 23800,
+        "price": [
+          23800,
+          24599,
+          21788
+        ],
         "rating": 4.3,
         "review_count": 300,
         "attr_reviews": 21,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "camera_main": 64,
         "camera_front": 16,
         "display_size": 16.36,
@@ -144,12 +186,17 @@
       "attributes": {
         "colors": "Dynamo Black",
         "mrp": 17499,
-        "price": 17489,
+        "price": [
+          17489,
+          15499
+        ],
         "rating": 4.2,
         "review_count": 690,
         "attr_reviews": 49,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "camera_main": 50,
         "display_size": 16.71,
         "battery_capacity": 5000.0,
@@ -183,14 +230,22 @@
       "brand": "IQOO",
       "model": "IQOO 9T 5G",
       "attributes": {
-        "colors": "LEGEND",
+        "colors": [
+          "LEGEND"
+        ],
         "mrp": 17999,
-        "price": 49499,
+        "price": [
+          49499,
+          47990,
+          49999
+        ],
         "rating": 4.0,
         "review_count": 46,
         "attr_reviews": 7,
         "attr_memory": 8.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "camera_main": 50,
         "display_size": 17.22,
         "battery_capacity": 4700.0,
@@ -223,7 +278,9 @@
       "brand": "iqoo",
       "model": "iQOO 11 (16GB RAM + 256GB)",
       "attributes": {
-        "price": 64999,
+        "price": [
+          64999
+        ],
         "rating": 8.9,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -252,7 +309,9 @@
       "brand": "iqoo",
       "model": "iQOO 11 5G",
       "attributes": {
-        "price": 59999,
+        "price": [
+          59999
+        ],
         "rating": 8.8,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -287,7 +346,9 @@
       "brand": "iqoo",
       "model": "iQOO 11 Pro 5G",
       "attributes": {
-        "price": 58990,
+        "price": [
+          58990
+        ],
         "rating": 8.9,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -316,7 +377,10 @@
       "brand": "iqoo",
       "model": "iQOO 7",
       "attributes": {
-        "price": 24990,
+        "price": [
+          24990,
+          22990
+        ],
         "rating": 8.3,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -351,7 +415,9 @@
       "brand": "iqoo",
       "model": "iQOO 7 (12GB RAM + 256GB)",
       "attributes": {
-        "price": 35990,
+        "price": [
+          35990
+        ],
         "rating": 8.5,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -380,7 +446,10 @@
       "brand": "iqoo",
       "model": "iQOO 7 Legend",
       "attributes": {
-        "price": 39990,
+        "price": [
+          39990,
+          36999
+        ],
         "rating": 8.4,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -415,7 +484,9 @@
       "brand": "iqoo",
       "model": "iQOO 9 5G",
       "attributes": {
-        "price": 34990,
+        "price": [
+          34990
+        ],
         "rating": 8.4,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -444,7 +515,9 @@
       "brand": "iqoo",
       "model": "iQOO 9 5G (12GB RAM + 256GB)",
       "attributes": {
-        "price": 39990,
+        "price": [
+          39990
+        ],
         "rating": 8.5,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -473,7 +546,10 @@
       "brand": "iqoo",
       "model": "iQOO 9 Pro 5G",
       "attributes": {
-        "price": 59990,
+        "price": [
+          59990,
+          64990
+        ],
         "rating": 8.8,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -508,7 +584,9 @@
       "brand": "iqoo",
       "model": "iQOO 9 SE 5G",
       "attributes": {
-        "price": 30990,
+        "price": [
+          30990
+        ],
         "rating": 8.3,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -537,7 +615,9 @@
       "brand": "iqoo",
       "model": "iQOO 9 SE 5G (12GB RAM + 256GB)",
       "attributes": {
-        "price": 34949,
+        "price": [
+          34949
+        ],
         "rating": 8.5,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -566,7 +646,9 @@
       "brand": "iqoo",
       "model": "iQOO Neo 6 5G (12GB RAM + 256GB)",
       "attributes": {
-        "price": 33749,
+        "price": [
+          33749
+        ],
         "rating": 8.4,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -595,7 +677,9 @@
       "brand": "iqoo",
       "model": "iQOO Neo 6 SE 5G",
       "attributes": {
-        "price": 22990,
+        "price": [
+          22990
+        ],
         "rating": 8.3,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -624,7 +708,9 @@
       "brand": "iqoo",
       "model": "iQOO Neo 7 5G",
       "attributes": {
-        "price": 29999,
+        "price": [
+          29999
+        ],
         "rating": 8.2,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -653,7 +739,9 @@
       "brand": "iqoo",
       "model": "iQOO Neo 7 Racing Edition",
       "attributes": {
-        "price": 32990,
+        "price": [
+          32990
+        ],
         "rating": 8.4,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -682,7 +770,9 @@
       "brand": "iqoo",
       "model": "iQOO Neo 7 SE 5G",
       "attributes": {
-        "price": 24990,
+        "price": [
+          24990
+        ],
         "rating": 8.3,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -711,7 +801,10 @@
       "brand": "iqoo",
       "model": "iQOO Z6 4G",
       "attributes": {
-        "price": 14489,
+        "price": [
+          14489,
+          14790
+        ],
         "rating": 7.7,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -747,7 +840,9 @@
       "brand": "iqoo",
       "model": "iQOO Z6 4G (6GB RAM + 128GB)",
       "attributes": {
-        "price": 15999,
+        "price": [
+          15999
+        ],
         "rating": 8.0,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -777,7 +872,9 @@
       "brand": "iqoo",
       "model": "iQOO Z6 5G (6GB RAM + 128GB)",
       "attributes": {
-        "price": 16940,
+        "price": [
+          16940
+        ],
         "rating": 8.0,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -807,7 +904,9 @@
       "brand": "iqoo",
       "model": "iQOO Z6 5G (8GB RAM + 128GB)",
       "attributes": {
-        "price": 18498,
+        "price": [
+          18498
+        ],
         "rating": 8.2,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -837,7 +936,9 @@
       "brand": "iqoo",
       "model": "iQOO Z6 Lite (6GB RAM + 128GB)",
       "attributes": {
-        "price": 15499,
+        "price": [
+          15499
+        ],
         "rating": 7.9,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -867,7 +968,9 @@
       "brand": "iqoo",
       "model": "iQOO Z6 Pro 5G (12GB RAM + 256GB)",
       "attributes": {
-        "price": 27999,
+        "price": [
+          27999
+        ],
         "rating": 8.2,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -896,7 +999,9 @@
       "brand": "iqoo",
       "model": "iQOO Z6 Pro 5G (8GB RAM + 128GB)",
       "attributes": {
-        "price": 23399,
+        "price": [
+          23399
+        ],
         "rating": 8.0,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -925,7 +1030,9 @@
       "brand": "iqoo",
       "model": "iQOO Z7 5G",
       "attributes": {
-        "price": 17999,
+        "price": [
+          17999
+        ],
         "rating": 8.0,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -954,7 +1061,9 @@
       "brand": "iqoo",
       "model": "iQOO Z7 Pro 5G",
       "attributes": {
-        "price": 24999,
+        "price": [
+          24999
+        ],
         "rating": 8.0,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -984,7 +1093,9 @@
       "brand": "iqoo",
       "model": "iQOO Z8 5G",
       "attributes": {
-        "price": 14999,
+        "price": [
+          14999
+        ],
         "rating": 7.8,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -1014,7 +1125,10 @@
       "brand": "iqoo",
       "model": "iQOO Z9",
       "attributes": {
-        "price": 19990,
+        "price": [
+          19990,
+          18499
+        ],
         "rating": 7.6,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",

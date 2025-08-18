@@ -247,14 +247,45 @@ def merge_attributes(existing: dict, incoming: dict):
     """
     Merge incoming attributes into existing attributes following:
       - If existing has a value for a key, keep it (skip overwrite).
+      - For ram, storage, colors, price: store as list if different values exist.
       - If new key, add it.
       - Normalize / cast some numeric-like values.
     """
+    # Fields that should be stored as lists when different values exist
+    list_fields = {'ram', 'storage', 'colors', 'price', 'color'}
+    
     for k, v in incoming.items():
         if not is_meaningful(v):
             continue
+            
+        normalized_v = maybe_cast_number(v)
+        
         if k not in existing or not is_meaningful(existing.get(k)):
-            existing[k] = maybe_cast_number(v)
+            # New key or existing key has no meaningful value
+            existing[k] = normalized_v
+        elif k in list_fields:
+            # Special handling for list fields
+            existing_val = existing[k]
+            
+            # Convert existing value to list if it's not already
+            if not isinstance(existing_val, list):
+                existing_val = [existing_val]
+            
+            # Check if the new value is different from all existing values
+            is_different = True
+            for existing_item in existing_val:
+                # Compare normalized values
+                if str(normalized_v).lower().strip() == str(existing_item).lower().strip():
+                    is_different = False
+                    break
+            
+            # Add to list if different
+            if is_different:
+                existing_val.append(normalized_v)
+                existing[k] = existing_val
+            else:
+                existing[k] = existing_val
+        # For non-list fields, keep existing value (don't overwrite)
 
 # ---- Row -> normalized attribute dict ----
 def row_to_attributes(row: pd.Series, brand_col: str, model_col: str) -> tuple[str | None, str | None, dict]:

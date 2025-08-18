@@ -6,14 +6,22 @@
       "brand": "MICROMAX",
       "model": "MICROMAX IN 2C",
       "attributes": {
-        "colors": "Silver",
+        "colors": [
+          "Silver",
+          "Brown"
+        ],
         "mrp": 9499,
-        "price": 5999,
+        "price": [
+          5999,
+          5490
+        ],
         "rating": 4.2,
         "review_count": 3156,
         "attr_reviews": 372,
         "attr_memory": 3.0,
-        "storage": 32.0,
+        "storage": [
+          32.0
+        ],
         "chipset": "Unisoc T610",
         "camera_main": 8,
         "camera_front": 5,
@@ -49,12 +57,17 @@
       "attributes": {
         "colors": "Champagne",
         "mrp": 17999,
-        "price": 3599,
+        "price": [
+          3599,
+          2990
+        ],
         "rating": 3.3,
         "review_count": 6917,
         "attr_reviews": 752,
         "attr_memory": 1.0,
-        "storage": 8.0,
+        "storage": [
+          8.0
+        ],
         "chipset": "SC9832",
         "camera_main": 5,
         "camera_front": 2,
@@ -126,7 +139,10 @@
       "brand": "micromax",
       "model": "Micromax IN 2B",
       "attributes": {
-        "price": 6999,
+        "price": [
+          6999,
+          5790
+        ],
         "rating": 6.6,
         "attr_5g or not": 0,
         "attr_processor brand": "unisoc",
@@ -162,7 +178,9 @@
       "brand": "micromax",
       "model": "Micromax IN 2B (6GB RAM + 64GB)",
       "attributes": {
-        "price": 7790,
+        "price": [
+          7790
+        ],
         "rating": 6.8,
         "attr_5g or not": 0,
         "attr_processor brand": "unisoc",

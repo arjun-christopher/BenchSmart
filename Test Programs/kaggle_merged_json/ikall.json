@@ -6,7 +6,9 @@
       "brand": "ikall",
       "model": "iKall Z18",
       "attributes": {
-        "price": 6799,
+        "price": [
+          6799
+        ],
         "rating": 6.1,
         "attr_5g or not": 0,
         "attr_num cores": 4.0,
@@ -34,7 +36,9 @@
       "brand": "ikall",
       "model": "iKall Z19",
       "attributes": {
-        "price": 7999,
+        "price": [
+          7999
+        ],
         "rating": 6.1,
         "attr_5g or not": 0,
         "attr_num cores": 4.0,
@@ -62,7 +66,9 @@
       "brand": "ikall",
       "model": "iKall Z19 Pro",
       "attributes": {
-        "price": 8099,
+        "price": [
+          8099
+        ],
         "rating": 6.0,
         "attr_5g or not": 0,
         "attr_num cores": 4.0,

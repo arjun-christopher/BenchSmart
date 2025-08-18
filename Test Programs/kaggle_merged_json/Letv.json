@@ -55,7 +55,9 @@
       "brand": "letv",
       "model": "Letv Y1 Pro",
       "attributes": {
-        "price": 5499,
+        "price": [
+          5499
+        ],
         "attr_5g or not": 0,
         "attr_processor brand": "tiger",
         "attr_num cores": 4.0,
@@ -82,7 +84,9 @@
       "brand": "letv",
       "model": "Letv Y1 Pro Plus",
       "attributes": {
-        "price": 5999,
+        "price": [
+          5999
+        ],
         "rating": 6.0,
         "attr_5g or not": 0,
         "attr_processor brand": "tiger",
@@ -111,7 +115,9 @@
       "brand": "letv",
       "model": "Letv Y2 Pro",
       "attributes": {
-        "price": 6999,
+        "price": [
+          6999
+        ],
         "attr_5g or not": 0,
         "attr_processor brand": "unisoc",
         "attr_num cores": 8.0,

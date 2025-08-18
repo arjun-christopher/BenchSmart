@@ -23,14 +23,25 @@
       "brand": "INFINIX",
       "model": "INFINIX HOT 20 PLAY",
       "attributes": {
-        "colors": "Racing Black",
+        "colors": [
+          "Racing Black",
+          "Luna Blue",
+          "Fantasy Purple",
+          "Aurora Green"
+        ],
         "mrp": 11999,
-        "price": 8199,
+        "price": [
+          8199,
+          8999,
+          7720
+        ],
         "rating": 4.4,
         "review_count": 8298,
         "attr_reviews": 486,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0
+        ],
         "chipset": "MediaTek G37",
         "camera_main": 13,
         "camera_front": 8,
@@ -66,14 +77,23 @@
       "brand": "INFINIX",
       "model": "INFINIX NOTE 12I",
       "attributes": {
-        "colors": "Metaverse Blue",
+        "colors": [
+          "Metaverse Blue",
+          "Force Black",
+          "Alpine White"
+        ],
         "mrp": 12999,
-        "price": 9999,
+        "price": [
+          9999,
+          7999
+        ],
         "rating": 4.2,
         "review_count": 1003,
         "attr_reviews": 125,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0
+        ],
         "chipset": "Mediatek Helio G85",
         "camera_main": 50,
         "camera_front": 8,
@@ -98,14 +118,24 @@
       "brand": "INFINIX",
       "model": "INFINIX HOT 12",
       "attributes": {
-        "colors": 7,
+        "colors": [
+          7,
+          "Exploratory Blue",
+          "Polar Black",
+          "Turquoise Cyan"
+        ],
         "mrp": 12999,
-        "price": 8499,
+        "price": [
+          8499,
+          9999
+        ],
         "rating": 4.3,
         "review_count": 18601,
         "attr_reviews": 1333,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0
+        ],
         "chipset": "Meditek Helio G37",
         "camera_main": 50,
         "camera_front": 8,
@@ -141,14 +171,24 @@
       "brand": "INFINIX",
       "model": "INFINIX SMART 6 HD",
       "attributes": {
-        "colors": "Force Black",
+        "colors": [
+          "Force Black",
+          "Aqua Sky",
+          "Origin Blue"
+        ],
         "mrp": 8999,
-        "price": 5799,
+        "price": [
+          5799,
+          6999,
+          6990
+        ],
         "rating": 4.4,
         "review_count": 22440,
         "attr_reviews": 1267,
         "attr_memory": 2.0,
-        "storage": 32.0,
+        "storage": [
+          32.0
+        ],
         "chipset": "Mediatek Helio A22",
         "camera_main": 8,
         "camera_front": 5,
@@ -183,14 +223,25 @@
       "brand": "INFINIX",
       "model": "INFINIX HOT 20 5G",
       "attributes": {
-        "colors": "Blaster Green",
+        "colors": [
+          "Blaster Green",
+          "Space Blue",
+          "Racing Black"
+        ],
         "mrp": 19999,
-        "price": 13499,
+        "price": [
+          13499,
+          11499,
+          9990
+        ],
         "rating": 4.2,
         "review_count": 850,
         "attr_reviews": 76,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0,
+          64.0
+        ],
         "chipset": "Dimensity 810",
         "camera_main": 50,
         "camera_front": 8,
@@ -215,14 +266,27 @@
       "brand": "INFINIX",
       "model": "INFINIX HOT 12 PRO",
       "attributes": {
-        "colors": "Lightsaber Green",
+        "colors": [
+          "Lightsaber Green",
+          "Electric Blue",
+          "Halo White",
+          "Racing Black"
+        ],
         "mrp": 13999,
-        "price": 8999,
+        "price": [
+          8999,
+          11999,
+          10850,
+          10999
+        ],
         "rating": 4.2,
         "review_count": 7129,
         "attr_reviews": 431,
         "attr_memory": 6.0,
-        "storage": 64.0,
+        "storage": [
+          64.0,
+          128.0
+        ],
         "chipset": "Unisoc T616",
         "camera_main": 50,
         "camera_front": 8,
@@ -258,14 +322,23 @@
       "brand": "INFINIX",
       "model": "INFINIX NOTE 12 5G",
       "attributes": {
-        "colors": "Force Black",
+        "colors": [
+          "Force Black",
+          "Snowfall"
+        ],
         "mrp": 19999,
-        "price": 13099,
+        "price": [
+          13099,
+          15999,
+          9999
+        ],
         "rating": 4.2,
         "review_count": 14950,
         "attr_reviews": 1646,
         "attr_memory": 6.0,
-        "storage": 64.0,
+        "storage": [
+          64.0
+        ],
         "chipset": "Mediatek Dimensity 810 5G",
         "camera_main": 50,
         "camera_front": 16,
@@ -301,14 +374,22 @@
       "brand": "INFINIX",
       "model": "INFINIX NOTE 12 PRO 5G",
       "attributes": {
-        "colors": "Force Black",
+        "colors": [
+          "Force Black",
+          "Snowfall"
+        ],
         "mrp": 24999,
-        "price": 16999,
+        "price": [
+          16999,
+          18999
+        ],
         "rating": 4.1,
         "review_count": 19595,
         "attr_reviews": 2444,
         "attr_memory": 8.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "Mediatek Dimensity 810 5G",
         "camera_main": 108,
         "camera_front": 16,
@@ -339,14 +420,25 @@
       "brand": "INFINIX",
       "model": "INFINIX SMART 6",
       "attributes": {
-        "colors": "Light Sea Green",
+        "colors": [
+          "Light Sea Green",
+          "Polar Black",
+          "Heart Of Ocean",
+          "Starry Purple"
+        ],
         "mrp": 8999,
-        "price": 6999,
+        "price": [
+          6999,
+          7320,
+          5990
+        ],
         "rating": 4.3,
         "review_count": 30140,
         "attr_reviews": 2071,
         "attr_memory": 2.0,
-        "storage": 64.0,
+        "storage": [
+          64.0
+        ],
         "chipset": "Mediatek Helio A22",
         "camera_main": 8,
         "camera_front": 5,
@@ -382,14 +474,23 @@
       "brand": "INFINIX",
       "model": "INFINIX ZERO 5G 2023",
       "attributes": {
-        "colors": "Coral Orange",
+        "colors": [
+          "Coral Orange",
+          "Submariner Black"
+        ],
         "mrp": 24999,
-        "price": 17999,
+        "price": [
+          17999,
+          19499,
+          14990
+        ],
         "rating": 4.2,
         "review_count": 65,
         "attr_reviews": 8,
         "attr_memory": 8.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "Mediatek Dimensity 920",
         "camera_main": 50,
         "camera_front": 16,
@@ -425,14 +526,24 @@
       "brand": "INFINIX",
       "model": "INFINIX NOTE 12 PRO",
       "attributes": {
-        "colors": "Volcanic Grey",
+        "colors": [
+          "Volcanic Grey",
+          "Tuscany Blue"
+        ],
         "mrp": 21999,
-        "price": 14999,
+        "price": [
+          14999,
+          16900,
+          13990
+        ],
         "rating": 4.2,
         "review_count": 3941,
         "attr_reviews": 432,
         "attr_memory": 8.0,
-        "storage": 256.0,
+        "storage": [
+          256.0,
+          128.0
+        ],
         "chipset": "Mediatek Helio G99",
         "camera_main": 108,
         "camera_front": 16,
@@ -468,14 +579,25 @@
       "brand": "INFINIX",
       "model": "INFINIX NOTE 12",
       "attributes": {
-        "colors": "Force Black",
+        "colors": [
+          "Force Black",
+          "Jewel Blue"
+        ],
         "mrp": 15999,
-        "price": 10999,
+        "price": [
+          10999,
+          12499,
+          11700,
+          11999
+        ],
         "rating": 4.2,
         "review_count": 25033,
         "attr_reviews": 2495,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0,
+          128.0
+        ],
         "chipset": "MediaTek Helio G88",
         "camera_main": 50,
         "camera_front": 16,
@@ -511,14 +633,23 @@
       "brand": "INFINIX",
       "model": "INFINIX SMART 6 PLUS",
       "attributes": {
-        "colors": "Tranquil Sea Blue",
+        "colors": [
+          "Tranquil Sea Blue",
+          "Miracle Black",
+          "Crystal Violet"
+        ],
         "mrp": 9999,
-        "price": 8299,
+        "price": [
+          8299,
+          7490
+        ],
         "rating": 4.3,
         "review_count": 11620,
         "attr_reviews": 836,
         "attr_memory": 3.0,
-        "storage": 64.0,
+        "storage": [
+          64.0
+        ],
         "chipset": "Mediatek Helio G25",
         "camera_main": 8,
         "camera_front": 5,
@@ -554,14 +685,24 @@
       "brand": "INFINIX",
       "model": "INFINIX ZERO 20",
       "attributes": {
-        "colors": "Glitter Gold",
+        "colors": [
+          "Glitter Gold",
+          "DEEP GRAY",
+          "Green Fantasy"
+        ],
         "mrp": 24999,
-        "price": 15999,
+        "price": [
+          15999,
+          17999,
+          15990
+        ],
         "rating": 4.2,
         "review_count": 1433,
         "attr_reviews": 212,
         "attr_memory": 8.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "Mediatek G99",
         "camera_main": 108,
         "camera_front": 60,
@@ -597,14 +738,25 @@
       "brand": "INFINIX",
       "model": "INFINIX HOT 12 PLAY",
       "attributes": {
-        "colors": "Champagne Gold",
+        "colors": [
+          "Champagne Gold",
+          "Horizon Blue",
+          "Daylight Green",
+          "Racing Black"
+        ],
         "mrp": 11999,
-        "price": 8999,
+        "price": [
+          8999,
+          8910,
+          11999
+        ],
         "rating": 4.3,
         "review_count": 112223,
         "attr_reviews": 8237,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0
+        ],
         "chipset": "Unisoc T610",
         "camera_main": 13,
         "camera_front": 8,
@@ -642,12 +794,16 @@
       "attributes": {
         "colors": "Coral Orange",
         "mrp": 24999,
-        "price": 19999,
+        "price": [
+          19999
+        ],
         "rating": 3.9,
         "review_count": 168,
         "attr_reviews": 33,
         "attr_memory": 8.0,
-        "storage": 256.0,
+        "storage": [
+          256.0
+        ],
         "chipset": "Mediatek Dimensity 1080",
         "camera_main": 50,
         "camera_front": 16,
@@ -674,12 +830,16 @@
       "attributes": {
         "colors": "Silver Wave",
         "mrp": 11999,
-        "price": 9999,
+        "price": [
+          9999
+        ],
         "rating": 4.3,
         "review_count": 16145,
         "attr_reviews": 1380,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0
+        ],
         "chipset": "MediaTek Helio G70",
         "camera_main": 13,
         "camera_front": 8,
@@ -703,14 +863,25 @@
       "brand": "INFINIX",
       "model": "INFINIX HOT 11S",
       "attributes": {
-        "colors": "Polar Black",
+        "colors": [
+          "Polar Black",
+          "Silver Wave",
+          "Green Wave"
+        ],
         "mrp": 14999,
-        "price": 11999,
+        "price": [
+          11999,
+          10999,
+          9690
+        ],
         "rating": 4.3,
         "review_count": 49358,
         "attr_reviews": 5250,
         "attr_memory": 4.0,
-        "storage": 128.0,
+        "storage": [
+          128.0,
+          64.0
+        ],
         "chipset": "Mediatek Helio G88",
         "camera_main": 50,
         "camera_front": 8,
@@ -748,12 +919,17 @@
       "attributes": {
         "colors": "Midnight Black",
         "mrp": 7999,
-        "price": 7199,
+        "price": [
+          7199,
+          7290
+        ],
         "rating": 4.3,
         "review_count": 78844,
         "attr_reviews": 5387,
         "attr_memory": 2.0,
-        "storage": 32.0,
+        "storage": [
+          32.0
+        ],
         "chipset": "MediaTek Helio A20",
         "camera_main": 8,
         "camera_front": 8,
@@ -777,14 +953,23 @@
       "brand": "INFINIX",
       "model": "INFINIX NOTE 12 TURBO",
       "attributes": {
-        "colors": "Snowfall",
+        "colors": [
+          "Snowfall",
+          "Force Black",
+          "Jewel Blue"
+        ],
         "mrp": 19999,
-        "price": 14999,
+        "price": [
+          14999,
+          9898
+        ],
         "rating": 4.2,
         "review_count": 7857,
         "attr_reviews": 989,
         "attr_memory": 8.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "Mediatek Helio G96",
         "camera_main": 50,
         "camera_front": 16,
@@ -822,12 +1007,17 @@
       "attributes": {
         "colors": "Topaz Blue",
         "mrp": 7999,
-        "price": 6499,
+        "price": [
+          6499,
+          5990
+        ],
         "rating": 4.3,
         "review_count": 66389,
         "attr_reviews": 4304,
         "attr_memory": 2.0,
-        "storage": 32.0,
+        "storage": [
+          32.0
+        ],
         "chipset": "MediaTek Helio A20",
         "camera_main": 8,
         "camera_front": 5,
@@ -851,14 +1041,22 @@
       "brand": "INFINIX",
       "model": "INFINIX NOTE 11S",
       "attributes": {
-        "colors": "Haze Green",
+        "colors": [
+          "Haze Green",
+          "Mithril Grey"
+        ],
         "mrp": 16999,
-        "price": 13999,
+        "price": [
+          13999,
+          11899
+        ],
         "rating": 4.3,
         "review_count": 11981,
         "attr_reviews": 1580,
         "attr_memory": 6.0,
-        "storage": 64.0,
+        "storage": [
+          64.0
+        ],
         "chipset": "MediaTek Helio G96",
         "camera_main": 50,
         "camera_front": 16,
@@ -883,14 +1081,24 @@
       "brand": "INFINIX",
       "model": "INFINIX NOTE 11",
       "attributes": {
-        "colors": "Graphite Black",
+        "colors": [
+          "Graphite Black",
+          "Celestial Snow",
+          "Glacier Green"
+        ],
         "mrp": 16999,
-        "price": 14499,
+        "price": [
+          14499,
+          12499
+        ],
         "rating": 4.2,
         "review_count": 10807,
         "attr_reviews": 1256,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0,
+          64.0
+        ],
         "chipset": "Mediatek Helio G88",
         "camera_main": 50,
         "camera_front": 16,
@@ -914,14 +1122,22 @@
       "brand": "INFINIX",
       "model": "INFINIX HOT 11 2022",
       "attributes": {
-        "colors": "Polar Black",
+        "colors": [
+          "Polar Black",
+          "Aurora Green"
+        ],
         "mrp": 12999,
-        "price": 9999,
+        "price": [
+          9999,
+          6899
+        ],
         "rating": 4.2,
         "review_count": 17054,
         "attr_reviews": 1398,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0
+        ],
         "chipset": "UniSoc T610",
         "camera_main": 13,
         "camera_front": 8,
@@ -947,12 +1163,17 @@
       "attributes": {
         "colors": "Horizon Blue",
         "mrp": 24999,
-        "price": 19999,
+        "price": [
+          19999,
+          11590
+        ],
         "rating": 4.2,
         "review_count": 10272,
         "attr_reviews": 1546,
         "attr_memory": 8.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "Mediatek Dimensity 900",
         "camera_main": 48,
         "camera_front": 16,
@@ -1469,7 +1690,9 @@
       "brand": "infinix",
       "model": "Infinix Hot 12 Pro (8GB RAM+ 128GB)",
       "attributes": {
-        "price": 12340,
+        "price": [
+          12340
+        ],
         "rating": 7.6,
         "attr_5g or not": 0,
         "attr_processor brand": "tiger",
@@ -1499,7 +1722,9 @@
       "brand": "infinix",
       "model": "Infinix Hot 20",
       "attributes": {
-        "price": 17999,
+        "price": [
+          17999
+        ],
         "rating": 7.5,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -1529,7 +1754,9 @@
       "brand": "infinix",
       "model": "Infinix Hot 20 (6GB RAM+ 128GB)",
       "attributes": {
-        "price": 19999,
+        "price": [
+          19999
+        ],
         "rating": 7.8,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -1559,7 +1786,9 @@
       "brand": "infinix",
       "model": "Infinix Hot 20i",
       "attributes": {
-        "price": 9999,
+        "price": [
+          9999
+        ],
         "rating": 6.4,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -1587,7 +1816,9 @@
       "brand": "infinix",
       "model": "Infinix Hot 20S",
       "attributes": {
-        "price": 12999,
+        "price": [
+          12999
+        ],
         "rating": 7.7,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -1616,7 +1847,9 @@
       "brand": "infinix",
       "model": "Infinix Note 11 (6GB RAM + 128GB)",
       "attributes": {
-        "price": 12799,
+        "price": [
+          12799
+        ],
         "rating": 7.7,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -1645,7 +1878,9 @@
       "brand": "infinix",
       "model": "Infinix Note 11S (8GB RAM + 128GB)",
       "attributes": {
-        "price": 15999,
+        "price": [
+          15999
+        ],
         "rating": 7.9,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -1675,7 +1910,9 @@
       "brand": "infinix",
       "model": "Infinix Note 12 (6GB RAM + 128GB)",
       "attributes": {
-        "price": 12999,
+        "price": [
+          12999
+        ],
         "rating": 7.7,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -1705,7 +1942,9 @@
       "brand": "infinix",
       "model": "Infinix Note 12 (G96)",
       "attributes": {
-        "price": 16999,
+        "price": [
+          16999
+        ],
         "rating": 7.9,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -1734,7 +1973,9 @@
       "brand": "infinix",
       "model": "Infinix Note 12 VIP",
       "attributes": {
-        "price": 19999,
+        "price": [
+          19999
+        ],
         "rating": 8.4,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -1764,7 +2005,9 @@
       "brand": "infinix",
       "model": "Infinix Note 12i (2022)",
       "attributes": {
-        "price": 9999,
+        "price": [
+          9999
+        ],
         "rating": 7.3,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -1794,7 +2037,9 @@
       "brand": "infinix",
       "model": "Infinix Note 13 Pro",
       "attributes": {
-        "price": 16999,
+        "price": [
+          16999
+        ],
         "rating": 8.0,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -1824,7 +2069,10 @@
       "brand": "infinix",
       "model": "Infinix Zero Ultra",
       "attributes": {
-        "price": 36999,
+        "price": [
+          36999,
+          24990
+        ],
         "rating": 8.9,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -1859,7 +2107,9 @@
       "brand": "infinix",
       "model": "Infinix Zero X Pro",
       "attributes": {
-        "price": 21990,
+        "price": [
+          21990
+        ],
         "rating": 8.5,
         "attr_5g or not": 1,
         "attr_processor brand": "helio",

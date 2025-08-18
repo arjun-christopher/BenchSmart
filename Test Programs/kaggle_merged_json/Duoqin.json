@@ -22,7 +22,9 @@
       "brand": "duoqin",
       "model": "Duoqin F22 Pro",
       "attributes": {
-        "price": 9990,
+        "price": [
+          9990
+        ],
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
         "attr_num cores": 8.0,

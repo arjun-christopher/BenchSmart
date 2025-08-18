@@ -23,7 +23,9 @@
       "brand": "leitz",
       "model": "Leitz Phone 2",
       "attributes": {
-        "price": 124990,
+        "price": [
+          124990
+        ],
         "rating": 8.9,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",

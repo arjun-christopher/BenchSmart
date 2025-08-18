@@ -32,7 +32,10 @@
         "attr_camera specs front": 16,
         "display_size": 6.6,
         "attr_ram of phone": 6,
-        "storage": 64,
+        "storage": [
+          64,
+          128.0
+        ],
         "battery_capacity": 5000,
         "os": "Android v11 OS",
         "attr_first site": "Flipkart",
@@ -41,9 +44,16 @@
         "attr_price in second site": "₹15,999 ❯",
         "attr_real price available": 15999,
         "attr_score by smartprice": 7.8,
-        "colors": "Stardust White",
+        "colors": [
+          "Stardust White",
+          "Aquamarine Blue"
+        ],
         "mrp": 17999,
-        "price": 17990,
+        "price": [
+          17990,
+          18700,
+          "₹16,999"
+        ],
         "rating": 4.2,
         "review_count": 5747,
         "attr_reviews": 452,
@@ -65,7 +75,11 @@
         "attr_camera specs front": 16,
         "display_size": 6.67,
         "attr_ram of phone": 6,
-        "storage": 128,
+        "storage": [
+          128,
+          128.0,
+          256.0
+        ],
         "battery_capacity": 5000,
         "os": "Android v11 OS",
         "attr_first site": "Flipkart",
@@ -74,9 +88,19 @@
         "attr_price in second site": "₹20,999 ❯",
         "attr_real price available": 20999,
         "attr_score by smartprice": 7.8,
-        "colors": "Stealth Black",
+        "colors": [
+          "Stealth Black",
+          "PHANTOM WHITE",
+          "Mirage Blue"
+        ],
         "mrp": 24999,
-        "price": 21900,
+        "price": [
+          21900,
+          20995,
+          28999,
+          23700,
+          "₹19,999"
+        ],
         "rating": 4.2,
         "review_count": 5903,
         "attr_reviews": 493,
@@ -169,7 +193,11 @@
         "attr_camera specs front": 20,
         "display_size": 6.67,
         "attr_ram of phone": 6,
-        "storage": 128,
+        "storage": [
+          128,
+          128.0,
+          " not expandable"
+        ],
         "battery_capacity": 5000,
         "os": "Android v10 (Q) OS",
         "attr_first site": "Flipkart",
@@ -247,7 +275,10 @@
         "attr_camera specs front": 20,
         "display_size": 6.67,
         "attr_ram of phone": 8,
-        "storage": 128,
+        "storage": [
+          128,
+          " not expandable"
+        ],
         "battery_capacity": 4780,
         "os": "Android v10 (Q) OS",
         "attr_first site": "Flipkart",
@@ -536,7 +567,10 @@
         "attr_camera specs front": 20,
         "display_size": 6.67,
         "attr_ram of phone": 8,
-        "storage": 128,
+        "storage": [
+          128,
+          " not expandable"
+        ],
         "battery_capacity": 5000,
         "os": "Android v10 (Q) OS",
         "attr_second site": "Amazon",
@@ -672,7 +706,10 @@
         "attr_camera specs front": 20,
         "display_size": 6.81,
         "attr_ram of phone": 12,
-        "storage": 256,
+        "storage": [
+          256,
+          " not expandable"
+        ],
         "battery_capacity": 5000,
         "os": "Android v11 OS",
         "attr_real price available": 69999,
@@ -691,14 +728,24 @@
       "brand": "XIAOMI",
       "model": "POCO M4 5G",
       "attributes": {
-        "colors": "Power Black",
+        "colors": [
+          "Power Black",
+          "Cool Blue",
+          "Yellow"
+        ],
         "mrp": 15999,
-        "price": 11999,
+        "price": [
+          11999,
+          13999
+        ],
         "rating": 4.2,
         "review_count": 53448,
         "attr_reviews": 4185,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0,
+          128.0
+        ],
         "chipset": "Mediatek Dimensity 700",
         "camera_main": 50,
         "camera_front": 8,
@@ -712,14 +759,25 @@
       "brand": "XIAOMI",
       "model": "REDMI 10",
       "attributes": {
-        "colors": "Caribbean Green",
+        "colors": [
+          "Caribbean Green",
+          "Midnight Black",
+          "Pacific Blue"
+        ],
         "mrp": 14999,
-        "price": 9299,
+        "price": [
+          9299,
+          11499,
+          "₹9,589"
+        ],
         "rating": 4.3,
         "review_count": 187787,
         "attr_reviews": 12084,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0,
+          128.0
+        ],
         "chipset": "Qualcomm Snapdragon 680",
         "camera_main": 50,
         "camera_front": 5,
@@ -737,14 +795,23 @@
       "brand": "XIAOMI",
       "model": "POCO C31",
       "attributes": {
-        "colors": "Shadow Gray",
+        "colors": [
+          "Shadow Gray",
+          "Royal Blue"
+        ],
         "mrp": 11999,
-        "price": 7499,
+        "price": [
+          7499,
+          6499
+        ],
         "rating": 4.3,
         "review_count": 202727,
         "attr_reviews": 11672,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0,
+          32.0
+        ],
         "chipset": "MediaTek Helio G35",
         "camera_main": 13,
         "camera_front": 5,
@@ -758,14 +825,23 @@
       "brand": "XIAOMI",
       "model": "REDMI 9I SPORT",
       "attributes": {
-        "colors": "Carbon Black",
+        "colors": [
+          "Carbon Black",
+          "Coral Green",
+          "Metallic Blue"
+        ],
         "mrp": 9999,
-        "price": 7499,
+        "price": [
+          7499,
+          "₹7,499"
+        ],
         "rating": 4.3,
         "review_count": 236239,
         "attr_reviews": 13755,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0
+        ],
         "chipset": "MediaTek Helio G25",
         "camera_main": 13,
         "camera_front": 5,
@@ -783,14 +859,28 @@
       "brand": "XIAOMI",
       "model": "POCO M4 PRO",
       "attributes": {
-        "colors": "Cool Blue",
+        "colors": [
+          "Cool Blue",
+          "Yellow",
+          "Power Black"
+        ],
         "mrp": 17999,
-        "price": 11999,
+        "price": [
+          11999,
+          12999,
+          14999,
+          17999,
+          16499
+        ],
         "rating": 4.3,
         "review_count": 150352,
         "attr_reviews": 13531,
         "attr_memory": 6.0,
-        "storage": 64.0,
+        "storage": [
+          64.0,
+          128.0,
+          " microSDHC"
+        ],
         "chipset": "Mediatek Helio G96",
         "camera_main": 64,
         "camera_front": 16,
@@ -809,14 +899,29 @@
       "brand": "XIAOMI",
       "model": "POCO M4 PRO 5G",
       "attributes": {
-        "colors": "Cool Blue",
+        "colors": [
+          "Cool Blue",
+          "Power Black",
+          "Yellow"
+        ],
         "mrp": 19999,
-        "price": 15499,
+        "price": [
+          15499,
+          15999,
+          12999,
+          16999,
+          18999,
+          14999
+        ],
         "rating": 4.2,
         "review_count": 47939,
         "attr_reviews": 4182,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0,
+          64.0,
+          " microSDXC"
+        ],
         "chipset": "Mediatek Dimensity 810",
         "camera_main": 50,
         "camera_front": 16,
@@ -835,14 +940,26 @@
       "brand": "XIAOMI",
       "model": "POCO X4 PRO 5G",
       "attributes": {
-        "colors": "Laser Black",
+        "colors": [
+          "Laser Black",
+          "Laser Blue",
+          "Yellow"
+        ],
         "mrp": 23999,
-        "price": 16499,
+        "price": [
+          16499,
+          17499,
+          15499
+        ],
         "rating": 4.2,
         "review_count": 73220,
         "attr_reviews": 7392,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0,
+          64.0,
+          " microSDXC"
+        ],
         "chipset": "Qualcomm Snapdragon 695 5G",
         "camera_main": 64,
         "camera_front": 16,
@@ -861,14 +978,26 @@
       "brand": "XIAOMI",
       "model": "REDMI NOTE 10S",
       "attributes": {
-        "colors": "Frost White",
+        "colors": [
+          "Frost White",
+          "Deep Sea Blue",
+          "Shadow Black"
+        ],
         "mrp": 16999,
-        "price": 12999,
+        "price": [
+          12999,
+          16499,
+          "₹10,999"
+        ],
         "rating": 4.4,
         "review_count": 84168,
         "attr_reviews": 5715,
         "attr_memory": 6.0,
-        "storage": 64.0,
+        "storage": [
+          64.0,
+          128.0,
+          " not expandable"
+        ],
         "chipset": "Mediatek Helio G95",
         "camera_main": 64,
         "camera_front": 13,
@@ -889,14 +1018,22 @@
       "brand": "XIAOMI",
       "model": "POCO C50",
       "attributes": {
-        "colors": "Country Green",
+        "colors": [
+          "Country Green",
+          "Royal Blue"
+        ],
         "mrp": 9999,
-        "price": 6999,
+        "price": [
+          6999,
+          6249
+        ],
         "rating": 4.3,
         "review_count": 1528,
         "attr_reviews": 96,
         "attr_memory": 3.0,
-        "storage": 32.0,
+        "storage": [
+          32.0
+        ],
         "chipset": "Mediatek Helio A22, Upto 2.0 GHz",
         "camera_main": 8,
         "camera_front": 5,
@@ -910,14 +1047,28 @@
       "brand": "XIAOMI",
       "model": "REDMI 10A",
       "attributes": {
-        "colors": "Slate grey",
+        "colors": [
+          "Slate grey",
+          "Charcoal Black",
+          "Sea Blue"
+        ],
         "mrp": 11999,
-        "price": 8585,
+        "price": [
+          8585,
+          7673,
+          8751,
+          7999,
+          7478,
+          "₹7,499"
+        ],
         "rating": 4.2,
         "review_count": 6435,
         "attr_reviews": 377,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0,
+          32.0
+        ],
         "camera_main": 13,
         "display_size": 16.59,
         "battery_capacity": 5000.0,
@@ -933,14 +1084,21 @@
       "brand": "XIAOMI",
       "model": "REDMI NOTE 11 SE",
       "attributes": {
-        "colors": "Cosmic White",
+        "colors": [
+          "Cosmic White",
+          "Bifrost Blue"
+        ],
         "mrp": 16999,
-        "price": 11999,
+        "price": [
+          11999
+        ],
         "rating": 4.3,
         "review_count": 39454,
         "attr_reviews": 2459,
         "attr_memory": 6.0,
-        "storage": 64.0,
+        "storage": [
+          64.0
+        ],
         "chipset": "Mediatek Helio G95 Octa Core",
         "camera_main": 64,
         "camera_front": 13,
@@ -954,14 +1112,24 @@
       "brand": "XIAOMI",
       "model": "REDMI 10 PRIME",
       "attributes": {
-        "colors": "Astral White",
+        "colors": [
+          "Astral White",
+          "Phantom Black"
+        ],
         "mrp": 16999,
-        "price": 12999,
+        "price": [
+          12999,
+          11180,
+          "₹12,390"
+        ],
         "rating": 4.2,
         "review_count": 12411,
         "attr_reviews": 863,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0,
+          64.0
+        ],
         "chipset": "Helio G88",
         "camera_main": 50,
         "camera_front": 8,
@@ -978,14 +1146,21 @@
       "brand": "XIAOMI",
       "model": "REDMI 9I",
       "attributes": {
-        "colors": "Midnight Black",
+        "colors": [
+          "Midnight Black",
+          "Sea Blue"
+        ],
         "mrp": 9999,
-        "price": 7499,
+        "price": [
+          7499
+        ],
         "rating": 4.3,
         "review_count": 577272,
         "attr_reviews": 33908,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0
+        ],
         "chipset": "MediaTek Helio G25",
         "camera_main": 13,
         "camera_front": 5,
@@ -999,14 +1174,26 @@
       "brand": "XIAOMI",
       "model": "REDMI NOTE 12 PRO 5G",
       "attributes": {
-        "colors": "Stardust Purple",
+        "colors": [
+          "Stardust Purple",
+          "Onyx Black",
+          "Glacier Blue"
+        ],
         "mrp": 27999,
-        "price": 24999,
+        "price": [
+          24999,
+          27999,
+          26999,
+          "₹24,762"
+        ],
         "rating": 4.3,
         "review_count": 9137,
         "attr_reviews": 1023,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0,
+          256.0
+        ],
         "chipset": "Mediatek Dimensity 1080",
         "camera_main": 50,
         "camera_front": 16,
@@ -1024,14 +1211,29 @@
       "brand": "XIAOMI",
       "model": "REDMI 9 ACTIV",
       "attributes": {
-        "colors": "Coral Green",
+        "colors": [
+          "Coral Green",
+          "Carbon Black",
+          "Metallic Purple"
+        ],
         "mrp": 12999,
-        "price": 10499,
+        "price": [
+          10499,
+          9094,
+          8999,
+          9149,
+          8981,
+          11499,
+          "₹7,499"
+        ],
         "rating": 4.2,
         "review_count": 5042,
         "attr_reviews": 335,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0,
+          64.0
+        ],
         "chipset": "Mediatek Helio G35",
         "camera_main": 13,
         "camera_front": 5,
@@ -1049,14 +1251,30 @@
       "brand": "XIAOMI",
       "model": "REDMI NOTE 11",
       "attributes": {
-        "colors": "Starburst White",
+        "colors": [
+          "Starburst White",
+          "Space Black",
+          "Horizon Blue"
+        ],
         "mrp": 18999,
-        "price": 12680,
+        "price": [
+          12680,
+          11989,
+          14495,
+          14699,
+          11999,
+          12263,
+          "₹11,936"
+        ],
         "rating": 4.3,
         "review_count": 774,
         "attr_reviews": 63,
         "attr_memory": 6.0,
-        "storage": 64.0,
+        "storage": [
+          64.0,
+          128.0,
+          " microSDXC"
+        ],
         "camera_main": 50,
         "display_size": 16.33,
         "battery_capacity": 5000.0,
@@ -1077,14 +1295,24 @@
       "brand": "XIAOMI",
       "model": "REDMI A1",
       "attributes": {
-        "colors": "Light Green",
+        "colors": [
+          "Light Green",
+          "Black"
+        ],
         "mrp": 8999,
-        "price": 6275,
+        "price": [
+          6275,
+          6489,
+          6350,
+          "₹6,171"
+        ],
         "rating": 4.3,
         "review_count": 4176,
         "attr_reviews": 218,
         "attr_memory": 2.0,
-        "storage": 32.0,
+        "storage": [
+          32.0
+        ],
         "camera_main": 5,
         "display_size": 16.56,
         "battery_capacity": 5000.0,
@@ -1100,14 +1328,24 @@
       "brand": "XIAOMI",
       "model": "POCO X5 PRO 5G",
       "attributes": {
-        "colors": "Yellow",
+        "colors": [
+          "Yellow",
+          "Horizon Blue",
+          "Astral Black"
+        ],
         "mrp": 28999,
-        "price": 24999,
+        "price": [
+          24999,
+          22999
+        ],
         "rating": 4.4,
         "review_count": 983,
         "attr_reviews": 109,
         "attr_memory": 8.0,
-        "storage": 256.0,
+        "storage": [
+          256.0,
+          128.0
+        ],
         "chipset": "Qualcomm Snapdragon 778G",
         "camera_main": 108,
         "camera_front": 16,
@@ -1122,7 +1360,10 @@
       "attributes": {
         "colors": "SLATE GREY",
         "mrp": 13999,
-        "price": 10989,
+        "price": [
+          10989,
+          "₹9,999"
+        ],
         "rating": 4.0,
         "review_count": 797,
         "attr_reviews": 49,
@@ -1150,7 +1391,10 @@
         "review_count": 42313,
         "attr_reviews": 3963,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0,
+          " microSDXC"
+        ],
         "chipset": "Qualcomm Snapdragon 732G",
         "camera_main": 64,
         "camera_front": 16,
@@ -1171,12 +1415,18 @@
       "attributes": {
         "colors": "Horizon Blue",
         "mrp": 20999,
-        "price": 15900,
+        "price": [
+          15900,
+          "₹14,590"
+        ],
         "rating": 4.3,
         "review_count": 2281,
         "attr_reviews": 176,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0,
+          " microSDXC"
+        ],
         "camera_main": 108,
         "display_size": 16.33,
         "battery_capacity": 5000.0,
@@ -1197,14 +1447,23 @@
       "brand": "XIAOMI",
       "model": "REDMI 11 PRIME 5G",
       "attributes": {
-        "colors": "Meadow Green",
+        "colors": [
+          "Meadow Green"
+        ],
         "mrp": 15999,
-        "price": 13525,
+        "price": [
+          13525,
+          16990,
+          "₹13,466"
+        ],
         "rating": 4.3,
         "review_count": 1288,
         "attr_reviews": 86,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0,
+          128.0
+        ],
         "camera_main": 5,
         "display_size": 16.71,
         "battery_capacity": 5000.0,
@@ -1220,13 +1479,22 @@
       "brand": "XIAOMI",
       "model": "REDMI NOTE 12 PRO+ 5G",
       "attributes": {
-        "colors": "Iceberg Blue",
+        "colors": [
+          "Iceberg Blue",
+          "Obsidian Black",
+          "Arctic White"
+        ],
         "mrp": 36999,
-        "price": 32999,
+        "price": [
+          32999,
+          29999
+        ],
         "rating": 4.3,
         "review_count": 2098,
         "attr_reviews": 242,
-        "storage": 256.0,
+        "storage": [
+          256.0
+        ],
         "chipset": "Mediatek Dimensity 1080",
         "camera_main": 200,
         "camera_front": 16,
@@ -1241,14 +1509,22 @@
       "brand": "XIAOMI",
       "model": "REDMI NOTE 12 5G",
       "attributes": {
-        "colors": "Frosted Green",
+        "colors": [
+          "Frosted Green",
+          "Matte Black"
+        ],
         "mrp": 19999,
-        "price": 17290,
+        "price": [
+          17290,
+          17692
+        ],
         "rating": 4.2,
         "review_count": 68,
         "attr_reviews": 8,
         "attr_memory": 4.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "camera_main": 48,
         "display_size": 16.94,
         "battery_capacity": 5000.0
@@ -1261,7 +1537,10 @@
       "attributes": {
         "colors": "Power Black",
         "mrp": 18999,
-        "price": 12639,
+        "price": [
+          12639,
+          "₹11,999"
+        ],
         "rating": 4.1,
         "review_count": 715,
         "attr_reviews": 39,
@@ -1282,14 +1561,25 @@
       "brand": "XIAOMI",
       "model": "REDMI 9A SPORT",
       "attributes": {
-        "colors": "Coral Green",
+        "colors": [
+          "Coral Green",
+          "Carbon Black"
+        ],
         "mrp": 9499,
-        "price": 7284,
+        "price": [
+          7284,
+          7095,
+          7189,
+          7285,
+          "₹6,499"
+        ],
         "rating": 4.2,
         "review_count": 6199,
         "attr_reviews": 454,
         "attr_memory": 3.0,
-        "storage": 32.0,
+        "storage": [
+          32.0
+        ],
         "camera_main": 13,
         "display_size": 16.59,
         "battery_capacity": 5000.0,
@@ -1305,14 +1595,24 @@
       "brand": "XIAOMI",
       "model": "POCO M5",
       "attributes": {
-        "colors": "Icy Blue",
+        "colors": [
+          "Icy Blue",
+          "Power Black",
+          "Yellow"
+        ],
         "mrp": 15999,
-        "price": 11499,
+        "price": [
+          11499,
+          12999
+        ],
         "rating": 4.3,
         "review_count": 3191,
         "attr_reviews": 240,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0,
+          128.0
+        ],
         "chipset": "Mediatek Helio G99",
         "camera_main": 50,
         "camera_front": 8,
@@ -1328,7 +1628,10 @@
       "attributes": {
         "colors": "Stealth Black",
         "mrp": 31999,
-        "price": 23290,
+        "price": [
+          23290,
+          "₹22,999"
+        ],
         "rating": 4.2,
         "review_count": 1043,
         "attr_reviews": 138,
@@ -1349,14 +1652,21 @@
       "brand": "XIAOMI",
       "model": "POCO C3",
       "attributes": {
-        "colors": "Matte Black",
+        "colors": [
+          "Matte Black"
+        ],
         "mrp": 17999,
-        "price": 9999,
+        "price": [
+          9999,
+          8490
+        ],
         "rating": 4.3,
         "review_count": 398759,
         "attr_reviews": 26507,
         "attr_memory": 3.0,
-        "storage": 32.0,
+        "storage": [
+          32.0
+        ],
         "chipset": "Mediatek Helio G35",
         "camera_main": 13,
         "camera_front": 5,
@@ -1370,14 +1680,22 @@
       "brand": "XIAOMI",
       "model": "POCO F4 5G",
       "attributes": {
-        "colors": "Night Black",
+        "colors": [
+          "Night Black"
+        ],
         "mrp": 32999,
-        "price": 25999,
+        "price": [
+          25999,
+          29999
+        ],
         "rating": 4.3,
         "review_count": 12034,
         "attr_reviews": 1723,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0,
+          256.0
+        ],
         "chipset": "Qualcomm Snapdragon 870",
         "camera_main": 64,
         "camera_front": 20,
@@ -1391,14 +1709,25 @@
       "brand": "XIAOMI",
       "model": "REDMI NOTE 10T 5G",
       "attributes": {
-        "colors": "Mint Green",
+        "colors": [
+          "Mint Green",
+          "Metallic Blue"
+        ],
         "mrp": 18999,
-        "price": 14999,
+        "price": [
+          14999,
+          12999,
+          12788,
+          "₹12,999"
+        ],
         "rating": 4.2,
         "review_count": 31669,
         "attr_reviews": 2424,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0,
+          64.0
+        ],
         "chipset": "Mediatek Dimensity 700",
         "camera_main": 48,
         "camera_front": 8,
@@ -1416,14 +1745,26 @@
       "brand": "XIAOMI",
       "model": "XIAOMI 11LITE NE",
       "attributes": {
-        "colors": "Vinyl Black",
+        "colors": [
+          "Vinyl Black",
+          "Diamond Dazzle",
+          "Jazz Blue"
+        ],
         "mrp": 33999,
-        "price": 24999,
+        "price": [
+          24999,
+          20990,
+          23579,
+          21990,
+          22990
+        ],
         "rating": 4.2,
         "review_count": 1616,
         "attr_reviews": 168,
         "attr_memory": 8.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "Qualcomm Snapdragon 778G",
         "camera_main": 64,
         "camera_front": 20,
@@ -1436,14 +1777,23 @@
       "brand": "XIAOMI",
       "model": "REDMI GO",
       "attributes": {
-        "colors": "Blue",
+        "colors": [
+          "Blue",
+          "Black"
+        ],
         "mrp": 17999,
-        "price": 5999,
+        "price": [
+          5999
+        ],
         "rating": 4.3,
         "review_count": 167688,
         "attr_reviews": 13179,
         "attr_memory": 1.0,
-        "storage": 16.0,
+        "storage": [
+          16.0,
+          8.0,
+          " microSDXC"
+        ],
         "chipset": "Qualcomm Snapdragon 425",
         "camera_main": 8,
         "camera_front": 5,
@@ -1461,14 +1811,24 @@
       "brand": "XIAOMI",
       "model": "REDMI NOTE 9",
       "attributes": {
-        "colors": "Scarlet Red",
+        "colors": [
+          "Scarlet Red",
+          "Shadow Black"
+        ],
         "mrp": 16499,
-        "price": 13499,
+        "price": [
+          13499,
+          14819,
+          "₹11,989"
+        ],
         "rating": 4.3,
         "review_count": 123832,
         "attr_reviews": 9424,
         "attr_memory": 4.0,
-        "storage": 128.0,
+        "storage": [
+          128.0,
+          " microSDXC"
+        ],
         "chipset": "MediaTek Helio G85",
         "camera_main": 48,
         "display_size": 16.59,
@@ -1509,14 +1869,22 @@
       "brand": "XIAOMI",
       "model": "MI 11 LITE",
       "attributes": {
-        "colors": "Tuscany Coral",
+        "colors": [
+          "Tuscany Coral",
+          "Vinyl Black"
+        ],
         "mrp": 25999,
-        "price": 20990,
+        "price": [
+          20990,
+          23999
+        ],
         "rating": 4.2,
         "review_count": 6022,
         "attr_reviews": 611,
         "attr_memory": 8.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "Qualcomm Snapdragon 732G",
         "camera_main": 64,
         "camera_front": 16,
@@ -1535,14 +1903,23 @@
       "brand": "XIAOMI",
       "model": "REDMI A1+",
       "attributes": {
-        "colors": "Black",
+        "colors": [
+          "Black",
+          "Light Blue",
+          "Light Green"
+        ],
         "mrp": 10999,
-        "price": 8499,
+        "price": [
+          8499,
+          7499
+        ],
         "rating": 3.9,
         "review_count": 368,
         "attr_reviews": 25,
         "attr_memory": 3.0,
-        "storage": 32.0,
+        "storage": [
+          32.0
+        ],
         "chipset": "Mediatek Helio A22",
         "camera_main": 8,
         "camera_front": 5,
@@ -1577,14 +1954,23 @@
       "brand": "XIAOMI",
       "model": "REDMI 11 PRIME",
       "attributes": {
-        "colors": "Peppy Purple",
+        "colors": [
+          "Peppy Purple"
+        ],
         "mrp": 16999,
-        "price": 13690,
+        "price": [
+          13690,
+          11463,
+          "₹11,600"
+        ],
         "rating": 3.9,
         "review_count": 38,
         "attr_reviews": 2,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0,
+          64.0
+        ],
         "camera_main": 50,
         "display_size": 16.71,
         "battery_capacity": 5000.0,
@@ -1600,13 +1986,25 @@
       "brand": "XIAOMI",
       "model": "XIAOMI 12 PRO 5G",
       "attributes": {
-        "colors": "Noir Black",
+        "colors": [
+          "Noir Black",
+          "Couture Blue",
+          "Opera Mauve"
+        ],
         "mrp": 84999,
-        "price": 51999,
+        "price": [
+          51999,
+          46990,
+          47490,
+          50990,
+          35999
+        ],
         "rating": 4.2,
         "review_count": 144,
         "attr_reviews": 18,
-        "storage": 256.0,
+        "storage": [
+          256.0
+        ],
         "chipset": "Snapdragon@ 8 Gen 1",
         "camera_main": 50,
         "display_size": 17.09,
@@ -1643,12 +2041,18 @@
       "attributes": {
         "colors": "Midnight Black",
         "mrp": 8499,
-        "price": 7746,
+        "price": [
+          7746,
+          "₹6,999"
+        ],
         "rating": 4.3,
         "review_count": 21534,
         "attr_reviews": 1289,
         "attr_memory": 2.0,
-        "storage": 32.0,
+        "storage": [
+          32.0,
+          " microSDXC"
+        ],
         "camera_main": 13,
         "display_size": 16.59,
         "battery_capacity": 5000.0,
@@ -1668,14 +2072,23 @@
       "brand": "XIAOMI",
       "model": "REDMI NOTE 10 PRO MAX",
       "attributes": {
-        "colors": "Dark Nebula",
+        "colors": [
+          "Dark Nebula",
+          "Glacial Blue"
+        ],
         "mrp": 22999,
-        "price": 19999,
+        "price": [
+          19999,
+          20390,
+          "₹19,999"
+        ],
         "rating": 4.3,
         "review_count": 16833,
         "attr_reviews": 1271,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "Qualcomm Snapdragon 732G",
         "camera_main": 108,
         "camera_front": 16,
@@ -1692,14 +2105,26 @@
       "brand": "XIAOMI",
       "model": "REDMI NOTE 11 PRO",
       "attributes": {
-        "colors": "Star blue",
+        "colors": [
+          "Star blue",
+          "Stealth Black",
+          "Phantom White"
+        ],
         "mrp": 22999,
-        "price": 18300,
+        "price": [
+          18300,
+          17490,
+          20499,
+          18990
+        ],
         "rating": 4.2,
         "review_count": 1161,
         "attr_reviews": 84,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0,
+          " microSDXC"
+        ],
         "camera_main": 108,
         "display_size": 16.94,
         "battery_capacity": 5000.0,
@@ -1724,7 +2149,10 @@
         "review_count": 53487,
         "attr_reviews": 4495,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0,
+          " not expandable"
+        ],
         "chipset": "MediaTek Dimensity 700",
         "camera_main": 48,
         "camera_front": 8,
@@ -1745,7 +2173,10 @@
       "attributes": {
         "colors": "Rosso Red",
         "mrp": 17999,
-        "price": 21999,
+        "price": [
+          21999,
+          "₹11,999"
+        ],
         "rating": 4.5,
         "review_count": 244108,
         "attr_reviews": 30022,
@@ -1806,14 +2237,25 @@
       "brand": "XIAOMI",
       "model": "POCO M2 PRO",
       "attributes": {
-        "colors": "Green and Greener",
+        "colors": [
+          "Green and Greener",
+          "Out of the Blue",
+          "Two Shades of Black"
+        ],
         "mrp": 17999,
-        "price": 19999,
+        "price": [
+          19999,
+          17999
+        ],
         "rating": 4.4,
         "review_count": 350744,
         "attr_reviews": 33202,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0,
+          64.0,
+          " microSDXC"
+        ],
         "chipset": "Qualcomm Snapdragon 720G",
         "camera_main": 48,
         "camera_front": 16,
@@ -1839,7 +2281,10 @@
         "review_count": 559353,
         "attr_reviews": 40463,
         "attr_memory": 3.0,
-        "storage": 32.0,
+        "storage": [
+          32.0,
+          " microSDXC"
+        ],
         "chipset": 2.0,
         "camera_main": 12,
         "camera_front": 5,
@@ -1877,14 +2322,23 @@
       "brand": "XIAOMI",
       "model": "POCO X2",
       "attributes": {
-        "colors": "Matrix Purple",
+        "colors": [
+          "Matrix Purple"
+        ],
         "mrp": 17999,
-        "price": 20999,
+        "price": [
+          20999,
+          17999
+        ],
         "rating": 4.5,
         "review_count": 60874,
         "attr_reviews": 6988,
         "attr_memory": 8.0,
-        "storage": 256.0,
+        "storage": [
+          256.0,
+          64.0,
+          " microSDXC"
+        ],
         "chipset": "Qualcomm Snapdragon 730G",
         "camera_main": 64,
         "camera_front": 20,
@@ -1925,12 +2379,18 @@
       "attributes": {
         "colors": "Interstellar Black",
         "mrp": 17999,
-        "price": 14450,
+        "price": [
+          14450,
+          "₹13,999"
+        ],
         "rating": 4.3,
         "review_count": 26761,
         "attr_reviews": 1830,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0,
+          " microSDXC"
+        ],
         "chipset": "Qualcomm® Snapdragon™ 720G",
         "camera_main": 48,
         "camera_front": 16,
@@ -1957,7 +2417,10 @@
         "review_count": 942649,
         "attr_reviews": 66962,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0,
+          " microSDXC"
+        ],
         "chipset": "Qualcomm Snapdragon 439",
         "camera_main": 12,
         "camera_front": 8,
@@ -2003,7 +2466,10 @@
         "review_count": 1171704,
         "attr_reviews": 122453,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0,
+          " microSDXC"
+        ],
         "chipset": "Qualcomm Snapdragon 636",
         "camera_main": 12,
         "camera_front": 20,
@@ -5677,7 +6143,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi 11i 5G (8GB RAM + 128GB)",
       "attributes": {
-        "price": 24990,
+        "price": [
+          24990
+        ],
         "rating": 8.3,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -5707,7 +6175,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi 11i HyperCharge 5G",
       "attributes": {
-        "price": 24820,
+        "price": [
+          24820
+        ],
         "rating": 8.3,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -5737,7 +6207,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi 11i HyperCharge 5G (8GB RAM + 128GB)",
       "attributes": {
-        "price": 26999,
+        "price": [
+          26999
+        ],
         "rating": 8.6,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -5767,7 +6239,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi 11T Pro 5G (12GB RAM + 256GB)",
       "attributes": {
-        "price": 38999,
+        "price": [
+          38999
+        ],
         "rating": 8.8,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -5796,7 +6270,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi 12 Lite 5G",
       "attributes": {
-        "price": 29990,
+        "price": [
+          29990
+        ],
         "rating": 8.2,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -5825,7 +6301,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi 12 Pro 5G (12GB RAM + 256GB)",
       "attributes": {
-        "price": 51880,
+        "price": [
+          51880
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
@@ -5853,7 +6331,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi 12 Ultra 5G",
       "attributes": {
-        "price": 75999,
+        "price": [
+          75999
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
@@ -5881,7 +6361,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi 12S Ultra",
       "attributes": {
-        "price": 69990,
+        "price": [
+          69990
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
@@ -5909,7 +6391,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi 12T",
       "attributes": {
-        "price": 48990,
+        "price": [
+          48990
+        ],
         "rating": 8.7,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -5938,7 +6422,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi 12T Pro 5G",
       "attributes": {
-        "price": 59990,
+        "price": [
+          59990
+        ],
         "rating": 8.9,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -5967,7 +6453,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi 13 5G",
       "attributes": {
-        "price": 46990,
+        "price": [
+          46990
+        ],
         "rating": 8.9,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -5996,7 +6484,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi 13 Pro 5G",
       "attributes": {
-        "price": 58990,
+        "price": [
+          58990
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
@@ -6024,7 +6514,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi 13 Ultra 5G",
       "attributes": {
-        "price": 71999,
+        "price": [
+          71999
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
@@ -6052,7 +6544,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi 14",
       "attributes": {
-        "price": 54999,
+        "price": [
+          54999,
+          46999
+        ],
         "rating": 8.9,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -6087,7 +6582,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Civi 2",
       "attributes": {
-        "price": 29999,
+        "price": [
+          29999
+        ],
         "rating": 8.5,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -6116,7 +6613,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Civi 3",
       "attributes": {
-        "price": 32990,
+        "price": [
+          32990
+        ],
         "rating": 8.6,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -6145,7 +6644,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Mi 10 5G (8GB RAM + 256GB)",
       "attributes": {
-        "price": 54999,
+        "price": [
+          54999
+        ],
         "rating": 8.8,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -6174,7 +6675,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Mi 10T 5G",
       "attributes": {
-        "price": 23500,
+        "price": [
+          23500
+        ],
         "rating": 8.0,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -6203,7 +6706,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Mi 10T Pro 5G",
       "attributes": {
-        "price": 29999,
+        "price": [
+          29999
+        ],
         "rating": 8.6,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -6232,7 +6737,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Mi 11 Lite (8GB RAM + 128GB)",
       "attributes": {
-        "price": 18699,
+        "price": [
+          18699
+        ],
         "rating": 8.2,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -6262,7 +6769,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Mi 11 Lite NE 5G",
       "attributes": {
-        "price": 21890,
+        "price": [
+          21890
+        ],
         "rating": 8.3,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -6291,7 +6800,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Mi 11 Lite NE 5G (8GB RAM + 128GB)",
       "attributes": {
-        "price": 22999,
+        "price": [
+          22999
+        ],
         "rating": 8.6,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -6320,7 +6831,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Mi 11i 5G",
       "attributes": {
-        "price": 23499,
+        "price": [
+          23499
+        ],
         "rating": 8.1,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -6350,7 +6863,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi Mi 11T Pro 5G",
       "attributes": {
-        "price": 34990,
+        "price": [
+          34990,
+          22410
+        ],
         "rating": 8.6,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -6385,7 +6901,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi Mi 11X",
       "attributes": {
-        "price": 23890,
+        "price": [
+          23890,
+          18999
+        ],
         "rating": 8.0,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -6420,7 +6939,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Mi 11X 5G (8GB RAM + 128GB)",
       "attributes": {
-        "price": 25990,
+        "price": [
+          25990
+        ],
         "rating": 8.3,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -6449,7 +6970,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi Mi 11X Pro",
       "attributes": {
-        "price": 30990,
+        "price": [
+          30990,
+          24749
+        ],
         "rating": 8.5,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -6484,7 +7008,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Mi 12 5G",
       "attributes": {
-        "price": 42990,
+        "price": [
+          42990
+        ],
         "rating": 8.7,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -6513,7 +7039,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Mi Mix Alpha",
       "attributes": {
-        "price": 199990,
+        "price": [
+          199990
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
@@ -6539,7 +7067,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Mi Mix Fold",
       "attributes": {
-        "price": 109990,
+        "price": [
+          109990
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
@@ -6567,7 +7097,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Mix Fold 2 5G",
       "attributes": {
-        "price": 106990,
+        "price": [
+          106990
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
@@ -6595,7 +7127,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Poco F1",
       "attributes": {
-        "price": 11999,
+        "price": [
+          11999
+        ],
         "rating": 7.7,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -6624,7 +7158,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Poco F1 (6GB RAM + 128GB)",
       "attributes": {
-        "price": 12999,
+        "price": [
+          12999
+        ],
         "rating": 7.8,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -6653,7 +7189,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi 10",
       "attributes": {
-        "price": 9589,
+        "price": [
+          9589,
+          7777
+        ],
         "rating": 7.1,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -6689,7 +7228,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi 10 (6GB RAM + 128GB)",
       "attributes": {
-        "price": 11999,
+        "price": [
+          11999
+        ],
         "rating": 7.5,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -6719,7 +7260,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi 10 Power",
       "attributes": {
-        "price": 11999,
+        "price": [
+          11999,
+          11840
+        ],
         "rating": 7.7,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -6754,7 +7298,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi 10 Prime",
       "attributes": {
-        "price": 12390,
+        "price": [
+          12390,
+          8821
+        ],
         "rating": 7.4,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -6790,7 +7337,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi 10 Prime (6GB RAM + 128GB)",
       "attributes": {
-        "price": 12999,
+        "price": [
+          12999
+        ],
         "rating": 7.7,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -6820,7 +7369,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi 10 Prime Plus 5G",
       "attributes": {
-        "price": 13990,
+        "price": [
+          13990
+        ],
         "rating": 6.9,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -6849,7 +7400,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi 10A",
       "attributes": {
-        "price": 7499,
+        "price": [
+          7499
+        ],
         "rating": 6.4,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -6885,7 +7438,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi 10A (4GB RAM + 64GB)",
       "attributes": {
-        "price": 8388,
+        "price": [
+          8388
+        ],
         "rating": 6.6,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -6914,7 +7469,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi 10A (6GB RAM + 128GB)",
       "attributes": {
-        "price": 10850,
+        "price": [
+          10850
+        ],
         "rating": 7.0,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -6943,7 +7500,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi 10A Sport",
       "attributes": {
-        "price": 9999,
+        "price": [
+          9999
+        ],
         "rating": 6.9,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -6979,7 +7538,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi 10C",
       "attributes": {
-        "price": 13990,
+        "price": [
+          13990
+        ],
         "rating": 7.1,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -7009,7 +7570,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi 10C (4GB RAM + 128GB)",
       "attributes": {
-        "price": 14990,
+        "price": [
+          14990
+        ],
         "rating": 7.3,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -7039,7 +7602,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi 11 Prime",
       "attributes": {
-        "price": 11600,
+        "price": [
+          11600,
+          9160
+        ],
         "rating": 7.4,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -7075,7 +7641,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi 11 Prime (6GB RAM + 128GB)",
       "attributes": {
-        "price": 13774,
+        "price": [
+          13774
+        ],
         "rating": 7.6,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -7105,7 +7673,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi 11 Prime 5G",
       "attributes": {
-        "price": 13466,
+        "price": [
+          13466,
+          11999
+        ],
         "rating": 7.4,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -7141,7 +7712,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi 11 Prime 5G (6GB RAM + 128GB)",
       "attributes": {
-        "price": 15990,
+        "price": [
+          15990
+        ],
         "rating": 7.7,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -7171,7 +7744,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi 13 Prime 5G",
       "attributes": {
-        "price": 17990,
+        "price": [
+          17990
+        ],
         "rating": 7.9,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -7201,7 +7776,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi 20X",
       "attributes": {
-        "price": 10990,
+        "price": [
+          10990
+        ],
         "rating": 7.7,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -7230,7 +7807,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi 8 (4GB RAM + 64GB)",
       "attributes": {
-        "price": 11490,
+        "price": [
+          11490
+        ],
         "rating": 6.6,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -7260,7 +7839,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi 9",
       "attributes": {
-        "price": 8999,
+        "price": [
+          8999,
+          9999
+        ],
         "rating": 6.8,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -7296,7 +7878,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi 9 Activ",
       "attributes": {
-        "price": 7499,
+        "price": [
+          7499,
+          8599
+        ],
         "rating": 6.8,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -7332,7 +7917,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi 9 Activ (6GB RAM + 128GB)",
       "attributes": {
-        "price": 10499,
+        "price": [
+          10499
+        ],
         "rating": 7.2,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -7361,7 +7948,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi 9 Power",
       "attributes": {
-        "price": 11499,
+        "price": [
+          11499,
+          9899
+        ],
         "rating": 7.4,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -7397,7 +7987,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi 9A",
       "attributes": {
-        "price": 6999,
+        "price": [
+          6999,
+          4679
+        ],
         "rating": 6.1,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -7432,7 +8025,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi 9A (6GB RAM + 128GB)",
       "attributes": {
-        "price": 10990,
+        "price": [
+          10990
+        ],
         "rating": 6.9,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -7461,7 +8056,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi 9A Sport",
       "attributes": {
-        "price": 6499,
+        "price": [
+          6499,
+          6999
+        ],
         "rating": 6.1,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -7496,7 +8094,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi 9i (4GB RAM + 128GB)",
       "attributes": {
-        "price": 9299,
+        "price": [
+          9299
+        ],
         "rating": 6.7,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -7526,7 +8126,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi 9i Sport",
       "attributes": {
-        "price": 7499,
+        "price": [
+          7499,
+          7990
+        ],
         "rating": 6.6,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -7561,7 +8164,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi A1",
       "attributes": {
-        "price": 6171,
+        "price": [
+          6171,
+          6690
+        ],
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
         "attr_num cores": 4.0,
@@ -7595,7 +8201,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi A1 Plus",
       "attributes": {
-        "price": 7289,
+        "price": [
+          7289,
+          7300
+        ],
         "rating": 6.0,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -7631,7 +8240,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi A1 Plus (3GB RAM + 32GB)",
       "attributes": {
-        "price": 8399,
+        "price": [
+          8399
+        ],
         "rating": 6.1,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -7661,7 +8272,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi K20 Pro Signature Edition",
       "attributes": {
-        "price": 480000,
+        "price": [
+          480000
+        ],
         "rating": 8.8,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -7690,7 +8303,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi K50 5G",
       "attributes": {
-        "price": 27990,
+        "price": [
+          27990
+        ],
         "rating": 8.3,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -7719,7 +8334,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi K50 Ultra 5G",
       "attributes": {
-        "price": 39999,
+        "price": [
+          39999
+        ],
         "rating": 8.5,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -7748,7 +8365,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi K50i (8GB RAM + 256GB)",
       "attributes": {
-        "price": 25999,
+        "price": [
+          25999
+        ],
         "rating": 8.5,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -7777,7 +8396,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi K50i 5G",
       "attributes": {
-        "price": 22999,
+        "price": [
+          22999
+        ],
         "rating": 8.2,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -7806,7 +8427,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi K60",
       "attributes": {
-        "price": 29990,
+        "price": [
+          29990
+        ],
         "rating": 8.4,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -7835,7 +8458,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi K60 Gaming Edition",
       "attributes": {
-        "price": 54990,
+        "price": [
+          54990
+        ],
         "rating": 8.6,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -7864,7 +8489,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi K60 Pro",
       "attributes": {
-        "price": 38999,
+        "price": [
+          38999
+        ],
         "rating": 8.5,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -7893,7 +8520,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi K60E",
       "attributes": {
-        "price": 25999,
+        "price": [
+          25999
+        ],
         "rating": 8.3,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -7922,7 +8551,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi K60i",
       "attributes": {
-        "price": 28999,
+        "price": [
+          28999
+        ],
         "rating": 8.5,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -7951,7 +8582,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 10",
       "attributes": {
-        "price": 13990,
+        "price": [
+          13990,
+          11990
+        ],
         "rating": 7.5,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -7987,7 +8621,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 10 (6GB RAM + 128GB)",
       "attributes": {
-        "price": 16499,
+        "price": [
+          16499
+        ],
         "rating": 7.8,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -8017,7 +8653,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 10 5G",
       "attributes": {
-        "price": 12490,
+        "price": [
+          12490
+        ],
         "rating": 7.6,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -8047,7 +8685,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 10 Lite",
       "attributes": {
-        "price": 9999,
+        "price": [
+          9999,
+          10780
+        ],
         "rating": 7.6,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -8083,7 +8724,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 10 Lite (4GB RAM + 128GB)",
       "attributes": {
-        "price": 12499,
+        "price": [
+          12499
+        ],
         "rating": 7.7,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -8113,7 +8756,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 10 Lite (6GB RAM + 128GB)",
       "attributes": {
-        "price": 11999,
+        "price": [
+          11999
+        ],
         "rating": 8.0,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -8143,7 +8788,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 10 Pro (6GB RAM + 128GB)",
       "attributes": {
-        "price": 17999,
+        "price": [
+          17999
+        ],
         "rating": 8.1,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -8173,7 +8820,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 10 Pro 5G",
       "attributes": {
-        "price": 16999,
+        "price": [
+          16999
+        ],
         "rating": 8.3,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -8202,7 +8851,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 10 Pro Max",
       "attributes": {
-        "price": 19999,
+        "price": [
+          19999,
+          21999
+        ],
         "rating": 8.1,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -8238,7 +8890,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 10 Pro Max (6GB RAM + 128GB)",
       "attributes": {
-        "price": 19980,
+        "price": [
+          19980
+        ],
         "rating": 8.2,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -8268,7 +8922,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 10S",
       "attributes": {
-        "price": 10999,
+        "price": [
+          10999,
+          9999
+        ],
         "rating": 7.8,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -8304,7 +8961,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 10S (6GB RAM + 128GB)",
       "attributes": {
-        "price": 11999,
+        "price": [
+          11999
+        ],
         "rating": 7.9,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -8334,7 +8993,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 10S (8GB RAM + 128GB)",
       "attributes": {
-        "price": 13999,
+        "price": [
+          13999
+        ],
         "rating": 8.2,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -8364,7 +9025,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 10T 5G",
       "attributes": {
-        "price": 12999,
+        "price": [
+          12999
+        ],
         "rating": 7.5,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -8394,7 +9057,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 10T 5G (6GB RAM +128GB)",
       "attributes": {
-        "price": 13999,
+        "price": [
+          13999
+        ],
         "rating": 7.9,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -8424,7 +9089,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 11",
       "attributes": {
-        "price": 11936,
+        "price": [
+          11936
+        ],
         "rating": 7.6,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -8454,7 +9121,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 11 (6GB RAM + 128GB)",
       "attributes": {
-        "price": 14290,
+        "price": [
+          14290
+        ],
         "rating": 8.0,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -8484,7 +9153,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 11 (6GB RAM + 64GB)",
       "attributes": {
-        "price": 12188,
+        "price": [
+          12188
+        ],
         "rating": 7.9,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -8514,7 +9185,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 11 5G",
       "attributes": {
-        "price": 14990,
+        "price": [
+          14990
+        ],
         "rating": 7.7,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -8544,7 +9217,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 11 Pro 4G",
       "attributes": {
-        "price": 17999,
+        "price": [
+          17999
+        ],
         "rating": 8.1,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -8574,7 +9249,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 11 Pro 5G",
       "attributes": {
-        "price": 17990,
+        "price": [
+          17990
+        ],
         "rating": 8.1,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -8603,7 +9280,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 11 Pro Max 5G",
       "attributes": {
-        "price": 19999,
+        "price": [
+          19999
+        ],
         "rating": 8.3,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -8633,7 +9312,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 11 Pro Plus 5G",
       "attributes": {
-        "price": 19999,
+        "price": [
+          19999,
+          17990
+        ],
         "rating": 8.3,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -8669,7 +9351,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 11 Pro Plus 5G (8GB RAM + 128GB)",
       "attributes": {
-        "price": 22700,
+        "price": [
+          22700
+        ],
         "rating": 8.6,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -8699,7 +9383,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 11 Pro Plus 5G (8GB RAM + 256GB)",
       "attributes": {
-        "price": 22999,
+        "price": [
+          22999
+        ],
         "rating": 8.7,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -8729,7 +9415,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 11E 5G",
       "attributes": {
-        "price": 13990,
+        "price": [
+          13990
+        ],
         "rating": 6.9,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -8758,7 +9446,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 11R",
       "attributes": {
-        "price": 12990,
+        "price": [
+          12990
+        ],
         "rating": 7.3,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -8788,7 +9478,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 11S",
       "attributes": {
-        "price": 14590,
+        "price": [
+          14590,
+          10999
+        ],
         "rating": 8.0,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -8824,7 +9517,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 11S (6GB RAM + 128GB)",
       "attributes": {
-        "price": 15499,
+        "price": [
+          15499
+        ],
         "rating": 8.1,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -8854,7 +9549,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 11S (8GB RAM + 128GB)",
       "attributes": {
-        "price": 15824,
+        "price": [
+          15824
+        ],
         "rating": 8.4,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -8884,7 +9581,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 11SE",
       "attributes": {
-        "price": 11999,
+        "price": [
+          11999
+        ],
         "rating": 8.0,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -8914,7 +9613,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 11T 5G",
       "attributes": {
-        "price": 16999,
+        "price": [
+          16999,
+          9490
+        ],
         "rating": 7.9,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -8950,7 +9652,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 11T 5G (6GB RAM + 128GB)",
       "attributes": {
-        "price": 16999,
+        "price": [
+          16999
+        ],
         "rating": 8.1,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -8980,7 +9684,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 11T 5G (8GB RAM + 128GB)",
       "attributes": {
-        "price": 18499,
+        "price": [
+          18499
+        ],
         "rating": 8.3,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -9010,7 +9716,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 11T Pro 5G",
       "attributes": {
-        "price": 19990,
+        "price": [
+          19990
+        ],
         "rating": 8.2,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -9040,7 +9748,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 12",
       "attributes": {
-        "price": 17859,
+        "price": [
+          17859,
+          15499
+        ],
         "rating": 7.6,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -9076,7 +9787,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 12 (6GB RAM + 128GB)",
       "attributes": {
-        "price": 19988,
+        "price": [
+          19988
+        ],
         "rating": 7.9,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -9106,7 +9819,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 12 4G",
       "attributes": {
-        "price": 13999,
+        "price": [
+          13999,
+          18998
+        ],
         "rating": 7.5,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -9142,7 +9858,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 12 Discovery Edition",
       "attributes": {
-        "price": 26990,
+        "price": [
+          26990
+        ],
         "rating": 8.6,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -9171,7 +9889,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 12 Explorer",
       "attributes": {
-        "price": 24999,
+        "price": [
+          24999
+        ],
         "rating": 8.9,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -9201,7 +9921,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 12 Pro (8GB RAM + 128GB)",
       "attributes": {
-        "price": 26999,
+        "price": [
+          26999
+        ],
         "rating": 8.2,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -9230,7 +9952,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 12 Pro (8GB RAM + 256GB)",
       "attributes": {
-        "price": 27994,
+        "price": [
+          27994
+        ],
         "rating": 8.2,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -9259,7 +9983,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 12 Pro 4G",
       "attributes": {
-        "price": 14999,
+        "price": [
+          14999
+        ],
         "rating": 7.7,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -9288,7 +10014,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 12 Pro 5G",
       "attributes": {
-        "price": 24762,
+        "price": [
+          24762,
+          15999
+        ],
         "rating": 7.9,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -9323,7 +10052,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 12 Pro Max 5G",
       "attributes": {
-        "price": 32999,
+        "price": [
+          32999
+        ],
         "rating": 8.3,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -9353,7 +10084,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 12 Pro Plus",
       "attributes": {
-        "price": 29999,
+        "price": [
+          29999
+        ],
         "rating": 8.6,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -9382,7 +10115,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 12 Pro Plus (12GB RAM + 256GB)",
       "attributes": {
-        "price": 32999,
+        "price": [
+          32999
+        ],
         "rating": 8.7,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -9411,7 +10146,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 12 Pro Plus (6GB RAM + 128GB)",
       "attributes": {
-        "price": 26999,
+        "price": [
+          26999
+        ],
         "rating": 8.4,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -9440,7 +10177,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 12 Turbo",
       "attributes": {
-        "price": 19999,
+        "price": [
+          19999
+        ],
         "rating": 8.1,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -9469,7 +10208,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 12T 5G",
       "attributes": {
-        "price": 15999,
+        "price": [
+          15999
+        ],
         "rating": 7.8,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -9499,7 +10240,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 13 Pro 5G",
       "attributes": {
-        "price": 17990,
+        "price": [
+          17990
+        ],
         "rating": 7.8,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -9528,7 +10271,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 13 Pro Max 5G",
       "attributes": {
-        "price": 20499,
+        "price": [
+          20499
+        ],
         "rating": 8.3,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -9558,7 +10303,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 4",
       "attributes": {
-        "price": 10300,
+        "price": [
+          10300
+        ],
         "rating": 6.5,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -9587,7 +10334,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 8 2021",
       "attributes": {
-        "price": 9990,
+        "price": [
+          9990
+        ],
         "rating": 7.5,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -9616,7 +10365,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 8 Pro",
       "attributes": {
-        "price": 16999,
+        "price": [
+          16999,
+          14990
+        ],
         "rating": 7.8,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -9652,7 +10404,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 9",
       "attributes": {
-        "price": 11989,
+        "price": [
+          11989,
+          9996
+        ],
         "rating": 7.5,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -9688,7 +10443,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 9 Pro",
       "attributes": {
-        "price": 13999,
+        "price": [
+          13999,
+          10999
+        ],
         "rating": 7.5,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -9724,7 +10482,9 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 9 Pro (4GB RAM + 128GB)",
       "attributes": {
-        "price": 14439,
+        "price": [
+          14439
+        ],
         "rating": 7.7,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -9754,7 +10514,10 @@
       "brand": "xiaomi",
       "model": "Xiaomi Redmi Note 9 Pro Max",
       "attributes": {
-        "price": 16490,
+        "price": [
+          16490,
+          15290
+        ],
         "rating": 8.0,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",

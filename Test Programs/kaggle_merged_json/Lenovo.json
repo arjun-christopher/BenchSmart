@@ -172,7 +172,9 @@
       "brand": "lenovo",
       "model": "Lenovo Legion Pro 2",
       "attributes": {
-        "price": 59999,
+        "price": [
+          59999
+        ],
         "rating": 8.9,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -201,7 +203,9 @@
       "brand": "lenovo",
       "model": "Lenovo Legion Y90",
       "attributes": {
-        "price": 46990,
+        "price": [
+          46990
+        ],
         "rating": 8.7,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",

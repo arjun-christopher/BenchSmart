@@ -864,7 +864,10 @@
       "brand": "poco",
       "model": "POCO C31",
       "attributes": {
-        "price": 6499,
+        "price": [
+          6499,
+          5930
+        ],
         "rating": 6.5,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -900,7 +903,9 @@
       "brand": "poco",
       "model": "POCO C31 (4GB RAM + 64GB)",
       "attributes": {
-        "price": 7499,
+        "price": [
+          7499
+        ],
         "rating": 6.8,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -929,7 +934,10 @@
       "brand": "poco",
       "model": "Poco C50",
       "attributes": {
-        "price": 6499,
+        "price": [
+          6499,
+          4999
+        ],
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
         "attr_num cores": 4.0,
@@ -964,7 +972,9 @@
       "brand": "poco",
       "model": "Poco C50 (3GB RAM + 32GB)",
       "attributes": {
-        "price": 7299,
+        "price": [
+          7299
+        ],
         "rating": 6.1,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -994,7 +1004,10 @@
       "brand": "poco",
       "model": "Poco C55",
       "attributes": {
-        "price": 7999,
+        "price": [
+          7999,
+          6999
+        ],
         "rating": 7.0,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -1030,7 +1043,10 @@
       "brand": "poco",
       "model": "Poco F3 GT",
       "attributes": {
-        "price": 32999,
+        "price": [
+          32999,
+          26999
+        ],
         "rating": 7.9,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -1065,7 +1081,9 @@
       "brand": "poco",
       "model": "Poco F4 (12GB RAM + 256GB)",
       "attributes": {
-        "price": 29999,
+        "price": [
+          29999
+        ],
         "rating": 8.6,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -1094,7 +1112,10 @@
       "brand": "poco",
       "model": "Poco F4 5G",
       "attributes": {
-        "price": 25999,
+        "price": [
+          25999,
+          19990
+        ],
         "rating": 8.2,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -1129,7 +1150,9 @@
       "brand": "poco",
       "model": "Poco F4 5G (8GB RAM + 128GB)",
       "attributes": {
-        "price": 27999,
+        "price": [
+          27999
+        ],
         "rating": 8.5,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -1158,7 +1181,9 @@
       "brand": "poco",
       "model": "POCO F4 GT 5G",
       "attributes": {
-        "price": 39999,
+        "price": [
+          39999
+        ],
         "rating": 8.6,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -1187,7 +1212,10 @@
       "brand": "poco",
       "model": "Poco F5",
       "attributes": {
-        "price": 34990,
+        "price": [
+          34990,
+          18999
+        ],
         "rating": 8.5,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -1222,7 +1250,9 @@
       "brand": "poco",
       "model": "POCO F5 GT 5G",
       "attributes": {
-        "price": 42999,
+        "price": [
+          42999
+        ],
         "rating": 8.6,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -1251,7 +1281,9 @@
       "brand": "poco",
       "model": "Poco F5 Pro",
       "attributes": {
-        "price": 29999,
+        "price": [
+          29999
+        ],
         "rating": 8.4,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -1280,7 +1312,10 @@
       "brand": "poco",
       "model": "Poco M2",
       "attributes": {
-        "price": 10890,
+        "price": [
+          10890,
+          10990
+        ],
         "rating": 7.4,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -1316,7 +1351,10 @@
       "brand": "poco",
       "model": "POCO M2 Pro",
       "attributes": {
-        "price": 12799,
+        "price": [
+          12799,
+          10449
+        ],
         "rating": 7.6,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -1352,7 +1390,10 @@
       "brand": "poco",
       "model": "Poco M3",
       "attributes": {
-        "price": 11499,
+        "price": [
+          11499,
+          9999
+        ],
         "rating": 7.5,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -1388,7 +1429,10 @@
       "brand": "poco",
       "model": "POCO M3 Pro 5G",
       "attributes": {
-        "price": 15999,
+        "price": [
+          15999,
+          11723
+        ],
         "rating": 7.5,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -1424,7 +1468,9 @@
       "brand": "poco",
       "model": "POCO M3 Pro 5G (6GB RAM + 128GB)",
       "attributes": {
-        "price": 14799,
+        "price": [
+          14799
+        ],
         "rating": 7.9,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -1454,7 +1500,10 @@
       "brand": "poco",
       "model": "Poco M4 5G",
       "attributes": {
-        "price": 11499,
+        "price": [
+          11499,
+          9990
+        ],
         "rating": 7.5,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -1490,7 +1539,9 @@
       "brand": "poco",
       "model": "Poco M4 5G (6GB RAM + 128GB)",
       "attributes": {
-        "price": 13499,
+        "price": [
+          13499
+        ],
         "rating": 7.9,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -1520,7 +1571,9 @@
       "brand": "poco",
       "model": "POCO M4 Pro 4G",
       "attributes": {
-        "price": 11999,
+        "price": [
+          11999
+        ],
         "rating": 7.7,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -1550,7 +1603,9 @@
       "brand": "poco",
       "model": "POCO M4 Pro 4G (6GB RAM + 128GB)",
       "attributes": {
-        "price": 12999,
+        "price": [
+          12999
+        ],
         "rating": 7.9,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -1580,7 +1635,9 @@
       "brand": "poco",
       "model": "POCO M4 Pro 4G (8GB RAM + 128GB)",
       "attributes": {
-        "price": 13999,
+        "price": [
+          13999
+        ],
         "rating": 8.1,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -1610,7 +1667,10 @@
       "brand": "poco",
       "model": "Poco M4 Pro 5G",
       "attributes": {
-        "price": 12999,
+        "price": [
+          12999,
+          11290
+        ],
         "rating": 7.6,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -1646,7 +1706,9 @@
       "brand": "poco",
       "model": "Poco M4 Pro 5G (6GB RAM + 128GB)",
       "attributes": {
-        "price": 14999,
+        "price": [
+          14999
+        ],
         "rating": 8.1,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -1676,7 +1738,9 @@
       "brand": "poco",
       "model": "Poco M4 Pro 5G (8GB RAM + 128GB)",
       "attributes": {
-        "price": 15999,
+        "price": [
+          15999
+        ],
         "rating": 8.2,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -1706,7 +1770,10 @@
       "brand": "poco",
       "model": "Poco M5",
       "attributes": {
-        "price": 10799,
+        "price": [
+          10799,
+          8700
+        ],
         "rating": 7.4,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -1742,7 +1809,9 @@
       "brand": "poco",
       "model": "Poco M5 (6GB RAM + 128GB)",
       "attributes": {
-        "price": 14499,
+        "price": [
+          14499
+        ],
         "rating": 7.7,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -1772,7 +1841,9 @@
       "brand": "poco",
       "model": "Poco M6 Pro",
       "attributes": {
-        "price": 19990,
+        "price": [
+          19990
+        ],
         "rating": 8.4,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -1802,7 +1873,10 @@
       "brand": "poco",
       "model": "Poco X3",
       "attributes": {
-        "price": 13499,
+        "price": [
+          13499,
+          11990
+        ],
         "rating": 8.0,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -1838,7 +1912,10 @@
       "brand": "poco",
       "model": "Poco X3 Pro",
       "attributes": {
-        "price": 19650,
+        "price": [
+          19650,
+          10399
+        ],
         "rating": 8.2,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -1873,7 +1950,9 @@
       "brand": "poco",
       "model": "Poco X4",
       "attributes": {
-        "price": 14990,
+        "price": [
+          14990
+        ],
         "rating": 7.9,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -1903,7 +1982,9 @@
       "brand": "poco",
       "model": "POCO X4 GT 5G",
       "attributes": {
-        "price": 24990,
+        "price": [
+          24990
+        ],
         "rating": 8.4,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -1932,7 +2013,9 @@
       "brand": "poco",
       "model": "POCO X4 GT 5G (8GB RAM + 256GB)",
       "attributes": {
-        "price": 28990,
+        "price": [
+          28990
+        ],
         "rating": 8.5,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -1961,7 +2044,9 @@
       "brand": "poco",
       "model": "Poco X4 Pro 5G",
       "attributes": {
-        "price": 14999,
+        "price": [
+          14999
+        ],
         "rating": 8.0,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -1991,7 +2076,9 @@
       "brand": "poco",
       "model": "Poco X4 Pro 5G (6GB RAM + 128GB)",
       "attributes": {
-        "price": 16499,
+        "price": [
+          16499
+        ],
         "rating": 8.2,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -2021,7 +2108,9 @@
       "brand": "poco",
       "model": "Poco X4 Pro 5G (8GB RAM + 128GB)",
       "attributes": {
-        "price": 17999,
+        "price": [
+          17999
+        ],
         "rating": 8.4,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -2051,7 +2140,10 @@
       "brand": "poco",
       "model": "Poco X5",
       "attributes": {
-        "price": 14999,
+        "price": [
+          14999,
+          13400
+        ],
         "rating": 7.4,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -2086,7 +2178,9 @@
       "brand": "poco",
       "model": "POCO X5 GT",
       "attributes": {
-        "price": 29990,
+        "price": [
+          29990
+        ],
         "rating": 8.4,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -2115,7 +2209,10 @@
       "brand": "poco",
       "model": "Poco X5 Pro",
       "attributes": {
-        "price": 20999,
+        "price": [
+          20999,
+          16499
+        ],
         "rating": 8.1,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -2150,7 +2247,9 @@
       "brand": "poco",
       "model": "Poco X6 Pro 5G",
       "attributes": {
-        "price": 19999,
+        "price": [
+          19999
+        ],
         "rating": 7.2,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",

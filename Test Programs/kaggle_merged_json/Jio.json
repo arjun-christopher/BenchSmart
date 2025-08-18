@@ -87,7 +87,9 @@
       "brand": "jio",
       "model": "Jio JioPhone 5G",
       "attributes": {
-        "price": 11990,
+        "price": [
+          11990
+        ],
         "rating": 6.4,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -117,7 +119,9 @@
       "brand": "jio",
       "model": "Jio JioPhone Next",
       "attributes": {
-        "price": 4649,
+        "price": [
+          4649
+        ],
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 4.0,
@@ -145,7 +149,9 @@
       "brand": "jio",
       "model": "Jio JioPhone Next (3GB RAM + 32GB)",
       "attributes": {
-        "price": 7499,
+        "price": [
+          7499
+        ],
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 4.0,
@@ -172,7 +178,9 @@
       "brand": "jio",
       "model": "Jio Phone 3",
       "attributes": {
-        "price": 4499,
+        "price": [
+          4499
+        ],
         "attr_5g or not": 0,
         "attr_num cores": 4.0,
         "attr_processor speed": 1.4,

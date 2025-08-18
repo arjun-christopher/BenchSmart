@@ -34,14 +34,26 @@
       "brand": "TECNO",
       "model": "TECNO POVA 3",
       "attributes": {
-        "colors": "Eco Black",
+        "colors": [
+          "Eco Black",
+          "Electric Blue",
+          "Tech Silver"
+        ],
         "mrp": 14999,
-        "price": 10869,
+        "price": [
+          10869,
+          12490,
+          10890,
+          9999,
+          11499
+        ],
         "rating": 4.3,
         "review_count": 471,
         "attr_reviews": 26,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0
+        ],
         "chipset": "MediaTek Helio G88",
         "camera_main": 50,
         "camera_front": 8,
@@ -76,14 +88,26 @@
       "brand": "TECNO",
       "model": "TECNO SPARK 9",
       "attributes": {
-        "colors": "Infinity Black",
+        "colors": [
+          "Infinity Black",
+          "Sky Mirror"
+        ],
         "mrp": 9999,
-        "price": 9990,
+        "price": [
+          9990,
+          8749,
+          8549,
+          8999,
+          6799
+        ],
         "rating": 4.0,
         "review_count": 773,
         "attr_reviews": 44,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0,
+          64.0
+        ],
         "chipset": "MediaTek Helio G37",
         "camera_main": 13,
         "camera_front": 8,
@@ -118,14 +142,24 @@
       "brand": "TECNO",
       "model": "TECNO CAMON 19",
       "attributes": {
-        "colors": "Memphis Green",
+        "colors": [
+          "Memphis Green",
+          "Eco Black"
+        ],
         "mrp": 18999,
-        "price": 13977,
+        "price": [
+          13977,
+          13999,
+          14746,
+          14999
+        ],
         "rating": 4.2,
         "review_count": 244,
         "attr_reviews": 25,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "MediaTek Helio G85",
         "camera_main": 64,
         "camera_front": 16,
@@ -162,12 +196,18 @@
       "attributes": {
         "colors": "Polar Black",
         "mrp": 17999,
-        "price": 6799,
+        "price": [
+          6799,
+          6299,
+          6340
+        ],
         "rating": 4.3,
         "review_count": 152,
         "attr_reviews": 12,
         "attr_memory": 2.0,
-        "storage": 32.0,
+        "storage": [
+          32.0
+        ],
         "chipset": "Unisoc SC9863A",
         "camera_main": 8,
         "display_size": 16.66,
@@ -202,14 +242,23 @@
       "brand": "TECNO",
       "model": "TECNO POP 5 LTE",
       "attributes": {
-        "colors": "Ice Blue",
+        "colors": [
+          "Ice Blue",
+          "Deepsea Luster"
+        ],
         "mrp": 6599,
-        "price": 6464,
+        "price": [
+          6464,
+          7299,
+          6262
+        ],
         "rating": 4.2,
         "review_count": 758,
         "attr_reviews": 44,
         "attr_memory": 2.0,
-        "storage": 32.0,
+        "storage": [
+          32.0
+        ],
         "chipset": "Unisoc SC9863A",
         "camera_main": 8,
         "camera_front": 5,
@@ -231,12 +280,17 @@
       "attributes": {
         "colors": "Atlantic Blue",
         "mrp": 13499,
-        "price": 9449,
+        "price": [
+          9449,
+          8450
+        ],
         "rating": 4.1,
         "review_count": 919,
         "attr_reviews": 62,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0
+        ],
         "chipset": "MediaTek Helio G25",
         "camera_main": 16,
         "camera_front": 8,
@@ -259,14 +313,30 @@
       "brand": "TECNO",
       "model": "TECNO SPARK 8C",
       "attributes": {
-        "colors": "Diamond Grey",
+        "colors": [
+          "Diamond Grey",
+          "Magnet Black",
+          "Turquoise Cyan",
+          "Iris Purple"
+        ],
         "mrp": 9190,
-        "price": 8888,
+        "price": [
+          8888,
+          7899,
+          8199,
+          8140,
+          8799,
+          9135,
+          7399,
+          6999
+        ],
         "rating": 4.2,
         "review_count": 103,
         "attr_reviews": 10,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0
+        ],
         "chipset": "Unisoc T606",
         "camera_main": 13,
         "camera_front": 8,
@@ -301,14 +371,24 @@
       "brand": "TECNO",
       "model": "TECNO SPARK GO 2022",
       "attributes": {
-        "colors": "Iris Purple",
+        "colors": [
+          "Iris Purple",
+          "Atlantic Blue"
+        ],
         "mrp": 17999,
-        "price": 6990,
+        "price": [
+          6990,
+          6865,
+          6249,
+          7999
+        ],
         "rating": 4.3,
         "review_count": 818,
         "attr_reviews": 57,
         "attr_memory": 2.0,
-        "storage": 32.0,
+        "storage": [
+          32.0
+        ],
         "camera_main": 13,
         "display_size": 16.56,
         "battery_capacity": 5000.0,
@@ -345,12 +425,18 @@
       "attributes": {
         "colors": "Atlantic Blue",
         "mrp": 9850,
-        "price": 9499,
+        "price": [
+          9499,
+          7999,
+          8490
+        ],
         "rating": 4.2,
         "review_count": 425,
         "attr_reviews": 39,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0
+        ],
         "chipset": "MediaTek Helio G35",
         "camera_main": 50,
         "camera_front": 8,
@@ -386,12 +472,17 @@
       "attributes": {
         "colors": "Ice Blue",
         "mrp": 10999,
-        "price": 7299,
+        "price": [
+          7299,
+          4949
+        ],
         "rating": 4.2,
         "review_count": 422,
         "attr_reviews": 33,
         "attr_memory": 3.0,
-        "storage": 32.0,
+        "storage": [
+          32.0
+        ],
         "chipset": "Helio A22",
         "camera_main": 8,
         "camera_front": 5,
@@ -411,14 +502,23 @@
       "brand": "TECNO",
       "model": "TECNO POVA NEO",
       "attributes": {
-        "colors": "Geek Blue",
+        "colors": [
+          "Geek Blue",
+          "Obsidian Black"
+        ],
         "mrp": 15499,
-        "price": 10247,
+        "price": [
+          10247,
+          10790,
+          10949
+        ],
         "rating": 4.1,
         "review_count": 738,
         "attr_reviews": 56,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "Helio G25",
         "camera_main": 13,
         "camera_front": 8,
@@ -443,12 +543,18 @@
       "attributes": {
         "colors": "Interstellar Black",
         "mrp": 13499,
-        "price": 9798,
+        "price": [
+          9798,
+          8799,
+          8880
+        ],
         "rating": 4.3,
         "review_count": 144,
         "attr_reviews": 14,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0
+        ],
         "camera_main": 48,
         "display_size": 17.27,
         "battery_capacity": 5000.0,
@@ -483,12 +589,17 @@
       "attributes": {
         "colors": "Iris Purple",
         "mrp": 17999,
-        "price": 9239,
+        "price": [
+          9239,
+          7399
+        ],
         "rating": 4.0,
         "review_count": 25,
         "attr_reviews": 1,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0
+        ],
         "chipset": "MediaTek Helio G85",
         "camera_main": 50,
         "camera_front": 8,
@@ -513,12 +624,17 @@
       "attributes": {
         "colors": "Horizon Orange",
         "mrp": 17999,
-        "price": 7689,
+        "price": [
+          7689,
+          6999
+        ],
         "rating": 4.2,
         "review_count": 826,
         "attr_reviews": 54,
         "attr_memory": 2.0,
-        "storage": 32.0,
+        "storage": [
+          32.0
+        ],
         "camera_main": 13,
         "display_size": 16.56,
         "battery_capacity": 5000.0,
@@ -542,12 +658,17 @@
       "attributes": {
         "colors": "Spruce Green",
         "mrp": 8999,
-        "price": 8490,
+        "price": [
+          8490,
+          7190
+        ],
         "rating": 4.2,
         "review_count": 1487,
         "attr_reviews": 89,
         "attr_memory": 2.0,
-        "storage": 32.0,
+        "storage": [
+          32.0
+        ],
         "chipset": "Helio A25",
         "camera_main": 16,
         "camera_front": 8,
@@ -1453,7 +1574,10 @@
       "brand": "tecno",
       "model": "Tecno Camon 18",
       "attributes": {
-        "price": 11499,
+        "price": [
+          11499,
+          8999
+        ],
         "rating": 7.5,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -1488,7 +1612,10 @@
       "brand": "tecno",
       "model": "Tecno Camon 19 Neo",
       "attributes": {
-        "price": 14999,
+        "price": [
+          14999,
+          11849
+        ],
         "rating": 7.7,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -1523,7 +1650,9 @@
       "brand": "tecno",
       "model": "Tecno Camon 19 Pro",
       "attributes": {
-        "price": 17990,
+        "price": [
+          17990
+        ],
         "rating": 8.1,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -1552,7 +1681,10 @@
       "brand": "tecno",
       "model": "Tecno Camon 19 Pro 5G",
       "attributes": {
-        "price": 21999,
+        "price": [
+          21999,
+          15999
+        ],
         "rating": 8.2,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -1587,7 +1719,9 @@
       "brand": "tecno",
       "model": "Tecno Camon 19 Pro Mondrian Edition",
       "attributes": {
-        "price": 17999,
+        "price": [
+          17999
+        ],
         "rating": 8.4,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -1617,7 +1751,10 @@
       "brand": "tecno",
       "model": "Tecno Camon 20 Premier",
       "attributes": {
-        "price": 20999,
+        "price": [
+          20999,
+          24999
+        ],
         "rating": 7.9,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -1652,7 +1789,10 @@
       "brand": "tecno",
       "model": "Tecno Phantom X",
       "attributes": {
-        "price": 25999,
+        "price": [
+          25999,
+          21999
+        ],
         "rating": 8.4,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -1687,7 +1827,9 @@
       "brand": "tecno",
       "model": "Tecno Phantom X Pro",
       "attributes": {
-        "price": 22999,
+        "price": [
+          22999
+        ],
         "rating": 8.4,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -1716,7 +1858,10 @@
       "brand": "tecno",
       "model": "Tecno Phantom X2",
       "attributes": {
-        "price": 39999,
+        "price": [
+          39999,
+          23999
+        ],
         "rating": 8.5,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -1751,7 +1896,10 @@
       "brand": "tecno",
       "model": "Tecno Phantom X2 Pro",
       "attributes": {
-        "price": 49999,
+        "price": [
+          49999,
+          23999
+        ],
         "rating": 8.9,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -1786,7 +1934,9 @@
       "brand": "tecno",
       "model": "Tecno Pop 5 Go",
       "attributes": {
-        "price": 6999,
+        "price": [
+          6999
+        ],
         "attr_5g or not": 0,
         "attr_processor brand": "spreadtrum",
         "attr_num cores": 4.0,
@@ -1813,7 +1963,10 @@
       "brand": "tecno",
       "model": "Tecno Pova 2",
       "attributes": {
-        "price": 10999,
+        "price": [
+          10999,
+          8819
+        ],
         "rating": 7.4,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -1849,7 +2002,9 @@
       "brand": "tecno",
       "model": "Tecno Pova 3 (6GB RAM + 128GB)",
       "attributes": {
-        "price": 13799,
+        "price": [
+          13799
+        ],
         "rating": 7.7,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -1879,7 +2034,10 @@
       "brand": "tecno",
       "model": "Tecno Pova 4",
       "attributes": {
-        "price": 11999,
+        "price": [
+          11999,
+          9099
+        ],
         "rating": 7.3,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -1915,7 +2073,9 @@
       "brand": "tecno",
       "model": "Tecno Pova 4 Pro",
       "attributes": {
-        "price": 15999,
+        "price": [
+          15999
+        ],
         "rating": 7.4,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -1945,7 +2105,10 @@
       "brand": "tecno",
       "model": "Tecno Pova 5G",
       "attributes": {
-        "price": 15499,
+        "price": [
+          15499,
+          15999
+        ],
         "rating": 7.8,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -1981,7 +2144,9 @@
       "brand": "tecno",
       "model": "Tecno Pova Neo 2",
       "attributes": {
-        "price": 13990,
+        "price": [
+          13990
+        ],
         "rating": 6.7,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -2010,7 +2175,10 @@
       "brand": "tecno",
       "model": "Tecno Pova Neo 5G",
       "attributes": {
-        "price": 15499,
+        "price": [
+          15499,
+          9499
+        ],
         "rating": 7.1,
         "attr_5g or not": 0,
         "attr_processor brand": "dimensity",
@@ -2046,7 +2214,9 @@
       "brand": "tecno",
       "model": "Tecno Spark 8 (4GB RAM + 64GB)",
       "attributes": {
-        "price": 8999,
+        "price": [
+          8999
+        ],
         "rating": 6.4,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -2075,7 +2245,9 @@
       "brand": "tecno",
       "model": "Tecno Spark 8C (4GB RAM + 64GB)",
       "attributes": {
-        "price": 8890,
+        "price": [
+          8890
+        ],
         "rating": 6.3,
         "attr_5g or not": 0,
         "attr_processor brand": "unisoc",
@@ -2104,7 +2276,9 @@
       "brand": "tecno",
       "model": "Tecno Spark 9 (3GB RAM + 64GB)",
       "attributes": {
-        "price": 8390,
+        "price": [
+          8390
+        ],
         "rating": 6.3,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -2133,7 +2307,9 @@
       "brand": "tecno",
       "model": "Tecno Spark 9 (4GB RAM + 64GB)",
       "attributes": {
-        "price": 7999,
+        "price": [
+          7999
+        ],
         "rating": 6.5,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -2162,7 +2338,9 @@
       "brand": "tecno",
       "model": "Tecno Spark 9 Pro",
       "attributes": {
-        "price": 9999,
+        "price": [
+          9999
+        ],
         "rating": 7.4,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -2191,7 +2369,10 @@
       "brand": "tecno",
       "model": "Tecno Spark 9T",
       "attributes": {
-        "price": 8968,
+        "price": [
+          8968,
+          8999
+        ],
         "rating": 7.2,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -2226,7 +2407,9 @@
       "brand": "tecno",
       "model": "Tecno Spark Go 2023",
       "attributes": {
-        "price": 6999,
+        "price": [
+          6999
+        ],
         "rating": 6.2,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",

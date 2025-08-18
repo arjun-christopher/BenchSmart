@@ -57,7 +57,9 @@
       "brand": "redmi",
       "model": "Redmi 12C",
       "attributes": {
-        "price": 7999,
+        "price": [
+          7999
+        ],
         "rating": 7.0,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -86,7 +88,9 @@
       "brand": "redmi",
       "model": "Redmi Note 11 Pro 2023",
       "attributes": {
-        "price": 18999,
+        "price": [
+          18999
+        ],
         "rating": 8.1,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -116,7 +120,9 @@
       "brand": "redmi",
       "model": "Redmi Note 12 Pro Speed Edition",
       "attributes": {
-        "price": 19999,
+        "price": [
+          19999
+        ],
         "rating": 8.1,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",

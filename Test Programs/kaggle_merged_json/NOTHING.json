@@ -7,7 +7,12 @@
       "model": "NOTHING PHONE",
       "attributes": {
         "mrp": 42999,
-        "price": 35999,
+        "price": [
+          35999,
+          28499,
+          27999,
+          26999
+        ],
         "rating": 4.3,
         "review_count": 6616,
         "attr_reviews": 753,
@@ -110,7 +115,9 @@
       "brand": "nothing",
       "model": "Nothing Phone 1",
       "attributes": {
-        "price": 26749,
+        "price": [
+          26749
+        ],
         "rating": 8.5,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -139,7 +146,9 @@
       "brand": "nothing",
       "model": "Nothing Phone 1 (12GB RAM + 256GB)",
       "attributes": {
-        "price": 35999,
+        "price": [
+          35999
+        ],
         "rating": 8.7,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -168,7 +177,9 @@
       "brand": "nothing",
       "model": "Nothing Phone 1 (8GB RAM + 256GB)",
       "attributes": {
-        "price": 28249,
+        "price": [
+          28249
+        ],
         "rating": 8.6,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -197,7 +208,9 @@
       "brand": "nothing",
       "model": "Nothing Phone 1 Lite",
       "attributes": {
-        "price": 24990,
+        "price": [
+          24990
+        ],
         "rating": 8.0,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -226,7 +239,9 @@
       "brand": "nothing",
       "model": "Nothing Phone 2",
       "attributes": {
-        "price": 39990,
+        "price": [
+          39990
+        ],
         "rating": 8.8,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",

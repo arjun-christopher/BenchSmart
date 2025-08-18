@@ -624,7 +624,9 @@
       "brand": "doogee",
       "model": "Doogee S99",
       "attributes": {
-        "price": 14999,
+        "price": [
+          14999
+        ],
         "rating": 8.4,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -654,7 +656,9 @@
       "brand": "doogee",
       "model": "Doogee V Max",
       "attributes": {
-        "price": 45999,
+        "price": [
+          45999
+        ],
         "rating": 8.8,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",

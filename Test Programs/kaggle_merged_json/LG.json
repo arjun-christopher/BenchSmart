@@ -11,7 +11,10 @@
         "attr_camera specs front": 32,
         "display_size": 6.8,
         "attr_ram of phone": 8,
-        "storage": 128,
+        "storage": [
+          128,
+          " microSDXC"
+        ],
         "battery_capacity": 4000,
         "os": "Android v10 (Q) OS",
         "attr_real price available": 37990,
@@ -469,7 +472,9 @@
       "brand": "lg",
       "model": "LG V60 ThinQ",
       "attributes": {
-        "price": 79990,
+        "price": [
+          79990
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
@@ -495,7 +500,9 @@
       "brand": "lg",
       "model": "LG Velvet 5G",
       "attributes": {
-        "price": 54999,
+        "price": [
+          54999
+        ],
         "rating": 8.5,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -524,7 +531,9 @@
       "brand": "lg",
       "model": "LG Wing 5G",
       "attributes": {
-        "price": 54999,
+        "price": [
+          54999
+        ],
         "rating": 8.9,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",

@@ -11,7 +11,10 @@
         "attr_camera specs front": 12,
         "display_size": 6.1,
         "attr_ram of phone": 6,
-        "storage": 128,
+        "storage": [
+          128,
+          " not expandable"
+        ],
         "battery_capacity": 3095,
         "os": "iOS v15 OS",
         "attr_first site": "Flipkart",
@@ -20,8 +23,19 @@
         "attr_price in second site": "₹119,900 ❯",
         "attr_real price available": 119900,
         "attr_score by smartprice": 8.2,
-        "price": "₹1,19,900",
-        "rating": 83.0,
+        "colors": [
+          "Blue",
+          "Green"
+        ],
+        "attr_ram random processing memory": 128,
+        "price": [
+          "₹1,04,900",
+          "₹1,14,900",
+          "₹1,19,900"
+        ],
+        "rating": 4.7,
+        "review_count": 755,
+        "url": "https://www.amazon.in//Apple-iPhone-13-Pro-128GB/dp/B09G99YPQM/ref=sr_1_10?keywords=iphone&qid=1659796552&sr=8-10",
         "sim": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",
         "chipset": "Bionic A15, Hexa Core, 3.22 GHz Processor",
         "ram": 6,
@@ -45,7 +59,10 @@
         "attr_camera specs front": 12,
         "display_size": 6.7,
         "attr_ram of phone": 6,
-        "storage": 128,
+        "storage": [
+          128,
+          " not expandable"
+        ],
         "battery_capacity": 4352,
         "os": "iOS v15 OS",
         "attr_first site": "Flipkart",
@@ -54,8 +71,17 @@
         "attr_price in second site": "₹129,900 ❯",
         "attr_real price available": 129900,
         "attr_score by smartprice": 8.3,
-        "price": "₹1,29,900",
-        "rating": 84.0,
+        "colors": [
+          "Blue"
+        ],
+        "attr_ram random processing memory": 256,
+        "price": [
+          "₹1,25,900",
+          "₹1,29,900"
+        ],
+        "rating": 4.7,
+        "review_count": 923,
+        "url": "https://www.amazon.in//Apple-iPhone-Pro-Max-256GB/dp/B09G91FCBT/ref=sr_1_9?keywords=iphone&qid=1659796552&sr=8-9",
         "sim": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",
         "chipset": "Bionic A15, Hexa Core, 3.22 GHz Processor",
         "ram": 6,
@@ -184,7 +210,10 @@
         "attr_camera specs front": 12,
         "display_size": 6.1,
         "attr_ram of phone": 4,
-        "storage": 64,
+        "storage": [
+          64,
+          " not expandable"
+        ],
         "battery_capacity": 2815,
         "os": "iOS v14 OS",
         "attr_first site": "Flipkart",
@@ -193,8 +222,18 @@
         "attr_price in second site": "₹54,900 ❯",
         "attr_real price available": 54900,
         "attr_score by smartprice": 8.7,
-        "price": "₹51,999",
-        "rating": 74.0,
+        "colors": [
+          "Purple",
+          "White"
+        ],
+        "attr_ram random processing memory": 128,
+        "price": [
+          "₹60,900",
+          "₹51,999"
+        ],
+        "rating": 4.6,
+        "review_count": 10032,
+        "url": "https://www.amazon.in//New-Apple-iPhone-12-128GB/dp/B0932MD32V/ref=sr_1_8?keywords=iphone&qid=1659796552&sr=8-8",
         "sim": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",
         "chipset": "Bionic A14, Hexa Core, 3.1 GHz Processor",
         "ram": 4,
@@ -239,7 +278,10 @@
         "attr_camera specs front": 12,
         "display_size": 5.4,
         "attr_ram of phone": 4,
-        "storage": 128,
+        "storage": [
+          128,
+          " not expandable"
+        ],
         "battery_capacity": 2406,
         "os": "iOS v15 OS",
         "attr_first site": "Flipkart",
@@ -273,7 +315,10 @@
         "attr_camera specs front": 12,
         "display_size": 6.1,
         "attr_ram of phone": 4,
-        "storage": 128,
+        "storage": [
+          128,
+          " not expandable"
+        ],
         "battery_capacity": 3227,
         "os": "iOS v15 OS",
         "attr_first site": "Flipkart",
@@ -282,8 +327,24 @@
         "attr_price in second site": "₹73,900 ❯",
         "attr_real price available": 73900,
         "attr_score by smartprice": 7.8,
-        "price": "₹62,999",
-        "rating": 79.0,
+        "colors": [
+          "Blue",
+          "Midnight",
+          "Starlight",
+          "Green",
+          "Red",
+          "Pink"
+        ],
+        "attr_ram random processing memory": 128,
+        "price": [
+          "₹68,900",
+          "₹69,900",
+          "₹76,900",
+          "₹62,999"
+        ],
+        "rating": 4.6,
+        "review_count": 6824,
+        "url": "https://www.amazon.in//Apple-iPhone-13-128GB-Blue/dp/B09G9BL5CP/ref=sr_1_3?keywords=iphone&qid=1659796552&sr=8-3",
         "sim": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",
         "chipset": "Bionic A15, Hexa Core, 3.22 GHz Processor",
         "ram": 4,
@@ -454,15 +515,27 @@
         "attr_camera specs front": 12,
         "display_size": 5.4,
         "attr_ram of phone": 4,
-        "storage": 64,
+        "storage": [
+          64,
+          " not expandable"
+        ],
         "battery_capacity": 2227,
         "os": "iOS v14 OS",
         "attr_second site": "Amazon",
         "attr_price in second site": "₹52,900 ❯",
         "attr_real price available": 41999,
         "attr_score by smartprice": 7.8,
-        "price": "₹40,999",
-        "rating": 74.0,
+        "colors": [
+          "Blue"
+        ],
+        "attr_ram random processing memory": 128,
+        "price": [
+          "₹64,900",
+          "₹40,999"
+        ],
+        "rating": 4.5,
+        "review_count": 5804,
+        "url": "https://www.amazon.in//New-Apple-iPhone-Mini-128GB/dp/B08L5VN68Y/ref=sr_1_18?keywords=iphone&qid=1659796960&sr=8-18",
         "sim": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",
         "chipset": "Bionic A14, Hexa Core, 3.1 GHz Processor",
         "ram": 4,
@@ -578,7 +651,10 @@
         "attr_camera specs front": 12,
         "display_size": 6.7,
         "attr_ram of phone": 6,
-        "storage": 128,
+        "storage": [
+          128,
+          " not expandable"
+        ],
         "battery_capacity": 3687,
         "os": "iOS v14 OS",
         "attr_real price available": 119900,
@@ -615,13 +691,29 @@
       "brand": "APPLE",
       "model": "APPLE IPHONE 11",
       "attributes": {
-        "colors": "White",
+        "colors": [
+          "White",
+          "Black",
+          "Red",
+          "Yellow"
+        ],
         "mrp": 48900,
-        "price": 47199,
+        "price": [
+          47199,
+          40999,
+          47999,
+          41999,
+          42999,
+          38999,
+          43900
+        ],
         "rating": 4.6,
         "review_count": 184191,
         "attr_reviews": 10818,
-        "storage": 128.0,
+        "storage": [
+          128.0,
+          64.0
+        ],
         "chipset": "A Bionic Chip",
         "camera_main": 12,
         "camera_front": 12,
@@ -655,13 +747,28 @@
       "brand": "APPLE",
       "model": "APPLE IPHONE 14",
       "attributes": {
-        "colors": "Midnight",
+        "colors": [
+          "Midnight",
+          "Starlight",
+          "Purple",
+          "Blue"
+        ],
         "mrp": 79900,
-        "price": 71999,
+        "price": [
+          71999,
+          81999,
+          101999,
+          65999,
+          54400
+        ],
         "rating": 4.7,
         "review_count": 16010,
         "attr_reviews": 686,
-        "storage": 128.0,
+        "storage": [
+          128.0,
+          256.0,
+          512.0
+        ],
         "chipset": "A Bionic Chip,  Core",
         "camera_main": 12,
         "camera_front": 12,
@@ -695,13 +802,28 @@
       "brand": "APPLE",
       "model": "APPLE IPHONE 12",
       "attributes": {
-        "colors": "Black",
+        "colors": [
+          "Black",
+          "Purple",
+          "Blue",
+          "Red",
+          "Green"
+        ],
         "mrp": 64900,
-        "price": 56999,
+        "price": [
+          56999,
+          51999,
+          66999,
+          48900
+        ],
         "rating": 4.6,
         "review_count": 186979,
         "attr_reviews": 12739,
-        "storage": 128.0,
+        "storage": [
+          128.0,
+          64.0,
+          256.0
+        ],
         "chipset": "A Bionic Chip with Next Generation Neural Engine",
         "camera_main": 12,
         "camera_front": 12,
@@ -735,13 +857,28 @@
       "brand": "APPLE",
       "model": "APPLE IPHONE 13",
       "attributes": {
-        "colors": "Pink",
+        "colors": [
+          "Pink",
+          "Blue",
+          "Starlight",
+          "Midnight"
+        ],
         "mrp": 69900,
-        "price": 61999,
+        "price": [
+          61999,
+          71999,
+          87999,
+          62999,
+          43499
+        ],
         "rating": 4.7,
         "review_count": 190651,
         "attr_reviews": 10468,
-        "storage": 128.0,
+        "storage": [
+          128.0,
+          256.0,
+          512.0
+        ],
         "chipset": "A Bionic Chip",
         "camera_main": 12,
         "camera_front": 12,
@@ -775,13 +912,28 @@
       "brand": "APPLE",
       "model": "APPLE IPHONE 14 PLUS",
       "attributes": {
-        "colors": "Midnight",
+        "colors": [
+          "Midnight",
+          "Purple",
+          "Starlight",
+          "Blue"
+        ],
         "mrp": 89900,
-        "price": 80999,
+        "price": [
+          80999,
+          90999,
+          110999,
+          74999,
+          69900
+        ],
         "rating": 4.7,
         "review_count": 4110,
         "attr_reviews": 294,
-        "storage": 128.0,
+        "storage": [
+          128.0,
+          256.0,
+          512.0
+        ],
         "chipset": "A Bionic Chip,  Core",
         "camera_main": 12,
         "camera_front": 12,
@@ -815,13 +967,27 @@
       "brand": "APPLE",
       "model": "APPLE IPHONE 14 PRO",
       "attributes": {
-        "colors": "Space Black",
+        "colors": [
+          "Space Black",
+          "Gold",
+          "Deep Purple"
+        ],
         "mrp": 159900,
-        "price": 152999,
+        "price": [
+          152999,
+          122999,
+          132999,
+          119990,
+          99999
+        ],
         "rating": 4.7,
         "review_count": 756,
         "attr_reviews": 63,
-        "storage": 512.0,
+        "storage": [
+          512.0,
+          128.0,
+          256.0
+        ],
         "chipset": "A Bionic Chip,  Core",
         "camera_main": 48,
         "camera_front": 12,
@@ -854,13 +1020,23 @@
       "brand": "APPLE",
       "model": "APPLE IPHONE 14 PRO MAX",
       "attributes": {
-        "colors": "Gold",
+        "colors": [
+          "Gold",
+          "Space Black",
+          "Deep Purple",
+          "Silver"
+        ],
         "mrp": 139900,
-        "price": 127999,
+        "price": [
+          127999,
+          129990
+        ],
         "rating": 4.7,
         "review_count": 769,
         "attr_reviews": 65,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "A Bionic Chip,  Core",
         "camera_main": 48,
         "camera_front": 12,
@@ -893,13 +1069,24 @@
       "brand": "APPLE",
       "model": "APPLE IPHONE 12 MINI",
       "attributes": {
-        "colors": "Red",
+        "colors": [
+          "Red",
+          "Black",
+          "Blue"
+        ],
         "mrp": 74900,
-        "price": 55999,
+        "price": [
+          55999,
+          40999,
+          59900
+        ],
         "rating": 4.5,
         "review_count": 125841,
         "attr_reviews": 10101,
-        "storage": 256.0,
+        "storage": [
+          256.0,
+          64.0
+        ],
         "chipset": "A Bionic Chip with Next Generation Neural Engine",
         "camera_main": 12,
         "camera_front": 12,
@@ -935,11 +1122,18 @@
       "attributes": {
         "colors": "Silver",
         "mrp": 149900,
-        "price": 122999,
+        "price": [
+          122999,
+          119900,
+          99900
+        ],
         "rating": 4.6,
         "review_count": 1421,
         "attr_reviews": 121,
-        "storage": 512.0,
+        "storage": [
+          512.0,
+          128.0
+        ],
         "chipset": "A Bionic Chip",
         "camera_main": 12,
         "camera_front": 12,
@@ -966,6 +1160,92 @@
         "attr_num core": 6.0,
         "attr_primery rear camera": 12.0,
         "display_type": "oled display"
+      }
+    },
+    "58ccdb22-a80e-514d-94e0-9b12dd759f6b": {
+      "id": "58ccdb22-a80e-514d-94e0-9b12dd759f6b",
+      "brand": "Apple",
+      "model": "iPhone 11",
+      "attributes": {
+        "colors": [
+          "Yellow"
+        ],
+        "attr_ram random processing memory": 128,
+        "price": [
+          "₹49,900",
+          "₹38,999"
+        ],
+        "rating": 4.5,
+        "review_count": 259,
+        "url": "https://www.amazon.in//gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A04889691RBMHNM4Y3XHJ&url=%2FNew-Apple-iPhone-11-128GB%2Fdp%2FB08L8BST4Q%2Fref%3Dsr_1_1_sspa%3Fkeywords%3Diphone%26qid%3D1659796552%26sr%3D8-1-spons%26psc%3D1&qualifier=1659796552&id=1903894646793586&widgetName=sp_atf",
+        "sim": "Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",
+        "chipset": "A13 Bionic, Hexa Core, 2.65 GHz Processor",
+        "ram": 4,
+        "battery_capacity": 3110,
+        "display_size": 6.1,
+        "camera_main": 12,
+        "attr_card": "Memory Card Not Supported",
+        "os": "iOS v13",
+        "release_date": "Sep 20, 2019",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " not expandable",
+        "attr_display resolution": 1792,
+        "camera_front": 12
+      }
+    },
+    "848a4f07-9c30-54b6-844c-7f1a3fee55c8": {
+      "id": "848a4f07-9c30-54b6-844c-7f1a3fee55c8",
+      "brand": "Apple",
+      "model": "iPhone XR",
+      "attributes": {
+        "colors": [
+          "Coral"
+        ],
+        "attr_ram random processing memory": 128,
+        "price": [
+          "₹42,999"
+        ],
+        "rating": 4.5,
+        "review_count": 7599,
+        "url": "https://www.amazon.in//gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A04779771QPHJE3H9EBW8&url=%2FNew-Apple-iPhone-XR-128GB%2Fdp%2FB08L8CPQH7%2Fref%3Dsr_1_2_sspa%3Fkeywords%3Diphone%26qid%3D1659796552%26sr%3D8-2-spons%26psc%3D1&qualifier=1659796552&id=1903894646793586&widgetName=sp_atf",
+        "os": "iOS 15.x",
+        "release_date": "Oct 26, 2018",
+        "battery_capacity": 2942.0,
+        "chipset": "Apple A12 Bionic",
+        "attr_memory": 3.0,
+        "attr_primary storage": 64.0,
+        "storage": " not expandable",
+        "display_size": 6.1,
+        "attr_display resolution": 1792,
+        "camera_main": 12.0,
+        "camera_front": 7
+      }
+    },
+    "2827304a-9515-583b-a8fd-e5786a0d074d": {
+      "id": "2827304a-9515-583b-a8fd-e5786a0d074d",
+      "brand": "Apple",
+      "model": "iPhone SE",
+      "attributes": {
+        "colors": [
+          "Red"
+        ],
+        "attr_ram random processing memory": 256,
+        "price": [
+          "₹47,990"
+        ],
+        "rating": 4.2,
+        "review_count": 163,
+        "url": "https://www.amazon.in//Apple-iPhone-SE-128-Generation/dp/B09V4843MY/ref=sr_1_17?keywords=iphone&qid=1659796552&sr=8-17",
+        "os": "iOS 14.x",
+        "release_date": "Mar 31, 2016",
+        "battery_capacity": 1624.0,
+        "attr_primary storage": 128.0,
+        "storage": " not expandable",
+        "display_size": 4.0,
+        "attr_display resolution": 1136,
+        "camera_main": 12.0,
+        "camera_front": 1.2
       }
     },
     "1a4ab3e2-56b6-5080-8b19-6fe13c83c01f": {
@@ -2642,29 +2922,6 @@
         "refresh_rate": 120.0
       }
     },
-    "58ccdb22-a80e-514d-94e0-9b12dd759f6b": {
-      "id": "58ccdb22-a80e-514d-94e0-9b12dd759f6b",
-      "brand": "Apple",
-      "model": "iPhone 11",
-      "attributes": {
-        "price": "₹38,999",
-        "rating": 73.0,
-        "sim": "Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",
-        "chipset": "A13 Bionic, Hexa Core, 2.65 GHz Processor",
-        "ram": 4,
-        "battery_capacity": 3110,
-        "display_size": 6.1,
-        "camera_main": 12,
-        "attr_card": "Memory Card Not Supported",
-        "os": "iOS v13",
-        "release_date": "Sep 20, 2019",
-        "attr_memory": 4.0,
-        "attr_primary storage": 64.0,
-        "storage": " not expandable",
-        "attr_display resolution": 1792,
-        "camera_front": 12
-      }
-    },
     "e564ea64-b136-50c1-8a64-18306e02404d": {
       "id": "e564ea64-b136-50c1-8a64-18306e02404d",
       "brand": "Apple",
@@ -3329,7 +3586,9 @@
       "brand": "apple",
       "model": "Apple iPhone 11 (128GB)",
       "attributes": {
-        "price": 46999,
+        "price": [
+          46999
+        ],
         "rating": 7.5,
         "attr_5g or not": 0,
         "attr_processor brand": "bionic",
@@ -3357,7 +3616,10 @@
       "brand": "apple",
       "model": "Apple iPhone 11 Pro Max",
       "attributes": {
-        "price": 109900,
+        "price": [
+          109900,
+          87900
+        ],
         "rating": 7.7,
         "attr_5g or not": 0,
         "attr_processor brand": "bionic",
@@ -3392,7 +3654,9 @@
       "brand": "apple",
       "model": "Apple iPhone 12 (128GB)",
       "attributes": {
-        "price": 55999,
+        "price": [
+          55999
+        ],
         "rating": 7.5,
         "attr_5g or not": 1,
         "attr_processor brand": "bionic",
@@ -3419,7 +3683,9 @@
       "brand": "apple",
       "model": "Apple iPhone 12 (256GB)",
       "attributes": {
-        "price": 67999,
+        "price": [
+          67999
+        ],
         "rating": 7.6,
         "attr_5g or not": 1,
         "attr_processor brand": "bionic",
@@ -3446,7 +3712,9 @@
       "brand": "apple",
       "model": "Apple iPhone 12 Mini (128GB)",
       "attributes": {
-        "price": 45999,
+        "price": [
+          45999
+        ],
         "rating": 7.5,
         "attr_5g or not": 1,
         "attr_processor brand": "bionic",
@@ -3473,7 +3741,9 @@
       "brand": "apple",
       "model": "Apple iPhone 12 Mini (256GB)",
       "attributes": {
-        "price": 55999,
+        "price": [
+          55999
+        ],
         "rating": 7.5,
         "attr_5g or not": 1,
         "attr_processor brand": "bionic",
@@ -3500,7 +3770,9 @@
       "brand": "apple",
       "model": "Apple iPhone 12 Pro (256GB)",
       "attributes": {
-        "price": 119900,
+        "price": [
+          119900
+        ],
         "rating": 8.0,
         "attr_5g or not": 1,
         "attr_processor brand": "bionic",
@@ -3527,7 +3799,9 @@
       "brand": "apple",
       "model": "Apple iPhone 12 Pro (512GB)",
       "attributes": {
-        "price": 139900,
+        "price": [
+          139900
+        ],
         "rating": 8.0,
         "attr_5g or not": 1,
         "attr_processor brand": "bionic",
@@ -3554,7 +3828,9 @@
       "brand": "apple",
       "model": "Apple iPhone 13 (256GB)",
       "attributes": {
-        "price": 72999,
+        "price": [
+          72999
+        ],
         "rating": 7.9,
         "attr_5g or not": 1,
         "attr_processor brand": "bionic",
@@ -3582,7 +3858,9 @@
       "brand": "apple",
       "model": "Apple iPhone 13 (512GB)",
       "attributes": {
-        "price": 91999,
+        "price": [
+          91999
+        ],
         "rating": 8.0,
         "attr_5g or not": 1,
         "attr_processor brand": "bionic",
@@ -3610,7 +3888,10 @@
       "brand": "apple",
       "model": "Apple iPhone 13 Mini",
       "attributes": {
-        "price": 64900,
+        "price": [
+          64900,
+          58490
+        ],
         "rating": 7.9,
         "attr_5g or not": 1,
         "attr_processor brand": "bionic",
@@ -3645,7 +3926,9 @@
       "brand": "apple",
       "model": "Apple iPhone 13 Pro (1TB)",
       "attributes": {
-        "price": 147900,
+        "price": [
+          147900
+        ],
         "rating": 8.4,
         "attr_5g or not": 1,
         "attr_processor brand": "bionic",
@@ -3673,7 +3956,9 @@
       "brand": "apple",
       "model": "Apple iPhone 13 Pro (256GB)",
       "attributes": {
-        "price": 129900,
+        "price": [
+          129900
+        ],
         "rating": 8.3,
         "attr_5g or not": 1,
         "attr_processor brand": "bionic",
@@ -3701,7 +3986,10 @@
       "brand": "apple",
       "model": "Apple iPhone 13 Pro Max",
       "attributes": {
-        "price": 129900,
+        "price": [
+          129900,
+          99900
+        ],
         "rating": 8.4,
         "attr_5g or not": 1,
         "attr_processor brand": "bionic",
@@ -3736,7 +4024,9 @@
       "brand": "apple",
       "model": "Apple iPhone 13 Pro Max (1TB)",
       "attributes": {
-        "price": 179900,
+        "price": [
+          179900
+        ],
         "rating": 8.6,
         "attr_5g or not": 1,
         "attr_processor brand": "bionic",
@@ -3764,7 +4054,9 @@
       "brand": "apple",
       "model": "Apple iPhone 13 Pro Max (256GB)",
       "attributes": {
-        "price": 139900,
+        "price": [
+          139900
+        ],
         "rating": 8.4,
         "attr_5g or not": 1,
         "attr_processor brand": "bionic",
@@ -3792,7 +4084,9 @@
       "brand": "apple",
       "model": "Apple iPhone 14 (256GB)",
       "attributes": {
-        "price": 75999,
+        "price": [
+          75999
+        ],
         "rating": 8.2,
         "attr_5g or not": 1,
         "attr_processor brand": "bionic",
@@ -3820,7 +4114,9 @@
       "brand": "apple",
       "model": "Apple iPhone 14 (512GB)",
       "attributes": {
-        "price": 95999,
+        "price": [
+          95999
+        ],
         "rating": 8.2,
         "attr_5g or not": 1,
         "attr_processor brand": "bionic",
@@ -3848,7 +4144,9 @@
       "brand": "apple",
       "model": "Apple iPhone 14 Mini",
       "attributes": {
-        "price": 69990,
+        "price": [
+          69990
+        ],
         "rating": 7.0,
         "attr_5g or not": 0,
         "attr_processor brand": "bionic",
@@ -3874,7 +4172,9 @@
       "brand": "apple",
       "model": "Apple iPhone 14 Plus (256GB)",
       "attributes": {
-        "price": 84999,
+        "price": [
+          84999
+        ],
         "rating": 8.3,
         "attr_5g or not": 1,
         "attr_processor brand": "bionic",
@@ -3902,7 +4202,9 @@
       "brand": "apple",
       "model": "Apple iPhone 14 Plus (512GB)",
       "attributes": {
-        "price": 104999,
+        "price": [
+          104999
+        ],
         "rating": 8.3,
         "attr_5g or not": 1,
         "attr_processor brand": "bionic",
@@ -3930,7 +4232,9 @@
       "brand": "apple",
       "model": "Apple iPhone 14 Pro (1TB)",
       "attributes": {
-        "price": 172999,
+        "price": [
+          172999
+        ],
         "rating": 7.7,
         "attr_5g or not": 1,
         "attr_processor brand": "bionic",
@@ -3957,7 +4261,9 @@
       "brand": "apple",
       "model": "Apple iPhone 14 Pro (256GB)",
       "attributes": {
-        "price": 129990,
+        "price": [
+          129990
+        ],
         "rating": 7.6,
         "attr_5g or not": 1,
         "attr_processor brand": "bionic",
@@ -3984,7 +4290,9 @@
       "brand": "apple",
       "model": "Apple iPhone 14 Pro Max (1TB)",
       "attributes": {
-        "price": 182999,
+        "price": [
+          182999
+        ],
         "rating": 7.8,
         "attr_5g or not": 1,
         "attr_processor brand": "bionic",
@@ -4011,7 +4319,9 @@
       "brand": "apple",
       "model": "Apple iPhone 14 Pro Max (256GB)",
       "attributes": {
-        "price": 139990,
+        "price": [
+          139990
+        ],
         "rating": 7.7,
         "attr_5g or not": 1,
         "attr_processor brand": "bionic",
@@ -4038,7 +4348,9 @@
       "brand": "apple",
       "model": "Apple iPhone 14 Pro Max (512GB)",
       "attributes": {
-        "price": 169900,
+        "price": [
+          169900
+        ],
         "rating": 7.8,
         "attr_5g or not": 1,
         "attr_processor brand": "bionic",
@@ -4065,7 +4377,10 @@
       "brand": "apple",
       "model": "Apple iPhone 15",
       "attributes": {
-        "price": 82990,
+        "price": [
+          82990,
+          61499
+        ],
         "rating": 7.2,
         "attr_5g or not": 0,
         "attr_processor brand": "bionic",
@@ -4098,7 +4413,10 @@
       "brand": "apple",
       "model": "Apple iPhone 15 Plus",
       "attributes": {
-        "price": 84990,
+        "price": [
+          84990,
+          69900
+        ],
         "rating": 7.5,
         "attr_5g or not": 1,
         "attr_processor brand": "bionic",
@@ -4132,7 +4450,10 @@
       "brand": "apple",
       "model": "Apple iPhone 15 Pro",
       "attributes": {
-        "price": 130990,
+        "price": [
+          130990,
+          109900
+        ],
         "rating": 7.5,
         "attr_5g or not": 1,
         "attr_processor brand": "bionic",
@@ -4165,7 +4486,10 @@
       "brand": "apple",
       "model": "Apple iPhone 15 Pro Max",
       "attributes": {
-        "price": 142990,
+        "price": [
+          142990,
+          128900
+        ],
         "rating": 7.9,
         "attr_5g or not": 1,
         "attr_processor brand": "bionic",
@@ -4198,7 +4522,9 @@
       "brand": "apple",
       "model": "Apple iPhone 15 Ultra",
       "attributes": {
-        "price": 149900,
+        "price": [
+          149900
+        ],
         "rating": 7.9,
         "attr_5g or not": 1,
         "attr_processor brand": "bionic",
@@ -4225,7 +4551,9 @@
       "brand": "apple",
       "model": "Apple iPhone 7s",
       "attributes": {
-        "price": 52990,
+        "price": [
+          52990
+        ],
         "attr_5g or not": 0,
         "attr_processor brand": "fusion",
         "attr_num cores": 4.0,
@@ -4252,7 +4580,9 @@
       "brand": "apple",
       "model": "Apple iPhone 9",
       "attributes": {
-        "price": 29990,
+        "price": [
+          29990
+        ],
         "rating": 6.1,
         "attr_5g or not": 0,
         "attr_processor brand": "bionic",
@@ -4280,7 +4610,9 @@
       "brand": "apple",
       "model": "Apple iPhone SE 2020",
       "attributes": {
-        "price": 39900,
+        "price": [
+          39900
+        ],
         "rating": 6.3,
         "attr_5g or not": 0,
         "attr_processor brand": "bionic",
@@ -4309,7 +4641,9 @@
       "brand": "apple",
       "model": "Apple iPhone SE 3 2022",
       "attributes": {
-        "price": 43900,
+        "price": [
+          43900
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "bionic",
         "attr_num cores": 6.0,
@@ -4335,7 +4669,9 @@
       "brand": "apple",
       "model": "Apple iPhone SE 4",
       "attributes": {
-        "price": 49990,
+        "price": [
+          49990
+        ],
         "rating": 6.0,
         "attr_5g or not": 1,
         "attr_processor brand": "bionic",
@@ -4362,7 +4698,9 @@
       "brand": "apple",
       "model": "Apple iPhone XR2",
       "attributes": {
-        "price": 71999,
+        "price": [
+          71999
+        ],
         "rating": 6.0,
         "attr_5g or not": 0,
         "attr_processor brand": "bionic",
@@ -7172,22 +7510,6 @@
         "camera_front": 7
       }
     },
-    "2827304a-9515-583b-a8fd-e5786a0d074d": {
-      "id": "2827304a-9515-583b-a8fd-e5786a0d074d",
-      "brand": "Apple",
-      "model": "iPhone SE",
-      "attributes": {
-        "os": "iOS 14.x",
-        "release_date": "Mar 31, 2016",
-        "battery_capacity": 1624.0,
-        "attr_primary storage": 128.0,
-        "storage": " not expandable",
-        "display_size": 4.0,
-        "attr_display resolution": 1136,
-        "camera_main": 12.0,
-        "camera_front": 1.2
-      }
-    },
     "fa22d473-5af8-5ac5-8d04-23dc72ed016a": {
       "id": "fa22d473-5af8-5ac5-8d04-23dc72ed016a",
       "brand": "Apple",
@@ -7238,24 +7560,6 @@
         "storage": " not expandable",
         "display_size": 5.8,
         "attr_display resolution": 2436,
-        "camera_main": 12.0,
-        "camera_front": 7
-      }
-    },
-    "848a4f07-9c30-54b6-844c-7f1a3fee55c8": {
-      "id": "848a4f07-9c30-54b6-844c-7f1a3fee55c8",
-      "brand": "Apple",
-      "model": "iPhone XR",
-      "attributes": {
-        "os": "iOS 15.x",
-        "release_date": "Oct 26, 2018",
-        "battery_capacity": 2942.0,
-        "chipset": "Apple A12 Bionic",
-        "attr_memory": 3.0,
-        "attr_primary storage": 64.0,
-        "storage": " not expandable",
-        "display_size": 6.1,
-        "attr_display resolution": 1792,
         "camera_main": 12.0,
         "camera_front": 7
       }

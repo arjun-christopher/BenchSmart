@@ -40,7 +40,9 @@
       "brand": "royole",
       "model": "Royole FlexPai 2",
       "attributes": {
-        "price": 109999,
+        "price": [
+          109999
+        ],
         "rating": 8.7,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -67,7 +69,9 @@
       "brand": "royole",
       "model": "Royole FlexPai 3 5G",
       "attributes": {
-        "price": 149999,
+        "price": [
+          149999
+        ],
         "rating": 8.7,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",

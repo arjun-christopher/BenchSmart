@@ -23,7 +23,9 @@
       "brand": "blu",
       "model": "BLU F91 5G",
       "attributes": {
-        "price": 14990,
+        "price": [
+          14990
+        ],
         "rating": 8.5,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",

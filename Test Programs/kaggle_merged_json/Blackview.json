@@ -632,7 +632,9 @@
       "brand": "blackview",
       "model": "Blackview BV5200 Pro",
       "attributes": {
-        "price": 8990,
+        "price": [
+          8990
+        ],
         "rating": 6.7,
         "attr_5g or not": 1,
         "attr_processor brand": "helio",

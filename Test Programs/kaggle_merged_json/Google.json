@@ -11,7 +11,10 @@
         "attr_camera specs front": 11.1,
         "display_size": 6.7,
         "attr_ram of phone": 12,
-        "storage": 128,
+        "storage": [
+          128,
+          " not expandable"
+        ],
         "battery_capacity": 5003,
         "os": "Android v12 OS",
         "attr_first site": "Flipkart",
@@ -45,7 +48,10 @@
         "attr_camera specs front": 8,
         "display_size": 6.4,
         "attr_ram of phone": 8,
-        "storage": 128,
+        "storage": [
+          128,
+          " not expandable"
+        ],
         "battery_capacity": 4614,
         "os": "Android v12 OS",
         "attr_first site": "Flipkart",
@@ -74,14 +80,22 @@
       "brand": "GOOGLE",
       "model": "GOOGLE PIXEL 6A",
       "attributes": {
-        "colors": "Chalk",
+        "colors": [
+          "Chalk",
+          "Charcoal"
+        ],
         "mrp": 43999,
-        "price": 29999,
+        "price": [
+          29999,
+          4399
+        ],
         "rating": 4.3,
         "review_count": 29306,
         "attr_reviews": 3682,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "Google Tensor",
         "camera_main": 12.2,
         "camera_front": 8,
@@ -114,14 +128,21 @@
       "brand": "GOOGLE",
       "model": "GOOGLE PIXEL 7",
       "attributes": {
-        "colors": "Lemongrass",
+        "colors": [
+          "Lemongrass",
+          "Obsidian"
+        ],
         "mrp": 59999,
-        "price": 57099,
+        "price": [
+          57099
+        ],
         "rating": 4.4,
         "review_count": 2703,
         "attr_reviews": 425,
         "attr_memory": 8.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "Google Tensor G2",
         "camera_main": 50,
         "camera_front": 10.8,
@@ -659,7 +680,10 @@
       "brand": "google",
       "model": "Google Pixel 2 XL",
       "attributes": {
-        "price": 15990,
+        "price": [
+          15990,
+          27500
+        ],
         "rating": 6.9,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -694,7 +718,10 @@
       "brand": "google",
       "model": "Google Pixel 3a XL",
       "attributes": {
-        "price": 15999,
+        "price": [
+          15999,
+          14999
+        ],
         "rating": 6.7,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -729,7 +756,9 @@
       "brand": "google",
       "model": "Google Pixel 4",
       "attributes": {
-        "price": 20120,
+        "price": [
+          20120
+        ],
         "rating": 7.8,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -757,7 +786,9 @@
       "brand": "google",
       "model": "Google Pixel 5",
       "attributes": {
-        "price": 36000,
+        "price": [
+          36000
+        ],
         "rating": 8.2,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -786,7 +817,9 @@
       "brand": "google",
       "model": "Google Pixel 5A",
       "attributes": {
-        "price": 32999,
+        "price": [
+          32999
+        ],
         "rating": 7.8,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -815,7 +848,9 @@
       "brand": "google",
       "model": "Google Pixel 6",
       "attributes": {
-        "price": 40480,
+        "price": [
+          40480
+        ],
         "rating": 8.4,
         "attr_5g or not": 1,
         "attr_processor brand": "google",
@@ -844,7 +879,9 @@
       "brand": "google",
       "model": "Google Pixel 6 Pro",
       "attributes": {
-        "price": 54300,
+        "price": [
+          54300
+        ],
         "rating": 8.9,
         "attr_5g or not": 1,
         "attr_processor brand": "google",
@@ -873,7 +910,9 @@
       "brand": "google",
       "model": "Google Pixel 6 Pro (12GB RAM + 256GB)",
       "attributes": {
-        "price": 79700,
+        "price": [
+          79700
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "google",
         "attr_num cores": 8.0,
@@ -901,7 +940,10 @@
       "brand": "google",
       "model": "Google Pixel 7 5G",
       "attributes": {
-        "price": 53100,
+        "price": [
+          53100,
+          33999
+        ],
         "rating": 8.6,
         "attr_5g or not": 1,
         "attr_processor brand": "google",
@@ -936,7 +978,10 @@
       "brand": "google",
       "model": "Google Pixel 7 Pro 5G",
       "attributes": {
-        "price": 81999,
+        "price": [
+          81999,
+          44999
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "google",
         "attr_num cores": 8.0,
@@ -970,7 +1015,10 @@
       "brand": "google",
       "model": "Google Pixel 7A",
       "attributes": {
-        "price": 34990,
+        "price": [
+          34990,
+          31999
+        ],
         "rating": 6.9,
         "attr_5g or not": 1,
         "attr_processor brand": "google",
@@ -1004,7 +1052,10 @@
       "brand": "google",
       "model": "Google Pixel 8",
       "attributes": {
-        "price": 53990,
+        "price": [
+          53990,
+          49999
+        ],
         "rating": 7.5,
         "attr_5g or not": 1,
         "attr_processor brand": "google",
@@ -1037,7 +1088,10 @@
       "brand": "google",
       "model": "Google Pixel 8 Pro",
       "attributes": {
-        "price": 70990,
+        "price": [
+          70990,
+          101999
+        ],
         "rating": 8.0,
         "attr_5g or not": 1,
         "attr_processor brand": "google",

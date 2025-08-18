@@ -55,7 +55,10 @@
       "brand": "lyf",
       "model": "Lyf Earth 1",
       "attributes": {
-        "price": 3990,
+        "price": [
+          3990,
+          11000
+        ],
         "rating": 6.0,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -90,7 +93,10 @@
       "brand": "lyf",
       "model": "Lyf Earth 2",
       "attributes": {
-        "price": 3890,
+        "price": [
+          3890,
+          4290
+        ],
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,

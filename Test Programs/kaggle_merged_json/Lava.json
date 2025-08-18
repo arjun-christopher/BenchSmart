@@ -36,12 +36,17 @@
       "attributes": {
         "colors": "Glass Orange",
         "mrp": 12999,
-        "price": 10260,
+        "price": [
+          10260,
+          8999
+        ],
         "rating": 4.4,
         "review_count": 228,
         "attr_reviews": 58,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0
+        ],
         "chipset": "Mediatek G37 Octa Core",
         "camera_main": 50,
         "camera_front": 8,
@@ -68,12 +73,17 @@
       "attributes": {
         "colors": "Stroked Blue",
         "mrp": 8449,
-        "price": 7799,
+        "price": [
+          7799,
+          6999
+        ],
         "rating": 4.1,
         "review_count": 301,
         "attr_reviews": 55,
         "attr_memory": 2.0,
-        "storage": 32.0,
+        "storage": [
+          32.0
+        ],
         "chipset": "MediaTek Helio Quad Core",
         "camera_main": 13,
         "camera_front": 8,
@@ -94,14 +104,22 @@
       "brand": "LAVA",
       "model": "LAVA Z2",
       "attributes": {
-        "colors": "Flame Red",
+        "colors": [
+          "Flame Red",
+          "Aqua Blue"
+        ],
         "mrp": 8999,
-        "price": 7999,
+        "price": [
+          7999,
+          5990
+        ],
         "rating": 4.1,
         "review_count": 333,
         "attr_reviews": 56,
         "attr_memory": 3.0,
-        "storage": 32.0,
+        "storage": [
+          32.0
+        ],
         "chipset": "MediaTek Helio G35",
         "camera_main": 13,
         "camera_front": 8,
@@ -144,12 +162,17 @@
       "attributes": {
         "colors": "ROSE PINK",
         "mrp": 7777,
-        "price": 5960,
+        "price": [
+          5960,
+          5899
+        ],
         "rating": 4.0,
         "review_count": 469,
         "attr_reviews": 53,
         "attr_memory": 2.0,
-        "storage": 32.0,
+        "storage": [
+          32.0
+        ],
         "camera_main": 13,
         "display_size": 15.44,
         "battery_capacity": 4060.0,
@@ -226,7 +249,10 @@
       "brand": "lava",
       "model": "Lava Agni 5G",
       "attributes": {
-        "price": 17990,
+        "price": [
+          17990,
+          15990
+        ],
         "rating": 8.4,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -262,7 +288,10 @@
       "brand": "lava",
       "model": "Lava Blaze 5G",
       "attributes": {
-        "price": 10999,
+        "price": [
+          10999,
+          8998
+        ],
         "rating": 7.3,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -298,7 +327,10 @@
       "brand": "lava",
       "model": "Lava Blaze NXT",
       "attributes": {
-        "price": 8999,
+        "price": [
+          8999,
+          8499
+        ],
         "rating": 6.6,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -334,7 +366,9 @@
       "brand": "lava",
       "model": "Lava X3",
       "attributes": {
-        "price": 6999,
+        "price": [
+          6999
+        ],
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
         "attr_num cores": 4.0,

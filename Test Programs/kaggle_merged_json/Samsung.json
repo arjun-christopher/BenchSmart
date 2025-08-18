@@ -11,7 +11,10 @@
         "attr_camera specs front": 10,
         "display_size": 7.6,
         "attr_ram of phone": 12,
-        "storage": 256,
+        "storage": [
+          256,
+          " not expandable"
+        ],
         "battery_capacity": 4400,
         "os": "Android v11 OS",
         "attr_first site": "Flipkart",
@@ -45,7 +48,10 @@
         "attr_camera specs front": 8,
         "display_size": 6.6,
         "attr_ram of phone": 6,
-        "storage": 128,
+        "storage": [
+          128,
+          " microSDXC"
+        ],
         "battery_capacity": 5000,
         "os": "Android v11 OS",
         "attr_first site": "Flipkart",
@@ -192,7 +198,10 @@
         "attr_camera specs front": 10,
         "display_size": 6.7,
         "attr_ram of phone": 8,
-        "storage": 128,
+        "storage": [
+          128,
+          " not expandable"
+        ],
         "battery_capacity": 3300,
         "os": "Android v11 OS",
         "attr_first site": "Flipkart",
@@ -247,7 +256,10 @@
         "attr_camera specs front": 40,
         "display_size": 6.8,
         "attr_ram of phone": 12,
-        "storage": 256,
+        "storage": [
+          256,
+          " not expandable"
+        ],
         "battery_capacity": 5000,
         "os": "Android v12 OS",
         "attr_first site": "Flipkart",
@@ -338,7 +350,10 @@
         "attr_camera specs front": 40,
         "display_size": 6.8,
         "attr_ram of phone": 12,
-        "storage": 256,
+        "storage": [
+          256,
+          " not expandable"
+        ],
         "battery_capacity": 5000,
         "os": "Android v11 OS",
         "attr_first site": "Flipkart",
@@ -371,7 +386,10 @@
         "attr_camera specs front": 13,
         "display_size": 6.4,
         "attr_ram of phone": 6,
-        "storage": 128,
+        "storage": [
+          128,
+          " microSDXC"
+        ],
         "battery_capacity": 5000,
         "os": "Android v12 OS",
         "attr_first site": "Flipkart",
@@ -454,7 +472,10 @@
         "attr_camera specs front": 10,
         "display_size": 6.2,
         "attr_ram of phone": 8,
-        "storage": 128,
+        "storage": [
+          128,
+          " not expandable"
+        ],
         "battery_capacity": 4000,
         "os": "Android v11 OS",
         "attr_first site": "Flipkart",
@@ -516,7 +537,10 @@
         "attr_camera specs front": 10,
         "display_size": 6.1,
         "attr_ram of phone": 8,
-        "storage": 128,
+        "storage": [
+          128,
+          " not expandable"
+        ],
         "battery_capacity": 3700,
         "os": "Android v12 OS",
         "attr_first site": "Flipkart",
@@ -650,7 +674,10 @@
         "attr_camera specs front": 32,
         "display_size": 6.5,
         "attr_ram of phone": 6,
-        "storage": 128,
+        "storage": [
+          128,
+          " microSDXC"
+        ],
         "battery_capacity": 5000,
         "os": "Android v12 OS",
         "attr_first site": "Flipkart",
@@ -684,7 +711,10 @@
         "attr_camera specs front": 32,
         "display_size": 6.7,
         "attr_ram of phone": 8,
-        "storage": 128,
+        "storage": [
+          128,
+          " microSDXC"
+        ],
         "battery_capacity": 5000,
         "os": "Android v12 OS",
         "attr_first site": "Flipkart",
@@ -1052,14 +1082,26 @@
       "brand": "SAMSUNG",
       "model": "SAMSUNG GALAXY F13",
       "attributes": {
-        "colors": "Waterfall Blue",
+        "colors": [
+          "Waterfall Blue",
+          "Nightsky Green",
+          "Sunrise Copper"
+        ],
         "mrp": 14999,
-        "price": 11099,
+        "price": [
+          11099,
+          12099,
+          10999,
+          9999
+        ],
         "rating": 4.4,
         "review_count": 122678,
         "attr_reviews": 7131,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0,
+          128.0
+        ],
         "chipset": "Exynos 850",
         "camera_main": 50,
         "camera_front": 8,
@@ -1095,14 +1137,25 @@
       "brand": "SAMSUNG",
       "model": "SAMSUNG GALAXY F23 5G",
       "attributes": {
-        "colors": "Aqua Blue",
+        "colors": [
+          "Aqua Blue",
+          "Forest Green",
+          "Copper Blush"
+        ],
         "mrp": 23999,
-        "price": 15999,
+        "price": [
+          15999,
+          14999,
+          15990,
+          12999
+        ],
         "rating": 4.3,
         "review_count": 157763,
         "attr_reviews": 12636,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "Qualcomm Snapdragon 750G",
         "camera_main": 50,
         "camera_front": 8,
@@ -1138,14 +1191,23 @@
       "brand": "SAMSUNG",
       "model": "SAMSUNG GALAXY F04",
       "attributes": {
-        "colors": "Opal Green",
+        "colors": [
+          "Opal Green",
+          "Jade Purple"
+        ],
         "mrp": 11499,
-        "price": 8999,
+        "price": [
+          8999,
+          8499,
+          8990
+        ],
         "rating": 4.5,
         "review_count": 2792,
         "attr_reviews": 111,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0
+        ],
         "chipset": "Mediatek Helio P35",
         "camera_main": 13,
         "camera_front": 5,
@@ -1180,14 +1242,28 @@
       "brand": "SAMSUNG",
       "model": "SAMSUNG GALAXY M13",
       "attributes": {
-        "colors": "Aqua Green",
+        "colors": [
+          "Aqua Green",
+          "Stardust Brown",
+          "Midnight Blue"
+        ],
         "mrp": 14999,
-        "price": 11044,
+        "price": [
+          11044,
+          11244,
+          10980,
+          10670,
+          10499,
+          12999,
+          9649
+        ],
         "rating": 4.2,
         "review_count": 2494,
         "attr_reviews": 164,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0
+        ],
         "camera_main": 50,
         "display_size": 16.76,
         "battery_capacity": 6000.0,
@@ -1221,14 +1297,29 @@
       "brand": "SAMSUNG",
       "model": "SAMSUNG GALAXY A03 CORE",
       "attributes": {
-        "colors": "Mint",
+        "colors": [
+          "Mint",
+          "Onyx",
+          "Blue",
+          "Bronze"
+        ],
         "mrp": 10499,
-        "price": 6600,
+        "price": [
+          6600,
+          6700,
+          7999,
+          6569,
+          6769,
+          6499,
+          6999
+        ],
         "rating": 4.0,
         "review_count": 2729,
         "attr_reviews": 237,
         "attr_memory": 2.0,
-        "storage": 32.0,
+        "storage": [
+          32.0
+        ],
         "camera_main": 8,
         "display_size": 16.51,
         "battery_capacity": 5000.0,
@@ -1263,14 +1354,28 @@
       "brand": "SAMSUNG",
       "model": "SAMSUNG GALAXY M33 5G",
       "attributes": {
-        "colors": "Mystique Green",
+        "colors": [
+          "Mystique Green",
+          "Deep Ocean Blue",
+          "Emarld Brown"
+        ],
         "mrp": 24999,
-        "price": 16771,
+        "price": [
+          16771,
+          18634,
+          16964,
+          16965,
+          18757,
+          17478,
+          17999
+        ],
         "rating": 4.2,
         "review_count": 7862,
         "attr_reviews": 640,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "camera_main": 50,
         "display_size": 16.74,
         "battery_capacity": 6000.0,
@@ -1304,14 +1409,26 @@
       "brand": "SAMSUNG",
       "model": "SAMSUNG GALAXY A14 5G",
       "attributes": {
-        "colors": "Light Green",
+        "colors": [
+          "Light Green",
+          "Dark Red",
+          "Black"
+        ],
         "mrp": 18499,
-        "price": 16499,
+        "price": [
+          16499,
+          18999,
+          20999,
+          11990
+        ],
         "rating": 4.2,
         "review_count": 89,
         "attr_reviews": 3,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0,
+          128.0
+        ],
         "chipset": "SEC S5E8535 (Exynos 1330)",
         "camera_main": 50,
         "camera_front": 13,
@@ -1349,12 +1466,18 @@
       "attributes": {
         "colors": "Aqua Green",
         "mrp": 14999,
-        "price": 12639,
+        "price": [
+          12639,
+          13999,
+          11649
+        ],
         "rating": 4.0,
         "review_count": 279,
         "attr_reviews": 15,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0
+        ],
         "camera_main": 50,
         "display_size": 16.51,
         "battery_capacity": 5000.0,
@@ -1388,14 +1511,23 @@
       "brand": "SAMSUNG",
       "model": "SAMSUNG GALAXY S21 FE 5G",
       "attributes": {
-        "colors": "Lavender",
+        "colors": [
+          "Lavender",
+          "Graphite",
+          "Olive"
+        ],
         "mrp": 74999,
-        "price": 34999,
+        "price": [
+          34999,
+          39999
+        ],
         "rating": 4.4,
         "review_count": 36083,
         "attr_reviews": 3525,
         "attr_memory": 8.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "camera_main": 12,
         "camera_front": 32,
         "display_size": 16.26,
@@ -1424,14 +1556,26 @@
       "brand": "SAMSUNG",
       "model": "SAMSUNG GALAXY A03",
       "attributes": {
-        "colors": "Black",
+        "colors": [
+          "Black",
+          "Red"
+        ],
         "mrp": 8690,
-        "price": 8149,
+        "price": [
+          8149,
+          8699,
+          11499,
+          7249,
+          6999
+        ],
         "rating": 4.1,
         "review_count": 674,
         "attr_reviews": 43,
         "attr_memory": 3.0,
-        "storage": 32.0,
+        "storage": [
+          32.0,
+          64.0
+        ],
         "chipset": "Unisoc UMS9230",
         "camera_main": 48,
         "camera_front": 5,
@@ -1466,14 +1610,25 @@
       "brand": "SAMSUNG",
       "model": "SAMSUNG GALAXY M04",
       "attributes": {
-        "colors": "Dark Blue",
+        "colors": [
+          "Dark Blue",
+          "Light Green"
+        ],
         "mrp": 11499,
-        "price": 8966,
+        "price": [
+          8966,
+          10489,
+          8499,
+          7499
+        ],
         "rating": 4.2,
         "review_count": 365,
         "attr_reviews": 27,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0,
+          128.0
+        ],
         "chipset": "MediaTek Helio P35",
         "camera_main": 13,
         "camera_front": 5,
@@ -1507,14 +1662,24 @@
       "brand": "SAMSUNG",
       "model": "SAMSUNG GALAXY A23 5G",
       "attributes": {
-        "colors": "Silver",
+        "colors": [
+          "Silver",
+          "Orange",
+          "Light Blue"
+        ],
         "mrp": 28990,
-        "price": 22999,
+        "price": [
+          22999,
+          24999,
+          15449
+        ],
         "rating": 4.2,
         "review_count": 65,
         "attr_reviews": 5,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "Qualcomm Snapdragon 695 (SM6375)",
         "camera_main": 50,
         "camera_front": 8,
@@ -1550,14 +1715,28 @@
       "brand": "SAMSUNG",
       "model": "SAMSUNG GALAXY M32 PRIME EDITION",
       "attributes": {
-        "colors": "Light Blue",
+        "colors": [
+          "Light Blue",
+          "Black"
+        ],
         "mrp": 16999,
-        "price": 12890,
+        "price": [
+          12890,
+          15700,
+          11570,
+          12899,
+          12700,
+          12120,
+          11370
+        ],
         "rating": 4.3,
         "review_count": 244,
         "attr_reviews": 21,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0,
+          128.0
+        ],
         "camera_main": 64,
         "display_size": 16.26,
         "battery_capacity": 6000.0,
@@ -1591,14 +1770,24 @@
       "brand": "SAMSUNG",
       "model": "SAMSUNG GALAXY F22",
       "attributes": {
-        "colors": "Denim Black",
+        "colors": [
+          "Denim Black",
+          "Denim Blue"
+        ],
         "mrp": 14999,
-        "price": 11499,
+        "price": [
+          11499,
+          13499,
+          9149
+        ],
         "rating": 4.3,
         "review_count": 102798,
         "attr_reviews": 9876,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0,
+          128.0
+        ],
         "chipset": "MediaTek Helio G80",
         "camera_main": 48,
         "camera_front": 13,
@@ -1636,12 +1825,18 @@
       "attributes": {
         "colors": "Lavender",
         "mrp": 95999,
-        "price": 79999,
+        "price": [
+          79999,
+          74999
+        ],
         "rating": 4.7,
         "review_count": 51,
         "attr_reviews": 7,
         "attr_memory": 8.0,
-        "storage": 256.0,
+        "storage": [
+          256.0,
+          128.0
+        ],
         "chipset": "Qualcomm Snapdragon 8 Gen 2",
         "camera_main": 50,
         "camera_front": 12,
@@ -1666,14 +1861,21 @@
       "brand": "SAMSUNG",
       "model": "SAMSUNG GALAXY Z FLIP3 5G",
       "attributes": {
-        "colors": "Cream",
+        "colors": [
+          "Cream",
+          "Phantom Black"
+        ],
         "mrp": 95999,
-        "price": 69999,
+        "price": [
+          69999
+        ],
         "rating": 4.4,
         "review_count": 1876,
         "attr_reviews": 144,
         "attr_memory": 8.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "Qualcomm Snapdragon 888 Octa-Core",
         "camera_main": 12,
         "camera_front": 10,
@@ -1687,14 +1889,24 @@
       "brand": "SAMSUNG",
       "model": "SAMSUNG GALAXY A52",
       "attributes": {
-        "colors": "Awesome Black",
+        "colors": [
+          "Awesome Black",
+          "Awesome Blue"
+        ],
         "mrp": 17999,
-        "price": 25490,
+        "price": [
+          25490,
+          25990,
+          24990,
+          14999
+        ],
         "rating": 4.3,
         "review_count": 2150,
         "attr_reviews": 261,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "Qualcomm Snapdragon 720G",
         "camera_main": 64,
         "camera_front": 32,
@@ -1730,14 +1942,25 @@
       "brand": "SAMSUNG",
       "model": "SAMSUNG GALAXY S22 5G",
       "attributes": {
-        "colors": "Green",
+        "colors": [
+          "Green",
+          "Phantom Black"
+        ],
         "mrp": 85999,
-        "price": 52149,
+        "price": [
+          52149,
+          52499,
+          57890,
+          49999
+        ],
         "rating": 4.3,
         "review_count": 110,
         "attr_reviews": 16,
         "attr_memory": 8.0,
-        "storage": 128.0,
+        "storage": [
+          128.0,
+          256.0
+        ],
         "chipset": "Octa Core",
         "camera_main": 50,
         "camera_front": 10,
@@ -1767,14 +1990,27 @@
       "brand": "SAMSUNG",
       "model": "SAMSUNG GALAXY A13",
       "attributes": {
-        "colors": "Black",
+        "colors": [
+          "Black",
+          "Blue",
+          "Peach",
+          "Green"
+        ],
         "mrp": 20990,
-        "price": 17499,
+        "price": [
+          17499,
+          14999,
+          15999,
+          14450
+        ],
         "rating": 4.1,
         "review_count": 329,
         "attr_reviews": 20,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0,
+          64.0
+        ],
         "chipset": "Exynos Octa Core",
         "camera_main": 50,
         "camera_front": 8,
@@ -1804,14 +2040,22 @@
       "brand": "SAMSUNG",
       "model": "SAMSUNG GALAXY A73 5G",
       "attributes": {
-        "colors": "Awesome White",
+        "colors": [
+          "Awesome White",
+          "Awesome Mint"
+        ],
         "mrp": 47490,
-        "price": 41999,
+        "price": [
+          41999,
+          29999
+        ],
         "rating": 4.2,
         "review_count": 1392,
         "attr_reviews": 184,
         "attr_memory": 8.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "Qualcomm Snapdragon 778G",
         "camera_main": 108,
         "camera_front": 32,
@@ -1847,14 +2091,24 @@
       "brand": "SAMSUNG",
       "model": "SAMSUNG GALAXY A04E",
       "attributes": {
-        "colors": "Light Blue",
+        "colors": [
+          "Light Blue",
+          "Copper"
+        ],
         "mrp": 11999,
-        "price": 9999,
+        "price": [
+          9999,
+          11499,
+          9299
+        ],
         "rating": 4.4,
         "review_count": 14,
         "attr_reviews": 2,
         "attr_memory": 3.0,
-        "storage": 64.0,
+        "storage": [
+          64.0,
+          128.0
+        ],
         "chipset": "Mediatek Helio P35",
         "camera_main": 13,
         "camera_front": 5,
@@ -1884,14 +2138,24 @@
       "brand": "SAMSUNG",
       "model": "SAMSUNG GALAXY A53",
       "attributes": {
-        "colors": "Awesome Peach",
+        "colors": [
+          "Awesome Peach",
+          "Awesome Black",
+          "Awesome White",
+          "Awesome Blue"
+        ],
         "mrp": 39990,
-        "price": 33499,
+        "price": [
+          33499,
+          31999
+        ],
         "rating": 4.2,
         "review_count": 1369,
         "attr_reviews": 152,
         "attr_memory": 8.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "Exynos Octa Core",
         "camera_main": 64,
         "camera_front": 32,
@@ -1905,14 +2169,25 @@
       "brand": "SAMSUNG",
       "model": "SAMSUNG GALAXY A23",
       "attributes": {
-        "colors": "Peach",
+        "colors": [
+          "Peach",
+          "Black",
+          "Blue"
+        ],
         "mrp": 23990,
-        "price": 18499,
+        "price": [
+          18499,
+          19999,
+          19990,
+          14999
+        ],
         "rating": 4.2,
         "review_count": 831,
         "attr_reviews": 58,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "Octa-core(EXYNOS)",
         "camera_main": 50,
         "camera_front": 8,
@@ -1948,14 +2223,22 @@
       "brand": "SAMSUNG",
       "model": "SAMSUNG GALAXY F42 5G",
       "attributes": {
-        "colors": "Matte Aqua",
+        "colors": [
+          "Matte Aqua"
+        ],
         "mrp": 23999,
-        "price": 20999,
+        "price": [
+          20999,
+          22999,
+          15490
+        ],
         "rating": 4.1,
         "review_count": 10434,
         "attr_reviews": 998,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "MediaTek Dimensity 700",
         "camera_main": 64,
         "camera_front": 8,
@@ -1988,12 +2271,18 @@
       "attributes": {
         "colors": "Emerald Brown",
         "mrp": 17999,
-        "price": 23680,
+        "price": [
+          23680,
+          23790,
+          20999
+        ],
         "rating": 3.6,
         "review_count": 55,
         "attr_reviews": 3,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "camera_main": 108,
         "display_size": 17.02,
         "battery_capacity": 5000.0,
@@ -2029,12 +2318,17 @@
       "attributes": {
         "colors": "Metallic Blue",
         "mrp": 12999,
-        "price": 9450,
+        "price": [
+          9450,
+          8590
+        ],
         "rating": 4.2,
         "review_count": 10653,
         "attr_reviews": 859,
         "attr_memory": 3.0,
-        "storage": 32.0,
+        "storage": [
+          32.0
+        ],
         "chipset": "Qualcomm Snapdragon (SDM450-F01) Octa Core",
         "camera_main": 13,
         "camera_front": 8,
@@ -2058,14 +2352,24 @@
       "brand": "SAMSUNG",
       "model": "SAMSUNG GALAXY A04S",
       "attributes": {
-        "colors": "Black",
+        "colors": [
+          "Black",
+          "Copper"
+        ],
         "mrp": 15990,
-        "price": 13499,
+        "price": [
+          13499,
+          12340,
+          12990,
+          8470
+        ],
         "rating": 4.2,
         "review_count": 26,
         "attr_reviews": 2,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0
+        ],
         "chipset": "Exynos Octa Core",
         "camera_main": 50,
         "camera_front": 5,
@@ -2101,14 +2405,25 @@
       "brand": "SAMSUNG",
       "model": "SAMSUNG GALAXY A33",
       "attributes": {
-        "colors": "Awesome Peach",
+        "colors": [
+          "Awesome Peach",
+          "Awesome Blue",
+          "Awesome Black"
+        ],
         "mrp": 33990,
-        "price": 27989,
+        "price": [
+          27989,
+          27499,
+          25999,
+          27699
+        ],
         "rating": 4.2,
         "review_count": 827,
         "attr_reviews": 91,
         "attr_memory": 8.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "Exynos 1280",
         "camera_main": 48,
         "camera_front": 13,
@@ -2122,14 +2437,23 @@
       "brand": "SAMSUNG",
       "model": "SAMSUNG GALAXY F12",
       "attributes": {
-        "colors": "Sky Blue",
+        "colors": [
+          "Sky Blue"
+        ],
         "mrp": 12999,
-        "price": 10499,
+        "price": [
+          10499,
+          11499,
+          8484
+        ],
         "rating": 4.3,
         "review_count": 298148,
         "attr_reviews": 23492,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0,
+          128.0
+        ],
         "chipset": "Exynos 850",
         "camera_main": 48,
         "camera_front": 8,
@@ -2167,12 +2491,18 @@
       "attributes": {
         "colors": "Black",
         "mrp": 16999,
-        "price": 12090,
+        "price": [
+          12090,
+          12364,
+          13399
+        ],
         "rating": 4.2,
         "review_count": 4421,
         "attr_reviews": 444,
         "attr_memory": 4.0,
-        "storage": 64.0,
+        "storage": [
+          64.0
+        ],
         "camera_main": 64,
         "display_size": 16.26,
         "battery_capacity": 6000.0,
@@ -2206,14 +2536,24 @@
       "brand": "SAMSUNG",
       "model": "SAMSUNG GALAXY S20 FE 5G",
       "attributes": {
-        "colors": "Cloud Lavender",
+        "colors": [
+          "Cloud Lavender",
+          "Cloud Navy"
+        ],
         "mrp": 74990,
-        "price": 31390,
+        "price": [
+          31390,
+          29990,
+          31239,
+          31999
+        ],
         "rating": 4.1,
         "review_count": 95,
         "attr_reviews": 8,
         "attr_memory": 8.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "camera_main": 32,
         "display_size": 16.51,
         "battery_capacity": 4500.0,
@@ -2246,14 +2586,22 @@
       "brand": "SAMSUNG",
       "model": "SAMSUNG GALAXY S23 PLUS 5G",
       "attributes": {
-        "colors": "Cream",
+        "colors": [
+          "Cream",
+          "Phantom Black"
+        ],
         "mrp": 116999,
-        "price": 94999,
+        "price": [
+          94999,
+          60999
+        ],
         "rating": 4.1,
         "review_count": 10,
         "attr_reviews": 3,
         "attr_memory": 8.0,
-        "storage": 256.0,
+        "storage": [
+          256.0
+        ],
         "chipset": "Qualcomm Snapdragon 8 Gen 2",
         "camera_main": 50,
         "camera_front": 12,
@@ -2280,12 +2628,18 @@
       "attributes": {
         "colors": "Fusion Black",
         "mrp": 20999,
-        "price": 14499,
+        "price": [
+          14499,
+          8599
+        ],
         "rating": 4.3,
         "review_count": 393417,
         "attr_reviews": 42174,
         "attr_memory": 6.0,
-        "storage": 128.0,
+        "storage": [
+          128.0,
+          64.0
+        ],
         "chipset": "Exynos 9611",
         "camera_main": 64,
         "camera_front": 32,
@@ -2312,11 +2666,17 @@
       "attributes": {
         "colors": "Phantom Black",
         "mrp": 149999,
-        "price": 124999,
+        "price": [
+          124999,
+          114990,
+          71890
+        ],
         "rating": 3.6,
         "review_count": 33,
         "attr_reviews": 3,
-        "storage": 256.0,
+        "storage": [
+          256.0
+        ],
         "chipset": "Qualcomm Snapdragon 8 Gen 2",
         "camera_main": 200,
         "camera_front": 12,
@@ -2351,14 +2711,24 @@
       "brand": "SAMSUNG",
       "model": "SAMSUNG GALAXY A04",
       "attributes": {
-        "colors": "Copper",
+        "colors": [
+          "Copper",
+          "Green"
+        ],
         "mrp": 15999,
-        "price": 12999,
+        "price": [
+          12999,
+          11999,
+          7560
+        ],
         "rating": 3.8,
         "review_count": 13,
         "attr_reviews": 2,
         "attr_memory": 4.0,
-        "storage": 128.0,
+        "storage": [
+          128.0,
+          64.0
+        ],
         "chipset": "Mediatek Helio P35",
         "camera_main": 50,
         "camera_front": 5,
@@ -2395,7 +2765,10 @@
       "attributes": {
         "colors": "Green",
         "mrp": 101999,
-        "price": 69999,
+        "price": [
+          69999,
+          64449
+        ],
         "rating": 4.5,
         "review_count": 2366,
         "attr_reviews": 266,
@@ -2432,12 +2805,18 @@
       "attributes": {
         "colors": "Cloud Lavender",
         "mrp": 65999,
-        "price": 50010,
+        "price": [
+          50010,
+          35489,
+          28999
+        ],
         "rating": 4.0,
         "review_count": 927,
         "attr_reviews": 89,
         "attr_memory": 8.0,
-        "storage": 128.0,
+        "storage": [
+          128.0
+        ],
         "chipset": "Exynos Octa Core",
         "camera_main": 12,
         "camera_front": 32,
@@ -7167,7 +7546,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A01 Core",
       "attributes": {
-        "price": 4999,
+        "price": [
+          4999
+        ],
         "attr_5g or not": 0,
         "attr_processor brand": "mediatek",
         "attr_num cores": 4.0,
@@ -7194,7 +7575,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A03 (4GB RAM + 64GB)",
       "attributes": {
-        "price": 11499,
+        "price": [
+          11499
+        ],
         "rating": 6.9,
         "attr_5g or not": 0,
         "attr_processor brand": "unisoc",
@@ -7224,7 +7607,10 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A03s",
       "attributes": {
-        "price": 8499,
+        "price": [
+          8499,
+          7690
+        ],
         "rating": 6.7,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -7260,7 +7646,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A04 (4GB RAM + 128GB)",
       "attributes": {
-        "price": 12999,
+        "price": [
+          12999
+        ],
         "rating": 7.2,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -7289,7 +7677,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A04e (3GB RAM + 64GB)",
       "attributes": {
-        "price": 9950,
+        "price": [
+          9950
+        ],
         "rating": 6.6,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -7318,7 +7708,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A04e (4GB RAM + 128GB)",
       "attributes": {
-        "price": 11499,
+        "price": [
+          11499
+        ],
         "rating": 6.9,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -7347,7 +7739,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A04s (4GB RAM + 128GB)",
       "attributes": {
-        "price": 14499,
+        "price": [
+          14499
+        ],
         "rating": 7.2,
         "attr_5g or not": 0,
         "attr_processor brand": "exynos",
@@ -7377,7 +7771,10 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A05",
       "attributes": {
-        "price": 12990,
+        "price": [
+          12990,
+          7249
+        ],
         "rating": 6.3,
         "attr_5g or not": 0,
         "attr_num cores": 8.0,
@@ -7412,7 +7809,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A11",
       "attributes": {
-        "price": 9990,
+        "price": [
+          9990
+        ],
         "rating": 6.3,
         "attr_5g or not": 0,
         "attr_num cores": 8.0,
@@ -7441,7 +7840,10 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A12",
       "attributes": {
-        "price": 11999,
+        "price": [
+          11999,
+          12649
+        ],
         "rating": 7.1,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -7476,7 +7878,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A12 (6GB RAM + 128GB)",
       "attributes": {
-        "price": 13999,
+        "price": [
+          13999
+        ],
         "rating": 7.5,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -7505,7 +7909,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A13 (4GB RAM + 128GB)",
       "attributes": {
-        "price": 14999,
+        "price": [
+          14999
+        ],
         "rating": 7.5,
         "attr_5g or not": 0,
         "attr_num cores": 8.0,
@@ -7534,7 +7940,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A13 (6GB RAM + 128GB)",
       "attributes": {
-        "price": 16499,
+        "price": [
+          16499
+        ],
         "rating": 7.8,
         "attr_5g or not": 0,
         "attr_num cores": 8.0,
@@ -7563,7 +7971,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A13 5G",
       "attributes": {
-        "price": 17990,
+        "price": [
+          17990
+        ],
         "rating": 7.3,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -7592,7 +8002,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A14 5G (6GB RAM + 128GB)",
       "attributes": {
-        "price": 18999,
+        "price": [
+          18999
+        ],
         "rating": 7.9,
         "attr_5g or not": 1,
         "attr_processor brand": "exynos",
@@ -7622,7 +8034,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A14 5G (8GB RAM + 128GB)",
       "attributes": {
-        "price": 20999,
+        "price": [
+          20999
+        ],
         "rating": 8.2,
         "attr_5g or not": 1,
         "attr_processor brand": "exynos",
@@ -7652,7 +8066,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A15",
       "attributes": {
-        "price": 15990,
+        "price": [
+          15990
+        ],
         "rating": 6.3,
         "attr_5g or not": 0,
         "attr_num cores": 8.0,
@@ -7679,7 +8095,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A21s (6GB RAM + 128GB)",
       "attributes": {
-        "price": 17499,
+        "price": [
+          17499
+        ],
         "rating": 7.5,
         "attr_5g or not": 0,
         "attr_processor brand": "exynos",
@@ -7708,7 +8126,10 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A22",
       "attributes": {
-        "price": 18499,
+        "price": [
+          18499,
+          18149
+        ],
         "rating": 7.6,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -7744,7 +8165,10 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A22 5G",
       "attributes": {
-        "price": 17990,
+        "price": [
+          17990,
+          18999
+        ],
         "rating": 7.9,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -7780,7 +8204,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A23 (8GB RAM + 128GB)",
       "attributes": {
-        "price": 19990,
+        "price": [
+          19990
+        ],
         "rating": 8.2,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -7810,7 +8236,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A23 5G (8GB RAM + 128GB)",
       "attributes": {
-        "price": 24999,
+        "price": [
+          24999
+        ],
         "rating": 8.1,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -7840,7 +8268,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A24",
       "attributes": {
-        "price": 17999,
+        "price": [
+          17999
+        ],
         "rating": 7.7,
         "attr_5g or not": 0,
         "attr_processor brand": "exynos",
@@ -7870,7 +8300,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A32",
       "attributes": {
-        "price": 16499,
+        "price": [
+          16499
+        ],
         "rating": 8.0,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -7900,7 +8332,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A32 (8GB RAM + 128GB)",
       "attributes": {
-        "price": 16499,
+        "price": [
+          16499
+        ],
         "rating": 8.2,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -7930,7 +8364,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A32 5G",
       "attributes": {
-        "price": 24499,
+        "price": [
+          24499
+        ],
         "rating": 7.9,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -7960,7 +8396,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A33 5G",
       "attributes": {
-        "price": 25999,
+        "price": [
+          25999
+        ],
         "rating": 8.2,
         "attr_5g or not": 1,
         "attr_processor brand": "exynos",
@@ -7996,7 +8434,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A33 5G (8GB RAM + 128GB)",
       "attributes": {
-        "price": 27499,
+        "price": [
+          27499
+        ],
         "rating": 8.5,
         "attr_5g or not": 1,
         "attr_processor brand": "exynos",
@@ -8026,7 +8466,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A34 5G",
       "attributes": {
-        "price": 24999,
+        "price": [
+          24999
+        ],
         "rating": 7.5,
         "attr_5g or not": 1,
         "attr_processor brand": "exynos",
@@ -8055,7 +8497,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A40",
       "attributes": {
-        "price": 17990,
+        "price": [
+          17990
+        ],
         "rating": 6.9,
         "attr_5g or not": 0,
         "attr_processor brand": "exynos",
@@ -8085,7 +8529,10 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A50s",
       "attributes": {
-        "price": 15990,
+        "price": [
+          15990,
+          11999
+        ],
         "rating": 8.0,
         "attr_5g or not": 0,
         "attr_processor brand": "exynos",
@@ -8121,7 +8568,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A52 (8GB RAM + 128GB)",
       "attributes": {
-        "price": 22494,
+        "price": [
+          22494
+        ],
         "rating": 8.6,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -8151,7 +8600,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A53 (8GB RAM + 256GB)",
       "attributes": {
-        "price": 36499,
+        "price": [
+          36499
+        ],
         "rating": 8.9,
         "attr_5g or not": 1,
         "attr_processor brand": "exynos",
@@ -8181,7 +8632,10 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A53 5G",
       "attributes": {
-        "price": 31999,
+        "price": [
+          31999,
+          24470
+        ],
         "rating": 8.7,
         "attr_5g or not": 1,
         "attr_processor brand": "exynos",
@@ -8217,7 +8671,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A53 5G (8GB RAM + 128GB)",
       "attributes": {
-        "price": 33499,
+        "price": [
+          33499
+        ],
         "rating": 8.9,
         "attr_5g or not": 1,
         "attr_processor brand": "exynos",
@@ -8247,7 +8703,10 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A54 5G",
       "attributes": {
-        "price": 34999,
+        "price": [
+          34999,
+          33999
+        ],
         "rating": 7.6,
         "attr_5g or not": 1,
         "attr_processor brand": "exynos",
@@ -8282,7 +8741,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A7 (2018)",
       "attributes": {
-        "price": 21490,
+        "price": [
+          21490
+        ],
         "rating": 7.0,
         "attr_5g or not": 0,
         "attr_processor brand": "exynos",
@@ -8311,7 +8772,10 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A71",
       "attributes": {
-        "price": 22494,
+        "price": [
+          22494,
+          21494
+        ],
         "rating": 8.6,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -8347,7 +8811,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A73 5G (8GB RAM + 256GB)",
       "attributes": {
-        "price": 41990,
+        "price": [
+          41990
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
@@ -8376,7 +8842,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A74 5G",
       "attributes": {
-        "price": 42999,
+        "price": [
+          42999
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
@@ -8405,7 +8873,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A75 5G",
       "attributes": {
-        "price": 44999,
+        "price": [
+          44999
+        ],
         "rating": 8.3,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -8434,7 +8904,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A82 5G",
       "attributes": {
-        "price": 39990,
+        "price": [
+          39990
+        ],
         "rating": 8.6,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -8464,7 +8936,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A83 5G",
       "attributes": {
-        "price": 39990,
+        "price": [
+          39990
+        ],
         "rating": 8.6,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -8494,7 +8968,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A9 Pro (2019)",
       "attributes": {
-        "price": 39990,
+        "price": [
+          39990
+        ],
         "rating": 7.8,
         "attr_5g or not": 0,
         "attr_processor brand": "snapdragon",
@@ -8523,7 +8999,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy A92 5G",
       "attributes": {
-        "price": 47990,
+        "price": [
+          47990
+        ],
         "rating": 8.0,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -8551,7 +9029,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy F13 (4GB RAM + 128GB)",
       "attributes": {
-        "price": 11999,
+        "price": [
+          11999
+        ],
         "rating": 7.5,
         "attr_5g or not": 0,
         "attr_processor brand": "exynos",
@@ -8581,7 +9061,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy F14",
       "attributes": {
-        "price": 14990,
+        "price": [
+          14990
+        ],
         "rating": 6.7,
         "attr_5g or not": 0,
         "attr_num cores": 8.0,
@@ -8609,7 +9091,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy F22 (6GB RAM + 128GB)",
       "attributes": {
-        "price": 13499,
+        "price": [
+          13499
+        ],
         "rating": 7.6,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -8638,7 +9122,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy F23 5G (6GB RAM + 128GB)",
       "attributes": {
-        "price": 16999,
+        "price": [
+          16999
+        ],
         "rating": 8.0,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -8668,7 +9154,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy F24 5G",
       "attributes": {
-        "price": 14999,
+        "price": [
+          14999
+        ],
         "rating": 7.8,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -8698,7 +9186,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy F41 (6GB RAM + 128GB)",
       "attributes": {
-        "price": 19999,
+        "price": [
+          19999
+        ],
         "rating": 8.2,
         "attr_5g or not": 0,
         "attr_processor brand": "exynos",
@@ -8728,7 +9218,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy F42 5G (8GB RAM + 128GB)",
       "attributes": {
-        "price": 22999,
+        "price": [
+          22999
+        ],
         "rating": 8.2,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -8758,7 +9250,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy F63",
       "attributes": {
-        "price": 21999,
+        "price": [
+          21999
+        ],
         "rating": 8.4,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -8788,7 +9282,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy M04 (4GB RAM + 128GB)",
       "attributes": {
-        "price": 9499,
+        "price": [
+          9499
+        ],
         "rating": 6.8,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -8818,7 +9314,10 @@
       "brand": "samsung",
       "model": "Samsung Galaxy M12",
       "attributes": {
-        "price": 10999,
+        "price": [
+          10999,
+          9449
+        ],
         "rating": 7.2,
         "attr_5g or not": 0,
         "attr_processor brand": "exynos",
@@ -8854,7 +9353,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy M13 (4GB RAM + 64GB)",
       "attributes": {
-        "price": 10630,
+        "price": [
+          10630
+        ],
         "rating": 7.1,
         "attr_5g or not": 0,
         "attr_processor brand": "exynos",
@@ -8884,7 +9385,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy M13 5G (4GB RAM + 64GB)",
       "attributes": {
-        "price": 12944,
+        "price": [
+          12944
+        ],
         "rating": 7.1,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -8914,7 +9417,10 @@
       "brand": "samsung",
       "model": "Samsung Galaxy M14",
       "attributes": {
-        "price": 14999,
+        "price": [
+          14999,
+          13299
+        ],
         "rating": 6.0,
         "attr_5g or not": 0,
         "attr_processor brand": "exynos",
@@ -8949,7 +9455,10 @@
       "brand": "samsung",
       "model": "Samsung Galaxy M21 2021",
       "attributes": {
-        "price": 11725,
+        "price": [
+          11725,
+          11399
+        ],
         "rating": 7.6,
         "attr_5g or not": 0,
         "attr_processor brand": "exynos",
@@ -8985,7 +9494,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy M32 (6GB RAM + 128GB)",
       "attributes": {
-        "price": 14490,
+        "price": [
+          14490
+        ],
         "rating": 8.0,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -9015,7 +9526,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy M32 Prime Edition (6GB RAM + 128GB)",
       "attributes": {
-        "price": 14859,
+        "price": [
+          14859
+        ],
         "rating": 7.9,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",
@@ -9045,7 +9558,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy M33 5G (8GB RAM + 128GB)",
       "attributes": {
-        "price": 19499,
+        "price": [
+          19499
+        ],
         "rating": 8.4,
         "attr_5g or not": 1,
         "attr_processor brand": "exynos",
@@ -9075,7 +9590,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy M34 5G",
       "attributes": {
-        "price": 16999,
+        "price": [
+          16999
+        ],
         "rating": 8.4,
         "attr_5g or not": 1,
         "attr_processor brand": "exynos",
@@ -9104,7 +9621,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy M35",
       "attributes": {
-        "price": 22999,
+        "price": [
+          22999
+        ],
         "rating": 7.4,
         "attr_5g or not": 0,
         "attr_num cores": 8.0,
@@ -9131,7 +9650,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy M51s 5G",
       "attributes": {
-        "price": 24990,
+        "price": [
+          24990
+        ],
         "rating": 7.2,
         "attr_5g or not": 1,
         "attr_num cores": 8.0,
@@ -9158,7 +9679,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy M52s 5G",
       "attributes": {
-        "price": 24990,
+        "price": [
+          24990
+        ],
         "rating": 7.4,
         "attr_5g or not": 1,
         "attr_num cores": 8.0,
@@ -9185,7 +9708,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy M53 5G (8GB RAM + 128GB)",
       "attributes": {
-        "price": 25289,
+        "price": [
+          25289
+        ],
         "rating": 8.7,
         "attr_5g or not": 1,
         "attr_processor brand": "dimensity",
@@ -9215,7 +9740,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy M54 5G",
       "attributes": {
-        "price": 34999,
+        "price": [
+          34999
+        ],
         "rating": 8.5,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -9245,7 +9772,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy M62",
       "attributes": {
-        "price": 23999,
+        "price": [
+          23999
+        ],
         "rating": 8.3,
         "attr_5g or not": 0,
         "attr_processor brand": "exynos",
@@ -9274,7 +9803,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy Note 10 Lite",
       "attributes": {
-        "price": 39999,
+        "price": [
+          39999
+        ],
         "rating": 8.3,
         "attr_5g or not": 0,
         "attr_processor brand": "exynos",
@@ -9304,7 +9835,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy Note 10 Plus",
       "attributes": {
-        "price": 58999,
+        "price": [
+          58999
+        ],
         "rating": 8.9,
         "attr_5g or not": 0,
         "attr_processor brand": "exynos",
@@ -9334,7 +9867,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy Note 10 Plus 5G",
       "attributes": {
-        "price": 92999,
+        "price": [
+          92999
+        ],
         "rating": 8.9,
         "attr_5g or not": 1,
         "attr_processor brand": "exynos",
@@ -9363,7 +9898,10 @@
       "brand": "samsung",
       "model": "Samsung Galaxy Note 20",
       "attributes": {
-        "price": 86000,
+        "price": [
+          86000,
+          44990
+        ],
         "rating": 8.7,
         "attr_5g or not": 0,
         "attr_processor brand": "exynos",
@@ -9398,7 +9936,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy Note 30 Ultra 5G",
       "attributes": {
-        "price": 104999,
+        "price": [
+          104999
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
@@ -9427,7 +9967,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy S10 5G",
       "attributes": {
-        "price": 78990,
+        "price": [
+          78990
+        ],
         "rating": 8.6,
         "attr_5g or not": 1,
         "attr_processor brand": "exynos",
@@ -9457,7 +9999,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy S10 Plus",
       "attributes": {
-        "price": 42999,
+        "price": [
+          42999
+        ],
         "rating": 8.1,
         "attr_5g or not": 0,
         "attr_processor brand": "exynos",
@@ -9487,7 +10031,10 @@
       "brand": "samsung",
       "model": "Samsung Galaxy S20",
       "attributes": {
-        "price": 41999,
+        "price": [
+          41999,
+          33999
+        ],
         "rating": 8.8,
         "attr_5g or not": 0,
         "attr_processor brand": "exynos",
@@ -9523,7 +10070,10 @@
       "brand": "samsung",
       "model": "Samsung Galaxy S20 5G",
       "attributes": {
-        "price": 74999,
+        "price": [
+          74999,
+          49902
+        ],
         "rating": 8.9,
         "attr_5g or not": 1,
         "attr_processor brand": "exynos",
@@ -9559,7 +10109,10 @@
       "brand": "samsung",
       "model": "Samsung Galaxy S20 Plus",
       "attributes": {
-        "price": 83000,
+        "price": [
+          83000,
+          39999
+        ],
         "rating": 8.8,
         "attr_5g or not": 0,
         "attr_processor brand": "exynos",
@@ -9595,7 +10148,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy S20 Plus 5G",
       "attributes": {
-        "price": 85990,
+        "price": [
+          85990
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "exynos",
         "attr_num cores": 8.0,
@@ -9624,7 +10179,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy S20 Ultra 5G",
       "attributes": {
-        "price": 99999,
+        "price": [
+          99999
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "exynos",
         "attr_num cores": 8.0,
@@ -9653,7 +10210,10 @@
       "brand": "samsung",
       "model": "Samsung Galaxy S21",
       "attributes": {
-        "price": 48900,
+        "price": [
+          48900,
+          22999
+        ],
         "rating": 8.8,
         "attr_5g or not": 1,
         "attr_processor brand": "exynos",
@@ -9688,7 +10248,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy S21 FE 5G (8GB RAM + 256GB)",
       "attributes": {
-        "price": 43999,
+        "price": [
+          43999
+        ],
         "rating": 8.8,
         "attr_5g or not": 1,
         "attr_processor brand": "exynos",
@@ -9717,7 +10279,10 @@
       "brand": "samsung",
       "model": "Samsung Galaxy S21 Plus",
       "attributes": {
-        "price": 59450,
+        "price": [
+          59450,
+          49000
+        ],
         "rating": 8.8,
         "attr_5g or not": 1,
         "attr_processor brand": "exynos",
@@ -9752,7 +10317,10 @@
       "brand": "samsung",
       "model": "Samsung Galaxy S21 Ultra",
       "attributes": {
-        "price": 105999,
+        "price": [
+          105999,
+          58990
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "exynos",
         "attr_num cores": 8.0,
@@ -9786,7 +10354,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy S21 Ultra 5G (12GB RAM + 128GB)",
       "attributes": {
-        "price": 101999,
+        "price": [
+          101999
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "exynos",
         "attr_num cores": 8.0,
@@ -9814,7 +10384,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy S22 5G (8GB RAM + 256GB)",
       "attributes": {
-        "price": 57999,
+        "price": [
+          57999
+        ],
         "rating": 8.7,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -9843,7 +10415,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy S22 FE 5G",
       "attributes": {
-        "price": 51999,
+        "price": [
+          51999
+        ],
         "rating": 7.9,
         "attr_5g or not": 1,
         "attr_processor brand": "exynos",
@@ -9871,7 +10445,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy S22 Plus 5G (8GB RAM + 256GB)",
       "attributes": {
-        "price": 88999,
+        "price": [
+          88999
+        ],
         "rating": 8.8,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -9900,7 +10476,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy S22 Ultra 5G",
       "attributes": {
-        "price": 91999,
+        "price": [
+          91999
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
@@ -9928,7 +10506,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy S22 Ultra 5G (12GB RAM + 512GB)",
       "attributes": {
-        "price": 118999,
+        "price": [
+          118999
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
@@ -9956,7 +10536,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy S22 Ultra 5G (8GB RAM + 128GB)",
       "attributes": {
-        "price": 99990,
+        "price": [
+          99990
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
@@ -9984,7 +10566,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy S23",
       "attributes": {
-        "price": 70990,
+        "price": [
+          70990
+        ],
         "rating": 8.8,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -10013,7 +10597,10 @@
       "brand": "samsung",
       "model": "Samsung Galaxy S23 FE 5G",
       "attributes": {
-        "price": 54999,
+        "price": [
+          54999,
+          36990
+        ],
         "rating": 7.7,
         "attr_5g or not": 1,
         "attr_num cores": 8.0,
@@ -10047,7 +10634,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy S23 Plus",
       "attributes": {
-        "price": 84990,
+        "price": [
+          84990
+        ],
         "rating": 8.9,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -10076,7 +10665,10 @@
       "brand": "samsung",
       "model": "Samsung Galaxy S24 Ultra",
       "attributes": {
-        "price": 119990,
+        "price": [
+          119990,
+          103999
+        ],
         "rating": 8.5,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -10110,7 +10702,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy S9 Plus (128GB)",
       "attributes": {
-        "price": 34999,
+        "price": [
+          34999
+        ],
         "rating": 7.8,
         "attr_5g or not": 0,
         "attr_processor brand": "exynos",
@@ -10139,7 +10733,10 @@
       "brand": "samsung",
       "model": "Samsung Galaxy Z Flip 3",
       "attributes": {
-        "price": 69999,
+        "price": [
+          69999,
+          49999
+        ],
         "rating": 8.4,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -10174,7 +10771,10 @@
       "brand": "samsung",
       "model": "Samsung Galaxy Z Flip 4 5G",
       "attributes": {
-        "price": 89999,
+        "price": [
+          89999,
+          57490
+        ],
         "rating": 8.8,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -10209,7 +10809,10 @@
       "brand": "samsung",
       "model": "Samsung Galaxy Z Fold 3",
       "attributes": {
-        "price": 110999,
+        "price": [
+          110999,
+          149999
+        ],
         "rating": 8.9,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -10244,7 +10847,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy Z Fold 4",
       "attributes": {
-        "price": 154998,
+        "price": [
+          154998
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
@@ -10272,7 +10877,9 @@
       "brand": "samsung",
       "model": "Samsung Galaxy Z Fold 4 (12GB RAM + 1TB)",
       "attributes": {
-        "price": 163980,
+        "price": [
+          163980
+        ],
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,

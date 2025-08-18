@@ -23,7 +23,9 @@
       "brand": "tcl",
       "model": "TCL Ion X",
       "attributes": {
-        "price": 8990,
+        "price": [
+          8990
+        ],
         "rating": 6.0,
         "attr_5g or not": 0,
         "attr_processor brand": "helio",

@@ -108,7 +108,9 @@
       "brand": "nubia",
       "model": "Nubia Red Magic 6S 5G",
       "attributes": {
-        "price": 44999,
+        "price": [
+          44999
+        ],
         "rating": 8.4,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -137,7 +139,9 @@
       "brand": "nubia",
       "model": "Nubia Red Magic 7S Pro",
       "attributes": {
-        "price": 60990,
+        "price": [
+          60990
+        ],
         "rating": 8.6,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -166,7 +170,9 @@
       "brand": "nubia",
       "model": "Nubia Red Magic 8 Pro 5G",
       "attributes": {
-        "price": 46990,
+        "price": [
+          46990
+        ],
         "rating": 8.4,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -195,7 +201,9 @@
       "brand": "nubia",
       "model": "Nubia Red Magic 8 Pro Plus",
       "attributes": {
-        "price": 60999,
+        "price": [
+          60999
+        ],
         "rating": 8.6,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -224,7 +232,9 @@
       "brand": "nubia",
       "model": "Nubia Z40 Pro 5G",
       "attributes": {
-        "price": 49990,
+        "price": [
+          49990
+        ],
         "rating": 8.4,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
@@ -253,7 +263,9 @@
       "brand": "nubia",
       "model": "Nubia Z50",
       "attributes": {
-        "price": 34999,
+        "price": [
+          34999
+        ],
         "rating": 8.2,
         "attr_5g or not": 1,
         "attr_processor brand": "snapdragon",
