@@ -1,0 +1,3082 @@
+{
+  "brand": "ZTE",
+  "phones": {
+    "14e68338-916a-5980-ab59-54aec24a6799": {
+      "id": "14e68338-916a-5980-ab59-54aec24a6799",
+      "brand": "ZTE",
+      "model": "Blade 20 Smart 4/128GB Gradient Green",
+      "attributes": {
+        "attr_unnamed 0": 259,
+        "os": "Android",
+        "attr_popularity": 1083,
+        "mrp": 3745.0,
+        "attr_highest price": 4417.0,
+        "attr_sellers amount": 48,
+        "display_size": 6.49,
+        "attr_memory size": 128.0,
+        "attr_battery size": 5000.0,
+        "release_date": 12
+      }
+    },
+    "d69a5cee-5339-5c65-98b6-7a4317584e82": {
+      "id": "d69a5cee-5339-5c65-98b6-7a4317584e82",
+      "brand": "ZTE",
+      "model": "Blade A3 2020 1/32GB Blue",
+      "attributes": {
+        "attr_unnamed 0": 260,
+        "os": "Android",
+        "attr_popularity": 700,
+        "mrp": 1839.0,
+        "attr_highest price": 2229.0,
+        "attr_sellers amount": 56,
+        "display_size": 5.45,
+        "attr_memory size": 32.0,
+        "attr_battery size": 2600.0,
+        "release_date": 3
+      }
+    },
+    "a8e51072-0ff5-5623-8f8e-9507804d2147": {
+      "id": "a8e51072-0ff5-5623-8f8e-9507804d2147",
+      "brand": "ZTE",
+      "model": "Blade A3 2020 1/32GB Grey",
+      "attributes": {
+        "attr_unnamed 0": 261,
+        "os": "Android",
+        "attr_popularity": 619,
+        "mrp": 1839.0,
+        "attr_highest price": 2099.0,
+        "attr_sellers amount": 43,
+        "display_size": 5.45,
+        "attr_memory size": 32.0,
+        "attr_battery size": 2600.0,
+        "release_date": 3
+      }
+    },
+    "441e517c-de2e-5ca0-97dd-0992e6554b1a": {
+      "id": "441e517c-de2e-5ca0-97dd-0992e6554b1a",
+      "brand": "ZTE",
+      "model": "Blade A3 2020 1/32GB Red",
+      "attributes": {
+        "attr_unnamed 0": 262,
+        "os": "Android",
+        "attr_popularity": 446,
+        "mrp": 1839.0,
+        "attr_highest price": 2332.0,
+        "attr_sellers amount": 47,
+        "display_size": 5.45,
+        "attr_memory size": 32.0,
+        "attr_battery size": 2600.0,
+        "release_date": 8
+      }
+    },
+    "f69db4c3-449e-5a05-87dc-033d06c77385": {
+      "id": "f69db4c3-449e-5a05-87dc-033d06c77385",
+      "brand": "ZTE",
+      "model": "Blade A5 2/16GB Black",
+      "attributes": {
+        "attr_unnamed 0": 263,
+        "os": "Android",
+        "attr_popularity": 782,
+        "attr_sellers amount": 1,
+        "display_size": 5.45,
+        "attr_memory size": 16.0,
+        "attr_battery size": 2600.0,
+        "release_date": 5
+      }
+    },
+    "0f254a23-1892-51cd-92f6-1e1e8ae32803": {
+      "id": "0f254a23-1892-51cd-92f6-1e1e8ae32803",
+      "brand": "ZTE",
+      "model": "Blade A5 2/16GB Blue",
+      "attributes": {
+        "attr_unnamed 0": 264,
+        "os": "Android",
+        "attr_popularity": 601,
+        "attr_sellers amount": 1,
+        "display_size": 5.45,
+        "attr_memory size": 16.0,
+        "attr_battery size": 2600.0,
+        "release_date": 6
+      }
+    },
+    "6e62be8f-d73e-5343-8c27-af6032814f29": {
+      "id": "6e62be8f-d73e-5343-8c27-af6032814f29",
+      "brand": "ZTE",
+      "model": "Blade A5 2/32GB Black",
+      "attributes": {
+        "attr_unnamed 0": 266,
+        "os": "Android",
+        "attr_popularity": 706,
+        "mrp": 2199.0,
+        "attr_highest price": 2315.0,
+        "attr_sellers amount": 4,
+        "display_size": 5.45,
+        "attr_memory size": 32.0,
+        "attr_battery size": 2600.0,
+        "release_date": 7
+      }
+    },
+    "6f2c8a31-46b1-5d5a-aa3a-da6a3b3b9e34": {
+      "id": "6f2c8a31-46b1-5d5a-aa3a-da6a3b3b9e34",
+      "brand": "ZTE",
+      "model": "Blade A5 2/32GB Blue",
+      "attributes": {
+        "attr_unnamed 0": 267,
+        "os": "Android",
+        "attr_popularity": 529,
+        "mrp": 2199.0,
+        "attr_highest price": 2599.0,
+        "attr_sellers amount": 8,
+        "display_size": 5.45,
+        "attr_memory size": 32.0,
+        "attr_battery size": 2600.0,
+        "release_date": 6
+      }
+    },
+    "6a35c63a-6b34-512e-b0c4-ad8feb7c9601": {
+      "id": "6a35c63a-6b34-512e-b0c4-ad8feb7c9601",
+      "brand": "ZTE",
+      "model": "Blade A5 2020 2/32GB Black",
+      "attributes": {
+        "attr_unnamed 0": 268,
+        "os": "Android",
+        "attr_popularity": 942,
+        "mrp": 2299.0,
+        "attr_highest price": 2881.0,
+        "attr_sellers amount": 44,
+        "display_size": 6.08,
+        "attr_memory size": 32.0,
+        "attr_battery size": 3200.0,
+        "release_date": 12
+      }
+    },
+    "4ab1f4bd-f33f-5ec1-bd3b-e809025bb0a8": {
+      "id": "4ab1f4bd-f33f-5ec1-bd3b-e809025bb0a8",
+      "brand": "ZTE",
+      "model": "Blade A7 2019 2/32GB Black",
+      "attributes": {
+        "attr_unnamed 0": 269,
+        "os": "Android",
+        "attr_popularity": 978,
+        "mrp": 2399.0,
+        "attr_highest price": 2799.0,
+        "attr_sellers amount": 34,
+        "display_size": 6.1,
+        "attr_memory size": 32.0,
+        "attr_battery size": 3200.0,
+        "release_date": 5
+      }
+    },
+    "da52fd48-ac91-5d5a-92f1-c38c1b150ab1": {
+      "id": "da52fd48-ac91-5d5a-92f1-c38c1b150ab1",
+      "brand": "ZTE",
+      "model": "Blade A7 2020 2/32GB Gradient",
+      "attributes": {
+        "attr_unnamed 0": 270,
+        "os": "Android",
+        "attr_popularity": 1016,
+        "mrp": 2599.0,
+        "attr_highest price": 2999.0,
+        "attr_sellers amount": 56,
+        "display_size": 6.08,
+        "attr_memory size": 32.0,
+        "attr_battery size": 4000.0,
+        "release_date": 12
+      }
+    },
+    "dab80541-16ec-5a16-b3b0-6fa8a2d61f5d": {
+      "id": "dab80541-16ec-5a16-b3b0-6fa8a2d61f5d",
+      "brand": "ZTE",
+      "model": "Blade A7 2020 3/64GB Gradient",
+      "attributes": {
+        "attr_unnamed 0": 271,
+        "os": "Android",
+        "attr_popularity": 1071,
+        "mrp": 3069.0,
+        "attr_highest price": 3499.0,
+        "attr_sellers amount": 53,
+        "display_size": 6.08,
+        "attr_memory size": 64.0,
+        "attr_battery size": 4000.0,
+        "release_date": 12
+      }
+    },
+    "277b6032-c8ef-5f74-85c5-b7f0468998c0": {
+      "id": "277b6032-c8ef-5f74-85c5-b7f0468998c0",
+      "brand": "ZTE",
+      "model": "Blade A7S 2/64GB Blue",
+      "attributes": {
+        "attr_unnamed 0": 272,
+        "os": "Android",
+        "attr_popularity": 775,
+        "mrp": 2695.0,
+        "attr_highest price": 3549.0,
+        "attr_sellers amount": 38,
+        "display_size": 6.5,
+        "attr_memory size": 64.0,
+        "attr_battery size": 4000.0,
+        "release_date": 9
+      }
+    },
+    "678fe36e-ce73-5293-aa4f-a04d47739393": {
+      "id": "678fe36e-ce73-5293-aa4f-a04d47739393",
+      "brand": "ZTE",
+      "model": "Blade L210 1/32GB Black",
+      "attributes": {
+        "attr_unnamed 0": 273,
+        "os": "Android",
+        "attr_popularity": 642,
+        "mrp": 1678.0,
+        "attr_highest price": 2009.0,
+        "attr_sellers amount": 39,
+        "display_size": 6.0,
+        "attr_memory size": 32.0,
+        "attr_battery size": 2600.0,
+        "release_date": 9
+      }
+    },
+    "4d836a2f-2aa5-5537-b9f7-de382c42d4bf": {
+      "id": "4d836a2f-2aa5-5537-b9f7-de382c42d4bf",
+      "brand": "ZTE",
+      "model": "Blade L210 1/32GB Blue",
+      "attributes": {
+        "attr_unnamed 0": 274,
+        "os": "Android",
+        "attr_popularity": 399,
+        "mrp": 1678.0,
+        "attr_highest price": 1979.0,
+        "attr_sellers amount": 42,
+        "display_size": 6.0,
+        "attr_memory size": 32.0,
+        "attr_battery size": 2600.0,
+        "release_date": 9
+      }
+    },
+    "13f0c0e6-75ee-56fe-acf3-3b1d3fcc00b7": {
+      "id": "13f0c0e6-75ee-56fe-acf3-3b1d3fcc00b7",
+      "brand": "ZTE",
+      "model": "Blade L8 1/16GB Black",
+      "attributes": {
+        "attr_unnamed 0": 276,
+        "os": "Android",
+        "attr_popularity": 750,
+        "mrp": 1368.0,
+        "attr_highest price": 1646.0,
+        "attr_sellers amount": 44,
+        "display_size": 5.0,
+        "attr_memory size": 16.0,
+        "attr_battery size": 2000.0,
+        "release_date": 5
+      }
+    },
+    "80d4b804-32fc-508f-94c7-25b6a9d4ab8c": {
+      "id": "80d4b804-32fc-508f-94c7-25b6a9d4ab8c",
+      "brand": "ZTE",
+      "model": "Blade L8 1/16GB Blue",
+      "attributes": {
+        "attr_unnamed 0": 277,
+        "os": "Android",
+        "attr_popularity": 691,
+        "mrp": 1368.0,
+        "attr_highest price": 1917.0,
+        "attr_sellers amount": 45,
+        "display_size": 5.0,
+        "attr_memory size": 16.0,
+        "attr_battery size": 2000.0,
+        "release_date": 6
+      }
+    },
+    "fe3e1430-1a9e-590c-912c-439e91704302": {
+      "id": "fe3e1430-1a9e-590c-912c-439e91704302",
+      "brand": "ZTE",
+      "model": "Blade V2020 Smart 4/128GB Grey",
+      "attributes": {
+        "attr_unnamed 0": 278,
+        "os": "Android",
+        "attr_popularity": 951,
+        "mrp": 3755.0,
+        "attr_highest price": 4435.0,
+        "attr_sellers amount": 45,
+        "display_size": 6.82,
+        "attr_memory size": 128.0,
+        "attr_battery size": 5000.0,
+        "release_date": 11
+      }
+    },
+    "09cf4d75-723f-5543-abc5-07ce78b8669d": {
+      "id": "09cf4d75-723f-5543-abc5-07ce78b8669d",
+      "brand": "ZTE",
+      "model": "Blade V2020 Smart 4/64GB Grey",
+      "attributes": {
+        "attr_unnamed 0": 279,
+        "os": "Android",
+        "attr_popularity": 941,
+        "mrp": 3577.0,
+        "attr_highest price": 4171.0,
+        "attr_sellers amount": 43,
+        "display_size": 6.82,
+        "attr_memory size": 64.0,
+        "attr_battery size": 5000.0,
+        "release_date": 11
+      }
+    },
+    "a98e92e5-4e32-52fd-82f5-e5ccf1ae679c": {
+      "id": "a98e92e5-4e32-52fd-82f5-e5ccf1ae679c",
+      "brand": "ZTE",
+      "model": "Nubia Z17 8/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 676,
+        "os": "Android",
+        "attr_popularity": 220,
+        "attr_sellers amount": 1,
+        "display_size": 5.5,
+        "attr_memory size": 64.0,
+        "attr_battery size": 3200.0,
+        "release_date": 1
+      }
+    },
+    "7159a90c-0ed4-54f5-bf7b-db09dc442ba8": {
+      "id": "7159a90c-0ed4-54f5-bf7b-db09dc442ba8",
+      "brand": "ZTE",
+      "model": "nubia Red Magic 5G 8/128GB Black",
+      "attributes": {
+        "attr_unnamed 0": 1222,
+        "os": "Android",
+        "attr_popularity": 752,
+        "mrp": 18500.0,
+        "attr_highest price": 19010.0,
+        "attr_sellers amount": 2,
+        "display_size": 6.65,
+        "attr_memory size": 128.0,
+        "attr_battery size": 4500.0,
+        "release_date": 10
+      }
+    },
+    "0c3e545c-cf23-5f22-83b5-5540f52695f3": {
+      "id": "0c3e545c-cf23-5f22-83b5-5540f52695f3",
+      "brand": "ZTE",
+      "model": "Axon 40 Ultra 5G",
+      "attributes": {
+        "price": "₹61,990",
+        "rating": 89.0,
+        "sim": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",
+        "chipset": "Snapdragon 8 Gen1, Octa Core, 3 GHz Processor",
+        "ram": 8,
+        "battery_capacity": 5000,
+        "display_size": 6.8,
+        "camera_main": 64,
+        "attr_card": "Android v12",
+        "os": "No FM Radio"
+      }
+    },
+    "25aeef21-6340-5158-8574-4e2d4b1175aa": {
+      "id": "25aeef21-6340-5158-8574-4e2d4b1175aa",
+      "brand": "ZTE",
+      "model": "Axon 30S",
+      "attributes": {
+        "price": "₹19,999",
+        "rating": 82.0,
+        "sim": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",
+        "chipset": "Snapdragon 870 , Octa Core, 3.2 GHz Processor",
+        "ram": 6,
+        "battery_capacity": 4200,
+        "display_size": 6.9,
+        "camera_main": 50,
+        "attr_card": "Memory Card (Hybrid)",
+        "os": "Android v12"
+      }
+    },
+    "06fcf156-8b25-5d78-9e01-e542f74580f1": {
+      "id": "06fcf156-8b25-5d78-9e01-e542f74580f1",
+      "brand": "zte",
+      "model": "ZTE Axon 40 Ultra 5G",
+      "attributes": {
+        "price": [
+          61990
+        ],
+        "rating": 89.0,
+        "attr_has 5g": true,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "snapdragon",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 3.0,
+        "battery_capacity": 5000.0,
+        "attr_fast charging available": 1,
+        "charging": 65.0,
+        "attr_ram capacity": 8,
+        "attr_internal memory": 128,
+        "display_size": 6.8,
+        "refresh_rate": 120,
+        "camera_main": 16.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 0,
+        "attr_resolution width": 1116,
+        "attr_resolution height": 2480
+      }
+    },
+    "2e402be2-48ca-5508-a5d7-e421d85b3e01": {
+      "id": "2e402be2-48ca-5508-a5d7-e421d85b3e01",
+      "brand": "zte",
+      "model": "ZTE Axon 30S",
+      "attributes": {
+        "price": [
+          19999
+        ],
+        "rating": 82.0,
+        "attr_has 5g": true,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "snapdragon",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 3.2,
+        "battery_capacity": 4200.0,
+        "attr_fast charging available": 1,
+        "charging": 55.0,
+        "attr_ram capacity": 6,
+        "attr_internal memory": 128,
+        "display_size": 6.9,
+        "refresh_rate": 120,
+        "camera_main": 16.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 1,
+        "attr_resolution width": 1080,
+        "attr_resolution height": 2460
+      }
+    },
+    "7baa406a-e347-5c8d-baaa-ce0e74e232cb": {
+      "id": "7baa406a-e347-5c8d-baaa-ce0e74e232cb",
+      "brand": "ZTE",
+      "model": "Anthem 4G",
+      "attributes": {
+        "os": "Android 2.3",
+        "battery_capacity": 1780.0,
+        "chipset": "Qualcomm Snapdragon",
+        "attr_memory": 0.5,
+        "attr_primary storage": 2.0,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "c95939c9-9d8f-5f86-95f1-22f7c7dbdff6": {
+      "id": "c95939c9-9d8f-5f86-95f1-22f7c7dbdff6",
+      "brand": "ZTE",
+      "model": "Apache",
+      "attributes": {
+        "os": "Android ",
+        "chipset": "MediaTek",
+        "camera_main": 13.0
+      }
+    },
+    "0e652ae9-b07b-543e-aa4b-a9c6393b5780": {
+      "id": "0e652ae9-b07b-543e-aa4b-a9c6393b5780",
+      "brand": "ZTE",
+      "model": "Avid 4",
+      "attributes": {
+        "os": "Android 7.1 Nougat",
+        "battery_capacity": 2520.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "cacadbb0-5cc0-5257-8b3a-88bbfae44566": {
+      "id": "cacadbb0-5cc0-5257-8b3a-88bbfae44566",
+      "brand": "ZTE",
+      "model": "Avid 4G",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1730.0,
+        "attr_primary storage": 2.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "196b8594-1a32-5d75-b638-68c910d24ad9": {
+      "id": "196b8594-1a32-5d75-b638-68c910d24ad9",
+      "brand": "ZTE",
+      "model": "Avid Plus",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Jan 20, 2016",
+        "battery_capacity": 2300.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "c96d4676-526d-5f90-accb-b396c17dae7b": {
+      "id": "c96d4676-526d-5f90-accb-b396c17dae7b",
+      "brand": "ZTE",
+      "model": "Avid Trio",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Nov 11, 2016",
+        "battery_capacity": 2800.0,
+        "chipset": "Qualcomm Snapdragon 425",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "f6d86445-1dec-584b-b6fd-59e739f9bb20": {
+      "id": "f6d86445-1dec-584b-b6fd-59e739f9bb20",
+      "brand": "ZTE",
+      "model": "Axon",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Aug 03, 2015",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 801",
+        "attr_memory": 2.0,
+        "attr_primary storage": 32.0,
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "a71c8326-bf6d-5646-aa2d-c544a133e447": {
+      "id": "a71c8326-bf6d-5646-aa2d-c544a133e447",
+      "brand": "ZTE",
+      "model": "Axon 10 Pro",
+      "attributes": {
+        "os": "Android 10",
+        "release_date": "May 10, 2019",
+        "battery_capacity": 4000.0,
+        "chipset": "Qualcomm Snapdragon 855",
+        "attr_memory": 12.0,
+        "attr_primary storage": 256.0,
+        "storage": " microSDXC",
+        "display_size": 6.5,
+        "attr_display resolution": 2340,
+        "camera_main": 48.0,
+        "camera_front": 20
+      }
+    },
+    "23da15ae-5a59-5374-94b7-4157b3c2a605": {
+      "id": "23da15ae-5a59-5374-94b7-4157b3c2a605",
+      "brand": "ZTE",
+      "model": "Axon 10s Pro",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "battery_capacity": 4000.0,
+        "chipset": "Qualcomm Snapdragon 865",
+        "attr_memory": 6.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.5,
+        "attr_display resolution": 2340,
+        "camera_main": 48.0,
+        "camera_front": 20
+      }
+    },
+    "5550ad9f-ef30-5024-9f99-d7d9858e4aab": {
+      "id": "5550ad9f-ef30-5024-9f99-d7d9858e4aab",
+      "brand": "ZTE",
+      "model": "Axon 11",
+      "attributes": {
+        "os": "Android 10",
+        "release_date": "Mar 30, 2020",
+        "battery_capacity": 4000.0,
+        "chipset": "Qualcomm Snapdragon 765G",
+        "attr_memory": 6.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.5,
+        "attr_display resolution": 2340,
+        "camera_main": 64.0,
+        "camera_front": 20
+      }
+    },
+    "957fa613-3a01-54da-bc4b-d33dc9546ca1": {
+      "id": "957fa613-3a01-54da-bc4b-d33dc9546ca1",
+      "brand": "ZTE",
+      "model": "Axon 20",
+      "attributes": {
+        "os": "Android 10",
+        "release_date": "Dec 21, 2020",
+        "battery_capacity": 4220.0,
+        "chipset": "Qualcomm Snapdragon 765G",
+        "attr_memory": 8.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.9,
+        "attr_display resolution": 2460,
+        "refresh_rate": 90.0,
+        "camera_main": 64.0,
+        "camera_front": 32
+      }
+    },
+    "ab6f925c-77b8-55f7-b377-9a037fa7becf": {
+      "id": "ab6f925c-77b8-55f7-b377-9a037fa7becf",
+      "brand": "ZTE",
+      "model": "Axon 30 5G",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "Sep 09, 2021",
+        "battery_capacity": 4500.0,
+        "chipset": "Qualcomm Snapdragon 870 5G",
+        "attr_memory": 6.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.9,
+        "attr_display resolution": 2460,
+        "refresh_rate": 120.0,
+        "camera_main": 64.0,
+        "camera_front": 16
+      }
+    },
+    "e66178c1-9977-56ad-a114-5fbd7c75d2c9": {
+      "id": "e66178c1-9977-56ad-a114-5fbd7c75d2c9",
+      "brand": "ZTE",
+      "model": "Axon 30 Ultra",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "Jun 04, 2021",
+        "battery_capacity": 4600.0,
+        "chipset": "Qualcomm Snapdragon 888",
+        "attr_memory": 8.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.7,
+        "attr_display resolution": 2400,
+        "refresh_rate": 144.0,
+        "camera_main": 64.0,
+        "camera_front": 16
+      }
+    },
+    "a0a88888-c50d-5b46-acc5-e2d10cf9bb2b": {
+      "id": "a0a88888-c50d-5b46-acc5-e2d10cf9bb2b",
+      "brand": "ZTE",
+      "model": "Axon 40 Pro",
+      "attributes": {
+        "os": "Android 12",
+        "release_date": "May 31, 2022",
+        "battery_capacity": 5000.0,
+        "chipset": "Qualcomm Snapdragon 870",
+        "attr_memory": 8.0,
+        "attr_primary storage": 128.0,
+        "storage": " not expandable",
+        "display_size": 6.7,
+        "attr_display resolution": 2400,
+        "refresh_rate": 144.0,
+        "camera_main": 108.0,
+        "camera_front": 16
+      }
+    },
+    "43de6993-2003-53f6-822e-82c401da8386": {
+      "id": "43de6993-2003-53f6-822e-82c401da8386",
+      "brand": "ZTE",
+      "model": "Axon 40 Ultra",
+      "attributes": {
+        "os": "Android 12",
+        "release_date": "Jun 21, 2022",
+        "chipset": "Qualcomm Snapdragon 8 Gen 1",
+        "attr_memory": 8.0,
+        "attr_primary storage": 128.0,
+        "storage": " not expandable",
+        "display_size": 6.8,
+        "attr_display resolution": 2480,
+        "camera_main": 64.0,
+        "camera_front": 16
+      }
+    },
+    "059bd445-f127-58ad-8417-4f41145f8fd7": {
+      "id": "059bd445-f127-58ad-8417-4f41145f8fd7",
+      "brand": "ZTE",
+      "model": "Axon 7",
+      "attributes": {
+        "os": "Android 8.0 Oreo",
+        "release_date": "May 26, 2016",
+        "battery_capacity": 3250.0,
+        "chipset": "Qualcomm Snapdragon 820",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 2560,
+        "camera_main": 20.0,
+        "camera_front": 8
+      }
+    },
+    "75b73566-62b2-50e8-a696-24eeb6bd5c4b": {
+      "id": "75b73566-62b2-50e8-a696-24eeb6bd5c4b",
+      "brand": "ZTE",
+      "model": "Axon 7 Mini",
+      "attributes": {
+        "os": "Android 7.1 Nougat",
+        "release_date": "Oct 27, 2016",
+        "battery_capacity": 2705.0,
+        "chipset": "Qualcomm Snapdragon 617",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 1920,
+        "camera_main": 16.0,
+        "camera_front": 8
+      }
+    },
+    "0e936162-7487-5594-9efe-0355807ecf44": {
+      "id": "0e936162-7487-5594-9efe-0355807ecf44",
+      "brand": "ZTE",
+      "model": "Axon 9 Pro",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "release_date": "Oct 16, 2018",
+        "battery_capacity": 4000.0,
+        "chipset": "Qualcomm Snapdragon 845",
+        "attr_memory": 6.0,
+        "attr_primary storage": 128.0,
+        "display_size": 6.2,
+        "attr_display resolution": 2248,
+        "camera_main": 12.0,
+        "camera_front": 20
+      }
+    },
+    "78c65673-7dc1-5716-8e8d-6cb313a7e7d5": {
+      "id": "78c65673-7dc1-5716-8e8d-6cb313a7e7d5",
+      "brand": "ZTE",
+      "model": "Axon Elite",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "release_date": "Sep 24, 2015",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 810",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "dd836b14-4c5a-506b-98bd-b4d84c220822": {
+      "id": "dd836b14-4c5a-506b-98bd-b4d84c220822",
+      "brand": "ZTE",
+      "model": "Axon Lux",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Nov 01, 2015",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 810",
+        "attr_memory": 4.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 2560,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "8f53cec1-ee89-520d-bbc9-96de6cee4200": {
+      "id": "8f53cec1-ee89-520d-bbc9-96de6cee4200",
+      "brand": "ZTE",
+      "model": "Axon M",
+      "attributes": {
+        "os": "Android 7.1 Nougat",
+        "release_date": "Nov 01, 2017",
+        "battery_capacity": 3180.0,
+        "chipset": "Qualcomm Snapdragon 821",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 1920,
+        "camera_main": 20.0
+      }
+    },
+    "746a588b-bcf7-5f4f-bcbf-e81155af7b79": {
+      "id": "746a588b-bcf7-5f4f-bcbf-e81155af7b79",
+      "brand": "ZTE",
+      "model": "Axon Max",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Dec 31, 2015",
+        "battery_capacity": 4140.0,
+        "chipset": "Qualcomm Snapdragon 617",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1920,
+        "camera_main": 16.0,
+        "camera_front": 13
+      }
+    },
+    "e376e0b1-fae6-511b-ae8a-0668d7e7aee7": {
+      "id": "e376e0b1-fae6-511b-ae8a-0668d7e7aee7",
+      "brand": "ZTE",
+      "model": "Axon Mini",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Nov 13, 2015",
+        "battery_capacity": 2800.0,
+        "chipset": "Qualcomm Snapdragon 616",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "e873946e-48c2-5be5-9101-927bbceec7bc": {
+      "id": "e873946e-48c2-5be5-9101-927bbceec7bc",
+      "brand": "ZTE",
+      "model": "Axon Pro",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Aug 03, 2015",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 810",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "display_size": 5.5,
+        "attr_display resolution": 2560,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "50ae2688-0a3c-549a-ac5c-48755df7282e": {
+      "id": "50ae2688-0a3c-549a-ac5c-48755df7282e",
+      "brand": "ZTE",
+      "model": "Blade",
+      "attributes": {
+        "os": "Android 2.1",
+        "release_date": "Nov 01, 2010",
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 800,
+        "camera_main": 3.0
+      }
+    },
+    "e192d855-9387-5cc7-8718-f4e2ff982a46": {
+      "id": "e192d855-9387-5cc7-8718-f4e2ff982a46",
+      "brand": "ZTE",
+      "model": "Blade 10",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "Nov 07, 2019",
+        "battery_capacity": 3100.0,
+        "chipset": "MediaTek Helio P60",
+        "attr_memory": 3.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.3,
+        "attr_display resolution": 2280,
+        "camera_main": 16.0,
+        "camera_front": 16
+      }
+    },
+    "1e18019a-1e9a-515f-9a08-c1402da3c359": {
+      "id": "1e18019a-1e9a-515f-9a08-c1402da3c359",
+      "brand": "ZTE",
+      "model": "Blade 11 Prime",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "Apr 27, 2021",
+        "battery_capacity": 4000.0,
+        "chipset": "MediaTek Helio P22",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.5,
+        "attr_display resolution": 1600,
+        "refresh_rate": 60.0,
+        "camera_main": 16.0,
+        "camera_front": 8
+      }
+    },
+    "fc67a027-edce-5c81-b27a-cc0561c07070": {
+      "id": "fc67a027-edce-5c81-b27a-cc0561c07070",
+      "brand": "ZTE",
+      "model": "Blade C",
+      "attributes": {
+        "os": "Android 4.1",
+        "battery_capacity": 1600.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0
+      }
+    },
+    "0c6a2db0-ea00-59b5-a0f9-5cc0a41a3c65": {
+      "id": "0c6a2db0-ea00-59b5-a0f9-5cc0a41a3c65",
+      "brand": "ZTE",
+      "model": "Blade Force",
+      "attributes": {
+        "os": "Android 7.1 Nougat",
+        "release_date": "Oct 10, 2017",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 427",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "32b76c96-1e66-5c18-b8fa-fc5912deeb3d": {
+      "id": "32b76c96-1e66-5c18-b8fa-fc5912deeb3d",
+      "brand": "ZTE",
+      "model": "Blade II",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1200.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.5,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "03588b51-e9bc-5245-82dc-9c1a112180b8": {
+      "id": "03588b51-e9bc-5245-82dc-9c1a112180b8",
+      "brand": "ZTE",
+      "model": "Blade III",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1650.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "a0998f65-ff8c-53a7-8051-2a72b07eeb54": {
+      "id": "a0998f65-ff8c-53a7-8051-2a72b07eeb54",
+      "brand": "ZTE",
+      "model": "Blade Max 2s",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "release_date": "Oct 31, 2018",
+        "battery_capacity": 4000.0,
+        "chipset": "Qualcomm Snapdragon 435",
+        "attr_memory": 2.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 2160,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "944c0e5e-f3ae-58e5-a7d6-b2b0d17526ad": {
+      "id": "944c0e5e-f3ae-58e5-a7d6-b2b0d17526ad",
+      "brand": "ZTE",
+      "model": "Blade Max 3",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Apr 25, 2017",
+        "battery_capacity": 4000.0,
+        "chipset": "Qualcomm Snapdragon 625",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "89bc0d48-8b10-5b8a-afb7-4625262209db": {
+      "id": "89bc0d48-8b10-5b8a-afb7-4625262209db",
+      "brand": "ZTE",
+      "model": "Blade Max View",
+      "attributes": {
+        "os": "Android 7.1 Nougat",
+        "release_date": "Oct 31, 2018",
+        "battery_capacity": 4000.0,
+        "chipset": "Qualcomm Snapdragon 435",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 2160,
+        "camera_main": 16.0,
+        "camera_front": 8
+      }
+    },
+    "4565d831-8b48-5fa7-b7e1-1679fcc2cfb9": {
+      "id": "4565d831-8b48-5fa7-b7e1-1679fcc2cfb9",
+      "brand": "ZTE",
+      "model": "Blade Q Mini",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 1500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "16ff154a-5c09-51e1-b967-a93cbc69f08b": {
+      "id": "16ff154a-5c09-51e1-b967-a93cbc69f08b",
+      "brand": "ZTE",
+      "model": "Blade S6",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "battery_capacity": 2400.0,
+        "chipset": "Qualcomm Snapdragon 615",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "4e4126d5-7e21-5728-9b18-90a61b5e7129": {
+      "id": "4e4126d5-7e21-5728-9b18-90a61b5e7129",
+      "brand": "ZTE",
+      "model": "Blade S6 Plus",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 615",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "426b593b-9dc8-53bc-9e1b-10e3ba7460f8": {
+      "id": "426b593b-9dc8-53bc-9e1b-10e3ba7460f8",
+      "brand": "ZTE",
+      "model": "Blade Spark",
+      "attributes": {
+        "os": "Android 7.1 Nougat",
+        "release_date": "Jul 14, 2017",
+        "battery_capacity": 3140.0,
+        "chipset": "Qualcomm Snapdragon 425",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "dc4a0339-568f-580d-9c76-a054d6de35f5": {
+      "id": "dc4a0339-568f-580d-9c76-a054d6de35f5",
+      "brand": "ZTE",
+      "model": "Blade V10",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "March 2019",
+        "battery_capacity": 3200.0,
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.3,
+        "camera_main": 16.0,
+        "camera_front": 32
+      }
+    },
+    "2b89e10c-8b1b-523a-9f15-b1bdec33a022": {
+      "id": "2b89e10c-8b1b-523a-9f15-b1bdec33a022",
+      "brand": "ZTE",
+      "model": "Blade V6",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "release_date": "Jul 24, 2015",
+        "battery_capacity": 2200.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "d313cd4d-b2ab-5cab-9955-bf3b62fe5ec2": {
+      "id": "d313cd4d-b2ab-5cab-9955-bf3b62fe5ec2",
+      "brand": "ZTE",
+      "model": "Blade V7",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "16cd7f5b-ae74-5025-abc0-708d2c511ce7": {
+      "id": "16cd7f5b-ae74-5025-abc0-708d2c511ce7",
+      "brand": "ZTE",
+      "model": "Blade V7 Lite",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "fef85a81-f88f-58d1-b3c5-3d059b07fd32": {
+      "id": "fef85a81-f88f-58d1-b3c5-3d059b07fd32",
+      "brand": "ZTE",
+      "model": "Blade V8",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "release_date": "Feb 01, 2017",
+        "battery_capacity": 2730.0,
+        "chipset": "Qualcomm Snapdragon 435",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 13
+      }
+    },
+    "3ddc51f3-73af-5873-87a4-050223e50e6b": {
+      "id": "3ddc51f3-73af-5873-87a4-050223e50e6b",
+      "brand": "ZTE",
+      "model": "Blade V8 Lite",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "release_date": "Jun 01, 2017",
+        "battery_capacity": 2500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "9c6ee894-a6c4-5091-892a-645543ca463a": {
+      "id": "9c6ee894-a6c4-5091-892a-645543ca463a",
+      "brand": "ZTE",
+      "model": "Blade V8 Mini",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "release_date": "Jul 01, 2017",
+        "battery_capacity": 2800.0,
+        "chipset": "Qualcomm Snapdragon 435",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "631fec3d-a32e-575e-b498-a020c22fbc20": {
+      "id": "631fec3d-a32e-575e-b498-a020c22fbc20",
+      "brand": "ZTE",
+      "model": "Blade V8 Pro",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Jan 18, 2017",
+        "battery_capacity": 3140.0,
+        "chipset": "Qualcomm Snapdragon 625",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "2782021c-751d-5df2-ac1e-d57d84d0d84e": {
+      "id": "2782021c-751d-5df2-ac1e-d57d84d0d84e",
+      "brand": "ZTE",
+      "model": "Blade V9",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "release_date": "Aug 15, 2018",
+        "battery_capacity": 3200.0,
+        "chipset": "Qualcomm Snapdragon 450",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 2160,
+        "camera_main": 16.0,
+        "camera_front": 8
+      }
+    },
+    "082fc80f-a3aa-5545-bc03-40c9eaf15628": {
+      "id": "082fc80f-a3aa-5545-bc03-40c9eaf15628",
+      "brand": "ZTE",
+      "model": "Blade Vantage",
+      "attributes": {
+        "os": "Android 7.1 Nougat",
+        "release_date": "Oct 05, 2017",
+        "battery_capacity": 2500.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "9ab3aff2-4796-5f05-afd4-272808784448": {
+      "id": "9ab3aff2-4796-5f05-afd4-272808784448",
+      "brand": "ZTE",
+      "model": "Blade Vantage 2",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "September 2019",
+        "battery_capacity": 2050.0,
+        "chipset": "MediaTek Helio A22",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "009e667c-91b4-5358-9714-48d07d6f2108": {
+      "id": "009e667c-91b4-5358-9714-48d07d6f2108",
+      "brand": "ZTE",
+      "model": "Blade Vec 3G",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2300.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "88d542fc-f001-5177-8e4f-02e1128167df": {
+      "id": "88d542fc-f001-5177-8e4f-02e1128167df",
+      "brand": "ZTE",
+      "model": "Blade Vec 4G",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 2300.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 1
+      }
+    },
+    "033ee17b-9976-5850-b75e-c293971a762b": {
+      "id": "033ee17b-9976-5850-b75e-c293971a762b",
+      "brand": "ZTE",
+      "model": "Blade X",
+      "attributes": {
+        "os": "Android 7.1 Nougat",
+        "release_date": "Oct 20, 2017",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 425",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "8235c4e8-d7e6-55e9-8b03-0db448408b33": {
+      "id": "8235c4e8-d7e6-55e9-8b03-0db448408b33",
+      "brand": "ZTE",
+      "model": "Blade X Max",
+      "attributes": {
+        "os": "Android 7.1 Nougat",
+        "release_date": "May 12, 2017",
+        "battery_capacity": 3400.0,
+        "chipset": "Qualcomm Snapdragon 435",
+        "attr_memory": 2.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "3bb3ec1a-0807-51e3-ba14-18d70505c43b": {
+      "id": "3bb3ec1a-0807-51e3-ba14-18d70505c43b",
+      "brand": "ZTE",
+      "model": "Blade Z Max",
+      "attributes": {
+        "os": "Android 7.1 Nougat",
+        "release_date": "Aug 28, 2017",
+        "battery_capacity": 4080.0,
+        "chipset": "Qualcomm Snapdragon 435",
+        "attr_memory": 2.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1920,
+        "camera_main": 16.0,
+        "camera_front": 8
+      }
+    },
+    "36ebe73f-2a52-519d-bd62-8c41c3858e57": {
+      "id": "36ebe73f-2a52-519d-bd62-8c41c3858e57",
+      "brand": "ZTE",
+      "model": "Compel",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 1820.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "e63e266e-4431-5ecd-b14c-648d9999576e": {
+      "id": "e63e266e-4431-5ecd-b14c-648d9999576e",
+      "brand": "ZTE",
+      "model": "Director",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon MSM7626A",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "388caf7b-c66e-54e3-b395-4c06de7c24ef": {
+      "id": "388caf7b-c66e-54e3-b395-4c06de7c24ef",
+      "brand": "ZTE",
+      "model": "Engage",
+      "attributes": {
+        "os": "Android 4.0",
+        "release_date": "Oct 02, 2012",
+        "battery_capacity": 1900.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 1.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 8.0,
+        "camera_front": 0.3
+      }
+    },
+    "9bbd3e3c-c796-5645-8aaa-5918650742cc": {
+      "id": "9bbd3e3c-c796-5645-8aaa-5918650742cc",
+      "brand": "ZTE",
+      "model": "Engage LT",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1900.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 1.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "6f71ab5d-f067-59c2-9b4c-660684b08dfb": {
+      "id": "6f71ab5d-f067-59c2-9b4c-660684b08dfb",
+      "brand": "ZTE",
+      "model": "Engage MT",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1900.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 1.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "20f12fa9-1399-503b-b4b8-b7692e83591e": {
+      "id": "20f12fa9-1399-503b-b4b8-b7692e83591e",
+      "brand": "ZTE",
+      "model": "Era",
+      "attributes": {
+        "os": "Android 4.0",
+        "chipset": "NVIDIA Tegra 3",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 960,
+        "camera_main": 8.0
+      }
+    },
+    "829c6dd7-780f-557c-9bf6-ae2f700ca664": {
+      "id": "829c6dd7-780f-557c-9bf6-ae2f700ca664",
+      "brand": "ZTE",
+      "model": "FTV Phone",
+      "attributes": {
+        "os": "Android 2.2",
+        "battery_capacity": 1250.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 800,
+        "camera_main": 3.0
+      }
+    },
+    "7271bcdc-ad45-5122-9795-1066df476713": {
+      "id": "7271bcdc-ad45-5122-9795-1066df476713",
+      "brand": "ZTE",
+      "model": "Fanfare",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "May 20, 2015",
+        "battery_capacity": 2000.0,
+        "chipset": "Qualcomm Snapdragon 200",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "1233d429-773f-586c-a2b3-e875238ff447": {
+      "id": "1233d429-773f-586c-a2b3-e875238ff447",
+      "brand": "ZTE",
+      "model": "Fanfare 2",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Oct 01, 2016",
+        "battery_capacity": 2200.0,
+        "chipset": "Qualcomm Snapdragon",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "5b4eb577-f28c-5d63-9fca-3a555a2423f9": {
+      "id": "5b4eb577-f28c-5d63-9fca-3a555a2423f9",
+      "brand": "ZTE",
+      "model": "Flash",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1780.0,
+        "chipset": "Qualcomm Snapdragon S4 Plus",
+        "attr_memory": 1.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 1280,
+        "camera_main": 12.0
+      }
+    },
+    "e10cf013-755e-547a-95d7-028dd7e81ac8": {
+      "id": "e10cf013-755e-547a-95d7-028dd7e81ac8",
+      "brand": "ZTE",
+      "model": "Fury",
+      "attributes": {
+        "os": "Android 2.3",
+        "release_date": "Mar 11, 2012",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "b4cb542a-5097-54e7-9ec4-7a071f7e35fb": {
+      "id": "b4cb542a-5097-54e7-9ec4-7a071f7e35fb",
+      "brand": "ZTE",
+      "model": "Geek",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 2300.0,
+        "chipset": "NVIDIA Tegra 4",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 2
+      }
+    },
+    "92d40854-28b5-5012-855e-a821349c4b02": {
+      "id": "92d40854-28b5-5012-855e-a821349c4b02",
+      "brand": "ZTE",
+      "model": "Grand Era",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1800.0,
+        "chipset": "Nvidia Tegra 3",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 1.3
+      }
+    },
+    "5366ced4-76a0-5f1e-986a-9ec01a8664b8": {
+      "id": "5366ced4-76a0-5f1e-986a-9ec01a8664b8",
+      "brand": "ZTE",
+      "model": "Grand Memo",
+      "attributes": {
+        "os": "Android 4.1",
+        "battery_capacity": 3200.0,
+        "chipset": "Qualcomm Snapdragon 600",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "display_size": 5.7,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0
+      }
+    },
+    "c356c69a-7f7e-580d-a6b9-89c9daad3090": {
+      "id": "c356c69a-7f7e-580d-a6b9-89c9daad3090",
+      "brand": "ZTE",
+      "model": "Grand Memo II LTE",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 3200.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSD",
+        "display_size": 6.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "a15d16ee-acc0-590a-866e-e39b7ef96f2f": {
+      "id": "a15d16ee-acc0-590a-866e-e39b7ef96f2f",
+      "brand": "ZTE",
+      "model": "Grand S",
+      "attributes": {
+        "os": "Android 4.1",
+        "battery_capacity": 1780.0,
+        "chipset": "Qualcomm Snapdragon S4 Pro",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 2
+      }
+    },
+    "f3b03054-8df7-54a9-89b3-319d0505c240": {
+      "id": "f3b03054-8df7-54a9-89b3-319d0505c240",
+      "brand": "ZTE",
+      "model": "Grand S Flex",
+      "attributes": {
+        "os": "Android 4.1",
+        "release_date": "Nov 06, 2013",
+        "battery_capacity": 2300.0,
+        "chipset": "Qualcomm Snapdragon S4 Plus",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 1.2
+      }
+    },
+    "70c9fd09-304e-5f30-a5ab-aa4aa723b82a": {
+      "id": "70c9fd09-304e-5f30-a5ab-aa4aa723b82a",
+      "brand": "ZTE",
+      "model": "Grand S II",
+      "attributes": {
+        "os": "Android 4.3",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 800",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 2
+      }
+    },
+    "4d41c325-14ab-5c16-acb6-1a816f10d168": {
+      "id": "4d41c325-14ab-5c16-acb6-1a816f10d168",
+      "brand": "ZTE",
+      "model": "Grand S Pro",
+      "attributes": {
+        "os": "Android 4.3",
+        "battery_capacity": 2300.0,
+        "chipset": "Qualcomm Snapdragon 800",
+        "attr_memory": 2.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 2
+      }
+    },
+    "e3258a0a-705f-5ec3-9e1e-7deae7c09c6a": {
+      "id": "e3258a0a-705f-5ec3-9e1e-7deae7c09c6a",
+      "brand": "ZTE",
+      "model": "Grand S3",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 3100.0,
+        "chipset": "Qualcomm Snapdragon 801",
+        "attr_memory": 3.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 16.0,
+        "camera_front": 8
+      }
+    },
+    "304aa106-3f30-5563-87e5-abd818ca3f73": {
+      "id": "304aa106-3f30-5563-87e5-abd818ca3f73",
+      "brand": "ZTE",
+      "model": "Grand X",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1650.0,
+        "chipset": "NVIDIA Tegra 2",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "98d51844-3cd9-5a71-8db4-a474063dfb30": {
+      "id": "98d51844-3cd9-5a71-8db4-a474063dfb30",
+      "brand": "ZTE",
+      "model": "Grand X 3",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Jan 29, 2016",
+        "battery_capacity": 3080.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "93d8ee79-acb2-509c-8c8a-858a26143896": {
+      "id": "93d8ee79-acb2-509c-8c8a-858a26143896",
+      "brand": "ZTE",
+      "model": "Grand X 4",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Nov 18, 2016",
+        "battery_capacity": 3140.0,
+        "chipset": "Qualcomm Snapdragon 425",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "0013a375-af98-57c8-8629-e76beb9788b6": {
+      "id": "0013a375-af98-57c8-8629-e76beb9788b6",
+      "brand": "ZTE",
+      "model": "Grand X IN",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1650.0,
+        "chipset": "Intel Atom",
+        "attr_memory": 1.0,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 0.3
+      }
+    },
+    "2023d98e-5478-5d1a-96d0-7e72316c8492": {
+      "id": "2023d98e-5478-5d1a-96d0-7e72316c8492",
+      "brand": "ZTE",
+      "model": "Grand X LTE",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1900.0,
+        "chipset": "Qualcomm Snapdragon S4 Plus",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 1.3
+      }
+    },
+    "f5640efc-0a3a-5d5f-b6de-6faf7ca56f15": {
+      "id": "f5640efc-0a3a-5d5f-b6de-6faf7ca56f15",
+      "brand": "ZTE",
+      "model": "Grand X Max",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 3200.0,
+        "chipset": "Qualcomm Snapdragon 200",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 6.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 1
+      }
+    },
+    "3984825a-b434-51ed-b414-8b75279bbfae": {
+      "id": "3984825a-b434-51ed-b414-8b75279bbfae",
+      "brand": "ZTE",
+      "model": "Grand X Max 2",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "May 20, 2016",
+        "battery_capacity": 3400.0,
+        "chipset": "Qualcomm Snapdragon 617",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "58c7eddb-7e2c-561c-b548-92085744c2cd": {
+      "id": "58c7eddb-7e2c-561c-b548-92085744c2cd",
+      "brand": "ZTE",
+      "model": "Grand X Max+",
+      "attributes": {
+        "os": "Android 4.4.4",
+        "battery_capacity": 3200.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 6.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "ac475543-cfc8-52bd-9418-9077c492aca1": {
+      "id": "ac475543-cfc8-52bd-9418-9077c492aca1",
+      "brand": "ZTE",
+      "model": "Grand X Pro",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 0.3
+      }
+    },
+    "3b49abc7-b22b-5e66-9dc2-997b69aea53b": {
+      "id": "3b49abc7-b22b-5e66-9dc2-997b69aea53b",
+      "brand": "ZTE",
+      "model": "Grand X Quad",
+      "attributes": {
+        "os": "Android 4.1.2",
+        "battery_capacity": 2500.0,
+        "attr_memory": 1.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 1.2
+      }
+    },
+    "23c1bc5e-60ca-5d68-be47-7f4460f053a7": {
+      "id": "23c1bc5e-60ca-5d68-be47-7f4460f053a7",
+      "brand": "ZTE",
+      "model": "Grand X2 In",
+      "attributes": {
+        "os": "Android 4.1",
+        "battery_capacity": 2000.0,
+        "chipset": "Intel Atom",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 1.2
+      }
+    },
+    "6e8c50d3-d9e6-596e-a708-a71449f80c25": {
+      "id": "6e8c50d3-d9e6-596e-a708-a71449f80c25",
+      "brand": "ZTE",
+      "model": "Grand X2 Premium Pack",
+      "attributes": {
+        "os": "Android 4.2",
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "9249c2f4-48a8-5f97-b21e-287669b667fa": {
+      "id": "9249c2f4-48a8-5f97-b21e-287669b667fa",
+      "brand": "ZTE",
+      "model": "Groove",
+      "attributes": {
+        "os": "Android 2.3",
+        "release_date": "Nov 05, 2012",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.5,
+        "attr_primary storage": 1.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "c9b3eb8b-654d-5f19-b781-7d2283452f6e": {
+      "id": "c9b3eb8b-654d-5f19-b781-7d2283452f6e",
+      "brand": "ZTE",
+      "model": "Imperial",
+      "attributes": {
+        "os": "Android 4.1",
+        "battery_capacity": 2500.0,
+        "chipset": "Qualcomm Snapdragon S4 Plus",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "9fa5ca44-0e06-5994-af73-267be5f37bb8": {
+      "id": "9fa5ca44-0e06-5994-af73-267be5f37bb8",
+      "brand": "ZTE",
+      "model": "Imperial II",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 2300.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 1
+      }
+    },
+    "65185599-5b2e-53f5-8fe2-894704cef874": {
+      "id": "65185599-5b2e-53f5-8fe2-894704cef874",
+      "brand": "ZTE",
+      "model": "Imperial Max",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 3400.0,
+        "chipset": "Qualcomm Snapdragon 615",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "80e48606-35dd-5865-a38b-e76e57f97a48": {
+      "id": "80e48606-35dd-5865-a38b-e76e57f97a48",
+      "brand": "ZTE",
+      "model": "Kis",
+      "attributes": {
+        "os": "Android 2.3",
+        "battery_capacity": 1400.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "3fd8affd-40b5-549e-8551-055f979dfce5": {
+      "id": "3fd8affd-40b5-549e-8551-055f979dfce5",
+      "brand": "ZTE",
+      "model": "Kis 3 Max",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 1850.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "19d93bf4-3882-5a7b-a5d7-f84ae7a8cf80": {
+      "id": "19d93bf4-3882-5a7b-a5d7-f84ae7a8cf80",
+      "brand": "ZTE",
+      "model": "Libra",
+      "attributes": {
+        "os": "Android 2.2",
+        "battery_capacity": 1250.0,
+        "storage": " microSD",
+        "display_size": 3.5,
+        "attr_display resolution": 800,
+        "camera_main": 3.0
+      }
+    },
+    "a4da457d-9c7e-5def-8104-9eac5fd0aae3": {
+      "id": "a4da457d-9c7e-5def-8104-9eac5fd0aae3",
+      "brand": "ZTE",
+      "model": "Majesty Pro",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2100.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "24cf540c-85c7-5475-9f2c-4ac67552c59c": {
+      "id": "24cf540c-85c7-5475-9f2c-4ac67552c59c",
+      "brand": "ZTE",
+      "model": "Maven",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Jun 26, 2015",
+        "battery_capacity": 2100.0,
+        "chipset": "Qualcomm Snapdragon 410",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "8944e115-0b2b-59ee-8f51-ac1ac793793e": {
+      "id": "8944e115-0b2b-59ee-8f51-ac1ac793793e",
+      "brand": "ZTE",
+      "model": "Maven 2",
+      "attributes": {
+        "os": "Android 7.1 Nougat",
+        "release_date": "Jul 25, 2016",
+        "battery_capacity": 2300.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "a690c5f8-819b-582c-acef-0ca9173ceb9a": {
+      "id": "a690c5f8-819b-582c-acef-0ca9173ceb9a",
+      "brand": "ZTE",
+      "model": "Maven 3",
+      "attributes": {
+        "os": "Android 7.1 Nougat",
+        "release_date": "Aug 25, 2017",
+        "battery_capacity": 2070.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "7d60faf5-8ebd-5d99-9275-fbc47ec3986f": {
+      "id": "7d60faf5-8ebd-5d99-9275-fbc47ec3986f",
+      "brand": "ZTE",
+      "model": "Max",
+      "attributes": {
+        "os": "Android 4.1.2",
+        "release_date": "Jan 28, 2014",
+        "battery_capacity": 3200.0,
+        "chipset": "Qualcomm Snapdragon S4 Plus",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0
+      }
+    },
+    "6081d607-ccd2-5c1f-a151-f0d51b1545c4": {
+      "id": "6081d607-ccd2-5c1f-a151-f0d51b1545c4",
+      "brand": "ZTE",
+      "model": "Max XL",
+      "attributes": {
+        "os": "Android 7.1 Nougat",
+        "release_date": "Apr 25, 2017",
+        "battery_capacity": 3990.0,
+        "chipset": "Qualcomm Snapdragon 435",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "b6575d03-e9ae-5f81-9557-e1ded1b2d5fe": {
+      "id": "b6575d03-e9ae-5f81-9557-e1ded1b2d5fe",
+      "brand": "ZTE",
+      "model": "Max+",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Jul 17, 2015",
+        "battery_capacity": 3400.0,
+        "chipset": "Qualcomm Snapdragon 410",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 1
+      }
+    },
+    "4f5d42ed-beb3-57a9-910a-95530822e4d5": {
+      "id": "4f5d42ed-beb3-57a9-910a-95530822e4d5",
+      "brand": "ZTE",
+      "model": "Mimosa Mini",
+      "attributes": {
+        "os": "Android 2.3.5",
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "2ad3edb4-602a-5dba-8cef-f4e7b7c5393d": {
+      "id": "2ad3edb4-602a-5dba-8cef-f4e7b7c5393d",
+      "brand": "ZTE",
+      "model": "N720",
+      "attributes": {
+        "os": "Android 2.1",
+        "battery_capacity": 1280.0,
+        "storage": " microSD",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 3.0
+      }
+    },
+    "5befe8c2-bbc2-5781-ad6b-5d6fab1558df": {
+      "id": "5befe8c2-bbc2-5781-ad6b-5d6fab1558df",
+      "brand": "ZTE",
+      "model": "N800",
+      "attributes": {
+        "os": "Android 4.1",
+        "battery_capacity": 1650.0,
+        "chipset": "Qualcomm Snapdragon S4 Plus",
+        "attr_memory": 1.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 1.2
+      }
+    },
+    "865870fe-a93d-5879-a74c-76ab39859eea": {
+      "id": "865870fe-a93d-5879-a74c-76ab39859eea",
+      "brand": "ZTE",
+      "model": "N91",
+      "attributes": {
+        "os": "Android 4.0",
+        "release_date": "Feb 20, 2012",
+        "chipset": "Qualcomm",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "display_size": 4.3,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "151defdc-0ded-5a8a-8dc1-4ff9ffc2416a": {
+      "id": "151defdc-0ded-5a8a-8dc1-4ff9ffc2416a",
+      "brand": "ZTE",
+      "model": "Obsidian",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Aug 13, 2015",
+        "battery_capacity": 1800.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "3d516abd-2670-517b-ace2-a55481be33bc": {
+      "id": "3d516abd-2670-517b-ace2-a55481be33bc",
+      "brand": "ZTE",
+      "model": "Open",
+      "attributes": {
+        "os": "Firefox ",
+        "battery_capacity": 1200.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "668a5013-b891-5b2d-a1bb-3967ee702778": {
+      "id": "668a5013-b891-5b2d-a1bb-3967ee702778",
+      "brand": "ZTE",
+      "model": "Open C",
+      "attributes": {
+        "os": "Firefox 1.3",
+        "release_date": "May 08, 2014",
+        "battery_capacity": 1400.0,
+        "chipset": "Qualcomm Snapdragon 200",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSD",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0
+      }
+    },
+    "8cf209e2-16db-519c-b0df-cd115a0f50a1": {
+      "id": "8cf209e2-16db-519c-b0df-cd115a0f50a1",
+      "brand": "ZTE",
+      "model": "Orbit",
+      "attributes": {
+        "os": "Windows Phone 7.5 Refresh",
+        "battery_capacity": 1600.0,
+        "chipset": "Qualcomm Snapdragon S1 MSM7227A-1",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "827b7c61-4176-5530-b9b5-71b091648fc2": {
+      "id": "827b7c61-4176-5530-b9b5-71b091648fc2",
+      "brand": "ZTE",
+      "model": "Overture",
+      "attributes": {
+        "os": "Android 4.1.2",
+        "battery_capacity": 1780.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 1.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 1.2
+      }
+    },
+    "c2e4fdee-8e1f-516c-9f2f-ccee53929b39": {
+      "id": "c2e4fdee-8e1f-516c-9f2f-ccee53929b39",
+      "brand": "ZTE",
+      "model": "Overture 2",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "release_date": "May 29, 2015",
+        "battery_capacity": 2100.0,
+        "chipset": "Qualcomm Snapdragon 410",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "149bb9c6-cb5f-59d8-b0d9-3a094e326c94": {
+      "id": "149bb9c6-cb5f-59d8-b0d9-3a094e326c94",
+      "brand": "ZTE",
+      "model": "PF112",
+      "attributes": {
+        "os": "Android 4.0",
+        "release_date": "Feb 27, 2012",
+        "battery_capacity": 1650.0,
+        "chipset": "Qualcomm Snapdragon S4 Plus",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "display_size": 4.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0
+      }
+    },
+    "be282165-ccc3-50b3-bbab-e033ce2e111c": {
+      "id": "be282165-ccc3-50b3-bbab-e033ce2e111c",
+      "brand": "ZTE",
+      "model": "PF200",
+      "attributes": {
+        "os": "Android 4.0",
+        "chipset": "Qualcomm",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "display_size": 4.3,
+        "attr_display resolution": 960,
+        "camera_main": 8.0
+      }
+    },
+    "b077c518-ffaf-5adc-bcfa-816ef23f0b4e": {
+      "id": "b077c518-ffaf-5adc-bcfa-816ef23f0b4e",
+      "brand": "ZTE",
+      "model": "Prelude",
+      "attributes": {
+        "os": "Android 4.1",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0
+      }
+    },
+    "3d005508-2f80-533f-a6c9-af84af2dd5df": {
+      "id": "3d005508-2f80-533f-a6c9-af84af2dd5df",
+      "brand": "ZTE",
+      "model": "Prelude 2",
+      "attributes": {
+        "os": "Android 4.3",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon 200",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0
+      }
+    },
+    "8761fced-82fe-56b1-afc1-b9e1afe676cc": {
+      "id": "8761fced-82fe-56b1-afc1-b9e1afe676cc",
+      "brand": "ZTE",
+      "model": "Prestige",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Nov 11, 2015",
+        "battery_capacity": 2300.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "c7845f64-7237-501a-8c29-fa39530d878d": {
+      "id": "c7845f64-7237-501a-8c29-fa39530d878d",
+      "brand": "ZTE",
+      "model": "Prestige 2",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Apr 03, 2017",
+        "battery_capacity": 2035.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSD",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "dc88cf1f-c53c-5d07-9471-7778da2d7c31": {
+      "id": "dc88cf1f-c53c-5d07-9471-7778da2d7c31",
+      "brand": "ZTE",
+      "model": "Quartz",
+      "attributes": {
+        "os": "Android 4.3",
+        "battery_capacity": 3400.0,
+        "chipset": "Qualcomm Snapdragon 200",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 1
+      }
+    },
+    "8331e1c9-7204-5c7a-b241-71862298f401": {
+      "id": "8331e1c9-7204-5c7a-b241-71862298f401",
+      "brand": "ZTE",
+      "model": "Racer",
+      "attributes": {
+        "os": "Android ",
+        "battery_capacity": 1000.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSD",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 3.0
+      }
+    },
+    "68a4855e-72d9-502c-b27e-9a2335fb5d1a": {
+      "id": "68a4855e-72d9-502c-b27e-9a2335fb5d1a",
+      "brand": "ZTE",
+      "model": "Radiant",
+      "attributes": {
+        "os": "Android 4.1",
+        "battery_capacity": 1735.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 2.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "933ca5a8-ff88-5fe4-bb8b-62d8379e05d5": {
+      "id": "933ca5a8-ff88-5fe4-bb8b-62d8379e05d5",
+      "brand": "ZTE",
+      "model": "Raise",
+      "attributes": {
+        "os": "Windows Mobile Professional ",
+        "battery_capacity": 1250.0,
+        "storage": " microSD",
+        "display_size": 3.2,
+        "attr_display resolution": 400,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "bd21096e-a4dc-57fe-94db-0fccab312dac": {
+      "id": "bd21096e-a4dc-57fe-94db-0fccab312dac",
+      "brand": "ZTE",
+      "model": "Reef",
+      "attributes": {
+        "os": "Android 4.1",
+        "battery_capacity": 1650.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "fa71868a-3fcb-5877-872f-4f0dd9f07dd6": {
+      "id": "fa71868a-3fcb-5877-872f-4f0dd9f07dd6",
+      "brand": "ZTE",
+      "model": "Render",
+      "attributes": {
+        "os": "Windows Phone 7.5 Refresh",
+        "release_date": "Sep 29, 2012",
+        "battery_capacity": 1600.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "3ae2cad4-e364-57dd-9197-029781dad2aa": {
+      "id": "3ae2cad4-e364-57dd-9197-029781dad2aa",
+      "brand": "ZTE",
+      "model": "Roamer",
+      "attributes": {
+        "os": "Android 2.3",
+        "battery_capacity": 1500.0,
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0
+      }
+    },
+    "41c10854-2b86-5db1-986f-9c986dc2802e": {
+      "id": "41c10854-2b86-5db1-986f-9c986dc2802e",
+      "brand": "ZTE",
+      "model": "San Francisco",
+      "attributes": {
+        "os": "Android 2.1",
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 800,
+        "camera_main": 3.0
+      }
+    },
+    "2a9c6025-599a-5da0-b5e5-bc8f6fcdd405": {
+      "id": "2a9c6025-599a-5da0-b5e5-bc8f6fcdd405",
+      "brand": "ZTE",
+      "model": "Savvy",
+      "attributes": {
+        "os": "Android 4.1",
+        "battery_capacity": 1600.0,
+        "chipset": "Qualcomm Snapdragon S4 Play",
+        "attr_memory": 0.75,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "0deef42b-2c27-5d9e-a8b0-df92e3821f92": {
+      "id": "0deef42b-2c27-5d9e-a8b0-df92e3821f92",
+      "brand": "ZTE",
+      "model": "Score",
+      "attributes": {
+        "os": "Android 2.3",
+        "release_date": "Sep 25, 2011",
+        "battery_capacity": 1200.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "e8801416-bc2e-5d1d-8312-cf7786556720": {
+      "id": "e8801416-bc2e-5d1d-8312-cf7786556720",
+      "brand": "ZTE",
+      "model": "Score M",
+      "attributes": {
+        "os": "Android 2.3.4",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "1340e7cc-af60-5563-9760-35eb1fd9b811": {
+      "id": "1340e7cc-af60-5563-9760-35eb1fd9b811",
+      "brand": "ZTE",
+      "model": "Skate",
+      "attributes": {
+        "os": "Android 2.3",
+        "release_date": "Sep 01, 2011",
+        "battery_capacity": 1400.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "95c45b91-5727-5530-8d1e-0be38ebae3af": {
+      "id": "95c45b91-5727-5530-8d1e-0be38ebae3af",
+      "brand": "ZTE",
+      "model": "Skate Acqua",
+      "attributes": {
+        "os": "Android 2.3",
+        "battery_capacity": 1600.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "48a89795-903e-5865-b420-89a2413aed97": {
+      "id": "48a89795-903e-5865-b420-89a2413aed97",
+      "brand": "ZTE",
+      "model": "Solar",
+      "attributes": {
+        "os": "Android 4.1",
+        "battery_capacity": 2070.0,
+        "chipset": "Qualcomm Snapdragon S4 Play",
+        "attr_memory": 0.75,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0
+      }
+    },
+    "6ededfc3-a20c-5f96-b4d0-68b471f0c616": {
+      "id": "6ededfc3-a20c-5f96-b4d0-68b471f0c616",
+      "brand": "ZTE",
+      "model": "Sonata 2",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Jun 26, 2015",
+        "battery_capacity": 1650.0,
+        "chipset": "Qualcomm Snapdragon 200",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "d0aea34d-dd06-56d3-9566-7b59999e9f43": {
+      "id": "d0aea34d-dd06-56d3-9566-7b59999e9f43",
+      "brand": "ZTE",
+      "model": "Sonata 3",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Jul 16, 2016",
+        "battery_capacity": 2300.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "13782ac9-bf35-5670-90d3-90f349e932ff": {
+      "id": "13782ac9-bf35-5670-90d3-90f349e932ff",
+      "brand": "ZTE",
+      "model": "Sonata 4G",
+      "attributes": {
+        "os": "Android 4.1.2",
+        "battery_capacity": 1785.0,
+        "chipset": "Qualcomm Snapdragon S4 Plus",
+        "attr_memory": 1.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "695a6930-bcad-5730-9f4d-b98bc02d7a62": {
+      "id": "695a6930-bcad-5730-9f4d-b98bc02d7a62",
+      "brand": "ZTE",
+      "model": "Source",
+      "attributes": {
+        "os": "Android 4.1.2",
+        "battery_capacity": 2070.0,
+        "chipset": "Qualcomm Snapdragon S4 Plus",
+        "attr_memory": 1.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 1.2
+      }
+    },
+    "5213ebe8-399f-54c4-85bd-fe7bd34ea44d": {
+      "id": "5213ebe8-399f-54c4-85bd-fe7bd34ea44d",
+      "brand": "ZTE",
+      "model": "Speed",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2000.0,
+        "chipset": "Qualcomm Snapdragon 410",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "598c869c-cbeb-59f1-be56-efbf7874274b": {
+      "id": "598c869c-cbeb-59f1-be56-efbf7874274b",
+      "brand": "ZTE",
+      "model": "Star II",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2300.0,
+        "chipset": "Qualcomm Snapdragon 801",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "dc4808cf-0f53-5094-bbba-07170baf2d11": {
+      "id": "dc4808cf-0f53-5094-bbba-07170baf2d11",
+      "brand": "ZTE",
+      "model": "Supreme",
+      "attributes": {
+        "os": "Android 4.1",
+        "battery_capacity": 2500.0,
+        "attr_memory": 1.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 1.2
+      }
+    },
+    "973dd3ac-ef1e-5f6e-bfc0-07552b5fb07b": {
+      "id": "973dd3ac-ef1e-5f6e-bfc0-07552b5fb07b",
+      "brand": "ZTE",
+      "model": "Tania",
+      "attributes": {
+        "os": "Windows Phone 7.5 Mango",
+        "battery_capacity": 1400.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "display_size": 4.3,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "ed6ec456-71b7-5b65-a029-6599a2aa7cb1": {
+      "id": "ed6ec456-71b7-5b65-a029-6599a2aa7cb1",
+      "brand": "ZTE",
+      "model": "Tempo",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Oct 24, 2016",
+        "battery_capacity": 2200.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "cfd62a88-c749-5224-a463-15984cd9e5dd": {
+      "id": "cfd62a88-c749-5224-a463-15984cd9e5dd",
+      "brand": "ZTE",
+      "model": "Tempo Go",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "release_date": "Mar 30, 2018",
+        "battery_capacity": 2200.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSD",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "c02dac43-0a8c-571b-8d6d-5efb03fc49e6": {
+      "id": "c02dac43-0a8c-571b-8d6d-5efb03fc49e6",
+      "brand": "ZTE",
+      "model": "Tempo X",
+      "attributes": {
+        "os": "Android 7.1 Nougat",
+        "release_date": "Sep 19, 2017",
+        "battery_capacity": 2200.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "73460ef2-3e19-5ccb-9323-fdf3378b9c29": {
+      "id": "73460ef2-3e19-5ccb-9323-fdf3378b9c29",
+      "brand": "ZTE",
+      "model": "V871",
+      "attributes": {
+        "os": "Android 2.2",
+        "battery_capacity": 1500.0,
+        "storage": " microSD",
+        "display_size": 3.2,
+        "attr_display resolution": 400,
+        "camera_main": 3.0
+      }
+    },
+    "a42f605a-598d-5dde-8b6e-a00881a2b2fd": {
+      "id": "a42f605a-598d-5dde-8b6e-a00881a2b2fd",
+      "brand": "ZTE",
+      "model": "V880",
+      "attributes": {
+        "os": "Android 2.2",
+        "battery_capacity": 1250.0,
+        "storage": " microSD",
+        "display_size": 3.5,
+        "attr_display resolution": 800,
+        "camera_main": 3.0
+      }
+    },
+    "f06a8062-ba26-566a-a76e-6eea18683195": {
+      "id": "f06a8062-ba26-566a-a76e-6eea18683195",
+      "brand": "ZTE",
+      "model": "Valet",
+      "attributes": {
+        "os": "Android 4.1",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "0f68774f-57b3-5271-ba09-d5d257798eee": {
+      "id": "0f68774f-57b3-5271-ba09-d5d257798eee",
+      "brand": "ZTE",
+      "model": "Vital",
+      "attributes": {
+        "os": "Android 4.1.2",
+        "battery_capacity": 2500.0,
+        "chipset": "Qualcomm Snapdragon S4 Plus",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0
+      }
+    },
+    "c5d1d2f9-a865-5acb-901c-fad37f592039": {
+      "id": "c5d1d2f9-a865-5acb-901c-fad37f592039",
+      "brand": "ZTE",
+      "model": "Warp",
+      "attributes": {
+        "os": "Android 2.3.5",
+        "release_date": "Nov 04, 2011",
+        "battery_capacity": 1600.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "28ce6b93-fbab-5330-8450-f2769b01d8e8": {
+      "id": "28ce6b93-fbab-5330-8450-f2769b01d8e8",
+      "brand": "ZTE",
+      "model": "Warp 4G",
+      "attributes": {
+        "os": "Android 4.1",
+        "battery_capacity": 2070.0,
+        "chipset": "Qualcomm Snapdragon S4 Plus",
+        "attr_memory": 1.0,
+        "storage": " microSDXC",
+        "display_size": 4.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0
+      }
+    },
+    "fd99115d-a0d8-5b96-8747-1c1a48ef3279": {
+      "id": "fd99115d-a0d8-5b96-8747-1c1a48ef3279",
+      "brand": "ZTE",
+      "model": "Warp 7",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Sep 05, 2016",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 410",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "da07f5a3-bf01-525a-9a45-873cdb6abe19": {
+      "id": "da07f5a3-bf01-525a-9a45-873cdb6abe19",
+      "brand": "ZTE",
+      "model": "Warp Elite",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Aug 18, 2015",
+        "battery_capacity": 3000.0,
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "fa27b583-4966-5dc6-a71a-4928746d8cd1": {
+      "id": "fa27b583-4966-5dc6-a71a-4928746d8cd1",
+      "brand": "ZTE",
+      "model": "Warp Sequent",
+      "attributes": {
+        "os": "Android 4.1",
+        "release_date": "Sep 17, 2012",
+        "battery_capacity": 1650.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.75,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "d063faf6-61f4-5fd3-9c31-348ed3aa9f80": {
+      "id": "d063faf6-61f4-5fd3-9c31-348ed3aa9f80",
+      "brand": "ZTE",
+      "model": "Warp Sync",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 2300.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 2.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 1.6
+      }
+    },
+    "3a3742f7-dbbd-589e-b484-56718c1b4650": {
+      "id": "3a3742f7-dbbd-589e-b484-56718c1b4650",
+      "brand": "ZTE",
+      "model": "Z667",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon 200",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0
+      }
+    },
+    "cc8d2955-ad2f-5a84-b002-4fc21892e589": {
+      "id": "cc8d2955-ad2f-5a84-b002-4fc21892e589",
+      "brand": "ZTE",
+      "model": "ZMAX",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 3400.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.7,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 1.6
+      }
+    },
+    "69290839-fb40-5257-91df-1e4cd3e31b59": {
+      "id": "69290839-fb40-5257-91df-1e4cd3e31b59",
+      "brand": "ZTE",
+      "model": "ZMAX 2",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Sep 25, 2015",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 410",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "b375713f-b517-5b8e-a08a-e97bf0bb7fa8": {
+      "id": "b375713f-b517-5b8e-a08a-e97bf0bb7fa8",
+      "brand": "ZTE",
+      "model": "Zinger",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon 200",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0
+      }
+    },
+    "543beefd-e2a5-573f-8ea0-fe207a64c95d": {
+      "id": "543beefd-e2a5-573f-8ea0-fe207a64c95d",
+      "brand": "ZTE",
+      "model": "Zmax Pro",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Aug 01, 2016",
+        "battery_capacity": 3400.0,
+        "chipset": "Qualcomm Snapdragon 617",
+        "attr_memory": 2.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "d852a168-2b35-5221-8ab7-db8d2be6690f": {
+      "id": "d852a168-2b35-5221-8ab7-db8d2be6690f",
+      "brand": "ZTE",
+      "model": "e760",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.0",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.06,
+        "attr_primary storage": 0.0,
+        "display_size": 2.8,
+        "attr_display resolution": 320
+      }
+    },
+    "2f7f3889-a6c5-5082-af14-204445d829b8": {
+      "id": "2f7f3889-a6c5-5082-af14-204445d829b8",
+      "brand": "ZTE",
+      "model": "xiang",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.1",
+        "battery_capacity": 1300.0,
+        "attr_memory": 0.25,
+        "storage": " microSD",
+        "display_size": 2.5,
+        "attr_display resolution": 240,
+        "camera_main": 3.0
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+=== Start merging Kaggle smartphone CSVs ===
+--> E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Datasets\5G smartphones available in india (updated in april 2022).csv
+[OK] E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Datasets\5G smartphones available in india (updated in april 2022).csv -> processed 234 rows, merged 234 entries.
+--> E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Datasets\antutu_android_vs_ios_v3.csv
+[OK] E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Datasets\antutu_android_vs_ios_v3.csv -> processed 124 rows, merged 124 entries.
+--> E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Datasets\flipkart_smartphones.csv
+[OK] E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Datasets\flipkart_smartphones.csv -> processed 836 rows, merged 836 entries.
+--> E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Datasets\GSMArena_Benchmarks.csv
+[WARN] E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Datasets\GSMArena_Benchmarks.csv -> no obvious brand/model columns; attempting generic heuristics.
+[SKIP] E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Datasets\GSMArena_Benchmarks.csv -> couldn't find model column.
+--> E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Datasets\iphone_results (1).csv
+[WARN] E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Datasets\iphone_results (1).csv -> no obvious brand/model columns; attempting generic heuristics.
+[SKIP] E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Datasets\iphone_results (1).csv -> couldn't find model column.
+--> E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Datasets\iphone_results.csv
+[WARN] E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Datasets\iphone_results.csv -> no obvious brand/model columns; attempting generic heuristics.
+[SKIP] E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Datasets\iphone_results.csv -> couldn't find model column.
+--> E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Datasets\iphone_results_modified.csv
+[OK] E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Datasets\iphone_results_modified.csv -> processed 357 rows, merged 357 entries.
+--> E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Datasets\phones_data.csv
+[OK] E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Datasets\phones_data.csv -> processed 1224 rows, merged 1224 entries.
+--> E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Datasets\smartphones - smartphones.csv
+[OK] E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Datasets\smartphones - smartphones.csv -> processed 973 rows, merged 973 entries.
+--> E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Datasets\Smartphones_cleaned_dataset.csv
+[OK] E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Datasets\Smartphones_cleaned_dataset.csv -> processed 980 rows, merged 980 entries.
+--> E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Datasets\smartphones_cleaned_v6.csv
+[OK] E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Datasets\smartphones_cleaned_v6.csv -> processed 980 rows, merged 980 entries.
+--> E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Datasets\smartphones_data.csv.csv
+[OK] E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Datasets\smartphones_data.csv.csv -> processed 3260 rows, merged 3260 entries.
+--> E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Datasets\Smartphone_Evolution.csv
+[OK] E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Datasets\Smartphone_Evolution.csv -> processed 4529 rows, merged 4529 entries.
+=== Done. One JSON per brand has been written to OUTPUT_DIR ===
+OUTPUT_DIR = E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Dataset_JSON

@@ -1,0 +1,3171 @@
+{
+  "brand": "HONOR",
+  "phones": {
+    "92281a90-2125-5a20-aa02-9421bb130d26": {
+      "id": "92281a90-2125-5a20-aa02-9421bb130d26",
+      "brand": "HONOR",
+      "model": "50 (S-778G 6/128)",
+      "attributes": {
+        "cpu": 156246,
+        "gpu": 158579,
+        "attr_mem": 80212,
+        "attr_ux": 116389,
+        "attr_total score": 511424
+      }
+    },
+    "9c7881ca-3a5a-5fd6-99a9-3512b417a24a": {
+      "id": "9c7881ca-3a5a-5fd6-99a9-3512b417a24a",
+      "brand": "HONOR",
+      "model": "20 Pro (K-980 8/256)",
+      "attributes": {
+        "cpu": 137349,
+        "gpu": 146216,
+        "attr_mem": 89894,
+        "attr_ux": 109287,
+        "attr_total score": 482746
+      }
+    },
+    "bf0e2e20-401d-5447-bb41-c1976fe3a8e8": {
+      "id": "bf0e2e20-401d-5447-bb41-c1976fe3a8e8",
+      "brand": "HONOR",
+      "model": "20 (K-980 6/128)",
+      "attributes": {
+        "cpu": 139130,
+        "gpu": 144526,
+        "attr_mem": 82589,
+        "attr_ux": 110467,
+        "attr_total score": 476712
+      }
+    },
+    "4032920c-fde8-54f1-9e0c-e967fc7f5864": {
+      "id": "4032920c-fde8-54f1-9e0c-e967fc7f5864",
+      "brand": "Honor",
+      "model": "10 6/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 5,
+        "os": "Android",
+        "attr_popularity": 71,
+        "mrp": 10631.0,
+        "attr_highest price": 11099.0,
+        "attr_sellers amount": 2,
+        "display_size": 5.8,
+        "attr_memory size": 64.0,
+        "attr_battery size": 3400.0,
+        "release_date": 6
+      }
+    },
+    "f1bee908-ff79-5b8b-9352-8636b95b5670": {
+      "id": "f1bee908-ff79-5b8b-9352-8636b95b5670",
+      "brand": "Honor",
+      "model": "10 Lite 3/32GB Blue",
+      "attributes": {
+        "attr_unnamed 0": 6,
+        "os": "Android",
+        "attr_popularity": 424,
+        "attr_sellers amount": 2,
+        "display_size": 6.21,
+        "attr_memory size": 32.0,
+        "attr_battery size": 3400.0,
+        "release_date": 12
+      }
+    },
+    "29829b52-8759-5183-9af0-9c118354d702": {
+      "id": "29829b52-8759-5183-9af0-9c118354d702",
+      "brand": "Honor",
+      "model": "10 Lite 4/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 7,
+        "os": "Android",
+        "attr_popularity": 134,
+        "mrp": 4733.0,
+        "attr_highest price": 5295.0,
+        "attr_sellers amount": 6,
+        "display_size": 6.21,
+        "attr_memory size": 64.0,
+        "attr_battery size": 3400.0,
+        "release_date": 1
+      }
+    },
+    "1bc34efe-ed77-584d-9e67-a0687efb5ea4": {
+      "id": "1bc34efe-ed77-584d-9e67-a0687efb5ea4",
+      "brand": "Honor",
+      "model": "10 lite 3/128GB Blue",
+      "attributes": {
+        "attr_unnamed 0": 8,
+        "os": "Android",
+        "attr_popularity": 477,
+        "mrp": 4990.0,
+        "attr_highest price": 5222.0,
+        "attr_sellers amount": 3,
+        "display_size": 6.21,
+        "attr_memory size": 128.0,
+        "attr_battery size": 3400.0,
+        "release_date": 1
+      }
+    },
+    "ac60c72f-7f53-5ae5-8db9-704db3db1a82": {
+      "id": "ac60c72f-7f53-5ae5-8db9-704db3db1a82",
+      "brand": "Honor",
+      "model": "10 lite 3/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 9,
+        "os": "Android",
+        "attr_popularity": 215,
+        "mrp": 4646.0,
+        "attr_highest price": 5372.0,
+        "attr_sellers amount": 8,
+        "display_size": 6.21,
+        "attr_memory size": 64.0,
+        "attr_battery size": 3400.0,
+        "release_date": 12
+      }
+    },
+    "44a63dcb-3c30-5634-9cab-5e859b2b46bc": {
+      "id": "44a63dcb-3c30-5634-9cab-5e859b2b46bc",
+      "brand": "Honor",
+      "model": "10 lite 3/64GB Blue",
+      "attributes": {
+        "attr_unnamed 0": 11,
+        "os": "Android",
+        "attr_popularity": 437,
+        "mrp": 4897.0,
+        "attr_highest price": 5559.0,
+        "attr_sellers amount": 7,
+        "display_size": 6.21,
+        "attr_memory size": 64.0,
+        "attr_battery size": 3400.0,
+        "release_date": 12
+      }
+    },
+    "cdebb5dd-1ce8-509c-940a-65802e36f275": {
+      "id": "cdebb5dd-1ce8-509c-940a-65802e36f275",
+      "brand": "Honor",
+      "model": "10i 4/128GB Black (51093VQV)",
+      "attributes": {
+        "attr_unnamed 0": 24,
+        "os": "Android",
+        "attr_popularity": 532,
+        "attr_sellers amount": 2,
+        "display_size": 6.21,
+        "attr_memory size": 128.0,
+        "attr_battery size": 3400.0,
+        "release_date": 5
+      }
+    },
+    "1e972d3c-9772-5a25-b6f0-b1a102dc7bba": {
+      "id": "1e972d3c-9772-5a25-b6f0-b1a102dc7bba",
+      "brand": "Honor",
+      "model": "10i 4/128GB Blue (51093VQX)",
+      "attributes": {
+        "attr_unnamed 0": 25,
+        "os": "Android",
+        "attr_popularity": 444,
+        "attr_sellers amount": 2,
+        "display_size": 6.21,
+        "attr_memory size": 128.0,
+        "attr_battery size": 3400.0,
+        "release_date": 5
+      }
+    },
+    "63ef3794-fc47-5993-aec1-6b4fe83ca482": {
+      "id": "63ef3794-fc47-5993-aec1-6b4fe83ca482",
+      "brand": "Honor",
+      "model": "20 6/128GB Black",
+      "attributes": {
+        "attr_unnamed 0": 53,
+        "os": "Android",
+        "attr_popularity": 823,
+        "attr_sellers amount": 1,
+        "display_size": 6.26,
+        "attr_memory size": 128.0,
+        "attr_battery size": 3750.0,
+        "release_date": 7
+      }
+    },
+    "92188e6c-870c-576f-9b81-da432ebc5a88": {
+      "id": "92188e6c-870c-576f-9b81-da432ebc5a88",
+      "brand": "Honor",
+      "model": "7 16GB (Gold)",
+      "attributes": {
+        "attr_unnamed 0": 100,
+        "os": "Android",
+        "attr_popularity": 158,
+        "attr_sellers amount": 1,
+        "display_size": 5.2,
+        "attr_memory size": 16.0,
+        "attr_battery size": 3100.0,
+        "release_date": 7
+      }
+    },
+    "b310d2f6-bf7a-51ce-b63d-fc4d0bed900c": {
+      "id": "b310d2f6-bf7a-51ce-b63d-fc4d0bed900c",
+      "brand": "Honor",
+      "model": "8 3/32GB Blue",
+      "attributes": {
+        "attr_unnamed 0": 108,
+        "os": "Android",
+        "attr_popularity": 535,
+        "mrp": 3199.0,
+        "attr_highest price": 3848.0,
+        "attr_sellers amount": 3,
+        "display_size": 5.2,
+        "attr_memory size": 32.0,
+        "attr_battery size": 3000.0,
+        "release_date": 5
+      }
+    },
+    "b5005cc2-c3d1-58ce-b45f-37529d8b31c9": {
+      "id": "b5005cc2-c3d1-58ce-b45f-37529d8b31c9",
+      "brand": "Honor",
+      "model": "8 4/64GB (Blue)",
+      "attributes": {
+        "attr_unnamed 0": 109,
+        "os": "Android",
+        "attr_popularity": 693,
+        "attr_sellers amount": 1,
+        "display_size": 5.2,
+        "attr_memory size": 64.0,
+        "attr_battery size": 3000.0,
+        "release_date": 11
+      }
+    },
+    "d246c646-ddd0-5b6e-8045-81627003a973": {
+      "id": "d246c646-ddd0-5b6e-8045-81627003a973",
+      "brand": "Honor",
+      "model": "8A 2/32GB Gold",
+      "attributes": {
+        "attr_unnamed 0": 117,
+        "os": "Android",
+        "attr_popularity": 383,
+        "attr_sellers amount": 1,
+        "display_size": 6.09,
+        "attr_memory size": 32.0,
+        "attr_battery size": 3020.0,
+        "release_date": 3
+      }
+    },
+    "9fa95d05-5391-5ed1-ae9d-46521461275c": {
+      "id": "9fa95d05-5391-5ed1-ae9d-46521461275c",
+      "brand": "Honor",
+      "model": "8A 3/64GB Blue",
+      "attributes": {
+        "attr_unnamed 0": 118,
+        "os": "Android",
+        "attr_popularity": 430,
+        "mrp": 3690.0,
+        "attr_highest price": 3999.0,
+        "attr_sellers amount": 2,
+        "display_size": 6.09,
+        "attr_memory size": 64.0,
+        "attr_battery size": 3020.0,
+        "release_date": 11
+      }
+    },
+    "06e78ee5-c27b-539d-a049-738f8a53779d": {
+      "id": "06e78ee5-c27b-539d-a049-738f8a53779d",
+      "brand": "Honor",
+      "model": "8S 2/32GB Black (51093ULM)",
+      "attributes": {
+        "attr_unnamed 0": 120,
+        "os": "Android",
+        "attr_popularity": 767,
+        "attr_sellers amount": 1,
+        "display_size": 5.7,
+        "attr_memory size": 32.0,
+        "attr_battery size": 3020.0,
+        "release_date": 5
+      }
+    },
+    "b7157231-f0cf-5a88-995e-c15465105e8a": {
+      "id": "b7157231-f0cf-5a88-995e-c15465105e8a",
+      "brand": "Honor",
+      "model": "8x Max 4/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 125,
+        "os": "Android",
+        "attr_popularity": 694,
+        "mrp": 5605.0,
+        "attr_highest price": 5699.0,
+        "attr_sellers amount": 2,
+        "display_size": 7.12,
+        "attr_memory size": 64.0,
+        "attr_battery size": 5000.0,
+        "release_date": 10
+      }
+    },
+    "e6e9d500-67e1-56f4-93c2-0fe305be6dfa": {
+      "id": "e6e9d500-67e1-56f4-93c2-0fe305be6dfa",
+      "brand": "Honor",
+      "model": "8x Max 4/64GB Blue",
+      "attributes": {
+        "attr_unnamed 0": 127,
+        "os": "Android",
+        "attr_popularity": 303,
+        "mrp": 5605.0,
+        "attr_highest price": 6199.0,
+        "attr_sellers amount": 3,
+        "display_size": 7.12,
+        "attr_memory size": 64.0,
+        "attr_battery size": 5000.0,
+        "release_date": 11
+      }
+    },
+    "c110adfe-9f14-5bd3-8bee-1a51ca2286d8": {
+      "id": "c110adfe-9f14-5bd3-8bee-1a51ca2286d8",
+      "brand": "Honor",
+      "model": "9 4/64GB Dual Blue",
+      "attributes": {
+        "attr_unnamed 0": 128,
+        "os": "Android",
+        "attr_popularity": 660,
+        "mrp": 3978.0,
+        "attr_highest price": 5957.0,
+        "attr_sellers amount": 5,
+        "display_size": 5.15,
+        "attr_memory size": 64.0,
+        "attr_battery size": 3200.0,
+        "release_date": 9
+      }
+    },
+    "3cadc190-85b8-5724-b288-8ade3e754876": {
+      "id": "3cadc190-85b8-5724-b288-8ade3e754876",
+      "brand": "Honor",
+      "model": "9 Lite 3/32GB Midnight Black",
+      "attributes": {
+        "attr_unnamed 0": 129,
+        "os": "Android",
+        "attr_popularity": 142,
+        "mrp": 3444.0,
+        "attr_highest price": 3574.0,
+        "attr_sellers amount": 3,
+        "display_size": 5.65,
+        "attr_memory size": 32.0,
+        "attr_battery size": 3000.0,
+        "release_date": 3
+      }
+    },
+    "4e598558-a359-548a-9d1c-238ffe364e90": {
+      "id": "4e598558-a359-548a-9d1c-238ffe364e90",
+      "brand": "Honor",
+      "model": "9i 3/32GB Black",
+      "attributes": {
+        "attr_unnamed 0": 130,
+        "os": "Android",
+        "attr_popularity": 342,
+        "mrp": 3399.0,
+        "attr_highest price": 3449.0,
+        "attr_sellers amount": 2,
+        "display_size": 5.84,
+        "attr_memory size": 32.0,
+        "attr_battery size": 3000.0,
+        "release_date": 6
+      }
+    },
+    "756bc01a-371b-5418-9174-806d4901fefa": {
+      "id": "756bc01a-371b-5418-9174-806d4901fefa",
+      "brand": "Honor",
+      "model": "9i 4/64GB Blue",
+      "attributes": {
+        "attr_unnamed 0": 132,
+        "os": "Android",
+        "attr_popularity": 216,
+        "attr_sellers amount": 1,
+        "display_size": 5.84,
+        "attr_memory size": 64.0,
+        "attr_battery size": 3000.0,
+        "release_date": 12
+      }
+    },
+    "fb4d3809-8f6a-5be6-afa1-b03d60fd3ff9": {
+      "id": "fb4d3809-8f6a-5be6-afa1-b03d60fd3ff9",
+      "brand": "Honor",
+      "model": "9x 4/128GB Black",
+      "attributes": {
+        "attr_unnamed 0": 134,
+        "os": "Android",
+        "attr_popularity": 1048,
+        "mrp": 4999.0,
+        "attr_highest price": 5999.0,
+        "attr_sellers amount": 3,
+        "display_size": 6.59,
+        "attr_memory size": 128.0,
+        "attr_battery size": 4000.0,
+        "release_date": 11
+      }
+    },
+    "a4a4a454-a996-58b8-a61b-f61fe295bb4c": {
+      "id": "a4a4a454-a996-58b8-a61b-f61fe295bb4c",
+      "brand": "Honor",
+      "model": "V10 6/128GB Dual Beach Gold",
+      "attributes": {
+        "attr_unnamed 0": 930,
+        "os": "Android",
+        "attr_popularity": 231,
+        "attr_sellers amount": 1,
+        "display_size": 5.9,
+        "attr_memory size": 128.0,
+        "attr_battery size": 3750.0,
+        "release_date": 1
+      }
+    },
+    "93910805-b923-57db-b4a5-0c4baee15dc9": {
+      "id": "93910805-b923-57db-b4a5-0c4baee15dc9",
+      "brand": "Honor",
+      "model": "V9 6/64GB Red",
+      "attributes": {
+        "attr_unnamed 0": 941,
+        "os": "Android",
+        "attr_popularity": 344,
+        "mrp": 6102.0,
+        "attr_highest price": 6270.0,
+        "attr_sellers amount": 2,
+        "display_size": 5.7,
+        "attr_memory size": 64.0,
+        "attr_battery size": 4000.0,
+        "release_date": 10
+      }
+    },
+    "c973c1af-1765-5ea4-ab4a-261d8811f521": {
+      "id": "c973c1af-1765-5ea4-ab4a-261d8811f521",
+      "brand": "Honor",
+      "model": "X9a",
+      "attributes": {
+        "price": "₹27,999",
+        "rating": 81.0,
+        "sim": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC, IR Blaster",
+        "chipset": "Snapdragon 695, Octa Core, 2.2 GHz Processor",
+        "ram": 8,
+        "battery_capacity": 5100,
+        "display_size": 6.67,
+        "camera_main": 64,
+        "attr_card": "Android v12",
+        "os": "No FM Radio"
+      }
+    },
+    "5465b6da-8368-5753-b996-a29d9d05e86d": {
+      "id": "5465b6da-8368-5753-b996-a29d9d05e86d",
+      "brand": "Honor",
+      "model": "X9 5G",
+      "attributes": {
+        "price": "₹16,999",
+        "rating": 80.0,
+        "sim": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",
+        "chipset": "Snapdragon 695, Octa Core, 2.2 GHz Processor",
+        "ram": 8,
+        "battery_capacity": 4800,
+        "display_size": 6.81,
+        "camera_main": 48,
+        "attr_card": "Android v11",
+        "os": "Bluetooth"
+      }
+    },
+    "0edf2497-cc13-55aa-87e0-5c7b236af863": {
+      "id": "0edf2497-cc13-55aa-87e0-5c7b236af863",
+      "brand": "Honor",
+      "model": "70 5G",
+      "attributes": {
+        "price": "₹39,990",
+        "rating": 88.0,
+        "sim": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",
+        "chipset": "Snapdragon  778G Plus, Octa Core, 2.5 GHz Processor",
+        "ram": 12,
+        "battery_capacity": 4800,
+        "display_size": 6.67,
+        "camera_main": 54,
+        "attr_card": "Android v12",
+        "os": "No FM Radio"
+      }
+    },
+    "5b087dcc-7d7e-5904-83f1-e28b3f65a8f1": {
+      "id": "5b087dcc-7d7e-5904-83f1-e28b3f65a8f1",
+      "brand": "Honor",
+      "model": "60 SE 5G",
+      "attributes": {
+        "price": "₹24,990",
+        "rating": 75.0,
+        "sim": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",
+        "chipset": "Dimensity 900, Octa Core, 2 GHz Processor",
+        "ram": 8,
+        "battery_capacity": 4300,
+        "display_size": 6.67,
+        "camera_main": 64,
+        "attr_card": "Android v11",
+        "os": "No FM Radio"
+      }
+    },
+    "b2bdff3b-3a7f-52bc-af1c-8abbddb44c76": {
+      "id": "b2bdff3b-3a7f-52bc-af1c-8abbddb44c76",
+      "brand": "Honor",
+      "model": "70 5G (8GB RAM + 256GB)",
+      "attributes": {
+        "price": "₹30,990",
+        "rating": 86.0,
+        "sim": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",
+        "chipset": "Snapdragon  778G Plus, Octa Core, 2.5 GHz Processor",
+        "ram": 8,
+        "battery_capacity": 4800,
+        "display_size": 6.67,
+        "camera_main": 54,
+        "attr_card": "Android v12",
+        "os": "No FM Radio"
+      }
+    },
+    "77d05f54-a0b6-5277-9c76-9a76c651fd5d": {
+      "id": "77d05f54-a0b6-5277-9c76-9a76c651fd5d",
+      "brand": "Honor",
+      "model": "Magic 4 Pro Plus 5G",
+      "attributes": {
+        "price": "₹94,990",
+        "sim": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",
+        "chipset": "Snapdragon  8 Gen1, Octa Core, 3 GHz Processor",
+        "ram": 12,
+        "battery_capacity": 4600,
+        "display_size": 6.76,
+        "camera_main": 50,
+        "attr_card": "Android v12",
+        "os": "No FM Radio"
+      }
+    },
+    "fb4decb6-1dd0-5b17-b1e2-68daea7f6088": {
+      "id": "fb4decb6-1dd0-5b17-b1e2-68daea7f6088",
+      "brand": "Honor",
+      "model": "Play 30",
+      "attributes": {
+        "price": "₹9,999",
+        "rating": 68.0,
+        "sim": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",
+        "chipset": "Snapdragon 480+, Octa Core, 2.2 GHz Processor",
+        "ram": 4,
+        "battery_capacity": 5000,
+        "display_size": 6.5,
+        "camera_main": 13,
+        "attr_card": "Memory Card (Hybrid)",
+        "os": "Android v11"
+      }
+    },
+    "63574d3b-adc6-5cf1-be90-97e3e7997163": {
+      "id": "63574d3b-adc6-5cf1-be90-97e3e7997163",
+      "brand": "Honor",
+      "model": "80 Pro Plus",
+      "attributes": {
+        "price": "₹54,990",
+        "sim": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",
+        "chipset": "Snapdragon 8 Gen1 , Octa Core, 3 GHz Processor",
+        "ram": 12,
+        "battery_capacity": 4500,
+        "display_size": 6.78,
+        "camera_main": 200,
+        "attr_card": "Android v12",
+        "os": "No FM Radio"
+      }
+    },
+    "905b7e73-c0d8-5810-85c5-9c357d5e47f9": {
+      "id": "905b7e73-c0d8-5810-85c5-9c357d5e47f9",
+      "brand": "Honor",
+      "model": "X8",
+      "attributes": {
+        "price": "₹16,999",
+        "rating": 76.0,
+        "sim": "Dual Sim, 3G, 4G, VoLTE, Wi-Fi",
+        "chipset": "Snapdragon  680, Octa Core, 2.4 GHz Processor",
+        "ram": 6,
+        "battery_capacity": 4000,
+        "display_size": 6.7,
+        "camera_main": 64,
+        "attr_card": "Android v11",
+        "os": "No FM Radio"
+      }
+    },
+    "0bc24528-fb81-551d-b1ad-bfba3c1df459": {
+      "id": "0bc24528-fb81-551d-b1ad-bfba3c1df459",
+      "brand": "Honor",
+      "model": "X6",
+      "attributes": {
+        "price": "₹13,999",
+        "rating": 71.0,
+        "sim": "Dual Sim, 3G, 4G, VoLTE, Wi-Fi",
+        "chipset": "Helio G25, Octa Core, 2 GHz Processor",
+        "ram": 4,
+        "battery_capacity": 5000,
+        "display_size": 6.5,
+        "camera_main": 50,
+        "attr_card": "Memory Card (Hybrid)",
+        "os": "Android v12"
+      }
+    },
+    "521a9f9c-0c86-5c3e-be62-09bca9b10a6d": {
+      "id": "521a9f9c-0c86-5c3e-be62-09bca9b10a6d",
+      "brand": "Honor",
+      "model": "50",
+      "attributes": {
+        "price": "₹32,990",
+        "rating": 85.0,
+        "sim": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",
+        "chipset": "Snapdragon 778G, Octa Core, 2.4 GHz Processor",
+        "ram": 6,
+        "battery_capacity": 4300,
+        "display_size": 6.57,
+        "camera_main": 108,
+        "attr_card": "Memory Card Not Supported",
+        "os": "Android v11",
+        "release_date": "Jun 25, 2021",
+        "attr_memory": 8.0,
+        "attr_primary storage": 128.0,
+        "storage": " not expandable",
+        "attr_display resolution": 2340,
+        "refresh_rate": 120.0,
+        "camera_front": 32
+      }
+    },
+    "b478dd0d-b2db-5dc4-8f02-eeee4d0aa145": {
+      "id": "b478dd0d-b2db-5dc4-8f02-eeee4d0aa145",
+      "brand": "Honor",
+      "model": "X7a",
+      "attributes": {
+        "price": "₹13,999",
+        "rating": 75.0,
+        "sim": "Dual Sim, 3G, 4G, VoLTE, Wi-Fi",
+        "chipset": "Helio G37, Octa Core, 2.3 GHz Processor",
+        "ram": 6,
+        "battery_capacity": 5000,
+        "display_size": 6.75,
+        "camera_main": 50,
+        "attr_card": "Memory Card Supported",
+        "os": "Android v12"
+      }
+    },
+    "8ec4fdde-c703-5bcf-8ce2-23e4b3e1f0fa": {
+      "id": "8ec4fdde-c703-5bcf-8ce2-23e4b3e1f0fa",
+      "brand": "Honor",
+      "model": "X8 5G",
+      "attributes": {
+        "price": "₹14,990",
+        "rating": 75.0,
+        "sim": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",
+        "chipset": "Snapdragon  480+, Octa Core, 2.2 GHz Processor",
+        "ram": 6,
+        "battery_capacity": 5000,
+        "display_size": 6.5,
+        "camera_main": 48,
+        "attr_card": "Memory Card Supported, upto 1 TB",
+        "os": "Android v11"
+      }
+    },
+    "1794c9fb-6498-52dc-87ba-0fb32a25f967": {
+      "id": "1794c9fb-6498-52dc-87ba-0fb32a25f967",
+      "brand": "honor",
+      "model": "Honor X9a",
+      "attributes": {
+        "price": [
+          27999
+        ],
+        "rating": 81.0,
+        "attr_has 5g": true,
+        "attr_has nfc": true,
+        "attr_has ir blaster": true,
+        "attr_processor brand": "snapdragon",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.2,
+        "battery_capacity": 5100.0,
+        "attr_fast charging available": 1,
+        "charging": 40.0,
+        "attr_ram capacity": 8,
+        "attr_internal memory": 256,
+        "display_size": 6.67,
+        "refresh_rate": 120,
+        "camera_main": 16.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 0,
+        "attr_resolution width": 1080,
+        "attr_resolution height": 2400
+      }
+    },
+    "c1894f21-c52b-5403-866f-f6e3b2381516": {
+      "id": "c1894f21-c52b-5403-866f-f6e3b2381516",
+      "brand": "honor",
+      "model": "Honor X9 5G",
+      "attributes": {
+        "price": [
+          16999
+        ],
+        "rating": 80.0,
+        "attr_has 5g": true,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "snapdragon",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.2,
+        "battery_capacity": 4800.0,
+        "attr_fast charging available": 1,
+        "charging": 66.0,
+        "attr_ram capacity": 8,
+        "attr_internal memory": 128,
+        "display_size": 6.81,
+        "refresh_rate": 60,
+        "camera_main": 16.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 0,
+        "attr_resolution width": 1080,
+        "attr_resolution height": 2388
+      }
+    },
+    "e408cf21-3db0-5fd1-b8c3-d8baf2eff41a": {
+      "id": "e408cf21-3db0-5fd1-b8c3-d8baf2eff41a",
+      "brand": "honor",
+      "model": "Honor 70 5G",
+      "attributes": {
+        "price": [
+          39990
+        ],
+        "rating": 88.0,
+        "attr_has 5g": true,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "snapdragon",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.5,
+        "battery_capacity": 4800.0,
+        "attr_fast charging available": 1,
+        "charging": 66.0,
+        "attr_ram capacity": 12,
+        "attr_internal memory": 512,
+        "display_size": 6.67,
+        "refresh_rate": 120,
+        "camera_main": 32.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 0,
+        "attr_resolution width": 1080,
+        "attr_resolution height": 2400
+      }
+    },
+    "487489de-8f64-577d-a0fc-bd1de2bce7ee": {
+      "id": "487489de-8f64-577d-a0fc-bd1de2bce7ee",
+      "brand": "honor",
+      "model": "Honor 60 SE 5G",
+      "attributes": {
+        "price": [
+          24990
+        ],
+        "rating": 75.0,
+        "attr_has 5g": true,
+        "attr_has nfc": false,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "dimensity",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.0,
+        "battery_capacity": 4300.0,
+        "attr_fast charging available": 1,
+        "charging": 66.0,
+        "attr_ram capacity": 8,
+        "attr_internal memory": 128,
+        "display_size": 6.67,
+        "refresh_rate": 120,
+        "camera_main": 16.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 0,
+        "attr_resolution width": 1080,
+        "attr_resolution height": 2340
+      }
+    },
+    "71f3ab9c-c1d9-5d9f-89d4-6452e9d2ae38": {
+      "id": "71f3ab9c-c1d9-5d9f-89d4-6452e9d2ae38",
+      "brand": "honor",
+      "model": "Honor 70 5G (8GB RAM + 256GB)",
+      "attributes": {
+        "price": [
+          30990
+        ],
+        "rating": 86.0,
+        "attr_has 5g": true,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "snapdragon",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.5,
+        "battery_capacity": 4800.0,
+        "attr_fast charging available": 1,
+        "charging": 66.0,
+        "attr_ram capacity": 8,
+        "attr_internal memory": 256,
+        "display_size": 6.67,
+        "refresh_rate": 120,
+        "camera_main": 32.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 0,
+        "attr_resolution width": 1080,
+        "attr_resolution height": 2400
+      }
+    },
+    "3af1275f-b9ae-5486-a7a2-6d6d1be831ee": {
+      "id": "3af1275f-b9ae-5486-a7a2-6d6d1be831ee",
+      "brand": "honor",
+      "model": "Honor Magic 4 Pro Plus 5G",
+      "attributes": {
+        "price": [
+          94990
+        ],
+        "attr_has 5g": true,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "snapdragon",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 3.0,
+        "battery_capacity": 4600.0,
+        "attr_fast charging available": 1,
+        "charging": 120.0,
+        "attr_ram capacity": 12,
+        "attr_internal memory": 512,
+        "display_size": 6.76,
+        "refresh_rate": 120,
+        "camera_main": 13.0,
+        "camera_front": 2.0,
+        "os": "android",
+        "attr_extended memory available": 0,
+        "attr_resolution width": 1344,
+        "attr_resolution height": 2772
+      }
+    },
+    "0c7c2df4-ce08-55ba-b277-13eb2090b22f": {
+      "id": "0c7c2df4-ce08-55ba-b277-13eb2090b22f",
+      "brand": "honor",
+      "model": "Honor Play 30",
+      "attributes": {
+        "price": [
+          9999
+        ],
+        "rating": 68.0,
+        "attr_has 5g": true,
+        "attr_has nfc": false,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "snapdragon",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.2,
+        "battery_capacity": 5000.0,
+        "attr_fast charging available": 0,
+        "attr_ram capacity": 4,
+        "attr_internal memory": 128,
+        "display_size": 6.5,
+        "refresh_rate": 60,
+        "camera_main": 5.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 1,
+        "attr_resolution width": 720,
+        "attr_resolution height": 1600
+      }
+    },
+    "96745004-f52f-5729-a8ea-31430a06d3cb": {
+      "id": "96745004-f52f-5729-a8ea-31430a06d3cb",
+      "brand": "honor",
+      "model": "Honor 80 Pro Plus",
+      "attributes": {
+        "price": [
+          54990
+        ],
+        "attr_has 5g": true,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "snapdragon",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 3.0,
+        "battery_capacity": 4500.0,
+        "attr_fast charging available": 1,
+        "charging": 100.0,
+        "attr_ram capacity": 12,
+        "attr_internal memory": 256,
+        "display_size": 6.78,
+        "refresh_rate": 120,
+        "camera_main": 50.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 0,
+        "attr_resolution width": 1200,
+        "attr_resolution height": 2652
+      }
+    },
+    "fcf7ef7e-76e7-52c0-a80f-8810acb5056b": {
+      "id": "fcf7ef7e-76e7-52c0-a80f-8810acb5056b",
+      "brand": "honor",
+      "model": "Honor X8",
+      "attributes": {
+        "price": [
+          16999
+        ],
+        "rating": 76.0,
+        "attr_has 5g": false,
+        "attr_has nfc": false,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "snapdragon",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.4,
+        "battery_capacity": 4000.0,
+        "attr_fast charging available": 1,
+        "charging": 22.0,
+        "attr_ram capacity": 6,
+        "attr_internal memory": 128,
+        "display_size": 6.7,
+        "refresh_rate": 90,
+        "camera_main": 16.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 0,
+        "attr_resolution width": 1080,
+        "attr_resolution height": 2388
+      }
+    },
+    "9ee87396-0ca0-5a55-a152-b5555ff0d2ab": {
+      "id": "9ee87396-0ca0-5a55-a152-b5555ff0d2ab",
+      "brand": "honor",
+      "model": "Honor X6",
+      "attributes": {
+        "price": [
+          13999
+        ],
+        "rating": 71.0,
+        "attr_has 5g": false,
+        "attr_has nfc": false,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "helio",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.0,
+        "battery_capacity": 5000.0,
+        "attr_fast charging available": 1,
+        "charging": 10.0,
+        "attr_ram capacity": 4,
+        "attr_internal memory": 64,
+        "display_size": 6.5,
+        "refresh_rate": 60,
+        "camera_main": 5.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 1,
+        "attr_resolution width": 720,
+        "attr_resolution height": 1600
+      }
+    },
+    "9623a7ce-0def-56af-8770-e0e9b12c70ce": {
+      "id": "9623a7ce-0def-56af-8770-e0e9b12c70ce",
+      "brand": "honor",
+      "model": "Honor 50",
+      "attributes": {
+        "price": [
+          32990
+        ],
+        "rating": 85.0,
+        "attr_has 5g": true,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "snapdragon",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.4,
+        "battery_capacity": 4300.0,
+        "attr_fast charging available": 1,
+        "charging": 66.0,
+        "attr_ram capacity": 6,
+        "attr_internal memory": 128,
+        "display_size": 6.57,
+        "refresh_rate": 120,
+        "camera_main": 32.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 0,
+        "attr_resolution width": 1080,
+        "attr_resolution height": 2340
+      }
+    },
+    "7e1872bf-8a37-5248-ad86-e36d459aa618": {
+      "id": "7e1872bf-8a37-5248-ad86-e36d459aa618",
+      "brand": "honor",
+      "model": "Honor X7a",
+      "attributes": {
+        "price": [
+          13999
+        ],
+        "rating": 75.0,
+        "attr_has 5g": false,
+        "attr_has nfc": false,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "helio",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.3,
+        "battery_capacity": 5000.0,
+        "attr_fast charging available": 1,
+        "charging": 22.0,
+        "attr_ram capacity": 6,
+        "attr_internal memory": 128,
+        "display_size": 6.75,
+        "refresh_rate": 90,
+        "camera_main": 8.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 1,
+        "attr_resolution width": 720,
+        "attr_resolution height": 1600
+      }
+    },
+    "c3bda489-4a05-5a05-9536-ffaa20e29730": {
+      "id": "c3bda489-4a05-5a05-9536-ffaa20e29730",
+      "brand": "honor",
+      "model": "Honor X8 5G",
+      "attributes": {
+        "price": [
+          14990
+        ],
+        "rating": 75.0,
+        "attr_has 5g": true,
+        "attr_has nfc": false,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "snapdragon",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.2,
+        "battery_capacity": 5000.0,
+        "attr_fast charging available": 1,
+        "charging": 22.0,
+        "attr_ram capacity": 6,
+        "attr_internal memory": 128,
+        "display_size": 6.5,
+        "refresh_rate": 60,
+        "camera_main": 8.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 1,
+        "attr_extended upto": 1024.0,
+        "attr_resolution width": 720,
+        "attr_resolution height": 1600
+      }
+    },
+    "c3147560-f4a6-5576-b56d-2b84c7676514": {
+      "id": "c3147560-f4a6-5576-b56d-2b84c7676514",
+      "brand": "honor",
+      "model": "honor 200",
+      "attributes": {
+        "price": 27999,
+        "ram": 8.0,
+        "os": "android",
+        "storage": 256.0,
+        "battery_capacity": 5200,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 50.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.7,
+        "refresh_rate": 120.0,
+        "display_type": "amoled display"
+      }
+    },
+    "1a1b2fea-f0fd-5b35-8e76-db4511ae7f19": {
+      "id": "1a1b2fea-f0fd-5b35-8e76-db4511ae7f19",
+      "brand": "honor",
+      "model": "honor 200 pro",
+      "attributes": {
+        "price": 39998,
+        "ram": 12.0,
+        "os": "android",
+        "storage": 512.0,
+        "battery_capacity": 5200,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 50.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.78,
+        "refresh_rate": 120.0,
+        "display_type": "oled display"
+      }
+    },
+    "c95795c9-cd1b-5e04-9f6b-ccc398237540": {
+      "id": "c95795c9-cd1b-5e04-9f6b-ccc398237540",
+      "brand": "honor",
+      "model": "honor x9b",
+      "attributes": {
+        "price": 19998,
+        "ram": 8.0,
+        "os": "android",
+        "storage": 256.0,
+        "battery_capacity": 5800,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 108.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.78,
+        "refresh_rate": 120.0,
+        "display_type": "amoled display"
+      }
+    },
+    "228acda8-9d76-5577-ab3a-11aa89cfeb3e": {
+      "id": "228acda8-9d76-5577-ab3a-11aa89cfeb3e",
+      "brand": "honor",
+      "model": "honor 200 lite",
+      "attributes": {
+        "price": 18999,
+        "ram": 8.0,
+        "os": "android",
+        "storage": 256.0,
+        "battery_capacity": 4500,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 108.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.7,
+        "refresh_rate": 90.0,
+        "display_type": "amoled display"
+      }
+    },
+    "47f327fa-10ef-5209-a17d-284bd0c473c4": {
+      "id": "47f327fa-10ef-5209-a17d-284bd0c473c4",
+      "brand": "honor",
+      "model": "honor magic 6 pro",
+      "attributes": {
+        "price": 89999,
+        "ram": 12.0,
+        "os": "android",
+        "storage": 512.0,
+        "battery_capacity": 5600,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 50.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.8,
+        "refresh_rate": 120.0,
+        "display_type": "oled display"
+      }
+    },
+    "b48aba18-abc6-5137-b30f-590b93eb85dc": {
+      "id": "b48aba18-abc6-5137-b30f-590b93eb85dc",
+      "brand": "honor",
+      "model": "honor 90",
+      "attributes": {
+        "price": 37999,
+        "ram": 8.0,
+        "os": "android",
+        "storage": 256.0,
+        "battery_capacity": 5000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 200.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.7,
+        "refresh_rate": 120.0,
+        "display_type": "amoled display"
+      }
+    },
+    "4101668a-4f7f-5754-a3b1-88e05d1d140b": {
+      "id": "4101668a-4f7f-5754-a3b1-88e05d1d140b",
+      "brand": "honor",
+      "model": "honor 200 512gb",
+      "attributes": {
+        "price": 32999,
+        "ram": 12.0,
+        "os": "android",
+        "storage": 512.0,
+        "battery_capacity": 5200,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 50.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.7,
+        "refresh_rate": 120.0,
+        "display_type": "amoled display"
+      }
+    },
+    "68e0a680-c981-5271-89b0-2b268dda0e0a": {
+      "id": "68e0a680-c981-5271-89b0-2b268dda0e0a",
+      "brand": "honor",
+      "model": "honor 9x",
+      "attributes": {
+        "price": 15999,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 4000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 48.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.59,
+        "display_type": "lcd display"
+      }
+    },
+    "5f6f1e95-83a3-59f5-8fd7-1985dc8b1d3c": {
+      "id": "5f6f1e95-83a3-59f5-8fd7-1985dc8b1d3c",
+      "brand": "honor",
+      "model": "honor 90 512gb",
+      "attributes": {
+        "price": 27999,
+        "ram": 12.0,
+        "os": "android",
+        "storage": 512.0,
+        "battery_capacity": 5000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 200.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.7,
+        "refresh_rate": 120.0,
+        "display_type": "amoled display"
+      }
+    },
+    "e090eceb-51f0-52d2-819b-5dc14cd780e7": {
+      "id": "e090eceb-51f0-52d2-819b-5dc14cd780e7",
+      "brand": "honor",
+      "model": "honor holly 2 plus",
+      "attributes": {
+        "price": 8499,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 4000,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "13455b5b-7e33-5a9d-91d6-09349ddb5505": {
+      "id": "13455b5b-7e33-5a9d-91d6-09349ddb5505",
+      "brand": "honor",
+      "model": "honor play",
+      "attributes": {
+        "price": 16999,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 3750,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 16.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.3,
+        "display_type": "lcd display"
+      }
+    },
+    "fecb6cab-1e2a-5111-92de-514b3d2646fe": {
+      "id": "fecb6cab-1e2a-5111-92de-514b3d2646fe",
+      "brand": "honor",
+      "model": "honor 20",
+      "attributes": {
+        "price": 29990,
+        "ram": 6.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 3750,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 48.0,
+        "camera_main": 4,
+        "camera_front": 1,
+        "display_size": 6.26,
+        "display_type": "lcd display"
+      }
+    },
+    "ad2112e7-5bf2-566f-aaf0-c398f1244026": {
+      "id": "ad2112e7-5bf2-566f-aaf0-c398f1244026",
+      "brand": "honor",
+      "model": "honor 8 smart",
+      "attributes": {
+        "price": 8999,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.2,
+        "display_type": "lcd display"
+      }
+    },
+    "195cd20f-3070-502c-9ce9-2b0140c6126d": {
+      "id": "195cd20f-3070-502c-9ce9-2b0140c6126d",
+      "brand": "honor",
+      "model": "honor 9 lite",
+      "attributes": {
+        "price": 8499,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 2,
+        "camera_front": 2,
+        "display_size": 5.65,
+        "display_type": "lcd display"
+      }
+    },
+    "0a38631c-065e-5d2b-8bf5-b244df696879": {
+      "id": "0a38631c-065e-5d2b-8bf5-b244df696879",
+      "brand": "honor",
+      "model": "honor 7a",
+      "attributes": {
+        "price": 8990,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 5.7,
+        "display_type": "lcd display"
+      }
+    },
+    "b374644c-aa09-5b75-b476-6328aa7b910f": {
+      "id": "b374644c-aa09-5b75-b476-6328aa7b910f",
+      "brand": "honor",
+      "model": "honor 7s (play 7)",
+      "attributes": {
+        "price": 5999,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 3020,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.45,
+        "display_type": "lcd display"
+      }
+    },
+    "eb72508e-d504-5c2e-86a9-1f75a52fad24": {
+      "id": "eb72508e-d504-5c2e-86a9-1f75a52fad24",
+      "brand": "honor",
+      "model": "honor 8x",
+      "attributes": {
+        "price": 11989,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 3750,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 20.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.5,
+        "display_type": "lcd display"
+      }
+    },
+    "5ade1e36-7676-55c1-8fa9-d42c4d1c3b19": {
+      "id": "5ade1e36-7676-55c1-8fa9-d42c4d1c3b19",
+      "brand": "honor",
+      "model": "honor play 6gb ram",
+      "attributes": {
+        "price": 25999,
+        "ram": 6.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 3750,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 16.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.3,
+        "display_type": "lcd display"
+      }
+    },
+    "ded66894-5c49-51ff-8b5a-247fa90a8946": {
+      "id": "ded66894-5c49-51ff-8b5a-247fa90a8946",
+      "brand": "honor",
+      "model": "honor 8c 64gb",
+      "attributes": {
+        "price": 8999,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 4000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.26,
+        "display_type": "lcd display"
+      }
+    },
+    "c44350cc-91ad-5f77-8649-aacd771640c2": {
+      "id": "c44350cc-91ad-5f77-8649-aacd771640c2",
+      "brand": "honor",
+      "model": "honor 10 lite 6gb ram",
+      "attributes": {
+        "price": 12999,
+        "ram": 6.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 3400,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.21,
+        "display_type": "lcd display"
+      }
+    },
+    "443218de-701d-5e79-9c66-63e1cb8a89ff": {
+      "id": "443218de-701d-5e79-9c66-63e1cb8a89ff",
+      "brand": "honor",
+      "model": "honor 20i",
+      "attributes": {
+        "price": 7999,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 3400,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 24.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.21,
+        "display_type": "lcd display"
+      }
+    },
+    "0842f1b7-5c3c-523a-adf6-c4d5ac379953": {
+      "id": "0842f1b7-5c3c-523a-adf6-c4d5ac379953",
+      "brand": "honor",
+      "model": "honor 4x",
+      "attributes": {
+        "price": 9999,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "6669d382-996d-5eff-9a81-52958ddffb00": {
+      "id": "6669d382-996d-5eff-9a81-52958ddffb00",
+      "brand": "honor",
+      "model": "honor 6x 64gb",
+      "attributes": {
+        "price": 13999,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 3340,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 12.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "a69b892b-3ed7-5e63-bc87-31de6f6257a3": {
+      "id": "a69b892b-3ed7-5e63-bc87-31de6f6257a3",
+      "brand": "honor",
+      "model": "honor 8 lite",
+      "attributes": {
+        "price": 11099,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 12.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.2,
+        "display_type": "lcd display"
+      }
+    },
+    "51d10b6a-b1ed-572f-b52a-b02a99cdf9a2": {
+      "id": "51d10b6a-b1ed-572f-b52a-b02a99cdf9a2",
+      "brand": "honor",
+      "model": "honor 9i",
+      "attributes": {
+        "price": 12999,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 3340,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 16.0,
+        "camera_main": 2,
+        "camera_front": 2,
+        "display_size": 5.9,
+        "display_type": "lcd display"
+      }
+    },
+    "1b3a0085-0946-5457-ac65-ec7f0bebac83": {
+      "id": "1b3a0085-0946-5457-ac65-ec7f0bebac83",
+      "brand": "honor",
+      "model": "honor 7x",
+      "attributes": {
+        "price": 12499,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 3340,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 16.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 5.93,
+        "display_type": "lcd display"
+      }
+    },
+    "2376937f-edc6-51ab-ba46-cc735903aa34": {
+      "id": "2376937f-edc6-51ab-ba46-cc735903aa34",
+      "brand": "honor",
+      "model": "honor 9n",
+      "attributes": {
+        "price": 9990,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 5.84,
+        "display_type": "lcd display"
+      }
+    },
+    "cc82f6b9-4580-50d0-afda-71aa9b4051e6": {
+      "id": "cc82f6b9-4580-50d0-afda-71aa9b4051e6",
+      "brand": "honor",
+      "model": "honor 8c",
+      "attributes": {
+        "price": 12999,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 4000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.26,
+        "display_type": "lcd display"
+      }
+    },
+    "db3fb17a-499a-5fe0-ab82-8714e17c0120": {
+      "id": "db3fb17a-499a-5fe0-ab82-8714e17c0120",
+      "brand": "honor",
+      "model": "honor 8x 6gb ram",
+      "attributes": {
+        "price": 19999,
+        "ram": 6.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 3750,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 20.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.5,
+        "display_type": "lcd display"
+      }
+    },
+    "8b081539-7f35-55f9-bdd9-674af3599e8b": {
+      "id": "8b081539-7f35-55f9-bdd9-674af3599e8b",
+      "brand": "honor",
+      "model": "honor 10 lite",
+      "attributes": {
+        "price": 13990,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 3400,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.21,
+        "display_type": "lcd display"
+      }
+    },
+    "b833b7c2-dbe4-57b0-8feb-3f4ce93cccd6": {
+      "id": "b833b7c2-dbe4-57b0-8feb-3f4ce93cccd6",
+      "brand": "honor",
+      "model": "honor 10 lite 32gb",
+      "attributes": {
+        "price": 9999,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 3400,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.21,
+        "display_type": "lcd display"
+      }
+    },
+    "309cb3b8-dedd-5633-b9d7-b7d89608c483": {
+      "id": "309cb3b8-dedd-5633-b9d7-b7d89608c483",
+      "brand": "honor",
+      "model": "honor 9a",
+      "attributes": {
+        "price": 7499,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.3,
+        "display_type": "lcd display"
+      }
+    },
+    "673e570b-98f4-59c6-8481-dc3d5b74a94a": {
+      "id": "673e570b-98f4-59c6-8481-dc3d5b74a94a",
+      "brand": "honor",
+      "model": "honor 4c",
+      "attributes": {
+        "price": 8999,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2550,
+        "charging": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "15574c3e-9bc0-5a8f-9fd8-2de20450c3b5": {
+      "id": "15574c3e-9bc0-5a8f-9fd8-2de20450c3b5",
+      "brand": "honor",
+      "model": "honor 5x",
+      "attributes": {
+        "price": 12999,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "d00f6e71-e0c3-51b7-ae4a-a42a708ece81": {
+      "id": "d00f6e71-e0c3-51b7-ae4a-a42a708ece81",
+      "brand": "honor",
+      "model": "honor 5c",
+      "attributes": {
+        "price": 9999,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.2,
+        "display_type": "lcd display"
+      }
+    },
+    "f85d8847-efd5-5ebf-948c-1bfc9b8b1110": {
+      "id": "f85d8847-efd5-5ebf-948c-1bfc9b8b1110",
+      "brand": "honor",
+      "model": "honor 6x 32gb",
+      "attributes": {
+        "price": 11999,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 3340,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 12.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "802f318b-c438-5b0b-8a53-76a1a9854efe": {
+      "id": "802f318b-c438-5b0b-8a53-76a1a9854efe",
+      "brand": "honor",
+      "model": "honor bee 2",
+      "attributes": {
+        "price": 4999,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2100,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.5,
+        "display_type": "tft display"
+      }
+    },
+    "bab46f2c-8fa7-597d-a7c6-4b278545b7c9": {
+      "id": "bab46f2c-8fa7-597d-a7c6-4b278545b7c9",
+      "brand": "honor",
+      "model": "honor 7x 64gb",
+      "attributes": {
+        "price": 15499,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 3340,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 16.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 5.93,
+        "display_type": "lcd display"
+      }
+    },
+    "1cd9790e-8335-5fe0-8c19-947fdc4df484": {
+      "id": "1cd9790e-8335-5fe0-8c19-947fdc4df484",
+      "brand": "honor",
+      "model": "honor holly 4",
+      "attributes": {
+        "price": 8499,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 3020,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "a311bae8-8e91-5ae3-b823-13a2020d4e08": {
+      "id": "a311bae8-8e91-5ae3-b823-13a2020d4e08",
+      "brand": "honor",
+      "model": "honor holly 4 plus",
+      "attributes": {
+        "price": 8999,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 4100,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 12.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "8521cb9c-cc97-5bd8-967e-4ac915f551e8": {
+      "id": "8521cb9c-cc97-5bd8-967e-4ac915f551e8",
+      "brand": "honor",
+      "model": "honor 9 lite 64gb",
+      "attributes": {
+        "price": 8499,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 2,
+        "camera_front": 2,
+        "display_size": 5.65,
+        "display_type": "lcd display"
+      }
+    },
+    "9daec7fa-b374-5ec8-bb2f-4cd32dc5a435": {
+      "id": "9daec7fa-b374-5ec8-bb2f-4cd32dc5a435",
+      "brand": "honor",
+      "model": "honor 7c",
+      "attributes": {
+        "price": 12999,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 5.99,
+        "display_type": "lcd display"
+      }
+    },
+    "24e04a1e-0737-5f53-9bd5-6ca2c062c605": {
+      "id": "24e04a1e-0737-5f53-9bd5-6ca2c062c605",
+      "brand": "honor",
+      "model": "honor 7c 64gb",
+      "attributes": {
+        "price": 14999,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 5.99,
+        "display_type": "lcd display"
+      }
+    },
+    "bbec98d2-cffb-5dd6-8900-95598a3b0da7": {
+      "id": "bbec98d2-cffb-5dd6-8900-95598a3b0da7",
+      "brand": "honor",
+      "model": "honor 9n 64gb",
+      "attributes": {
+        "price": 9999,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 5.84,
+        "display_type": "lcd display"
+      }
+    },
+    "845a6c06-124d-5124-9fe1-794250aa3e00": {
+      "id": "845a6c06-124d-5124-9fe1-794250aa3e00",
+      "brand": "honor",
+      "model": "honor 9n 128gb",
+      "attributes": {
+        "price": 19999,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 5.84,
+        "display_type": "lcd display"
+      }
+    },
+    "62dd92ff-e86a-58db-beda-28725966e995": {
+      "id": "62dd92ff-e86a-58db-beda-28725966e995",
+      "brand": "honor",
+      "model": "honor 8x 128gb",
+      "attributes": {
+        "price": 15999,
+        "ram": 6.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 3750,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 20.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.5,
+        "display_type": "lcd display"
+      }
+    },
+    "ca10d238-3aad-521a-a3ad-6d9a95dbefb5": {
+      "id": "ca10d238-3aad-521a-a3ad-6d9a95dbefb5",
+      "brand": "honor",
+      "model": "honor 9x pro",
+      "attributes": {
+        "price": 18999,
+        "ram": 6.0,
+        "os": "android",
+        "storage": 256.0,
+        "battery_capacity": 4000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 48.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.59,
+        "display_type": "lcd display"
+      }
+    },
+    "4d069809-3a9a-5b2f-a522-4f2ca716dbd7": {
+      "id": "4d069809-3a9a-5b2f-a522-4f2ca716dbd7",
+      "brand": "honor",
+      "model": "honor 9x 6gb ram",
+      "attributes": {
+        "price": 19999,
+        "ram": 6.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 4000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 48.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.59,
+        "display_type": "lcd display"
+      }
+    },
+    "9f43c520-cfcc-57ec-a65c-825ed8b16999": {
+      "id": "9f43c520-cfcc-57ec-a65c-825ed8b16999",
+      "brand": "honor",
+      "model": "honor 9s",
+      "attributes": {
+        "price": 7999,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 3020,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.45,
+        "display_type": "lcd display"
+      }
+    },
+    "b32ebdfc-6f94-5ba2-a0ef-a6f5a4691c2e": {
+      "id": "b32ebdfc-6f94-5ba2-a0ef-a6f5a4691c2e",
+      "brand": "honor",
+      "model": "honor 8 pro",
+      "attributes": {
+        "price": 29999,
+        "ram": 6.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 4000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 12.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 5.7,
+        "display_type": "lcd display"
+      }
+    },
+    "01eef5c7-4db0-53f9-a61d-769313867258": {
+      "id": "01eef5c7-4db0-53f9-a61d-769313867258",
+      "brand": "honor",
+      "model": "honor 8",
+      "attributes": {
+        "price": 29999,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 12.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 5.2,
+        "display_type": "lcd display"
+      }
+    },
+    "c0fe3dda-5edb-5cf1-b9f6-b2f186b723f0": {
+      "id": "c0fe3dda-5edb-5cf1-b9f6-b2f186b723f0",
+      "brand": "honor",
+      "model": "honor 7",
+      "attributes": {
+        "price": 22999,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 3100,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 20.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.2,
+        "display_type": "lcd display"
+      }
+    },
+    "b8636be7-3180-5e17-b69b-d2a11a1c8f9c": {
+      "id": "b8636be7-3180-5e17-b69b-d2a11a1c8f9c",
+      "brand": "honor",
+      "model": "honor bee",
+      "attributes": {
+        "price": 4999,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 1730,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.5,
+        "display_type": "tft display"
+      }
+    },
+    "83f5045c-a0f3-5231-8f0b-8ccf9fc49ea7": {
+      "id": "83f5045c-a0f3-5231-8f0b-8ccf9fc49ea7",
+      "brand": "honor",
+      "model": "honor holly",
+      "attributes": {
+        "price": 5999,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2000,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "be824f9f-1969-570f-93e9-3f7c241c07f8": {
+      "id": "be824f9f-1969-570f-93e9-3f7c241c07f8",
+      "brand": "honor",
+      "model": "honor 6",
+      "attributes": {
+        "price": 14999,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 3100,
+        "charging": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "5c547cf6-ccd8-526a-ab45-29a6aa37c938": {
+      "id": "5c547cf6-ccd8-526a-ab45-29a6aa37c938",
+      "brand": "honor",
+      "model": "honor 6 plus",
+      "attributes": {
+        "price": 26499,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 3600,
+        "charging": "No",
+        "attr_has fingerprints": "No",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "tft display"
+      }
+    },
+    "a486e9fc-cb7b-5833-8425-286ce4276e38": {
+      "id": "a486e9fc-cb7b-5833-8425-286ce4276e38",
+      "brand": "honor",
+      "model": "honor 10",
+      "attributes": {
+        "price": 35999,
+        "ram": 6.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 3400,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "hisilicon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 16.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 5.84,
+        "display_type": "lcd display"
+      }
+    },
+    "815f05c7-af78-5728-904e-67760ac1e8c3": {
+      "id": "815f05c7-af78-5728-904e-67760ac1e8c3",
+      "brand": "Honor",
+      "model": "10",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "May 15, 2018",
+        "battery_capacity": 3400.0,
+        "chipset": "HiSilicon Kirin",
+        "attr_memory": 4.0,
+        "attr_primary storage": 128.0,
+        "display_size": 5.8,
+        "attr_display resolution": 2280,
+        "camera_main": 16.0,
+        "camera_front": 24
+      }
+    },
+    "e1eba514-be69-51da-a8ea-4375cc3d3108": {
+      "id": "e1eba514-be69-51da-a8ea-4375cc3d3108",
+      "brand": "Honor",
+      "model": "10 Lite",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "Nov 21, 2018",
+        "battery_capacity": 3000.0,
+        "chipset": "HiSilicon Kirin",
+        "attr_memory": 6.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.2,
+        "attr_display resolution": 2340,
+        "camera_main": 13.0,
+        "camera_front": 24
+      }
+    },
+    "b4ead63a-ecea-56ca-a9d2-037503cc34a9": {
+      "id": "b4ead63a-ecea-56ca-a9d2-037503cc34a9",
+      "brand": "Honor",
+      "model": "20",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "May 21, 2019",
+        "battery_capacity": 3750.0,
+        "chipset": "HiSilicon Kirin 980",
+        "attr_memory": 6.0,
+        "attr_primary storage": 128.0,
+        "display_size": 6.3,
+        "attr_display resolution": 2340,
+        "camera_main": 48.0,
+        "camera_front": 32
+      }
+    },
+    "a0378372-c1d4-5acf-81a6-6e858a9ac704": {
+      "id": "a0378372-c1d4-5acf-81a6-6e858a9ac704",
+      "brand": "Honor",
+      "model": "20 Lite",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "May 15, 2019",
+        "battery_capacity": 3400.0,
+        "chipset": "HiSilicon Kirin 710",
+        "attr_memory": 4.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.2,
+        "attr_display resolution": 2340,
+        "camera_main": 24.0,
+        "camera_front": 32
+      }
+    },
+    "2cb67063-94e9-53e5-97f5-b752e15b04b4": {
+      "id": "2cb67063-94e9-53e5-97f5-b752e15b04b4",
+      "brand": "Honor",
+      "model": "20 Pro",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "May 21, 2019",
+        "battery_capacity": 4000.0,
+        "chipset": "HiSilicon Kirin 980",
+        "attr_memory": 8.0,
+        "attr_primary storage": 256.0,
+        "display_size": 6.3,
+        "attr_display resolution": 2340,
+        "camera_main": 48.0,
+        "camera_front": 32
+      }
+    },
+    "ad6fa95c-67a4-59a8-8c79-431ed34deb94": {
+      "id": "ad6fa95c-67a4-59a8-8c79-431ed34deb94",
+      "brand": "Honor",
+      "model": "3C",
+      "attributes": {
+        "os": "Android 4.2",
+        "release_date": "Dec 01, 2013",
+        "battery_capacity": 2300.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "4fa19292-f01e-5260-845c-947106f95968": {
+      "id": "4fa19292-f01e-5260-845c-947106f95968",
+      "brand": "Honor",
+      "model": "4C",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2550.0,
+        "chipset": "HiSilicon Kirin",
+        "attr_memory": 2.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "51d67e39-6824-5727-9b45-a1aac0abeb9b": {
+      "id": "51d67e39-6824-5727-9b45-a1aac0abeb9b",
+      "brand": "Honor",
+      "model": "4X",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 3000.0,
+        "chipset": "HiSilicon Kirin",
+        "attr_memory": 2.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "dc10a74a-b32c-54d1-952d-f90f75dfdfeb": {
+      "id": "dc10a74a-b32c-54d1-952d-f90f75dfdfeb",
+      "brand": "Honor",
+      "model": "50 Pro",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "Jun 25, 2021",
+        "battery_capacity": 4000.0,
+        "chipset": "Qualcomm Snapdragon 778G",
+        "attr_memory": 8.0,
+        "attr_primary storage": 256.0,
+        "storage": " not expandable",
+        "display_size": 6.7,
+        "attr_display resolution": 2676,
+        "refresh_rate": 120.0,
+        "camera_main": 108.0,
+        "camera_front": 32
+      }
+    },
+    "82a59c77-2c1d-59f2-971b-7076e139750e": {
+      "id": "82a59c77-2c1d-59f2-971b-7076e139750e",
+      "brand": "Honor",
+      "model": "50 SE",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "Jun 25, 2021",
+        "battery_capacity": 4000.0,
+        "chipset": "MediaTek Dimensity 900",
+        "attr_memory": 8.0,
+        "attr_primary storage": 128.0,
+        "storage": " not expandable",
+        "display_size": 6.8,
+        "attr_display resolution": 2388,
+        "refresh_rate": 120.0,
+        "camera_main": 108.0,
+        "camera_front": 16
+      }
+    },
+    "4380533a-ae0a-59aa-b089-05d5e9489f8a": {
+      "id": "4380533a-ae0a-59aa-b089-05d5e9489f8a",
+      "brand": "Honor",
+      "model": "5C",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Jun 20, 2016",
+        "battery_capacity": 3000.0,
+        "chipset": "HiSilicon Kirin",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "8a320182-a907-5c1e-b579-e4c39c12cacc": {
+      "id": "8a320182-a907-5c1e-b579-e4c39c12cacc",
+      "brand": "Honor",
+      "model": "5X",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Nov 02, 2015",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 616",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "51f6ba80-35e3-51da-81d3-470b33028d20": {
+      "id": "51f6ba80-35e3-51da-81d3-470b33028d20",
+      "brand": "Honor",
+      "model": "6",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Aug 01, 2014",
+        "battery_capacity": 3000.0,
+        "chipset": "HiSilicon Kirin",
+        "attr_memory": 3.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "f71ed687-62e1-55d7-a918-85539d24bf57": {
+      "id": "f71ed687-62e1-55d7-a918-85539d24bf57",
+      "brand": "Honor",
+      "model": "6 Plus",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 3600.0,
+        "chipset": "HiSilicon Kirin",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 8.0,
+        "camera_front": 8
+      }
+    },
+    "ba6a176a-7aee-5aad-892a-1d7f6c36ee4e": {
+      "id": "ba6a176a-7aee-5aad-892a-1d7f6c36ee4e",
+      "brand": "Honor",
+      "model": "6A",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "release_date": "Jul 12, 2017",
+        "battery_capacity": 3020.0,
+        "chipset": "Qualcomm Snapdragon 430",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "acbb954c-b4b5-599f-a2f7-f1d99ada22dc": {
+      "id": "acbb954c-b4b5-599f-a2f7-f1d99ada22dc",
+      "brand": "Honor",
+      "model": "6C",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "May 01, 2017",
+        "battery_capacity": 3020.0,
+        "chipset": "Qualcomm Snapdragon 435",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "64d9ed0c-dc84-52d7-8097-47bb6d20ad07": {
+      "id": "64d9ed0c-dc84-52d7-8097-47bb6d20ad07",
+      "brand": "Honor",
+      "model": "6x",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 3340.0,
+        "chipset": "HiSilicon Kirin",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 12.0,
+        "camera_front": 8
+      }
+    },
+    "3aaa6640-83f1-54de-82ba-dd5febc2cbb9": {
+      "id": "3aaa6640-83f1-54de-82ba-dd5febc2cbb9",
+      "brand": "Honor",
+      "model": "7",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Jul 07, 2015",
+        "battery_capacity": 3100.0,
+        "chipset": "HiSilicon Kirin",
+        "attr_memory": 3.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 1920,
+        "camera_main": 20.0,
+        "camera_front": 8
+      }
+    },
+    "760b11b2-2bf6-52fe-9fb4-7b504d2124d0": {
+      "id": "760b11b2-2bf6-52fe-9fb4-7b504d2124d0",
+      "brand": "Honor",
+      "model": "7 Lite",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 3000.0,
+        "chipset": "HiSilicon Kirin",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "9d396b4c-449f-53bd-8bc4-81bd8b7cee16": {
+      "id": "9d396b4c-449f-53bd-8bc4-81bd8b7cee16",
+      "brand": "Honor",
+      "model": "7A",
+      "attributes": {
+        "os": "Android 8.0 Oreo",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 430",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 1440,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "47e6b46f-27ec-5b46-b5e9-57cb2a328f1e": {
+      "id": "47e6b46f-27ec-5b46-b5e9-57cb2a328f1e",
+      "brand": "Honor",
+      "model": "7C",
+      "attributes": {
+        "os": "Android 8.0 Oreo",
+        "release_date": "May 22, 2018",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 450",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1440,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "3fb0671e-83eb-5987-b792-915afd027e62": {
+      "id": "3fb0671e-83eb-5987-b792-915afd027e62",
+      "brand": "Honor",
+      "model": "7S",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "release_date": "Jun 28, 2018",
+        "battery_capacity": 3020.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1440,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "bd599fea-de40-5003-a6fd-db7cc19bd48b": {
+      "id": "bd599fea-de40-5003-a6fd-db7cc19bd48b",
+      "brand": "Honor",
+      "model": "7X",
+      "attributes": {
+        "os": "Android 8.0 Oreo",
+        "release_date": "Dec 14, 2017",
+        "battery_capacity": 3340.0,
+        "chipset": "HiSilicon Kirin",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.9,
+        "attr_display resolution": 2160,
+        "camera_main": 16.0,
+        "camera_front": 8
+      }
+    },
+    "0f985562-35ac-5ce5-98bf-4946a9e0e482": {
+      "id": "0f985562-35ac-5ce5-98bf-4946a9e0e482",
+      "brand": "Honor",
+      "model": "7i",
+      "attributes": {
+        "os": "Android ",
+        "release_date": "Aug 31, 2015",
+        "battery_capacity": 3100.0,
+        "chipset": "Qualcomm Snapdragon 616",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDHC",
+        "display_size": 5.2,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0
+      }
+    },
+    "4c899541-9774-5b76-9b79-6e793efca696": {
+      "id": "4c899541-9774-5b76-9b79-6e793efca696",
+      "brand": "Honor",
+      "model": "8",
+      "attributes": {
+        "os": "Android 8.0 Oreo",
+        "release_date": "Jul 19, 2016",
+        "battery_capacity": 3000.0,
+        "chipset": "HiSilicon Kirin",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 1920,
+        "camera_main": 12.0,
+        "camera_front": 8
+      }
+    },
+    "07bb2ee9-8a5c-51f0-9e5d-6c31a9559089": {
+      "id": "07bb2ee9-8a5c-51f0-9e5d-6c31a9559089",
+      "brand": "Honor",
+      "model": "8 Lite",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "release_date": "Feb 17, 2017",
+        "battery_capacity": 3000.0,
+        "chipset": "HiSilicon Kirin",
+        "attr_memory": 3.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 1920,
+        "camera_main": 12.0,
+        "camera_front": 8
+      }
+    },
+    "7ef305f2-1e5d-5823-a746-b9ace4a1cebe": {
+      "id": "7ef305f2-1e5d-5823-a746-b9ace4a1cebe",
+      "brand": "Honor",
+      "model": "8 Pro",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "Apr 20, 2017",
+        "battery_capacity": 4000.0,
+        "chipset": "HiSilicon Kirin",
+        "attr_memory": 6.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 2560,
+        "camera_main": 12.0,
+        "camera_front": 8
+      }
+    },
+    "9e98744e-61c4-5f9f-b6ff-7da92293913a": {
+      "id": "9e98744e-61c4-5f9f-b6ff-7da92293913a",
+      "brand": "Honor",
+      "model": "8C",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "release_date": "Dec 10, 2018",
+        "battery_capacity": 4000.0,
+        "chipset": "Qualcomm Snapdragon 632",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.3,
+        "attr_display resolution": 1520,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "10d1841c-d4fa-5ee9-86fe-5688c159fbda": {
+      "id": "10d1841c-d4fa-5ee9-86fe-5688c159fbda",
+      "brand": "Honor",
+      "model": "8X",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "Oct 10, 2018",
+        "battery_capacity": 3750.0,
+        "chipset": "HiSilicon Kirin",
+        "attr_memory": 4.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.5,
+        "attr_display resolution": 2340,
+        "camera_main": 20.0,
+        "camera_front": 16
+      }
+    },
+    "64a44993-5898-5461-a6e5-91b7116994b6": {
+      "id": "64a44993-5898-5461-a6e5-91b7116994b6",
+      "brand": "Honor",
+      "model": "9",
+      "attributes": {
+        "os": "Android 8.0 Oreo",
+        "release_date": "Jun 27, 2017",
+        "battery_capacity": 3200.0,
+        "chipset": "HiSilicon Kirin",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 1920,
+        "camera_main": 12.0,
+        "camera_front": 8
+      }
+    },
+    "3579402c-ded7-53b2-bda2-8fbd937e49ee": {
+      "id": "3579402c-ded7-53b2-bda2-8fbd937e49ee",
+      "brand": "Honor",
+      "model": "9 Lite",
+      "attributes": {
+        "os": "Android 8.0 Oreo",
+        "release_date": "Jan 21, 2018",
+        "battery_capacity": 3000.0,
+        "chipset": "HiSilicon Kirin",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 2160,
+        "camera_main": 13.0,
+        "camera_front": 13
+      }
+    },
+    "93ad8905-2ad2-5198-8da3-15c05c376618": {
+      "id": "93ad8905-2ad2-5198-8da3-15c05c376618",
+      "brand": "Honor",
+      "model": "9A",
+      "attributes": {
+        "os": "Android 10",
+        "release_date": "Jul 01, 2020",
+        "battery_capacity": 5000.0,
+        "chipset": "Mediatek Helio P22",
+        "attr_memory": 3.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.3,
+        "attr_display resolution": 1600,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "a1234c2e-0c12-5678-b1ab-6b3c85926f1d": {
+      "id": "a1234c2e-0c12-5678-b1ab-6b3c85926f1d",
+      "brand": "Honor",
+      "model": "9N",
+      "attributes": {
+        "os": "Android ",
+        "battery_capacity": 3000.0,
+        "chipset": "HiSilicon Kirin",
+        "attr_memory": 4.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 5.8,
+        "attr_display resolution": 2280,
+        "camera_main": 13.0,
+        "camera_front": 16
+      }
+    },
+    "4101c157-ec2f-51ff-882e-d232537583a5": {
+      "id": "4101c157-ec2f-51ff-882e-d232537583a5",
+      "brand": "Honor",
+      "model": "9X",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "October 2019",
+        "battery_capacity": 4000.0,
+        "chipset": "HiSilicon Kirin 710F",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.6,
+        "attr_display resolution": 2340,
+        "camera_front": 16
+      }
+    },
+    "57e489c8-192b-5991-ac34-5a7910828643": {
+      "id": "57e489c8-192b-5991-ac34-5a7910828643",
+      "brand": "Honor",
+      "model": "9X Pro",
+      "attributes": {
+        "os": "Android 10",
+        "release_date": "Apr 17, 2020",
+        "battery_capacity": 4000.0,
+        "chipset": "Kirin 810",
+        "attr_memory": 6.0,
+        "attr_primary storage": 256.0,
+        "storage": " microSDXC",
+        "display_size": 6.6,
+        "attr_display resolution": 2340,
+        "camera_main": 48.0,
+        "camera_front": 16
+      }
+    },
+    "140b736f-e507-590d-aeea-22f1ba6c008e": {
+      "id": "140b736f-e507-590d-aeea-22f1ba6c008e",
+      "brand": "Honor",
+      "model": "Holly",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "8573434b-60d6-543e-82a5-d38f5a01ffb6": {
+      "id": "8573434b-60d6-543e-82a5-d38f5a01ffb6",
+      "brand": "Honor",
+      "model": "Magic3",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "August 2021",
+        "battery_capacity": 4600.0,
+        "chipset": "Qualcomm Snapdragon 888",
+        "attr_memory": 8.0,
+        "attr_primary storage": 128.0,
+        "storage": " not expandable",
+        "display_size": 6.8,
+        "attr_display resolution": 2772,
+        "refresh_rate": 120.0,
+        "camera_main": 50.0,
+        "camera_front": 13
+      }
+    },
+    "4f7fefe0-3a4f-5733-a879-7b1b13554902": {
+      "id": "4f7fefe0-3a4f-5733-a879-7b1b13554902",
+      "brand": "Honor",
+      "model": "Magic3 Pro",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "August 2021",
+        "battery_capacity": 4600.0,
+        "chipset": "Qualcomm Snapdragon 888+",
+        "attr_memory": 8.0,
+        "attr_primary storage": 256.0,
+        "storage": " not expandable",
+        "display_size": 6.8,
+        "attr_display resolution": 2772,
+        "refresh_rate": 120.0,
+        "camera_main": 50.0,
+        "camera_front": 13
+      }
+    },
+    "87f1dc6a-0216-518a-b01d-1ee179b24ec9": {
+      "id": "87f1dc6a-0216-518a-b01d-1ee179b24ec9",
+      "brand": "Honor",
+      "model": "Magic3 Pro+",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "August 2021",
+        "battery_capacity": 4600.0,
+        "chipset": "Qualcomm Snapdragon 888+",
+        "attr_memory": 12.0,
+        "attr_primary storage": 512.0,
+        "storage": " not expandable",
+        "display_size": 6.8,
+        "attr_display resolution": 2772,
+        "refresh_rate": 120.0,
+        "camera_main": 50.0,
+        "camera_front": 13
+      }
+    },
+    "bc76154b-58e7-5783-9440-be99498cc642": {
+      "id": "bc76154b-58e7-5783-9440-be99498cc642",
+      "brand": "Honor",
+      "model": "Magic4",
+      "attributes": {
+        "os": "Android 12",
+        "release_date": "Mar 30, 2022",
+        "battery_capacity": 4800.0,
+        "chipset": "Qualcomm Snapdragon 8 Gen 1",
+        "attr_memory": 8.0,
+        "attr_primary storage": 128.0,
+        "storage": " not expandable",
+        "display_size": 6.8,
+        "attr_display resolution": 2664,
+        "refresh_rate": 120.0,
+        "camera_main": 50.0,
+        "camera_front": 12
+      }
+    },
+    "24a2f503-77dd-5564-96ac-8b571014882e": {
+      "id": "24a2f503-77dd-5564-96ac-8b571014882e",
+      "brand": "Honor",
+      "model": "Magic4 Lite 5G",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "May 31, 2022",
+        "battery_capacity": 4800.0,
+        "chipset": "Qualcomm Snapdragon 695",
+        "attr_memory": 6.0,
+        "attr_primary storage": 128.0,
+        "storage": " not expandable",
+        "display_size": 6.8,
+        "attr_display resolution": 2388,
+        "refresh_rate": 120.0,
+        "camera_main": 48.0,
+        "camera_front": 16
+      }
+    },
+    "9a7352c0-a0ab-5420-a003-9b14c54d09ee": {
+      "id": "9a7352c0-a0ab-5420-a003-9b14c54d09ee",
+      "brand": "Honor",
+      "model": "Magic4 Pro",
+      "attributes": {
+        "os": "Android 12",
+        "release_date": "May 13, 2022",
+        "battery_capacity": 4600.0,
+        "chipset": "Qualcomm Snapdragon 8 Gen 1",
+        "attr_memory": 8.0,
+        "attr_primary storage": 256.0,
+        "storage": " not expandable",
+        "display_size": 6.8,
+        "attr_display resolution": 2848,
+        "refresh_rate": 120.0,
+        "camera_main": 50.0,
+        "camera_front": 12
+      }
+    },
+    "8b5eaa46-b34b-5dcb-98ea-9d8ef6d8646d": {
+      "id": "8b5eaa46-b34b-5dcb-98ea-9d8ef6d8646d",
+      "brand": "Honor",
+      "model": "Note 8",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Aug 09, 2016",
+        "battery_capacity": 4500.0,
+        "chipset": "HiSilicon Kirin",
+        "attr_memory": 4.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.6,
+        "attr_display resolution": 2560,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "8ea65ad7-37f2-5759-8cd4-0db42da8c396": {
+      "id": "8ea65ad7-37f2-5759-8cd4-0db42da8c396",
+      "brand": "Honor",
+      "model": "Play",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "Aug 14, 2018",
+        "battery_capacity": 3750.0,
+        "chipset": "HiSilicon Kirin",
+        "attr_memory": 6.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.3,
+        "attr_display resolution": 2340,
+        "camera_main": 16.0,
+        "camera_front": 16
+      }
+    },
+    "79f201a0-1ed2-5e20-a181-b431944b04fd": {
+      "id": "79f201a0-1ed2-5e20-a181-b431944b04fd",
+      "brand": "Honor",
+      "model": "View 10",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "Jan 07, 2018",
+        "battery_capacity": 3750.0,
+        "chipset": "HiSilicon Kirin",
+        "attr_memory": 6.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 2160,
+        "camera_main": 16.0,
+        "camera_front": 13
+      }
+    },
+    "2ea83be5-94a9-59f4-ace1-dbb950104131": {
+      "id": "2ea83be5-94a9-59f4-ace1-dbb950104131",
+      "brand": "Honor",
+      "model": "View20",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "Jan 22, 2019",
+        "battery_capacity": 4000.0,
+        "chipset": "HiSilicon Kirin 980",
+        "attr_memory": 8.0,
+        "attr_primary storage": 256.0,
+        "display_size": 6.4,
+        "attr_display resolution": 2310,
+        "camera_main": 48.0,
+        "camera_front": 25
+      }
+    },
+    "a2efe833-9263-5078-ad8c-fd7e16624cbe": {
+      "id": "a2efe833-9263-5078-ad8c-fd7e16624cbe",
+      "brand": "Honor",
+      "model": "View30 Pro",
+      "attributes": {
+        "os": "Android 10",
+        "release_date": "Nov 26, 2019",
+        "battery_capacity": 4100.0,
+        "chipset": "HiSilicon Kirin 990",
+        "attr_memory": 8.0,
+        "attr_primary storage": 128.0,
+        "storage": " not expandable",
+        "display_size": 6.6,
+        "attr_display resolution": 2400,
+        "camera_main": 40.0,
+        "camera_front": 32
+      }
+    }
+  }
+}

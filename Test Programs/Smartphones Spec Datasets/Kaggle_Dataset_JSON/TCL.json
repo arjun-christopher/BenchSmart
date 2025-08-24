@@ -1,0 +1,291 @@
+{
+  "brand": "TCL",
+  "phones": {
+    "2e764738-3026-5e34-a2fa-4012dfd50a13": {
+      "id": "2e764738-3026-5e34-a2fa-4012dfd50a13",
+      "brand": "TCL",
+      "model": "Ion X",
+      "attributes": {
+        "price": "₹8,990",
+        "rating": 60.0,
+        "sim": "Dual Sim, 3G, 4G, VoLTE, Wi-Fi",
+        "chipset": "Helio G25, Octa Core, 2 GHz Processor",
+        "ram": 3,
+        "battery_capacity": 3000,
+        "display_size": 6,
+        "camera_main": 13,
+        "attr_card": "Memory Card (Hybrid)",
+        "os": "Android"
+      }
+    },
+    "7b8e35ab-47cc-5378-8e5e-aa2ac0971de6": {
+      "id": "7b8e35ab-47cc-5378-8e5e-aa2ac0971de6",
+      "brand": "tcl",
+      "model": "TCL Ion X",
+      "attributes": {
+        "price": [
+          8990
+        ],
+        "rating": 60.0,
+        "attr_has 5g": false,
+        "attr_has nfc": false,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "helio",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.0,
+        "battery_capacity": 3000.0,
+        "attr_fast charging available": 1,
+        "charging": 10.0,
+        "attr_ram capacity": 3,
+        "attr_internal memory": 32,
+        "display_size": 6.0,
+        "refresh_rate": 60,
+        "camera_main": 5.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 1,
+        "attr_resolution width": 720,
+        "attr_resolution height": 1440
+      }
+    },
+    "4dfb59ed-398b-56ea-980a-14417dc4c595": {
+      "id": "4dfb59ed-398b-56ea-980a-14417dc4c595",
+      "brand": "TCL",
+      "model": "10 5G UW",
+      "attributes": {
+        "os": "Android 10",
+        "release_date": "Oct 29, 2020",
+        "battery_capacity": 4500.0,
+        "chipset": "Qualcomm Snapdragon 765G",
+        "attr_memory": 6.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.5,
+        "attr_display resolution": 2340,
+        "camera_main": 48.0,
+        "camera_front": 16
+      }
+    },
+    "7df82c32-a902-5a6b-91ca-f2d7c20b8f4f": {
+      "id": "7df82c32-a902-5a6b-91ca-f2d7c20b8f4f",
+      "brand": "TCL",
+      "model": "10 Pro",
+      "attributes": {
+        "os": "Android 10",
+        "release_date": "May 19, 2020",
+        "battery_capacity": 4550.0,
+        "chipset": "Qualcomm Snapdragon 675",
+        "attr_memory": 6.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.5,
+        "attr_display resolution": 2340,
+        "camera_main": 64.0,
+        "camera_front": 24
+      }
+    },
+    "c42306ef-8215-5bcd-918e-3af93411ea29": {
+      "id": "c42306ef-8215-5bcd-918e-3af93411ea29",
+      "brand": "TCL",
+      "model": "10L",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "May 19, 2020",
+        "battery_capacity": 4000.0,
+        "chipset": "Qualcomm Snapdragon 665",
+        "attr_memory": 6.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.5,
+        "attr_display resolution": 2340,
+        "camera_main": 48.0,
+        "camera_front": 16
+      }
+    },
+    "c892e385-0e30-58b6-bd8d-92da75c3dc5e": {
+      "id": "c892e385-0e30-58b6-bd8d-92da75c3dc5e",
+      "brand": "TCL",
+      "model": "20 5G",
+      "attributes": {
+        "os": "Android 10",
+        "release_date": "Dec 07, 2020",
+        "battery_capacity": 4500.0,
+        "chipset": "Qualcomm Snapdragon 690 5G",
+        "attr_memory": 6.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.7,
+        "attr_display resolution": 1080,
+        "camera_main": 48.0,
+        "camera_front": 8
+      }
+    },
+    "52fbe0a6-de7f-51b7-a91c-059d4336a612": {
+      "id": "52fbe0a6-de7f-51b7-a91c-059d4336a612",
+      "brand": "TCL",
+      "model": "20 Pro 5G",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "April 2021",
+        "battery_capacity": 4500.0,
+        "chipset": "Qualcomm Snapdragon 750G",
+        "attr_memory": 6.0,
+        "attr_primary storage": 256.0,
+        "storage": " microSDXC",
+        "display_size": 6.7,
+        "attr_display resolution": 2400,
+        "camera_main": 48.0,
+        "camera_front": 32
+      }
+    },
+    "acda4845-bc34-566b-b3f1-c033e402af73": {
+      "id": "acda4845-bc34-566b-b3f1-c033e402af73",
+      "brand": "TCL",
+      "model": "20 R 5G",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "Sep 07, 2021",
+        "battery_capacity": 4500.0,
+        "chipset": "MediaTek Dimensity 700",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.5,
+        "attr_display resolution": 1600,
+        "refresh_rate": 90.0,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "e266e13c-28a4-50c8-b933-834c971a66de": {
+      "id": "e266e13c-28a4-50c8-b933-834c971a66de",
+      "brand": "TCL",
+      "model": "20 SE",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "April 2021",
+        "battery_capacity": 5000.0,
+        "chipset": "Qualcomm Snapdragon 460",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.8,
+        "attr_display resolution": 1640,
+        "camera_main": 48.0,
+        "camera_front": 13
+      }
+    },
+    "7ae57b79-de52-5788-9430-477311e8be16": {
+      "id": "7ae57b79-de52-5788-9430-477311e8be16",
+      "brand": "TCL",
+      "model": "20L",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "Jun 20, 2021",
+        "battery_capacity": 5000.0,
+        "chipset": "Qualcomm Snapdragon 662",
+        "attr_memory": 4.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.7,
+        "attr_display resolution": 2400,
+        "camera_main": 48.0,
+        "camera_front": 16
+      }
+    },
+    "b9c61cd5-4fb4-5d39-83bc-d3196facb33e": {
+      "id": "b9c61cd5-4fb4-5d39-83bc-d3196facb33e",
+      "brand": "TCL",
+      "model": "20L+",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "Jun 20, 2021",
+        "battery_capacity": 5000.0,
+        "chipset": "Qualcomm Snapdragon 662",
+        "attr_memory": 6.0,
+        "attr_primary storage": 256.0,
+        "storage": " microSDXC",
+        "display_size": 6.7,
+        "attr_display resolution": 2400,
+        "refresh_rate": 60.0,
+        "camera_main": 64.0,
+        "camera_front": 16
+      }
+    },
+    "024130df-4a8e-5d78-9925-b68837506d10": {
+      "id": "024130df-4a8e-5d78-9925-b68837506d10",
+      "brand": "TCL",
+      "model": "20S",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "Jun 28, 2021",
+        "battery_capacity": 5000.0,
+        "chipset": "Qualcomm Snapdragon 665",
+        "attr_memory": 4.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.7,
+        "attr_display resolution": 2400,
+        "refresh_rate": 60.0,
+        "camera_main": 64.0,
+        "camera_front": 16
+      }
+    },
+    "66f079ee-964a-5393-8705-9a69f3e338be": {
+      "id": "66f079ee-964a-5393-8705-9a69f3e338be",
+      "brand": "TCL",
+      "model": "30 V 5G",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "Jan 28, 2022",
+        "battery_capacity": 4500.0,
+        "chipset": "Qualcomm Snapdragon 480",
+        "attr_memory": 4.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.7,
+        "attr_display resolution": 2400,
+        "refresh_rate": 90.0,
+        "camera_main": 50.0,
+        "camera_front": 8
+      }
+    },
+    "ce2f4605-a502-54a9-a39b-4c982538fe08": {
+      "id": "ce2f4605-a502-54a9-a39b-4c982538fe08",
+      "brand": "TCL",
+      "model": "30 XE 5G",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "Mar 02, 2022",
+        "battery_capacity": 4500.0,
+        "chipset": "MediaTek Dimensity 700",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.5,
+        "attr_display resolution": 1600,
+        "refresh_rate": 90.0,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "f45b42db-4b1a-5985-9f11-d601d58e886c": {
+      "id": "f45b42db-4b1a-5985-9f11-d601d58e886c",
+      "brand": "TCL",
+      "model": "SIGNA",
+      "attributes": {
+        "os": "Android 10",
+        "release_date": "Sep 25, 2020",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 429",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1440,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    }
+  }
+}

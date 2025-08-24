@@ -1,0 +1,30 @@
+{
+  "brand": "Neonode",
+  "phones": {
+    "880f672d-29c1-5728-8d7f-4fdc07fa5a8c": {
+      "id": "880f672d-29c1-5728-8d7f-4fdc07fa5a8c",
+      "brand": "Neonode",
+      "model": "N1",
+      "attributes": {
+        "os": "Windows CE 4.1",
+        "battery_capacity": 1100.0,
+        "storage": " SD",
+        "attr_display resolution": 220,
+        "camera_main": 0.0
+      }
+    },
+    "f19a2b9f-e8ff-53ef-a859-31367b337a34": {
+      "id": "f19a2b9f-e8ff-53ef-a859-31367b337a34",
+      "brand": "Neonode",
+      "model": "N2",
+      "attributes": {
+        "os": "Windows CE 5.0",
+        "battery_capacity": 820.0,
+        "storage": " miniSD",
+        "display_size": 2.0,
+        "attr_display resolution": 220,
+        "camera_main": 2.0
+      }
+    }
+  }
+}

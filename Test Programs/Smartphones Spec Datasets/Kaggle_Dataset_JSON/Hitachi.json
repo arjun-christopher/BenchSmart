@@ -1,0 +1,17 @@
+{
+  "brand": "Hitachi",
+  "phones": {
+    "1cff7829-af65-5912-92d0-32bdfe66cb59": {
+      "id": "1cff7829-af65-5912-92d0-32bdfe66cb59",
+      "brand": "Hitachi",
+      "model": "G1000",
+      "attributes": {
+        "os": "Windows Mobile Professional 2002",
+        "battery_capacity": 1500.0,
+        "storage": " MMC",
+        "attr_display resolution": 320,
+        "camera_main": 0.0
+      }
+    }
+  }
+}

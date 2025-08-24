@@ -1,0 +1,203 @@
+{
+  "brand": "Pantech",
+  "phones": {
+    "1b41eb63-5dc8-5873-b074-090271b5dffb": {
+      "id": "1b41eb63-5dc8-5873-b074-090271b5dffb",
+      "brand": "Pantech",
+      "model": "Breakout",
+      "attributes": {
+        "os": "Android 2.3",
+        "release_date": "Sep 22, 2011",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "8072d5cf-247c-5008-bca3-2b2d2fabb105": {
+      "id": "8072d5cf-247c-5008-bca3-2b2d2fabb105",
+      "brand": "Pantech",
+      "model": "Burst",
+      "attributes": {
+        "os": "Android 4.0",
+        "release_date": "Jan 22, 2012",
+        "battery_capacity": 1650.0,
+        "chipset": "Qualcomm",
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "f6c334bd-f5bf-5cee-8743-08df5fcea0b9": {
+      "id": "f6c334bd-f5bf-5cee-8743-08df5fcea0b9",
+      "brand": "Pantech",
+      "model": "Crossover",
+      "attributes": {
+        "os": "Android 2.2",
+        "release_date": "Jun 05, 2011",
+        "battery_capacity": 1500.0,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.1,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "768f92d1-f9d1-5089-b2d9-427861b100eb": {
+      "id": "768f92d1-f9d1-5089-b2d9-427861b100eb",
+      "brand": "Pantech",
+      "model": "Discover",
+      "attributes": {
+        "os": "Android 4.0",
+        "release_date": "Jan 11, 2013",
+        "battery_capacity": 2100.0,
+        "chipset": "Qualcomm Snapdragon S4 Plus",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 4.8,
+        "attr_display resolution": 1280,
+        "camera_main": 12.0,
+        "camera_front": 2
+      }
+    },
+    "306d658c-b707-5c7b-8073-e9f4b708542e": {
+      "id": "306d658c-b707-5c7b-8073-e9f4b708542e",
+      "brand": "Pantech",
+      "model": "Duo",
+      "attributes": {
+        "os": "Windows Mobile Standard 6.0",
+        "battery_capacity": 1320.0,
+        "attr_memory": 0.06,
+        "attr_primary storage": 0.0,
+        "storage": " microSD",
+        "display_size": 2.2,
+        "attr_display resolution": 320,
+        "camera_main": 1.0
+      }
+    },
+    "1d046d9b-8e55-5fbd-88f3-9e58021d596d": {
+      "id": "1d046d9b-8e55-5fbd-88f3-9e58021d596d",
+      "brand": "Pantech",
+      "model": "Flex",
+      "attributes": {
+        "os": "Android 4.1.2",
+        "release_date": "Sep 16, 2012",
+        "battery_capacity": 1830.0,
+        "chipset": "Qualcomm Snapdragon S4 Plus",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "50e4722f-6da6-5830-b05c-593da124da2e": {
+      "id": "50e4722f-6da6-5830-b05c-593da124da2e",
+      "brand": "Pantech",
+      "model": "Marauder",
+      "attributes": {
+        "os": "Android 4.0",
+        "release_date": "Aug 02, 2012",
+        "battery_capacity": 1680.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 3.8,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "0eba3802-adfa-5c5d-9ac8-688dbff03424": {
+      "id": "0eba3802-adfa-5c5d-9ac8-688dbff03424",
+      "brand": "Pantech",
+      "model": "Matrix Pro",
+      "attributes": {
+        "os": "Windows Mobile Standard 6.1",
+        "release_date": "Feb 24, 2009",
+        "battery_capacity": 1320.0,
+        "chipset": "Qualcomm MSM7201A",
+        "attr_memory": 0.1,
+        "storage": " microSDHC",
+        "display_size": 2.4,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "7d484f1d-8b15-55df-83e9-1f832e2aec25": {
+      "id": "7d484f1d-8b15-55df-83e9-1f832e2aec25",
+      "brand": "Pantech",
+      "model": "PN-820",
+      "attributes": {
+        "os": "Windows Mobile Standard 5.0",
+        "battery_capacity": 950.0,
+        "attr_memory": 0.1,
+        "attr_primary storage": 0.0,
+        "storage": " miniSD",
+        "display_size": 2.2,
+        "attr_display resolution": 320,
+        "camera_main": 1.0
+      }
+    },
+    "f7c0e739-c8e5-5869-87ef-2c9003dcbfaf": {
+      "id": "f7c0e739-c8e5-5869-87ef-2c9003dcbfaf",
+      "brand": "Pantech",
+      "model": "Perception",
+      "attributes": {
+        "os": "Android 4.1.2",
+        "release_date": "Apr 25, 2013",
+        "battery_capacity": 2020.0,
+        "chipset": "Qualcomm Snapdragon S4",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 4.8,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "5bb638e7-1ba9-528f-901c-aee204ceb806": {
+      "id": "5bb638e7-1ba9-528f-901c-aee204ceb806",
+      "brand": "Pantech",
+      "model": "Pocket",
+      "attributes": {
+        "os": "Android 2.3",
+        "release_date": "Nov 20, 2011",
+        "battery_capacity": 1650.0,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "fb07ede8-3ed5-5e56-afc6-5f0ecf460acd": {
+      "id": "fb07ede8-3ed5-5e56-afc6-5f0ecf460acd",
+      "brand": "Pantech",
+      "model": "Vega Iron 2",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 3220.0,
+        "chipset": "Qualcomm Snapdragon 801",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.3,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 2.1
+      }
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "brand": "Rezone",
+  "phones": {
+    "5a1da37d-070f-5687-9770-eeb1b2d49f37": {
+      "id": "5a1da37d-070f-5687-9770-eeb1b2d49f37",
+      "brand": "Rezone",
+      "model": "A170 Point Black",
+      "attributes": {
+        "attr_unnamed 0": 146,
+        "attr_popularity": 411,
+        "mrp": 220.0,
+        "attr_highest price": 333.0,
+        "attr_sellers amount": 20,
+        "display_size": 1.77,
+        "attr_battery size": 600.0,
+        "release_date": 4
+      }
+    },
+    "2792cf6e-6e03-5907-ab04-77cc4a1855f9": {
+      "id": "2792cf6e-6e03-5907-ab04-77cc4a1855f9",
+      "brand": "Rezone",
+      "model": "A170 Point Dark Blue",
+      "attributes": {
+        "attr_unnamed 0": 148,
+        "attr_popularity": 106,
+        "mrp": 220.0,
+        "attr_highest price": 333.0,
+        "attr_sellers amount": 20,
+        "display_size": 1.77,
+        "attr_battery size": 600.0,
+        "release_date": 4
+      }
+    },
+    "cc034b87-fe79-59e4-8112-f99b2435a8df": {
+      "id": "cc034b87-fe79-59e4-8112-f99b2435a8df",
+      "brand": "Rezone",
+      "model": "A240 Experience Red",
+      "attributes": {
+        "attr_unnamed 0": 154,
+        "attr_popularity": 63,
+        "mrp": 289.0,
+        "attr_highest price": 364.0,
+        "attr_sellers amount": 19,
+        "display_size": 2.4,
+        "attr_battery size": 800.0,
+        "release_date": 4
+      }
+    },
+    "9c0810f1-b528-580c-8702-f561410935f5": {
+      "id": "9c0810f1-b528-580c-8702-f561410935f5",
+      "brand": "Rezone",
+      "model": "A281 Force Black",
+      "attributes": {
+        "attr_unnamed 0": 155,
+        "attr_popularity": 947,
+        "mrp": 532.0,
+        "attr_highest price": 1143.0,
+        "attr_sellers amount": 23,
+        "display_size": 2.8,
+        "attr_battery size": 6000.0,
+        "release_date": 4
+      }
+    },
+    "883f9590-49b3-59ed-9d1f-76ecb9481be5": {
+      "id": "883f9590-49b3-59ed-9d1f-76ecb9481be5",
+      "brand": "Rezone",
+      "model": "S240 Age Black Orange",
+      "attributes": {
+        "attr_unnamed 0": 861,
+        "attr_popularity": 451,
+        "attr_sellers amount": 4,
+        "display_size": 2.4,
+        "attr_battery size": 800.0,
+        "release_date": 9
+      }
+    }
+  }
+}

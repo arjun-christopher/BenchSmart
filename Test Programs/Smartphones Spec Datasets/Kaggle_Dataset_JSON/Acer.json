@@ -1,0 +1,953 @@
+{
+  "brand": "Acer",
+  "phones": {
+    "5580b958-1f04-5433-a829-e96eefd15fe6": {
+      "id": "5580b958-1f04-5433-a829-e96eefd15fe6",
+      "brand": "Acer",
+      "model": "Allegro",
+      "attributes": {
+        "os": "Windows Phone 7.5 Mango",
+        "battery_capacity": 1300.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.5,
+        "attr_primary storage": 8.0,
+        "display_size": 3.6,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "4d3008f6-8dbc-5842-9ec1-dabd358c1eb6": {
+      "id": "4d3008f6-8dbc-5842-9ec1-dabd358c1eb6",
+      "brand": "Acer",
+      "model": "CloudMobile",
+      "attributes": {
+        "os": "Android 4.1.2",
+        "battery_capacity": 1460.0,
+        "chipset": "Qualcomm Snapdragon S4 Plus",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0
+      }
+    },
+    "14aba571-94e5-5ce5-9968-d61e93febe8c": {
+      "id": "14aba571-94e5-5ce5-9968-d61e93febe8c",
+      "brand": "Acer",
+      "model": "F900",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.1",
+        "release_date": "Jun 04, 2009",
+        "battery_capacity": 1530.0,
+        "attr_memory": 0.1,
+        "storage": " microSDHC",
+        "display_size": 3.8,
+        "attr_display resolution": 800,
+        "camera_main": 3.0
+      }
+    },
+    "89070115-c091-518a-8dbc-e4c7b675bf0c": {
+      "id": "89070115-c091-518a-8dbc-e4c7b675bf0c",
+      "brand": "Acer",
+      "model": "ICONIA SMART",
+      "attributes": {
+        "os": "Android 2.3",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.8,
+        "attr_display resolution": 1024,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "2d9494a8-3341-5c80-8a84-fd68bfaa3f24": {
+      "id": "2d9494a8-3341-5c80-8a84-fd68bfaa3f24",
+      "brand": "Acer",
+      "model": "Liquid",
+      "attributes": {
+        "os": "Android 1.6",
+        "release_date": "Dec 09, 2009",
+        "battery_capacity": 1350.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "1533eac5-b5c3-5c04-8c61-409e69f31549": {
+      "id": "1533eac5-b5c3-5c04-8c61-409e69f31549",
+      "brand": "Acer",
+      "model": "Liquid E1",
+      "attributes": {
+        "os": "Android 4.1.1",
+        "battery_capacity": 1760.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "e8742f6f-3b36-579c-9814-a3c00f4f4d94": {
+      "id": "e8742f6f-3b36-579c-9814-a3c00f4f4d94",
+      "brand": "Acer",
+      "model": "Liquid E2",
+      "attributes": {
+        "os": "Android 4.2.1",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "03317166-4925-55bf-b1ab-de372245416c": {
+      "id": "03317166-4925-55bf-b1ab-de372245416c",
+      "brand": "Acer",
+      "model": "Liquid E3",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.7,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 2
+      }
+    },
+    "0257c132-7498-5849-9a29-09f07e8d7643": {
+      "id": "0257c132-7498-5849-9a29-09f07e8d7643",
+      "brand": "Acer",
+      "model": "Liquid E600",
+      "attributes": {
+        "os": "Android ",
+        "release_date": "Jun 03, 2014",
+        "battery_capacity": 2500.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSD",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 8.0
+      }
+    },
+    "cfc51d7d-9e03-548e-830c-5ff5d58b1f51": {
+      "id": "cfc51d7d-9e03-548e-830c-5ff5d58b1f51",
+      "brand": "Acer",
+      "model": "Liquid E700",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "Aug 01, 2014",
+        "battery_capacity": 3500.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSD",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "1c241cb8-cc22-54be-a3d2-e382e52f21d3": {
+      "id": "1c241cb8-cc22-54be-a3d2-e382e52f21d3",
+      "brand": "Acer",
+      "model": "Liquid Express",
+      "attributes": {
+        "os": "Android 2.3",
+        "battery_capacity": 1300.0,
+        "chipset": "Qualcomm MSM7227 Turbo",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "0873fe41-2aa5-50c0-af16-c515fd224b09": {
+      "id": "0873fe41-2aa5-50c0-af16-c515fd224b09",
+      "brand": "Acer",
+      "model": "Liquid Gallant",
+      "attributes": {
+        "os": "Android 4.0.4",
+        "battery_capacity": 1500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 960,
+        "camera_main": 5.0
+      }
+    },
+    "49799691-4d64-57aa-a329-88812b996190": {
+      "id": "49799691-4d64-57aa-a329-88812b996190",
+      "brand": "Acer",
+      "model": "Liquid Gallant Duo",
+      "attributes": {
+        "os": "Android 4.0.4",
+        "battery_capacity": 1500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 960,
+        "camera_main": 5.0
+      }
+    },
+    "db9c2767-3243-5dbe-921c-88229823d5d8": {
+      "id": "db9c2767-3243-5dbe-921c-88229823d5d8",
+      "brand": "Acer",
+      "model": "Liquid Glow",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1300.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.5,
+        "attr_primary storage": 1.0,
+        "storage": " microSDHC",
+        "display_size": 3.7,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "a28c5b61-1287-5e17-8273-5bec5b370e63": {
+      "id": "a28c5b61-1287-5e17-8273-5bec5b370e63",
+      "brand": "Acer",
+      "model": "Liquid Jade",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2100.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 2
+      }
+    },
+    "1920741a-d85d-50f0-be7b-26d3f53489f8": {
+      "id": "1920741a-d85d-50f0-be7b-26d3f53489f8",
+      "brand": "Acer",
+      "model": "Liquid Jade Primo",
+      "attributes": {
+        "os": "Windows 10 Mobile",
+        "release_date": "Jul 18, 2016",
+        "battery_capacity": 2870.0,
+        "chipset": "Qualcomm Snapdragon 808",
+        "attr_memory": 3.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 21.0,
+        "camera_front": 8
+      }
+    },
+    "2bbdd992-4261-5788-8d6c-ac5d667f146c": {
+      "id": "2bbdd992-4261-5788-8d6c-ac5d667f146c",
+      "brand": "Acer",
+      "model": "Liquid Jade S",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2300.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "40f37da8-2e8b-566f-aaf1-c546918aa7c4": {
+      "id": "40f37da8-2e8b-566f-aaf1-c546918aa7c4",
+      "brand": "Acer",
+      "model": "Liquid M330",
+      "attributes": {
+        "os": "Windows 10 Mobile",
+        "release_date": "Dec 01, 2015",
+        "battery_capacity": 2000.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSD",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "17b9af9b-1431-5e9e-9dae-9a0fcabf0ddb": {
+      "id": "17b9af9b-1431-5e9e-9dae-9a0fcabf0ddb",
+      "brand": "Acer",
+      "model": "Liquid Metal",
+      "attributes": {
+        "os": "Android 2.2",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 3.6,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "22e293e2-90de-525a-88bf-1b49111790b4": {
+      "id": "22e293e2-90de-525a-88bf-1b49111790b4",
+      "brand": "Acer",
+      "model": "Liquid Metal American version",
+      "attributes": {
+        "os": "Android 2.2",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 3.6,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "f9a40258-4f7b-5f14-be47-6994427b7464": {
+      "id": "f9a40258-4f7b-5f14-be47-6994427b7464",
+      "brand": "Acer",
+      "model": "Liquid S1",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 2400.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.7,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "9c6f5ee4-49e9-566c-a047-533fd77d18a9": {
+      "id": "9c6f5ee4-49e9-566c-a047-533fd77d18a9",
+      "brand": "Acer",
+      "model": "Liquid S2",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 3300.0,
+        "chipset": "Qualcomm Snapdragon 800",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 2
+      }
+    },
+    "5e0b4871-498d-5fca-9327-999a589bc11d": {
+      "id": "5e0b4871-498d-5fca-9327-999a589bc11d",
+      "brand": "Acer",
+      "model": "Liquid X1",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 2700.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.7,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 2
+      }
+    },
+    "a82ade52-26cc-53d3-93af-c2ed99af9299": {
+      "id": "a82ade52-26cc-53d3-93af-c2ed99af9299",
+      "brand": "Acer",
+      "model": "Liquid Z2",
+      "attributes": {
+        "os": "Android 4.1.1",
+        "battery_capacity": 1300.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "e3cb2791-952c-50ec-bec3-40717e0cf171": {
+      "id": "e3cb2791-952c-50ec-bec3-40717e0cf171",
+      "brand": "Acer",
+      "model": "Liquid Z200",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Sep 01, 2014",
+        "battery_capacity": 1300.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSD",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 2.0
+      }
+    },
+    "ae7b8fcd-f52d-5c03-8872-125a3889113a": {
+      "id": "ae7b8fcd-f52d-5c03-8872-125a3889113a",
+      "brand": "Acer",
+      "model": "Liquid Z3",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 1500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "4b449269-2aab-5634-9d7b-df7642f43f23": {
+      "id": "4b449269-2aab-5634-9d7b-df7642f43f23",
+      "brand": "Acer",
+      "model": "Liquid Z330",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Oct 01, 2015",
+        "battery_capacity": 2000.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSD",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "4fb6d8b7-201d-5509-84b4-b85529300e49": {
+      "id": "4fb6d8b7-201d-5509-84b4-b85529300e49",
+      "brand": "Acer",
+      "model": "Liquid Z4",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSD",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "2367766d-f815-5c46-9e6e-d0b10a38518a": {
+      "id": "2367766d-f815-5c46-9e6e-d0b10a38518a",
+      "brand": "Acer",
+      "model": "Liquid Z410",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "Feb 01, 2015",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 4.5,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "93904c71-f6a4-55fb-9093-a60982786d26": {
+      "id": "93904c71-f6a4-55fb-9093-a60982786d26",
+      "brand": "Acer",
+      "model": "Liquid Z5",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "release_date": "Jan 22, 2014",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0
+      }
+    },
+    "4f5b5ad8-e974-5604-8945-bb545844f163": {
+      "id": "4f5b5ad8-e974-5604-8945-bb545844f163",
+      "brand": "Acer",
+      "model": "Liquid Z500",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "1ba38751-f075-5e23-91b0-e391ffa0eb76": {
+      "id": "1ba38751-f075-5e23-91b0-e391ffa0eb76",
+      "brand": "Acer",
+      "model": "Liquid Z530",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Sep 30, 2015",
+        "battery_capacity": 2420.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSD",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 8
+      }
+    },
+    "cbb2c8d1-681d-5e59-9580-45c9faa67c71": {
+      "id": "cbb2c8d1-681d-5e59-9580-45c9faa67c71",
+      "brand": "Acer",
+      "model": "Liquid Z530S",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Oct 01, 2015",
+        "battery_capacity": 2420.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 8
+      }
+    },
+    "11746464-3c82-59f5-ab7a-61acdecc6e26": {
+      "id": "11746464-3c82-59f5-ab7a-61acdecc6e26",
+      "brand": "Acer",
+      "model": "Liquid Z6",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "591fdbb4-91fe-5a3a-a3e9-1b46a3bcb9db": {
+      "id": "591fdbb4-91fe-5a3a-a3e9-1b46a3bcb9db",
+      "brand": "Acer",
+      "model": "Liquid Z6 Plus",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 4080.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDHC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "6cf63ff8-651c-51a6-91fa-b667b2befcce": {
+      "id": "6cf63ff8-651c-51a6-91fa-b667b2befcce",
+      "brand": "Acer",
+      "model": "Liquid Z630",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Oct 01, 2015",
+        "battery_capacity": 4000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 8
+      }
+    },
+    "6fac63b7-e290-549a-81e9-1336e399ac7a": {
+      "id": "6fac63b7-e290-549a-81e9-1336e399ac7a",
+      "brand": "Acer",
+      "model": "Liquid Z630S",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Sep 30, 2015",
+        "battery_capacity": 4000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDHC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 8
+      }
+    },
+    "963b0d64-3f05-5b78-8642-0e5780037cc4": {
+      "id": "963b0d64-3f05-5b78-8642-0e5780037cc4",
+      "brand": "Acer",
+      "model": "Liquid Zest Plus",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Jul 01, 2016",
+        "battery_capacity": 5000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "4dc5a4bb-8eb9-5a9f-b18d-67ccb1e2a81a": {
+      "id": "4dc5a4bb-8eb9-5a9f-b18d-67ccb1e2a81a",
+      "brand": "Acer",
+      "model": "Liquid e",
+      "attributes": {
+        "os": "Android 2.1",
+        "battery_capacity": 1350.0,
+        "chipset": "Qualcomm MSM8250",
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "6dd888ea-7c10-5903-94d3-9eb6b2786c43": {
+      "id": "6dd888ea-7c10-5903-94d3-9eb6b2786c43",
+      "brand": "Acer",
+      "model": "M900",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.1",
+        "release_date": "Jun 05, 2009",
+        "battery_capacity": 1530.0,
+        "attr_memory": 0.1,
+        "storage": " microSDHC",
+        "display_size": 3.8,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "14b78df4-09f7-51b5-af11-e92bbe6f7423": {
+      "id": "14b78df4-09f7-51b5-af11-e92bbe6f7423",
+      "brand": "Acer",
+      "model": "Stream",
+      "attributes": {
+        "os": "Android 2.1",
+        "release_date": "Aug 19, 2010",
+        "battery_capacity": 1400.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.5,
+        "attr_primary storage": 2.0,
+        "storage": " microSDHC",
+        "display_size": 3.7,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "77bf9ebc-88a2-5ffe-932d-8de24876660e": {
+      "id": "77bf9ebc-88a2-5ffe-932d-8de24876660e",
+      "brand": "Acer",
+      "model": "X960",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.1",
+        "release_date": "Apr 06, 2009",
+        "battery_capacity": 1530.0,
+        "attr_memory": 0.1,
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "attr_display resolution": 640,
+        "camera_main": 3.0
+      }
+    },
+    "e160bf0a-8135-5e0b-8377-e8aee3c74b06": {
+      "id": "e160bf0a-8135-5e0b-8377-e8aee3c74b06",
+      "brand": "Acer",
+      "model": "beTouch E100",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.5",
+        "release_date": "Oct 06, 2009",
+        "battery_capacity": 1140.0,
+        "attr_memory": 0.25,
+        "storage": " microSD",
+        "display_size": 3.2,
+        "attr_display resolution": 400,
+        "camera_main": 2.0
+      }
+    },
+    "882c179c-6ad2-5af5-8cbc-84c1325cb31a": {
+      "id": "882c179c-6ad2-5af5-8cbc-84c1325cb31a",
+      "brand": "Acer",
+      "model": "beTouch E101",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.5",
+        "release_date": "Oct 06, 2009",
+        "battery_capacity": 1140.0,
+        "attr_memory": 0.25,
+        "storage": " microSD",
+        "display_size": 3.2,
+        "attr_display resolution": 400,
+        "camera_main": 2.0
+      }
+    },
+    "673b4ed3-0164-5bae-9b0f-707822b9a5a6": {
+      "id": "673b4ed3-0164-5bae-9b0f-707822b9a5a6",
+      "brand": "Acer",
+      "model": "beTouch E110",
+      "attributes": {
+        "os": "Android 1.5",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 3.0
+      }
+    },
+    "34e25618-5cbc-53c7-8dce-23b2ae515277": {
+      "id": "34e25618-5cbc-53c7-8dce-23b2ae515277",
+      "brand": "Acer",
+      "model": "beTouch E110 American version",
+      "attributes": {
+        "os": "Android 1.5",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 3.0
+      }
+    },
+    "d3356dba-0ebb-51ff-b9f4-a367aaaefb68": {
+      "id": "d3356dba-0ebb-51ff-b9f4-a367aaaefb68",
+      "brand": "Acer",
+      "model": "beTouch E120",
+      "attributes": {
+        "os": "Android 1.6",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 3.0
+      }
+    },
+    "2a873e78-0653-543b-831b-7407e801970c": {
+      "id": "2a873e78-0653-543b-831b-7407e801970c",
+      "brand": "Acer",
+      "model": "beTouch E120 American version",
+      "attributes": {
+        "os": "Android 1.6",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 3.0
+      }
+    },
+    "fd3c0f73-ce3b-51a4-9368-23f537c3eae5": {
+      "id": "fd3c0f73-ce3b-51a4-9368-23f537c3eae5",
+      "brand": "Acer",
+      "model": "beTouch E130",
+      "attributes": {
+        "os": "Android 1.6",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 2.6,
+        "attr_display resolution": 240,
+        "camera_main": 3.0
+      }
+    },
+    "1168db72-def5-5ac8-abbf-bbed234c425b": {
+      "id": "1168db72-def5-5ac8-abbf-bbed234c425b",
+      "brand": "Acer",
+      "model": "beTouch E130 American version",
+      "attributes": {
+        "os": "Android 1.6",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 2.6,
+        "attr_display resolution": 240,
+        "camera_main": 3.0
+      }
+    },
+    "ba437c50-1f94-5b22-bb23-9b52c08e3189": {
+      "id": "ba437c50-1f94-5b22-bb23-9b52c08e3189",
+      "brand": "Acer",
+      "model": "beTouch E140",
+      "attributes": {
+        "os": "Android 2.2",
+        "release_date": "Dec 06, 2010",
+        "battery_capacity": 1300.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 3.0
+      }
+    },
+    "c1d42729-59ad-533e-9eda-96a607f10050": {
+      "id": "c1d42729-59ad-533e-9eda-96a607f10050",
+      "brand": "Acer",
+      "model": "beTouch E200",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.5",
+        "release_date": "Oct 06, 2009",
+        "battery_capacity": 1140.0,
+        "attr_memory": 0.25,
+        "storage": " microSD",
+        "display_size": 3.0,
+        "attr_display resolution": 400,
+        "camera_main": 3.0
+      }
+    },
+    "c5fc4efc-42a7-598f-b220-5c77a11c73dc": {
+      "id": "c5fc4efc-42a7-598f-b220-5c77a11c73dc",
+      "brand": "Acer",
+      "model": "beTouch E210",
+      "attributes": {
+        "os": "Android 2.2",
+        "battery_capacity": 1300.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 2.6,
+        "camera_main": 3.0
+      }
+    },
+    "e83c5495-2c5a-5b81-8f26-3ec69a12a0ee": {
+      "id": "e83c5495-2c5a-5b81-8f26-3ec69a12a0ee",
+      "brand": "Acer",
+      "model": "beTouch E400",
+      "attributes": {
+        "os": "Android 2.1",
+        "release_date": "Jun 14, 2010",
+        "battery_capacity": 1090.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "f4586e17-87c6-5efb-ae71-2f5405fd19d9": {
+      "id": "f4586e17-87c6-5efb-ae71-2f5405fd19d9",
+      "brand": "Acer",
+      "model": "beTouch E400 American version",
+      "attributes": {
+        "os": "Android 2.1",
+        "battery_capacity": 1090.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "7764f72f-02e0-5e76-b3ca-7d32f51a8eb4": {
+      "id": "7764f72f-02e0-5e76-b3ca-7d32f51a8eb4",
+      "brand": "Acer",
+      "model": "liquidmini",
+      "attributes": {
+        "os": "Android 2.3",
+        "battery_capacity": 1300.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "1532e18b-6604-5717-8fd8-38dbb2e70d4d": {
+      "id": "1532e18b-6604-5717-8fd8-38dbb2e70d4d",
+      "brand": "Acer",
+      "model": "neoTouch",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.5",
+        "release_date": "Oct 06, 2009",
+        "battery_capacity": 1350.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 3.8,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "3b37577b-2db4-58bc-911a-c2e00ea61715": {
+      "id": "3b37577b-2db4-58bc-911a-c2e00ea61715",
+      "brand": "Acer",
+      "model": "neoTouch P300",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.5.3",
+        "battery_capacity": 970.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 400,
+        "camera_main": 3.0
+      }
+    },
+    "e7962f0c-1547-5859-966b-339791df508c": {
+      "id": "e7962f0c-1547-5859-966b-339791df508c",
+      "brand": "Acer",
+      "model": "neoTouch P400",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.5.3",
+        "battery_capacity": 1090.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "d6528112-0ec2-5e81-ad65-bd98b6304443": {
+      "id": "d6528112-0ec2-5e81-ad65-bd98b6304443",
+      "brand": "Acer",
+      "model": "neoTouch P400 American version",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.5.3",
+        "battery_capacity": 1090.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    }
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "brand": "CAT",
+  "phones": {
+    "ff88e959-c934-5b4d-a03b-a69e4c5a5cb5": {
+      "id": "ff88e959-c934-5b4d-a03b-a69e4c5a5cb5",
+      "brand": "CAT",
+      "model": "B26 Black",
+      "attributes": {
+        "attr_unnamed 0": 213,
+        "attr_popularity": 1084,
+        "mrp": 1330.0,
+        "attr_highest price": 1819.0,
+        "attr_sellers amount": 52,
+        "display_size": 2.4,
+        "attr_battery size": 1500.0,
+        "release_date": 12
+      }
+    },
+    "16298fc6-1cfc-5cf9-90b7-614a45b4db0e": {
+      "id": "16298fc6-1cfc-5cf9-90b7-614a45b4db0e",
+      "brand": "CAT",
+      "model": "S31 Black",
+      "attributes": {
+        "attr_unnamed 0": 864,
+        "os": "Android",
+        "attr_popularity": 591,
+        "mrp": 6199.0,
+        "attr_highest price": 8668.0,
+        "attr_sellers amount": 12,
+        "display_size": 4.7,
+        "attr_memory size": 16.0,
+        "attr_battery size": 4000.0,
+        "release_date": 2
+      }
+    },
+    "6b042f83-95a3-5184-9725-e4d7941cbc38": {
+      "id": "6b042f83-95a3-5184-9725-e4d7941cbc38",
+      "brand": "CAT",
+      "model": "S42 Dual Black",
+      "attributes": {
+        "attr_unnamed 0": 871,
+        "os": "Android",
+        "attr_popularity": 631,
+        "mrp": 8800.0,
+        "attr_highest price": 9699.0,
+        "attr_sellers amount": 12,
+        "display_size": 5.5,
+        "attr_memory size": 32.0,
+        "attr_battery size": 4200.0,
+        "release_date": 9
+      }
+    },
+    "2bb10bc4-13ad-551b-8ea6-e3e9e9dfd585": {
+      "id": "2bb10bc4-13ad-551b-8ea6-e3e9e9dfd585",
+      "brand": "CAT",
+      "model": "S52",
+      "attributes": {
+        "attr_unnamed 0": 876,
+        "os": "Android",
+        "attr_popularity": 784,
+        "mrp": 11190.0,
+        "attr_highest price": 17896.0,
+        "attr_sellers amount": 39,
+        "display_size": 5.65,
+        "attr_memory size": 64.0,
+        "attr_battery size": 3100.0,
+        "release_date": 11
+      }
+    },
+    "1544bc96-9a00-5077-869f-3ec902912486": {
+      "id": "1544bc96-9a00-5077-869f-3ec902912486",
+      "brand": "CAT",
+      "model": "S60",
+      "attributes": {
+        "attr_unnamed 0": 880,
+        "os": "Android",
+        "attr_popularity": 809,
+        "mrp": 10537.0,
+        "attr_highest price": 11628.0,
+        "attr_sellers amount": 31,
+        "display_size": 4.7,
+        "attr_memory size": 32.0,
+        "attr_battery size": 3800.0,
+        "release_date": 8,
+        "battery_capacity": 3800.0,
+        "chipset": "Qualcomm Snapdragon 617",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "d8ccdc8b-7257-5190-815a-cec84361bd0a": {
+      "id": "d8ccdc8b-7257-5190-815a-cec84361bd0a",
+      "brand": "CAT",
+      "model": "S61 Black",
+      "attributes": {
+        "attr_unnamed 0": 883,
+        "os": "Android",
+        "attr_popularity": 777,
+        "mrp": 18730.0,
+        "attr_highest price": 31317.0,
+        "attr_sellers amount": 53,
+        "display_size": 5.2,
+        "attr_memory size": 64.0,
+        "attr_battery size": 4500.0,
+        "release_date": 8
+      }
+    },
+    "0c78e118-ae09-5750-aeeb-c20e67659e15": {
+      "id": "0c78e118-ae09-5750-aeeb-c20e67659e15",
+      "brand": "CAT",
+      "model": "S62 Pro",
+      "attributes": {
+        "attr_unnamed 0": 884,
+        "os": "Android",
+        "attr_popularity": 1051,
+        "mrp": 18750.0,
+        "attr_highest price": 20698.0,
+        "attr_sellers amount": 21,
+        "display_size": 5.7,
+        "attr_memory size": 128.0,
+        "attr_battery size": 4000.0,
+        "release_date": 9,
+        "battery_capacity": 4000.0,
+        "chipset": "Qualcomm Snapdragon 660",
+        "attr_memory": 6.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "attr_display resolution": 2160,
+        "refresh_rate": 60.0,
+        "camera_main": 12.0,
+        "camera_front": 8
+      }
+    },
+    "c6c92c3a-14a6-5fe9-9c16-bc3d26c46648": {
+      "id": "c6c92c3a-14a6-5fe9-9c16-bc3d26c46648",
+      "brand": "CAT",
+      "model": "S22 Flip",
+      "attributes": {
+        "price": "₹14,999",
+        "sim": "Single Sim, 3G, 4G, VoLTE, Wi-Fi",
+        "chipset": "Qualcomm 215, Quad Core, 1.3 GHz Processor",
+        "ram": 2,
+        "battery_capacity": 2000,
+        "display_size": 4,
+        "camera_main": "Dual Display",
+        "attr_card": 5,
+        "os": "Memory Card Supported, upto 128 GB"
+      }
+    },
+    "af1bb607-eb6c-5958-8fb3-73844887330e": {
+      "id": "af1bb607-eb6c-5958-8fb3-73844887330e",
+      "brand": "cat",
+      "model": "CAT S22 Flip",
+      "attributes": {
+        "price": [
+          14999
+        ],
+        "attr_has 5g": false,
+        "attr_has nfc": false,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "snapdragon",
+        "attr_num cores": 4.0,
+        "attr_processor speed": 1.3,
+        "battery_capacity": 2000.0,
+        "attr_fast charging available": 0,
+        "attr_ram capacity": 2,
+        "attr_internal memory": 16,
+        "display_size": 4.0,
+        "refresh_rate": 60,
+        "camera_main": 2.0,
+        "camera_front": 1.0,
+        "attr_extended memory available": 0,
+        "attr_resolution width": 480,
+        "attr_resolution height": 640
+      }
+    },
+    "84ca48c8-fe0f-5df1-94d5-648585ede8bf": {
+      "id": "84ca48c8-fe0f-5df1-94d5-648585ede8bf",
+      "brand": "CAT",
+      "model": "B15",
+      "attributes": {
+        "os": "Android 4.1",
+        "release_date": "Mar 01, 2013",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "45c46f49-b2bd-5bc2-819d-56da98ad1df7": {
+      "id": "45c46f49-b2bd-5bc2-819d-56da98ad1df7",
+      "brand": "CAT",
+      "model": "B15Q",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "7b3b307f-c664-5c22-b2a3-671927e8744e": {
+      "id": "7b3b307f-c664-5c22-b2a3-671927e8744e",
+      "brand": "CAT",
+      "model": "S31",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "release_date": "Aug 31, 2017",
+        "battery_capacity": 4000.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 4.7,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "8780534c-4d04-579f-ba01-b3d6847df548": {
+      "id": "8780534c-4d04-579f-ba01-b3d6847df548",
+      "brand": "CAT",
+      "model": "S32",
+      "attributes": {
+        "os": "Android 10",
+        "release_date": "January 2020",
+        "battery_capacity": 4200.0,
+        "chipset": "MediaTek Helio A20",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1440,
+        "camera_main": 12.0,
+        "camera_front": 5
+      }
+    },
+    "6b95fb7e-2daa-574e-a807-26c75f8bd1d5": {
+      "id": "6b95fb7e-2daa-574e-a807-26c75f8bd1d5",
+      "brand": "CAT",
+      "model": "S40",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Aug 01, 2015",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 4.7,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "43eb6f63-e416-52de-a4b6-3d22de9a8c23": {
+      "id": "43eb6f63-e416-52de-a4b6-3d22de9a8c23",
+      "brand": "CAT",
+      "model": "S41",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "release_date": "Aug 31, 2017",
+        "battery_capacity": 5000.0,
+        "chipset": "MediaTek Helio P20",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "66869ce5-ea13-5cf9-9c9b-2247ad417ba0": {
+      "id": "66869ce5-ea13-5cf9-9c9b-2247ad417ba0",
+      "brand": "CAT",
+      "model": "S42",
+      "attributes": {
+        "os": "Android 10",
+        "release_date": "Sep 09, 2020",
+        "battery_capacity": 4200.0,
+        "chipset": "MediaTek Helio A20",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1440,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "29651406-e69d-5c16-8e02-001e54e9795d": {
+      "id": "29651406-e69d-5c16-8e02-001e54e9795d",
+      "brand": "CAT",
+      "model": "S48c",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "release_date": "Nov 09, 2018",
+        "battery_capacity": 4000.0,
+        "chipset": "Qualcomm Snapdragon 630",
+        "attr_memory": 4.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "2b4142b2-2ca3-536a-b567-de61c777051b": {
+      "id": "2b4142b2-2ca3-536a-b567-de61c777051b",
+      "brand": "CAT",
+      "model": "S50",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Nov 01, 2014",
+        "battery_capacity": 2630.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 2.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.7,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 0.3
+      }
+    },
+    "bcfe6584-85a7-588f-984b-61b5508d8291": {
+      "id": "bcfe6584-85a7-588f-984b-61b5508d8291",
+      "brand": "CAT",
+      "model": "S61",
+      "attributes": {
+        "os": "Android 8.0 Oreo",
+        "release_date": "Jun 01, 2018",
+        "battery_capacity": 4500.0,
+        "chipset": "Qualcomm Snapdragon 630",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 1920,
+        "camera_main": 16.0,
+        "camera_front": 8
+      }
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "brand": "Garmin-Asus",
+  "phones": {
+    "6b37f03f-e8d7-513a-9ce7-e8fb1394ba73": {
+      "id": "6b37f03f-e8d7-513a-9ce7-e8fb1394ba73",
+      "brand": "Garmin-Asus",
+      "model": "nuvifone A10",
+      "attributes": {
+        "os": "Android 1.6",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "1cd83cfb-b83e-57df-8025-0a8edaeab0aa": {
+      "id": "1cd83cfb-b83e-57df-8025-0a8edaeab0aa",
+      "brand": "Garmin-Asus",
+      "model": "nuvifone A50",
+      "attributes": {
+        "os": "Android 2.1",
+        "release_date": "Jun 09, 2010",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.25,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "5779a800-d371-51af-8c49-bde99f760ef3": {
+      "id": "5779a800-d371-51af-8c49-bde99f760ef3",
+      "brand": "Garmin-Asus",
+      "model": "nuvifone G60",
+      "attributes": {
+        "os": "Linux ",
+        "release_date": "Jul 31, 2009",
+        "battery_capacity": 1100.0,
+        "attr_memory": 0.1,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "b0c3cb59-04b9-50af-b03e-d6646accc1d4": {
+      "id": "b0c3cb59-04b9-50af-b03e-d6646accc1d4",
+      "brand": "Garmin-Asus",
+      "model": "nuvifone M10",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.5.3",
+        "release_date": "Mar 31, 2010",
+        "battery_capacity": 1500.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "4fc80769-893e-5866-9ed1-dbc2b915dec3": {
+      "id": "4fc80769-893e-5866-9ed1-dbc2b915dec3",
+      "brand": "Garmin-Asus",
+      "model": "nuvifone M20",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.1",
+        "release_date": "Aug 24, 2009",
+        "battery_capacity": 920.0,
+        "attr_primary storage": 8.0,
+        "display_size": 2.8,
+        "attr_display resolution": 640,
+        "camera_main": 3.0
+      }
+    },
+    "2bba9ffd-5a77-562f-a267-3ec4359e595a": {
+      "id": "2bba9ffd-5a77-562f-a267-3ec4359e595a",
+      "brand": "Garmin-Asus",
+      "model": "nuvifone M20 US",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.1",
+        "battery_capacity": 920.0,
+        "attr_primary storage": 8.0,
+        "display_size": 2.8,
+        "attr_display resolution": 640,
+        "camera_main": 3.0
+      }
+    }
+  }
+}

@@ -1,0 +1,466 @@
+{
+  "brand": "Oukitel",
+  "phones": {
+    "c995dff9-e23d-5aab-94f2-ecf325de9e88": {
+      "id": "c995dff9-e23d-5aab-94f2-ecf325de9e88",
+      "brand": "Oukitel",
+      "model": "WP15 5G",
+      "attributes": {
+        "cpu": "MediaTek Dimensity 700 Processor",
+        "attr_camera specs rear": 48,
+        "attr_camera specs front": 8,
+        "display_size": 6.52,
+        "attr_ram of phone": 8,
+        "storage": 128,
+        "battery_capacity": 15600,
+        "os": "Android v11 OS",
+        "attr_first site": "Out of Stock",
+        "attr_real price available": 41500
+      }
+    },
+    "904a1ba6-ed55-503a-a9d9-dcc8d3acb485": {
+      "id": "904a1ba6-ed55-503a-a9d9-dcc8d3acb485",
+      "brand": "Oukitel",
+      "model": "C18 Pro 4/64GB Purple",
+      "attributes": {
+        "attr_unnamed 0": 282,
+        "os": "Android",
+        "attr_popularity": 386,
+        "mrp": 3149.0,
+        "attr_highest price": 3791.0,
+        "attr_sellers amount": 10,
+        "display_size": 6.55,
+        "attr_memory size": 64.0,
+        "attr_battery size": 4000.0,
+        "release_date": 12
+      }
+    },
+    "e07449d4-178e-5d5e-badc-320966d2f4e6": {
+      "id": "e07449d4-178e-5d5e-badc-320966d2f4e6",
+      "brand": "Oukitel",
+      "model": "C19 2/16GB Black",
+      "attributes": {
+        "attr_unnamed 0": 283,
+        "os": "Android",
+        "attr_popularity": 610,
+        "mrp": 2049.0,
+        "attr_highest price": 2299.0,
+        "attr_sellers amount": 3,
+        "display_size": 6.49,
+        "attr_memory size": 16.0,
+        "attr_battery size": 4000.0,
+        "release_date": 8
+      }
+    },
+    "eee37352-b2dc-54bd-9b84-3fcd21bbf789": {
+      "id": "eee37352-b2dc-54bd-9b84-3fcd21bbf789",
+      "brand": "Oukitel",
+      "model": "C19 2/16GB Gradient Blue",
+      "attributes": {
+        "attr_unnamed 0": 284,
+        "os": "Android",
+        "attr_popularity": 497,
+        "mrp": 2030.0,
+        "attr_highest price": 2299.0,
+        "attr_sellers amount": 4,
+        "display_size": 6.49,
+        "attr_memory size": 16.0,
+        "attr_battery size": 4000.0,
+        "release_date": 10
+      }
+    },
+    "49275a4d-ed85-565c-8b60-e5ef3449c47c": {
+      "id": "49275a4d-ed85-565c-8b60-e5ef3449c47c",
+      "brand": "Oukitel",
+      "model": "C21 4/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 286,
+        "os": "Android",
+        "attr_popularity": 1044,
+        "mrp": 3149.0,
+        "attr_highest price": 3589.0,
+        "attr_sellers amount": 11,
+        "display_size": 6.4,
+        "attr_memory size": 64.0,
+        "attr_battery size": 4000.0,
+        "release_date": 10
+      }
+    },
+    "bd88b280-e49e-54e9-a3b8-67a356cf17da": {
+      "id": "bd88b280-e49e-54e9-a3b8-67a356cf17da",
+      "brand": "Oukitel",
+      "model": "K12 6/64 Black",
+      "attributes": {
+        "attr_unnamed 0": 552,
+        "os": "Android",
+        "attr_popularity": 504,
+        "mrp": 4999.0,
+        "attr_highest price": 5185.0,
+        "attr_sellers amount": 7,
+        "display_size": 6.3,
+        "attr_memory size": 64.0,
+        "attr_battery size": 10000.0,
+        "release_date": 7
+      }
+    },
+    "47900962-1f71-5d4f-8500-4845f3ec0ded": {
+      "id": "47900962-1f71-5d4f-8500-4845f3ec0ded",
+      "brand": "Oukitel",
+      "model": "K13 4/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 554,
+        "os": "Android",
+        "attr_popularity": 328,
+        "mrp": 4880.0,
+        "attr_highest price": 5299.0,
+        "attr_sellers amount": 6,
+        "display_size": 6.41,
+        "attr_memory size": 64.0,
+        "attr_battery size": 11000.0,
+        "release_date": 3
+      }
+    },
+    "80137e09-65df-5411-a7e0-85b9ea2f0c8a": {
+      "id": "80137e09-65df-5411-a7e0-85b9ea2f0c8a",
+      "brand": "Oukitel",
+      "model": "K13 4/64GB Pro Black",
+      "attributes": {
+        "attr_unnamed 0": 556,
+        "os": "Android",
+        "attr_popularity": 506,
+        "mrp": 4982.0,
+        "attr_highest price": 5399.0,
+        "attr_sellers amount": 9,
+        "display_size": 6.41,
+        "attr_memory size": 64.0,
+        "attr_battery size": 11000.0,
+        "release_date": 3
+      }
+    },
+    "bc8cf1e7-2275-578d-8263-728e4158c2c7": {
+      "id": "bc8cf1e7-2275-578d-8263-728e4158c2c7",
+      "brand": "Oukitel",
+      "model": "K13 Pro Leather Black",
+      "attributes": {
+        "attr_unnamed 0": 557,
+        "os": "Android",
+        "attr_popularity": 469,
+        "mrp": 4899.0,
+        "attr_highest price": 5631.0,
+        "attr_sellers amount": 5,
+        "display_size": 6.41,
+        "attr_memory size": 64.0,
+        "attr_battery size": 11000.0,
+        "release_date": 3
+      }
+    },
+    "f49d3106-385c-5a37-b961-5b70d52f592c": {
+      "id": "f49d3106-385c-5a37-b961-5b70d52f592c",
+      "brand": "Oukitel",
+      "model": "K9 4/64 Black",
+      "attributes": {
+        "attr_unnamed 0": 559,
+        "os": "Android",
+        "attr_popularity": 467,
+        "mrp": 5199.0,
+        "attr_highest price": 5972.0,
+        "attr_sellers amount": 4,
+        "display_size": 7.12,
+        "attr_memory size": 64.0,
+        "attr_battery size": 6000.0,
+        "release_date": 7
+      }
+    },
+    "47b950f2-6902-593f-9d53-3a3e818415e9": {
+      "id": "47b950f2-6902-593f-9d53-3a3e818415e9",
+      "brand": "Oukitel",
+      "model": "WP1 4/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 944,
+        "os": "Android",
+        "attr_popularity": 9,
+        "mrp": 3299.0,
+        "attr_highest price": 3509.0,
+        "attr_sellers amount": 2,
+        "display_size": 5.5,
+        "attr_memory size": 64.0,
+        "attr_battery size": 5000.0,
+        "release_date": 2
+      }
+    },
+    "e25566a4-8bfb-5993-9bf3-004edba21ce7": {
+      "id": "e25566a4-8bfb-5993-9bf3-004edba21ce7",
+      "brand": "Oukitel",
+      "model": "WP2 4/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 945,
+        "os": "Android",
+        "attr_popularity": 681,
+        "mrp": 4390.0,
+        "attr_highest price": 4549.0,
+        "attr_sellers amount": 7,
+        "display_size": 6.0,
+        "attr_memory size": 64.0,
+        "attr_battery size": 10000.0,
+        "release_date": 2
+      }
+    },
+    "57d022ff-18b8-5fb8-9cc0-d3f9ee1dc880": {
+      "id": "57d022ff-18b8-5fb8-9cc0-d3f9ee1dc880",
+      "brand": "Oukitel",
+      "model": "WP2 4/64GB Gold",
+      "attributes": {
+        "attr_unnamed 0": 946,
+        "os": "Android",
+        "attr_popularity": 33,
+        "mrp": 4360.0,
+        "attr_highest price": 4539.0,
+        "attr_sellers amount": 3,
+        "display_size": 6.0,
+        "attr_memory size": 64.0,
+        "attr_battery size": 10000.0,
+        "release_date": 2
+      }
+    },
+    "f381dcbf-7832-5db3-a274-cdb03f93e49e": {
+      "id": "f381dcbf-7832-5db3-a274-cdb03f93e49e",
+      "brand": "Oukitel",
+      "model": "WP5 3/32GB Black",
+      "attributes": {
+        "attr_unnamed 0": 947,
+        "os": "Android",
+        "attr_popularity": 728,
+        "mrp": 2999.0,
+        "attr_highest price": 3449.0,
+        "attr_sellers amount": 3,
+        "display_size": 5.5,
+        "attr_memory size": 32.0,
+        "attr_battery size": 8000.0,
+        "release_date": 4
+      }
+    },
+    "e2692c12-9029-54ba-b403-c6a23dd20f4c": {
+      "id": "e2692c12-9029-54ba-b403-c6a23dd20f4c",
+      "brand": "Oukitel",
+      "model": "WP5 Pro 4/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 948,
+        "os": "Android",
+        "attr_popularity": 969,
+        "mrp": 3719.0,
+        "attr_highest price": 3949.0,
+        "attr_sellers amount": 14,
+        "display_size": 5.5,
+        "attr_memory size": 64.0,
+        "attr_battery size": 8000.0,
+        "release_date": 8
+      }
+    },
+    "a364e769-16a8-54da-8b8e-545c3bc110dd": {
+      "id": "a364e769-16a8-54da-8b8e-545c3bc110dd",
+      "brand": "Oukitel",
+      "model": "WP6 4/128GB Black",
+      "attributes": {
+        "attr_unnamed 0": 949,
+        "os": "Android",
+        "attr_popularity": 1085,
+        "mrp": 4960.0,
+        "attr_highest price": 5759.0,
+        "attr_sellers amount": 13,
+        "display_size": 6.3,
+        "attr_memory size": 128.0,
+        "attr_battery size": 10000.0,
+        "release_date": 9
+      }
+    },
+    "f3c1729a-fb12-52d2-9374-ced7f60baf07": {
+      "id": "f3c1729a-fb12-52d2-9374-ced7f60baf07",
+      "brand": "Oukitel",
+      "model": "WP6 6/128GB Black",
+      "attributes": {
+        "attr_unnamed 0": 950,
+        "os": "Android",
+        "attr_popularity": 939,
+        "mrp": 6365.0,
+        "attr_highest price": 7040.0,
+        "attr_sellers amount": 16,
+        "display_size": 6.3,
+        "attr_memory size": 128.0,
+        "attr_battery size": 10000.0,
+        "release_date": 6
+      }
+    },
+    "6f30f499-5285-5e48-87c7-6c86ceca11ad": {
+      "id": "6f30f499-5285-5e48-87c7-6c86ceca11ad",
+      "brand": "Oukitel",
+      "model": "WP7 8/128GB Black",
+      "attributes": {
+        "attr_unnamed 0": 951,
+        "os": "Android",
+        "attr_popularity": 932,
+        "mrp": 9072.0,
+        "attr_highest price": 12179.0,
+        "attr_sellers amount": 21,
+        "display_size": 6.53,
+        "attr_memory size": 128.0,
+        "attr_battery size": 8000.0,
+        "release_date": 6
+      }
+    },
+    "84105b4f-f52e-584f-90c9-4d917f808ba0": {
+      "id": "84105b4f-f52e-584f-90c9-4d917f808ba0",
+      "brand": "Oukitel",
+      "model": "WP8 Pro 4/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 952,
+        "os": "Android",
+        "attr_popularity": 820,
+        "mrp": 3810.0,
+        "attr_highest price": 13499.0,
+        "attr_sellers amount": 11,
+        "display_size": 6.49,
+        "attr_memory size": 64.0,
+        "attr_battery size": 5000.0,
+        "release_date": 11
+      }
+    },
+    "b0a4edcb-e935-56e0-b8b5-f1e0a88ae84a": {
+      "id": "b0a4edcb-e935-56e0-b8b5-f1e0a88ae84a",
+      "brand": "Oukitel",
+      "model": "WP19",
+      "attributes": {
+        "price": "₹29,990",
+        "rating": 84.0,
+        "sim": "Dual Sim, 3G, 4G, VoLTE, Wi-Fi, NFC",
+        "chipset": "Helio G95, Octa Core, 2 GHz Processor",
+        "ram": 8,
+        "battery_capacity": 21000,
+        "display_size": 6.78,
+        "camera_main": 64,
+        "attr_card": "Memory Card Supported",
+        "os": "Android v12"
+      }
+    },
+    "5a95b8b6-4d44-5b5e-bbd4-8b28a84b06da": {
+      "id": "5a95b8b6-4d44-5b5e-bbd4-8b28a84b06da",
+      "brand": "Oukitel",
+      "model": "WP21",
+      "attributes": {
+        "price": "₹22,990",
+        "rating": 82.0,
+        "sim": "Dual Sim, 3G, 4G, VoLTE, Wi-Fi",
+        "chipset": "Helio G99, Octa Core, 2.2 GHz Processor",
+        "ram": 12,
+        "battery_capacity": 9800,
+        "display_size": 6.78,
+        "camera_main": "Dual Display",
+        "attr_card": 64,
+        "os": "Memory Card (Hybrid)"
+      }
+    },
+    "0704dde4-4760-52ef-8b38-52bf39acb686": {
+      "id": "0704dde4-4760-52ef-8b38-52bf39acb686",
+      "brand": "Oukitel",
+      "model": "WP9",
+      "attributes": {
+        "price": "₹25,899",
+        "rating": 72.0,
+        "sim": "Dual Sim, 3G, 4G, Wi-Fi, NFC",
+        "chipset": "Helio P60, Octa Core, 2 GHz Processor",
+        "ram": 6,
+        "battery_capacity": 8000,
+        "display_size": 5.86,
+        "camera_main": 16,
+        "attr_card": "Memory Card Supported",
+        "os": "Android v10"
+      }
+    },
+    "2ba3238b-1968-5b1f-8a6d-7a59966fa857": {
+      "id": "2ba3238b-1968-5b1f-8a6d-7a59966fa857",
+      "brand": "oukitel",
+      "model": "Oukitel WP19",
+      "attributes": {
+        "price": [
+          29990
+        ],
+        "rating": 84.0,
+        "attr_has 5g": false,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "helio",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.0,
+        "battery_capacity": 21000.0,
+        "attr_fast charging available": 1,
+        "charging": 33.0,
+        "attr_ram capacity": 8,
+        "attr_internal memory": 256,
+        "display_size": 6.78,
+        "refresh_rate": 60,
+        "camera_main": 16.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 1,
+        "attr_resolution width": 1080,
+        "attr_resolution height": 2400
+      }
+    },
+    "31bac564-0601-58b9-9431-8642e4ce15df": {
+      "id": "31bac564-0601-58b9-9431-8642e4ce15df",
+      "brand": "oukitel",
+      "model": "Oukitel WP21",
+      "attributes": {
+        "price": [
+          22990
+        ],
+        "rating": 82.0,
+        "attr_has 5g": false,
+        "attr_has nfc": false,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "helio",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.2,
+        "battery_capacity": 9800.0,
+        "attr_fast charging available": 1,
+        "charging": 66.0,
+        "attr_ram capacity": 12,
+        "attr_internal memory": 256,
+        "display_size": 6.78,
+        "refresh_rate": 120,
+        "camera_front": 1.0,
+        "attr_extended memory available": 0,
+        "attr_resolution width": 1080,
+        "attr_resolution height": 2400
+      }
+    },
+    "8e2da93c-c5ab-5510-873a-6880447836bc": {
+      "id": "8e2da93c-c5ab-5510-873a-6880447836bc",
+      "brand": "oukitel",
+      "model": "Oukitel WP9",
+      "attributes": {
+        "price": [
+          25899
+        ],
+        "rating": 72.0,
+        "attr_has 5g": false,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "helio",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.0,
+        "battery_capacity": 8000.0,
+        "attr_fast charging available": 0,
+        "attr_ram capacity": 6,
+        "attr_internal memory": 128,
+        "display_size": 5.86,
+        "refresh_rate": 60,
+        "camera_main": 8.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 1,
+        "attr_resolution width": 720,
+        "attr_resolution height": 1520
+      }
+    }
+  }
+}

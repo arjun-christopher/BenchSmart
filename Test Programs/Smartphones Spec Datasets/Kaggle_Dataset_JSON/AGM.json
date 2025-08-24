@@ -1,0 +1,171 @@
+{
+  "brand": "AGM",
+  "phones": {
+    "805d7710-a802-564f-a642-b5a42a6edc07": {
+      "id": "805d7710-a802-564f-a642-b5a42a6edc07",
+      "brand": "AGM",
+      "model": "Glory",
+      "attributes": {
+        "cpu": "Qualcomm Snapdragon 480 Processor",
+        "attr_camera specs rear": 48,
+        "attr_camera specs front": 16,
+        "display_size": 6.53,
+        "attr_ram of phone": 8,
+        "storage": 256,
+        "battery_capacity": 6200,
+        "os": "Android v11 OS",
+        "attr_first site": "Flipkart",
+        "attr_price in first site": "₹39,899 ❯",
+        "attr_second site": "Amazon",
+        "attr_price in second site": "₹75,500 ❯",
+        "attr_real price available": 75500
+      }
+    },
+    "dbfcc3e0-527b-5cd0-9b8f-665c3ff5bb04": {
+      "id": "dbfcc3e0-527b-5cd0-9b8f-665c3ff5bb04",
+      "brand": "AGM",
+      "model": "A10 6/128GB Black",
+      "attributes": {
+        "attr_unnamed 0": 138,
+        "os": "Android",
+        "attr_popularity": 2,
+        "mrp": 5297.0,
+        "attr_highest price": 6584.0,
+        "attr_sellers amount": 11,
+        "display_size": 5.7,
+        "attr_memory size": 128.0,
+        "attr_battery size": 4400.0,
+        "release_date": 10
+      }
+    },
+    "89844505-e21d-565d-a399-6fe94b7ed58f": {
+      "id": "89844505-e21d-565d-a399-6fe94b7ed58f",
+      "brand": "AGM",
+      "model": "A8 3/32GB Black",
+      "attributes": {
+        "attr_unnamed 0": 177,
+        "os": "Android",
+        "attr_popularity": 74,
+        "mrp": 4299.0,
+        "attr_highest price": 4617.0,
+        "attr_sellers amount": 3,
+        "display_size": 5.0,
+        "attr_memory size": 32.0,
+        "release_date": 10
+      }
+    },
+    "b672c373-a531-5691-97aa-c13a8660c19a": {
+      "id": "b672c373-a531-5691-97aa-c13a8660c19a",
+      "brand": "AGM",
+      "model": "A9 4/32GB Black",
+      "attributes": {
+        "attr_unnamed 0": 182,
+        "os": "Android",
+        "attr_popularity": 797,
+        "mrp": 5699.0,
+        "attr_highest price": 6184.0,
+        "attr_sellers amount": 10,
+        "display_size": 5.99,
+        "attr_memory size": 32.0,
+        "attr_battery size": 5400.0,
+        "release_date": 5
+      }
+    },
+    "c6ebc917-8b54-5cc0-afe8-3b7522d77266": {
+      "id": "c6ebc917-8b54-5cc0-afe8-3b7522d77266",
+      "brand": "AGM",
+      "model": "A9 4/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 183,
+        "os": "Android",
+        "attr_popularity": 704,
+        "mrp": 6628.0,
+        "attr_highest price": 7299.0,
+        "attr_sellers amount": 14,
+        "display_size": 5.99,
+        "attr_memory size": 64.0,
+        "attr_battery size": 5400.0,
+        "release_date": 2
+      }
+    },
+    "5d695f00-6482-53bc-926e-f5f5833ba708": {
+      "id": "5d695f00-6482-53bc-926e-f5f5833ba708",
+      "brand": "AGM",
+      "model": "M2 Gold",
+      "attributes": {
+        "attr_unnamed 0": 574,
+        "attr_popularity": 380,
+        "mrp": 1192.0,
+        "attr_highest price": 1767.0,
+        "attr_sellers amount": 11,
+        "display_size": 2.4,
+        "attr_battery size": 1970.0,
+        "release_date": 9
+      }
+    },
+    "76bfc93c-c9e7-5f18-ac47-94c0c7e6dae8": {
+      "id": "76bfc93c-c9e7-5f18-ac47-94c0c7e6dae8",
+      "brand": "AGM",
+      "model": "M3 Black",
+      "attributes": {
+        "attr_unnamed 0": 575,
+        "attr_popularity": 387,
+        "mrp": 1189.0,
+        "attr_highest price": 1881.0,
+        "attr_sellers amount": 4,
+        "display_size": 2.4,
+        "attr_battery size": 1970.0,
+        "release_date": 12
+      }
+    },
+    "b7f592d8-5835-588b-a3c0-56db4317ba30": {
+      "id": "b7f592d8-5835-588b-a3c0-56db4317ba30",
+      "brand": "AGM",
+      "model": "M5 Black",
+      "attributes": {
+        "attr_unnamed 0": 576,
+        "os": "Android",
+        "attr_popularity": 668,
+        "mrp": 2798.0,
+        "attr_highest price": 2907.0,
+        "attr_sellers amount": 4,
+        "display_size": 2.8,
+        "attr_memory size": 8.0,
+        "attr_battery size": 2500.0,
+        "release_date": 3
+      }
+    },
+    "835cecba-74a0-5f8b-9223-61466828c873": {
+      "id": "835cecba-74a0-5f8b-9223-61466828c873",
+      "brand": "AGM",
+      "model": "X3 6/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 1004,
+        "os": "Android",
+        "attr_popularity": 831,
+        "mrp": 9999.0,
+        "attr_highest price": 12376.0,
+        "attr_sellers amount": 7,
+        "display_size": 5.99,
+        "attr_memory size": 64.0,
+        "attr_battery size": 4100.0,
+        "release_date": 11
+      }
+    },
+    "35ef27bb-5141-5847-be7a-6ab2541439bb": {
+      "id": "35ef27bb-5141-5847-be7a-6ab2541439bb",
+      "brand": "AGM",
+      "model": "X3 8/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 1005,
+        "os": "Android",
+        "attr_popularity": 213,
+        "attr_sellers amount": 1,
+        "display_size": 5.99,
+        "attr_memory size": 64.0,
+        "attr_battery size": 4100.0,
+        "release_date": 6
+      }
+    }
+  }
+}

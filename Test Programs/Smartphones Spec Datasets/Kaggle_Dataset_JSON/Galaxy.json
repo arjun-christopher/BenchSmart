@@ -1,0 +1,461 @@
+{
+  "brand": "Galaxy",
+  "phones": {
+    "ac86d234-3297-5d6e-bb17-08a9d40bdce1": {
+      "id": "ac86d234-3297-5d6e-bb17-08a9d40bdce1",
+      "brand": "Galaxy",
+      "model": "S22 Ultra 5G (S-8 Gen 1 12/512)",
+      "attributes": {
+        "cpu": 219733,
+        "gpu": 397965,
+        "attr_mem": 167766,
+        "attr_ux": 157386,
+        "attr_total score": 942849
+      }
+    },
+    "3f01f2e8-7585-5711-ab33-0555e3558ccc": {
+      "id": "3f01f2e8-7585-5711-ab33-0555e3558ccc",
+      "brand": "Galaxy",
+      "model": "S22 Ultra 5G (E-2200 12/512)",
+      "attributes": {
+        "cpu": 221164,
+        "gpu": 367557,
+        "attr_mem": 173807,
+        "attr_ux": 151948,
+        "attr_total score": 914476
+      }
+    },
+    "ff42754f-267a-5509-a5bd-234fbd9ac827": {
+      "id": "ff42754f-267a-5509-a5bd-234fbd9ac827",
+      "brand": "Galaxy",
+      "model": "S22+ 5G (S-8 Gen 1 8/256)",
+      "attributes": {
+        "cpu": 217684,
+        "gpu": 378119,
+        "attr_mem": 157208,
+        "attr_ux": 152510,
+        "attr_total score": 905520
+      }
+    },
+    "2fac41e8-edcc-5150-9406-2c3275a326cd": {
+      "id": "2fac41e8-edcc-5150-9406-2c3275a326cd",
+      "brand": "Galaxy",
+      "model": "S22+ 5G (E-2200 8/256)",
+      "attributes": {
+        "cpu": 217430,
+        "gpu": 366290,
+        "attr_mem": 152223,
+        "attr_ux": 146811,
+        "attr_total score": 882752
+      }
+    },
+    "36e98a43-86d6-5ed3-8438-d5cea9d39eee": {
+      "id": "36e98a43-86d6-5ed3-8438-d5cea9d39eee",
+      "brand": "Galaxy",
+      "model": "S22 5G (E-2200 8/256)",
+      "attributes": {
+        "cpu": 211810,
+        "gpu": 348036,
+        "attr_mem": 152688,
+        "attr_ux": 145316,
+        "attr_total score": 857850
+      }
+    },
+    "b522207e-e5f7-5947-9610-5a860b711f11": {
+      "id": "b522207e-e5f7-5947-9610-5a860b711f11",
+      "brand": "Galaxy",
+      "model": "S22 5G (S-8 Gen 1 8/256)",
+      "attributes": {
+        "cpu": 212780,
+        "gpu": 294268,
+        "attr_mem": 160646,
+        "attr_ux": 146321,
+        "attr_total score": 814015
+      }
+    },
+    "34794b82-c180-5664-96cc-2b278cde5139": {
+      "id": "34794b82-c180-5664-96cc-2b278cde5139",
+      "brand": "Galaxy",
+      "model": "S21 FE 5G (S-888 8/256)",
+      "attributes": {
+        "cpu": 193615,
+        "gpu": 288695,
+        "attr_mem": 135006,
+        "attr_ux": 151363,
+        "attr_total score": 768677
+      }
+    },
+    "44882778-562f-5af8-aa2c-f98f08b679c2": {
+      "id": "44882778-562f-5af8-aa2c-f98f08b679c2",
+      "brand": "Galaxy",
+      "model": "S21 5G (S-888 8/256)",
+      "attributes": {
+        "cpu": 198577,
+        "gpu": 274516,
+        "attr_mem": 135422,
+        "attr_ux": 148353,
+        "attr_total score": 756868
+      }
+    },
+    "1c5071f3-0986-522c-b689-612e2ea63c17": {
+      "id": "1c5071f3-0986-522c-b689-612e2ea63c17",
+      "brand": "Galaxy",
+      "model": "S21 Ultra 5G (E-2100 16/512)",
+      "attributes": {
+        "cpu": 184124,
+        "gpu": 268741,
+        "attr_mem": 137000,
+        "attr_ux": 143717,
+        "attr_total score": 733582
+      }
+    },
+    "808b4f58-0a94-506d-8f7d-c54470424fa2": {
+      "id": "808b4f58-0a94-506d-8f7d-c54470424fa2",
+      "brand": "Galaxy",
+      "model": "S21+ 5G (E-2100 8/128)",
+      "attributes": {
+        "cpu": 186881,
+        "gpu": 275225,
+        "attr_mem": 121223,
+        "attr_ux": 135085,
+        "attr_total score": 718412
+      }
+    },
+    "9c9a1d0e-df15-50e4-aa3d-ab7f6c272a7a": {
+      "id": "9c9a1d0e-df15-50e4-aa3d-ab7f6c272a7a",
+      "brand": "Galaxy",
+      "model": "S21 5G (E-2100 8/128)",
+      "attributes": {
+        "cpu": 175469,
+        "gpu": 252146,
+        "attr_mem": 119504,
+        "attr_ux": 121290,
+        "attr_total score": 668409
+      }
+    },
+    "0f01285e-4028-5875-b148-3634d26dcd5b": {
+      "id": "0f01285e-4028-5875-b148-3634d26dcd5b",
+      "brand": "Galaxy",
+      "model": "S20 FE 5G (S-865 6/128)",
+      "attributes": {
+        "cpu": 183906,
+        "gpu": 222865,
+        "attr_mem": 109624,
+        "attr_ux": 139800,
+        "attr_total score": 656195
+      }
+    },
+    "7d8880aa-535e-5589-8970-d89b43546300": {
+      "id": "7d8880aa-535e-5589-8970-d89b43546300",
+      "brand": "Galaxy",
+      "model": "S20 FE 4G (S-865 8/256)",
+      "attributes": {
+        "cpu": 182485,
+        "gpu": 218608,
+        "attr_mem": 114856,
+        "attr_ux": 138258,
+        "attr_total score": 654207
+      }
+    },
+    "a0a04478-d988-544f-b200-cf3132dae2c0": {
+      "id": "a0a04478-d988-544f-b200-cf3132dae2c0",
+      "brand": "Galaxy",
+      "model": "Note20 Ultra 5G (E-990 12/256)",
+      "attributes": {
+        "cpu": 165476,
+        "gpu": 229672,
+        "attr_mem": 121863,
+        "attr_ux": 122961,
+        "attr_total score": 639971
+      }
+    },
+    "b82d95a8-7cab-524f-a8ea-eff5240ac436": {
+      "id": "b82d95a8-7cab-524f-a8ea-eff5240ac436",
+      "brand": "Galaxy",
+      "model": "S20 Ultra 5G (E-990 12/128)",
+      "attributes": {
+        "cpu": 166832,
+        "gpu": 231391,
+        "attr_mem": 115018,
+        "attr_ux": 124816,
+        "attr_total score": 638057
+      }
+    },
+    "d708acb1-acf0-513d-b9e7-d79970d9454b": {
+      "id": "d708acb1-acf0-513d-b9e7-d79970d9454b",
+      "brand": "Galaxy",
+      "model": "Note20 Ultra LTE (E-990 8/256)",
+      "attributes": {
+        "cpu": 158699,
+        "gpu": 221986,
+        "attr_mem": 118874,
+        "attr_ux": 115609,
+        "attr_total score": 615168
+      }
+    },
+    "50324409-8ffd-5a28-b046-ecb9b6872382": {
+      "id": "50324409-8ffd-5a28-b046-ecb9b6872382",
+      "brand": "Galaxy",
+      "model": "S20+ (E-990 8/128)",
+      "attributes": {
+        "cpu": 161587,
+        "gpu": 224508,
+        "attr_mem": 110592,
+        "attr_ux": 117713,
+        "attr_total score": 614400
+      }
+    },
+    "30592e56-07a0-5f3c-8bde-5294ba71c6e6": {
+      "id": "30592e56-07a0-5f3c-8bde-5294ba71c6e6",
+      "brand": "Galaxy",
+      "model": "S20 4G (E-990 8/128)",
+      "attributes": {
+        "cpu": 150898,
+        "gpu": 217657,
+        "attr_mem": 108980,
+        "attr_ux": 105101,
+        "attr_total score": 582636
+      }
+    },
+    "4faab12e-e041-5775-b4cc-dd96017d5b2b": {
+      "id": "4faab12e-e041-5775-b4cc-dd96017d5b2b",
+      "brand": "Galaxy",
+      "model": "Note10+ 5G (E-9825 12/256)",
+      "attributes": {
+        "cpu": 133825,
+        "gpu": 203328,
+        "attr_mem": 116372,
+        "attr_ux": 99726,
+        "attr_total score": 553251
+      }
+    },
+    "9d528563-0fdf-5eaf-9aa2-4b4c0cee942d": {
+      "id": "9d528563-0fdf-5eaf-9aa2-4b4c0cee942d",
+      "brand": "Galaxy",
+      "model": "Note10 (E-9825 8/256)",
+      "attributes": {
+        "cpu": 135092,
+        "gpu": 190038,
+        "attr_mem": 113773,
+        "attr_ux": 107469,
+        "attr_total score": 546372
+      }
+    },
+    "2f28e8c3-f048-58a5-93e4-c495969bd598": {
+      "id": "2f28e8c3-f048-58a5-93e4-c495969bd598",
+      "brand": "Galaxy",
+      "model": "Note10+ (E-9825 12/256)",
+      "attributes": {
+        "cpu": 130126,
+        "gpu": 202582,
+        "attr_mem": 115188,
+        "attr_ux": 97483,
+        "attr_total score": 545379
+      }
+    },
+    "129ad746-c108-5dc9-8b60-64975521d982": {
+      "id": "129ad746-c108-5dc9-8b60-64975521d982",
+      "brand": "Galaxy",
+      "model": "S10 5G (E-9820 8/256)",
+      "attributes": {
+        "cpu": 132997,
+        "gpu": 187473,
+        "attr_mem": 89798,
+        "attr_ux": 115055,
+        "attr_total score": 525322
+      }
+    },
+    "dc94c39a-a0fd-526f-a86c-75f853d8be54": {
+      "id": "dc94c39a-a0fd-526f-a86c-75f853d8be54",
+      "brand": "Galaxy",
+      "model": "A52s 5G (S-778G 6/128)",
+      "attributes": {
+        "cpu": 154014,
+        "gpu": 155720,
+        "attr_mem": 74844,
+        "attr_ux": 116989,
+        "attr_total score": 501567
+      }
+    },
+    "11fc8810-8d9e-5c53-a731-c1eaa71eeeb6": {
+      "id": "11fc8810-8d9e-5c53-a731-c1eaa71eeeb6",
+      "brand": "Galaxy",
+      "model": "S10 (E-9820 8/128)",
+      "attributes": {
+        "cpu": 118170,
+        "gpu": 184883,
+        "attr_mem": 82315,
+        "attr_ux": 105954,
+        "attr_total score": 491321
+      }
+    },
+    "7213b6b5-7aaf-5132-b2af-7845c9903e7e": {
+      "id": "7213b6b5-7aaf-5132-b2af-7845c9903e7e",
+      "brand": "Galaxy",
+      "model": "M52 5G (S-778G 8/128)",
+      "attributes": {
+        "cpu": 146361,
+        "gpu": 156559,
+        "attr_mem": 77521,
+        "attr_ux": 109874,
+        "attr_total score": 490315
+      }
+    },
+    "8d4d95ee-0af4-5526-97e4-034e7a533f88": {
+      "id": "8d4d95ee-0af4-5526-97e4-034e7a533f88",
+      "brand": "Galaxy",
+      "model": "S10+ (E-9820 8/128)",
+      "attributes": {
+        "cpu": 115397,
+        "gpu": 183846,
+        "attr_mem": 81222,
+        "attr_ux": 103916,
+        "attr_total score": 484381
+      }
+    },
+    "d7729383-f3bd-537c-adc0-3937ab43bfd6": {
+      "id": "d7729383-f3bd-537c-adc0-3937ab43bfd6",
+      "brand": "Galaxy",
+      "model": "M62 (E-9825 8/128)",
+      "attributes": {
+        "cpu": 111238,
+        "gpu": 176782,
+        "attr_mem": 104045,
+        "attr_ux": 91629,
+        "attr_total score": 483694
+      }
+    },
+    "5618f17b-b0a8-527b-a833-63b24ebe6964": {
+      "id": "5618f17b-b0a8-527b-a833-63b24ebe6964",
+      "brand": "Galaxy",
+      "model": "S10e (E-9820 6/128)",
+      "attributes": {
+        "cpu": 109927,
+        "gpu": 174016,
+        "attr_mem": 80467,
+        "attr_ux": 99106,
+        "attr_total score": 463516
+      }
+    },
+    "94adbe2a-67d4-5b8b-9509-b83e6601e69b": {
+      "id": "94adbe2a-67d4-5b8b-9509-b83e6601e69b",
+      "brand": "Galaxy",
+      "model": "A53 5G (E-1280 8/128)",
+      "attributes": {
+        "cpu": 113709,
+        "gpu": 122958,
+        "attr_mem": 75582,
+        "attr_ux": 106382,
+        "attr_total score": 418631
+      }
+    },
+    "d186d61c-53b1-5523-bb9b-588cf5e85e0d": {
+      "id": "d186d61c-53b1-5523-bb9b-588cf5e85e0d",
+      "brand": "Galaxy",
+      "model": "F62 (E-9825 6/128)",
+      "attributes": {
+        "cpu": 81341,
+        "gpu": 145328,
+        "attr_mem": 94508,
+        "attr_ux": 78137,
+        "attr_total score": 399314
+      }
+    },
+    "517868bc-5318-595a-a783-a78539199953": {
+      "id": "517868bc-5318-595a-a783-a78539199953",
+      "brand": "Galaxy",
+      "model": "Note 9 (E-9810 6/128)",
+      "attributes": {
+        "cpu": 111118,
+        "gpu": 126770,
+        "attr_mem": 61967,
+        "attr_ux": 80741,
+        "attr_total score": 380596
+      }
+    },
+    "417cc1ab-7058-58b8-80c4-b8b19f704d22": {
+      "id": "417cc1ab-7058-58b8-80c4-b8b19f704d22",
+      "brand": "Galaxy",
+      "model": "S9+ (E-9810 6/64)",
+      "attributes": {
+        "cpu": 109865,
+        "gpu": 125473,
+        "attr_mem": 60681,
+        "attr_ux": 79397,
+        "attr_total score": 375416
+      }
+    },
+    "33b12b14-2552-515d-bc4c-4446f75bc286": {
+      "id": "33b12b14-2552-515d-bc4c-4446f75bc286",
+      "brand": "Galaxy",
+      "model": "A52 (S-720G 8/256)",
+      "attributes": {
+        "cpu": 105893,
+        "gpu": 89194,
+        "attr_mem": 58339,
+        "attr_ux": 95112,
+        "attr_total score": 348537
+      }
+    },
+    "ce4bfbc1-4e49-5e73-8bc0-bf06393d5fc8": {
+      "id": "ce4bfbc1-4e49-5e73-8bc0-bf06393d5fc8",
+      "brand": "Galaxy",
+      "model": "A71 (S-730 6/128)",
+      "attributes": {
+        "cpu": 101433,
+        "gpu": 88832,
+        "attr_mem": 52846,
+        "attr_ux": 86607,
+        "attr_total score": 329717
+      }
+    },
+    "f2e4fb3a-528f-543b-8629-1d9373eac611": {
+      "id": "f2e4fb3a-528f-543b-8629-1d9373eac611",
+      "brand": "Galaxy",
+      "model": "A70 (S-675 6/128)",
+      "attributes": {
+        "cpu": 93196,
+        "gpu": 50716,
+        "attr_mem": 48215,
+        "attr_ux": 76620,
+        "attr_total score": 268746
+      }
+    },
+    "d2538f4e-bacb-5923-bd8a-79e5d14ab23b": {
+      "id": "d2538f4e-bacb-5923-bd8a-79e5d14ab23b",
+      "brand": "Galaxy",
+      "model": "A51 (E-9611 6/128)",
+      "attributes": {
+        "cpu": 55203,
+        "gpu": 62849,
+        "attr_mem": 45941,
+        "attr_ux": 67989,
+        "attr_total score": 231982
+      }
+    },
+    "105c9462-2025-5642-819a-fc95239662b4": {
+      "id": "105c9462-2025-5642-819a-fc95239662b4",
+      "brand": "Galaxy",
+      "model": "M31 (E-9611 6/128)",
+      "attributes": {
+        "cpu": 55772,
+        "gpu": 61407,
+        "attr_mem": 46470,
+        "attr_ux": 67868,
+        "attr_total score": 231515
+      }
+    },
+    "40c98807-22c2-51a9-9b6f-5120b47cb5bb": {
+      "id": "40c98807-22c2-51a9-9b6f-5120b47cb5bb",
+      "brand": "Galaxy",
+      "model": "A32 4G (M-G80 6/128)",
+      "attributes": {
+        "cpu": 65016,
+        "gpu": 54205,
+        "attr_mem": 39208,
+        "attr_ux": 66668,
+        "attr_total score": 225097
+      }
+    }
+  }
+}

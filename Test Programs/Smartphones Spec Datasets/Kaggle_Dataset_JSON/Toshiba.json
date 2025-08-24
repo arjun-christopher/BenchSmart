@@ -1,0 +1,133 @@
+{
+  "brand": "Toshiba",
+  "phones": {
+    "66bc0291-9abc-5d0f-b68e-5555a32b0529": {
+      "id": "66bc0291-9abc-5d0f-b68e-5555a32b0529",
+      "brand": "Toshiba",
+      "model": "K01",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.5",
+        "storage": " microSDHC",
+        "display_size": 4.1,
+        "attr_display resolution": 800
+      }
+    },
+    "acd8d3f4-212a-522f-bee3-ebf07d904f34": {
+      "id": "acd8d3f4-212a-522f-bee3-ebf07d904f34",
+      "brand": "Toshiba",
+      "model": "PORTEGE G500",
+      "attributes": {
+        "os": "Windows Mobile Standard 5.0",
+        "battery_capacity": 1200.0,
+        "attr_memory": 0.06,
+        "storage": " miniSD",
+        "display_size": 2.3,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "38345383-7450-547b-9db9-ae9eb9aaa33b": {
+      "id": "38345383-7450-547b-9db9-ae9eb9aaa33b",
+      "brand": "Toshiba",
+      "model": "PORTEGE G710",
+      "attributes": {
+        "os": "Windows Mobile Standard 6.0",
+        "battery_capacity": 1050.0,
+        "attr_memory": 0.06,
+        "storage": " microSD",
+        "display_size": 2.5,
+        "attr_display resolution": 240,
+        "camera_main": 2.0
+      }
+    },
+    "4f67f457-41e4-528e-b7ff-8d3d54ff52da": {
+      "id": "4f67f457-41e4-528e-b7ff-8d3d54ff52da",
+      "brand": "Toshiba",
+      "model": "PORTEGE G900",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.0",
+        "battery_capacity": 1320.0,
+        "attr_memory": 0.1,
+        "attr_primary storage": 0.0,
+        "storage": " miniSD",
+        "display_size": 3.0,
+        "attr_display resolution": 800,
+        "camera_main": 2.0
+      }
+    },
+    "c86c8c29-c4ca-54d9-bb68-c53492f2dd4f": {
+      "id": "c86c8c29-c4ca-54d9-bb68-c53492f2dd4f",
+      "brand": "Toshiba",
+      "model": "PORTEGE G910",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.0",
+        "battery_capacity": 1320.0,
+        "attr_memory": 0.1,
+        "storage": " microSD",
+        "display_size": 3.0,
+        "attr_display resolution": 480,
+        "camera_main": 2.0
+      }
+    },
+    "5e9116bd-476a-54a6-85fa-ae6bc910a34c": {
+      "id": "5e9116bd-476a-54a6-85fa-ae6bc910a34c",
+      "brand": "Toshiba",
+      "model": "Portege G810",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.0",
+        "release_date": "Jun 23, 2008",
+        "battery_capacity": 1530.0,
+        "chipset": "Qualcomm MSM7200",
+        "attr_memory": 0.1,
+        "storage": " microSD",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 3.0
+      }
+    },
+    "be317a50-40ce-5652-b16c-b55d02446518": {
+      "id": "be317a50-40ce-5652-b16c-b55d02446518",
+      "brand": "Toshiba",
+      "model": "TG01",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.1",
+        "release_date": "Jun 23, 2009",
+        "battery_capacity": 1000.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 4.1,
+        "attr_display resolution": 800,
+        "camera_main": 3.0
+      }
+    },
+    "66787bc8-35a6-59dc-8d3e-d855dda8f500": {
+      "id": "66787bc8-35a6-59dc-8d3e-d855dda8f500",
+      "brand": "Toshiba",
+      "model": "TG01 CDMA",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.1",
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 4.1,
+        "attr_display resolution": 800,
+        "camera_main": 3.0
+      }
+    },
+    "b86c5de5-3b4e-5759-a814-7cd15a0f9f27": {
+      "id": "b86c5de5-3b4e-5759-a814-7cd15a0f9f27",
+      "brand": "Toshiba",
+      "model": "TG02",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.5",
+        "battery_capacity": 1000.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 4.1,
+        "attr_display resolution": 800
+      }
+    }
+  }
+}

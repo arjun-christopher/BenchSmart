@@ -1,0 +1,37 @@
+{
+  "brand": "Saygus",
+  "phones": {
+    "39d03ae5-c24d-5b65-85d5-1332c404f1cd": {
+      "id": "39d03ae5-c24d-5b65-85d5-1332c404f1cd",
+      "brand": "Saygus",
+      "model": "V2",
+      "attributes": {
+        "os": "Android 4.4.4",
+        "battery_capacity": 3100.0,
+        "chipset": "Qualcomm Snapdragon 801",
+        "attr_memory": 3.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 20.0,
+        "camera_front": 13
+      }
+    },
+    "1e0eb809-d48b-50b5-9f60-a3ad2d54a486": {
+      "id": "1e0eb809-d48b-50b5-9f60-a3ad2d54a486",
+      "brand": "Saygus",
+      "model": "Vphone",
+      "attributes": {
+        "os": "Android 1.6",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "brand": "XTouch",
+  "phones": {
+    "3298a6ae-9095-5c44-9028-f8b1f77981cb": {
+      "id": "3298a6ae-9095-5c44-9028-f8b1f77981cb",
+      "brand": "XTouch",
+      "model": "F40 Flip",
+      "attributes": {
+        "price": "₹1,999",
+        "sim": "Dual Sim",
+        "chipset": "No 3G",
+        "ram": "No Wifi",
+        "battery_capacity": 32,
+        "display_size": 800,
+        "camera_main": 1.77,
+        "attr_card": "Dual Display",
+        "os": 1.3
+      }
+    }
+  }
+}

@@ -1,0 +1,1358 @@
+{
+  "brand": "Videocon",
+  "phones": {
+    "8018fdeb-e782-5532-8cec-8ef7563811f5": {
+      "id": "8018fdeb-e782-5532-8cec-8ef7563811f5",
+      "brand": "Videocon",
+      "model": "A10F",
+      "attributes": {
+        "os": "Android 2.3.5",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "f65addf3-79b1-5a51-83cf-f38e2aed86a3": {
+      "id": "f65addf3-79b1-5a51-83cf-f38e2aed86a3",
+      "brand": "Videocon",
+      "model": "A15",
+      "attributes": {
+        "os": "Android 2.3",
+        "release_date": "Apr 01, 2013",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "9123d7a7-a5ce-5b8e-b6be-9b7c8e30ec57": {
+      "id": "9123d7a7-a5ce-5b8e-b6be-9b7c8e30ec57",
+      "brand": "Videocon",
+      "model": "A20",
+      "attributes": {
+        "os": "Android 2.3",
+        "battery_capacity": 1350.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "e80015f0-83c4-5f83-a237-f64bc2e3f1ff": {
+      "id": "e80015f0-83c4-5f83-a237-f64bc2e3f1ff",
+      "brand": "Videocon",
+      "model": "A22",
+      "attributes": {
+        "os": "Android 2.3.7",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "dfb9cb6b-440a-545c-b614-f9786b2e36b6": {
+      "id": "dfb9cb6b-440a-545c-b614-f9786b2e36b6",
+      "brand": "Videocon",
+      "model": "A23",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 1450.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "e6dceaf9-88eb-59e9-9f92-4745cccce1d0": {
+      "id": "e6dceaf9-88eb-59e9-9f92-4745cccce1d0",
+      "brand": "Videocon",
+      "model": "A27",
+      "attributes": {
+        "os": "Android 4.0",
+        "release_date": "Feb 01, 2013",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "c0bb6a9b-f768-5d08-9146-c2b04ce9d20e": {
+      "id": "c0bb6a9b-f768-5d08-9146-c2b04ce9d20e",
+      "brand": "Videocon",
+      "model": "A27i",
+      "attributes": {
+        "os": "Android 4.0",
+        "release_date": "Apr 01, 2013",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "3c76bbf3-37f7-5825-826b-c0cdef5c500e": {
+      "id": "3c76bbf3-37f7-5825-826b-c0cdef5c500e",
+      "brand": "Videocon",
+      "model": "A29",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "release_date": "Apr 01, 2014",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 800,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "929d7ca0-790e-573a-92ba-4f4d36646fd4": {
+      "id": "929d7ca0-790e-573a-92ba-4f4d36646fd4",
+      "brand": "Videocon",
+      "model": "A30",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "be785b41-4083-54c2-ae62-0ea74dc7fd16": {
+      "id": "be785b41-4083-54c2-ae62-0ea74dc7fd16",
+      "brand": "Videocon",
+      "model": "A31",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "release_date": "Sep 01, 2013",
+        "battery_capacity": 1550.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "29024b8b-6c48-57f7-a7c5-b5cd3a327a84": {
+      "id": "29024b8b-6c48-57f7-a7c5-b5cd3a327a84",
+      "brand": "Videocon",
+      "model": "A42",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 1700.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "cacc55b6-954f-517a-8c6b-1f66ff446cd8": {
+      "id": "cacc55b6-954f-517a-8c6b-1f66ff446cd8",
+      "brand": "Videocon",
+      "model": "A45",
+      "attributes": {
+        "os": "Android 2.3",
+        "battery_capacity": 1800.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "1637f2c5-e8b0-55b3-84da-3b7eb3dabf03": {
+      "id": "1637f2c5-e8b0-55b3-84da-3b7eb3dabf03",
+      "brand": "Videocon",
+      "model": "A47",
+      "attributes": {
+        "os": "Android 2.3.5",
+        "release_date": "Jun 01, 2013",
+        "battery_capacity": 1800.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "2360b6b8-38be-5de6-b43e-3d70e67d4188": {
+      "id": "2360b6b8-38be-5de6-b43e-3d70e67d4188",
+      "brand": "Videocon",
+      "model": "A48",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "release_date": "Sep 01, 2013",
+        "battery_capacity": 1650.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "39d4a438-e235-5552-ad4d-68c6013a3fe3": {
+      "id": "39d4a438-e235-5552-ad4d-68c6013a3fe3",
+      "brand": "Videocon",
+      "model": "A51",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 2000.0,
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "3f41539f-6b11-51c5-8a94-95ea9b981442": {
+      "id": "3f41539f-6b11-51c5-8a94-95ea9b981442",
+      "brand": "Videocon",
+      "model": "A52",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "release_date": "Jul 01, 2013",
+        "battery_capacity": 2000.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "cf498c1a-bc23-5b51-b3e3-d6d497dacf42": {
+      "id": "cf498c1a-bc23-5b51-b3e3-d6d497dacf42",
+      "brand": "Videocon",
+      "model": "A53",
+      "attributes": {
+        "os": "Android 4.1",
+        "battery_capacity": 1800.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.3,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "8aafbdd2-bb68-5265-8e61-443a8da531df": {
+      "id": "8aafbdd2-bb68-5265-8e61-443a8da531df",
+      "brand": "Videocon",
+      "model": "A54",
+      "attributes": {
+        "os": "Android 4.1",
+        "battery_capacity": 2500.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.3,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 1.3
+      }
+    },
+    "04b2a1d2-a921-5fad-85a7-f81c1fdceaf2": {
+      "id": "04b2a1d2-a921-5fad-85a7-f81c1fdceaf2",
+      "brand": "Videocon",
+      "model": "A55HD",
+      "attributes": {
+        "os": "Android 4.2.1",
+        "release_date": "Jul 01, 2013",
+        "battery_capacity": 2000.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 3.2
+      }
+    },
+    "4284ef84-8aa1-5206-a1a0-58902e346d62": {
+      "id": "4284ef84-8aa1-5206-a1a0-58902e346d62",
+      "brand": "Videocon",
+      "model": "A55qHD",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 2000.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 1.3
+      }
+    },
+    "fbcd43fa-c900-5027-a716-1a63a559003c": {
+      "id": "fbcd43fa-c900-5027-a716-1a63a559003c",
+      "brand": "Videocon",
+      "model": "Challenger V40CF",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 1350.0,
+        "chipset": "Spreadtrum",
+        "attr_memory": 0.512,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "19fa1d46-7c02-5549-84f1-20f12bbc2bf6": {
+      "id": "19fa1d46-7c02-5549-84f1-20f12bbc2bf6",
+      "brand": "Videocon",
+      "model": "Challenger V40DF",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 1350.0,
+        "chipset": "Spreadtrum",
+        "attr_memory": 0.512,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "d417a447-bf9f-533e-8717-ac153c6cd2fe": {
+      "id": "d417a447-bf9f-533e-8717-ac153c6cd2fe",
+      "brand": "Videocon",
+      "model": "Challenger V40HD",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 1400.0,
+        "chipset": "Spreadtrum",
+        "attr_memory": 0.256,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "e040dd60-5538-5bb2-8e96-966d8704ab91": {
+      "id": "e040dd60-5538-5bb2-8e96-966d8704ab91",
+      "brand": "Videocon",
+      "model": "Challenger V40LD",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 1450.0,
+        "chipset": "RDA8810PL",
+        "attr_memory": 0.256,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 1.0,
+        "camera_front": 0.3
+      }
+    },
+    "4349e5cd-d744-5c74-bc5f-7c0a9dc86fd8": {
+      "id": "4349e5cd-d744-5c74-bc5f-7c0a9dc86fd8",
+      "brand": "Videocon",
+      "model": "Challenger V40UE",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 1400.0,
+        "chipset": "Spreadtrum",
+        "attr_memory": 0.512,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "1e29d6e6-f7da-5434-a3ed-9883d357673c": {
+      "id": "1e29d6e6-f7da-5434-a3ed-9883d357673c",
+      "brand": "Videocon",
+      "model": "Cube 3",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "23caa6f4-8d0c-57f1-b294-11f31ae1071f": {
+      "id": "23caa6f4-8d0c-57f1-b294-11f31ae1071f",
+      "brand": "Videocon",
+      "model": "Delite 11+",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "769e30e1-273e-5d75-b033-9adb50877beb": {
+      "id": "769e30e1-273e-5d75-b033-9adb50877beb",
+      "brand": "Videocon",
+      "model": "Delite 21",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "9e5426ca-7f79-5387-a02a-54bdcb986a50": {
+      "id": "9e5426ca-7f79-5387-a02a-54bdcb986a50",
+      "brand": "Videocon",
+      "model": "Graphite 1",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 3.2
+      }
+    },
+    "335e0cda-0eb3-5dd4-8d51-d94b46d6f0c6": {
+      "id": "335e0cda-0eb3-5dd4-8d51-d94b46d6f0c6",
+      "brand": "Videocon",
+      "model": "Graphite 2",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 3.2
+      }
+    },
+    "0ff952c6-0ecd-5f94-b429-d283d071e1e0": {
+      "id": "0ff952c6-0ecd-5f94-b429-d283d071e1e0",
+      "brand": "Videocon",
+      "model": "Graphite V45BD",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2400.0,
+        "chipset": "Spreadtrum",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "0fb59488-a3c9-5fa9-99d0-289c54f07e18": {
+      "id": "0fb59488-a3c9-5fa9-99d0-289c54f07e18",
+      "brand": "Videocon",
+      "model": "Graphite V45DB",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 1600.0,
+        "chipset": "Spreadtrum",
+        "attr_memory": 0.512,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "2f28d804-b78d-536f-ab34-61559a0d87fe": {
+      "id": "2f28d804-b78d-536f-ab34-61559a0d87fe",
+      "brand": "Videocon",
+      "model": "Graphite V45DD",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 1600.0,
+        "chipset": "Spreadtrum",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "9520e538-4fbb-5b00-a9a6-d2ed2b07861b": {
+      "id": "9520e538-4fbb-5b00-a9a6-d2ed2b07861b",
+      "brand": "Videocon",
+      "model": "Infinium Graphite",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 1800.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "display_size": 4.7,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "3d4ff6e4-f376-51fa-a7b5-a231fea52634": {
+      "id": "3d4ff6e4-f376-51fa-a7b5-a231fea52634",
+      "brand": "Videocon",
+      "model": "Infinium X30",
+      "attributes": {
+        "os": "Android 2.3.5",
+        "battery_capacity": 1300.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 1.0,
+        "camera_front": 1.3
+      }
+    },
+    "8f57e9e4-85d7-5752-ab70-7d9491dfa6b0": {
+      "id": "8f57e9e4-85d7-5752-ab70-7d9491dfa6b0",
+      "brand": "Videocon",
+      "model": "Infinium X30 Pro",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 1300.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "30e88758-be1c-54f0-bba7-b60bcf7174c7": {
+      "id": "30e88758-be1c-54f0-bba7-b60bcf7174c7",
+      "brand": "Videocon",
+      "model": "Infinium X40 Pro",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "88fed000-d354-5e2b-8c90-02c87ab0ee26": {
+      "id": "88fed000-d354-5e2b-8c90-02c87ab0ee26",
+      "brand": "Videocon",
+      "model": "Infinium Z30",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "e76d4a00-4a8a-5042-b132-f07d4f5e6f4a": {
+      "id": "e76d4a00-4a8a-5042-b132-f07d4f5e6f4a",
+      "brand": "Videocon",
+      "model": "Infinium Z30 Lite",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "02d85624-b95d-599d-b79f-d4efa2fe3579": {
+      "id": "02d85624-b95d-599d-b79f-d4efa2fe3579",
+      "brand": "Videocon",
+      "model": "Infinium Z30 Pace",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "May 01, 2015",
+        "battery_capacity": 1250.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "f0ed7a02-6d11-53f7-9f5f-ac38c5d555e8": {
+      "id": "f0ed7a02-6d11-53f7-9f5f-ac38c5d555e8",
+      "brand": "Videocon",
+      "model": "Infinium Z40 Lite",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 1450.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 2.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "1d2f285d-280b-522f-8ebe-d0d0680790bd": {
+      "id": "1d2f285d-280b-522f-8ebe-d0d0680790bd",
+      "brand": "Videocon",
+      "model": "Infinium Z40 Pro",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 1450.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "ca191fa8-d6e1-5a2a-987f-14a0efe12369": {
+      "id": "ca191fa8-d6e1-5a2a-987f-14a0efe12369",
+      "brand": "Videocon",
+      "model": "Infinium Z40 Pro Lite",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 1450.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "7a9afa6e-5475-53bb-bf76-5c6c22be07a9": {
+      "id": "7a9afa6e-5475-53bb-bf76-5c6c22be07a9",
+      "brand": "Videocon",
+      "model": "Infinium Z40 Quad",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 3.2
+      }
+    },
+    "a0b8609f-17e3-57db-ba9a-fdc4ebeb6e76": {
+      "id": "a0b8609f-17e3-57db-ba9a-fdc4ebeb6e76",
+      "brand": "Videocon",
+      "model": "Infinium Z40Q Star",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "308334d0-5af0-5c97-b877-12b4ea9a0152": {
+      "id": "308334d0-5af0-5c97-b877-12b4ea9a0152",
+      "brand": "Videocon",
+      "model": "Infinium Z45 Amaze",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 1600.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "2e39d794-6de7-516e-b440-6c2d07b33520": {
+      "id": "2e39d794-6de7-516e-b440-6c2d07b33520",
+      "brand": "Videocon",
+      "model": "Infinium Z45 Dazzle",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "Nov 30, 2015",
+        "battery_capacity": 1600.0,
+        "chipset": "Spreadtrum",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "86da8e57-4e79-5376-980b-44a65ae9e27b": {
+      "id": "86da8e57-4e79-5376-980b-44a65ae9e27b",
+      "brand": "Videocon",
+      "model": "Infinium Z45 Nova",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 1700.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "953a6150-77e9-5c65-bb11-b71a06dd34b0": {
+      "id": "953a6150-77e9-5c65-bb11-b71a06dd34b0",
+      "brand": "Videocon",
+      "model": "Infinium Z45 Nova+",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 1800.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "fcaf57fc-c37b-54af-9757-ae56393fc753": {
+      "id": "fcaf57fc-c37b-54af-9757-ae56393fc753",
+      "brand": "Videocon",
+      "model": "Infinium Z45 Quad",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 1700.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "ed19e38a-371a-5e37-bcd1-ba0356f054c4": {
+      "id": "ed19e38a-371a-5e37-bcd1-ba0356f054c4",
+      "brand": "Videocon",
+      "model": "Infinium Z45Q Star",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "Aug 18, 2015",
+        "battery_capacity": 1600.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "e246b6f4-3a46-5d43-8a73-7bee4be2ea7a": {
+      "id": "e246b6f4-3a46-5d43-8a73-7bee4be2ea7a",
+      "brand": "Videocon",
+      "model": "Infinium Z50 Nova",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 1900.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "8abc81d8-81a7-5fae-bb3a-cae97ebbd0c5": {
+      "id": "8abc81d8-81a7-5fae-bb3a-cae97ebbd0c5",
+      "brand": "Videocon",
+      "model": "Infinium Z50Q Lite",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "Feb 01, 2015",
+        "battery_capacity": 2000.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "d2bb1d92-1483-5855-90e0-204450829204": {
+      "id": "d2bb1d92-1483-5855-90e0-204450829204",
+      "brand": "Videocon",
+      "model": "Infinium Z50Q Star",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 2000.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "b955ea8f-c6ed-5438-87b3-4cf2f4b1a963": {
+      "id": "b955ea8f-c6ed-5438-87b3-4cf2f4b1a963",
+      "brand": "Videocon",
+      "model": "Infinium Z51 Nova+",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "Jun 28, 2015",
+        "battery_capacity": 2000.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "fd847914-c4b0-57d6-86a2-12397e0f1c0b": {
+      "id": "fd847914-c4b0-57d6-86a2-12397e0f1c0b",
+      "brand": "Videocon",
+      "model": "Infinium Z51 Punch",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "Sep 28, 2015",
+        "battery_capacity": 3000.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "ed9eddc5-e8b9-5485-82c6-1d82fe411042": {
+      "id": "ed9eddc5-e8b9-5485-82c6-1d82fe411042",
+      "brand": "Videocon",
+      "model": "Infinium Z51Q Star",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "Sep 28, 2015",
+        "battery_capacity": 2000.0,
+        "chipset": "Spreadtrum",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "2529af2e-9fec-5567-95fd-af8ce463b405": {
+      "id": "2529af2e-9fec-5567-95fd-af8ce463b405",
+      "brand": "Videocon",
+      "model": "Infinium Z55 Krypton",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Jan 10, 2016",
+        "battery_capacity": 2200.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "2662aec1-cb79-5616-a748-3ba05f734a65": {
+      "id": "2662aec1-cb79-5616-a748-3ba05f734a65",
+      "brand": "Videocon",
+      "model": "Infinium Zest Flame",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "62578e8b-3e97-5780-9ae9-926d63e41a74": {
+      "id": "62578e8b-3e97-5780-9ae9-926d63e41a74",
+      "brand": "Videocon",
+      "model": "Infinium Zest Pro",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Jan 08, 2015",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "3d60ecd2-ab71-5ebc-a686-b9d9afd681fb": {
+      "id": "3d60ecd2-ab71-5ebc-a686-b9d9afd681fb",
+      "brand": "Videocon",
+      "model": "Krypton 2",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 1800.0,
+        "chipset": "Spreadtrum",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "dcc0ed9e-c53d-5ea6-87ae-06a87155899c": {
+      "id": "dcc0ed9e-c53d-5ea6-87ae-06a87155899c",
+      "brand": "Videocon",
+      "model": "Krypton 22",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 2450.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "3872b32d-d2c7-5d40-b2ac-1e9d9ae1318e": {
+      "id": "3872b32d-d2c7-5d40-b2ac-1e9d9ae1318e",
+      "brand": "Videocon",
+      "model": "Krypton 3",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "7dc37da9-b948-5454-b6d0-c2b3d7f32e16": {
+      "id": "7dc37da9-b948-5454-b6d0-c2b3d7f32e16",
+      "brand": "Videocon",
+      "model": "Krypton 30",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "3a016ea0-de6c-51fb-b05f-449e904bd955": {
+      "id": "3a016ea0-de6c-51fb-b05f-449e904bd955",
+      "brand": "Videocon",
+      "model": "Krypton V50DA",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "ff0f83be-c984-51bc-a3a9-7c8317305bff": {
+      "id": "ff0f83be-c984-51bc-a3a9-7c8317305bff",
+      "brand": "Videocon",
+      "model": "Krypton V50FA",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2200.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "a85a579c-090e-5250-8216-89ea4a3c936c": {
+      "id": "a85a579c-090e-5250-8216-89ea4a3c936c",
+      "brand": "Videocon",
+      "model": "Krypton V50FG",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2200.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "2dc61935-21b4-5fad-aea6-3d498372bd26": {
+      "id": "2dc61935-21b4-5fad-aea6-3d498372bd26",
+      "brand": "Videocon",
+      "model": "Krypton V50GH",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 1800.0,
+        "chipset": "Spreadtrum",
+        "attr_memory": 0.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "cca3017f-8107-5d36-88db-d6ae39010958": {
+      "id": "cca3017f-8107-5d36-88db-d6ae39010958",
+      "brand": "Videocon",
+      "model": "Octa Core Z55 Delite",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "Nov 16, 2015",
+        "battery_capacity": 2200.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "21cf59f3-15d5-5711-97aa-1708867b1a84": {
+      "id": "21cf59f3-15d5-5711-97aa-1708867b1a84",
+      "brand": "Videocon",
+      "model": "Q1",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 615",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "cc742a70-6f18-55da-a117-ddd51505bf63": {
+      "id": "cc742a70-6f18-55da-a117-ddd51505bf63",
+      "brand": "Videocon",
+      "model": "Thunder One",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2400.0,
+        "chipset": "Spreadtrum",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "eab1f4cb-cf17-521d-8fb8-ce4628ae8628": {
+      "id": "eab1f4cb-cf17-521d-8fb8-ce4628ae8628",
+      "brand": "Videocon",
+      "model": "Thunder+ II",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "36f3b0ee-8baf-58cc-a07c-3745d1e3a84f": {
+      "id": "36f3b0ee-8baf-58cc-a07c-3745d1e3a84f",
+      "brand": "Videocon",
+      "model": "Thunder+ One",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "5798ace4-edbe-5a3f-b64d-97c49fab1b11": {
+      "id": "5798ace4-edbe-5a3f-b64d-97c49fab1b11",
+      "brand": "Videocon",
+      "model": "Ultra 30",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 4000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "2efea5b9-583a-5754-a1bd-fcb814ac81a3": {
+      "id": "2efea5b9-583a-5754-a1bd-fcb814ac81a3",
+      "brand": "Videocon",
+      "model": "Ultra 50",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "b29f35f7-7db4-5fe7-a501-708374fa77bd": {
+      "id": "b29f35f7-7db4-5fe7-a501-708374fa77bd",
+      "brand": "Videocon",
+      "model": "V7400",
+      "attributes": {
+        "os": "Android 2.1",
+        "release_date": "Jan 01, 2011",
+        "battery_capacity": 1150.0,
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 3.0
+      }
+    },
+    "67949db6-3c7c-5fc2-ad2d-7b950acf1db6": {
+      "id": "67949db6-3c7c-5fc2-ad2d-7b950acf1db6",
+      "brand": "Videocon",
+      "model": "V7500",
+      "attributes": {
+        "os": "Android 2.1",
+        "battery_capacity": 1230.0,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "cd8445ca-6853-5551-9ee1-f4f194ba0e08": {
+      "id": "cd8445ca-6853-5551-9ee1-f4f194ba0e08",
+      "brand": "Videocon",
+      "model": "Vstyle Smart",
+      "attributes": {
+        "os": "Android 2.3.5",
+        "release_date": "Aug 01, 2014",
+        "battery_capacity": 1300.0,
+        "attr_memory": 0.1,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 1.0
+      }
+    },
+    "e9928a0b-42be-5364-b605-7934ef66530b": {
+      "id": "e9928a0b-42be-5364-b605-7934ef66530b",
+      "brand": "Videocon",
+      "model": "Zest 1",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.256,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 0.0,
+        "camera_front": 0.3
+      }
+    },
+    "7e3c8fde-a159-5620-86f7-0b18ed327fe2": {
+      "id": "7e3c8fde-a159-5620-86f7-0b18ed327fe2",
+      "brand": "Videocon",
+      "model": "Zest V35CB",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 1300.0,
+        "chipset": "RDA8810",
+        "attr_memory": 0.256,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 0.0,
+        "camera_front": 0.3
+      }
+    },
+    "9257e23c-72f7-5b90-b568-12d7aeadfa19": {
+      "id": "9257e23c-72f7-5b90-b568-12d7aeadfa19",
+      "brand": "Videocon",
+      "model": "Zest V35DC",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.256,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 0.0,
+        "camera_front": 0.3
+      }
+    },
+    "975af7d8-e8ec-5033-8f6a-bc6c94e618c3": {
+      "id": "975af7d8-e8ec-5033-8f6a-bc6c94e618c3",
+      "brand": "Videocon",
+      "model": "Zest V35FC",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 1450.0,
+        "attr_memory": 0.256,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 0.0,
+        "camera_front": 0.3
+      }
+    }
+  }
+}

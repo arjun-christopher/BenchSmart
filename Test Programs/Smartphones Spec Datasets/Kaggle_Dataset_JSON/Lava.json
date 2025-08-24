@@ -1,0 +1,4701 @@
+{
+  "brand": "Lava",
+  "phones": {
+    "711724d9-1a3c-5fa2-ba55-46f9f42bcc0a": {
+      "id": "711724d9-1a3c-5fa2-ba55-46f9f42bcc0a",
+      "brand": "Lava",
+      "model": "Agni 5G",
+      "attributes": {
+        "cpu": "MediaTek Dimensity 810 MT6833 Processor",
+        "attr_camera specs rear": 64,
+        "attr_camera specs front": 16,
+        "display_size": 6.78,
+        "attr_ram of phone": 8,
+        "storage": 128,
+        "battery_capacity": 5000,
+        "os": "Android v11 OS",
+        "attr_first site": "Flipkart",
+        "attr_price in first site": "₹17,999 ❯",
+        "attr_second site": "Amazon",
+        "attr_price in second site": "₹16,990 ❯",
+        "attr_real price available": 16990,
+        "attr_score by smartprice": 7.7,
+        "price": "₹17,990",
+        "rating": 84.0,
+        "sim": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",
+        "chipset": "Dimensity  810 5G, Octa Core, 2.4 GHz Processor",
+        "ram": 8,
+        "camera_main": 64,
+        "attr_card": "Memory Card (Hybrid), upto 1 TB"
+      }
+    },
+    "3d438a28-8929-5814-98a6-d460d12a835a": {
+      "id": "3d438a28-8929-5814-98a6-d460d12a835a",
+      "brand": "LAVA",
+      "model": "LAVA BLAZE PRO",
+      "attributes": {
+        "colors": "Glass Orange",
+        "mrp": 12999,
+        "price": [
+          10260,
+          8999
+        ],
+        "rating": 4.4,
+        "review_count": 228,
+        "attr_reviews": 58,
+        "attr_memory": 4.0,
+        "storage": [
+          64.0
+        ],
+        "chipset": "Mediatek G37 Octa Core",
+        "camera_main": 50,
+        "camera_front": 8,
+        "display_size": 16.51,
+        "battery_capacity": 5000.0,
+        "attr_battery type": "Lithium Polymer",
+        "ram": 4.0,
+        "os": "android",
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 50.0,
+        "refresh_rate": 90.0,
+        "display_type": "lcd display"
+      }
+    },
+    "8047c324-5f4c-580a-86af-978bd6f52c6c": {
+      "id": "8047c324-5f4c-580a-86af-978bd6f52c6c",
+      "brand": "LAVA",
+      "model": "LAVA Z2 MAX",
+      "attributes": {
+        "colors": "Stroked Blue",
+        "mrp": 8449,
+        "price": [
+          7799,
+          6999
+        ],
+        "rating": 4.1,
+        "review_count": 301,
+        "attr_reviews": 55,
+        "attr_memory": 2.0,
+        "storage": [
+          32.0
+        ],
+        "chipset": "MediaTek Helio Quad Core",
+        "camera_main": 13,
+        "camera_front": 8,
+        "display_size": 17.78,
+        "battery_capacity": 6000.0,
+        "attr_battery type": "Lithium Polymer",
+        "ram": 2.0,
+        "os": "android",
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 13.0,
+        "display_type": "lcd display"
+      }
+    },
+    "3deb8904-e05c-576f-841a-e4a7bfbd1c14": {
+      "id": "3deb8904-e05c-576f-841a-e4a7bfbd1c14",
+      "brand": "LAVA",
+      "model": "LAVA Z2",
+      "attributes": {
+        "colors": [
+          "Flame Red",
+          "Aqua Blue"
+        ],
+        "mrp": 8999,
+        "price": [
+          7999,
+          5990
+        ],
+        "rating": 4.1,
+        "review_count": 333,
+        "attr_reviews": 56,
+        "attr_memory": 3.0,
+        "storage": [
+          32.0
+        ],
+        "chipset": "MediaTek Helio G35",
+        "camera_main": 13,
+        "camera_front": 8,
+        "display_size": 16.55,
+        "battery_capacity": 5000.0,
+        "attr_battery type": "Lithium Polymer",
+        "ram": 2.0,
+        "os": "android",
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "display_type": "lcd display"
+      }
+    },
+    "07f76cc4-937e-5d35-9a05-a7a735e63132": {
+      "id": "07f76cc4-937e-5d35-9a05-a7a735e63132",
+      "brand": "LAVA",
+      "model": "LAVA Z2C",
+      "attributes": {
+        "colors": "Aqua Blue",
+        "mrp": 8499,
+        "price": 7499,
+        "rating": 4.1,
+        "review_count": 106,
+        "attr_reviews": 13,
+        "attr_memory": 2.0,
+        "storage": 32.0,
+        "chipset": "MediaTek Helio G35",
+        "camera_main": 13,
+        "display_size": 16.55,
+        "battery_capacity": 5000.0,
+        "attr_battery type": "Lithium Polymer"
+      }
+    },
+    "7352aa77-9e84-502e-9e59-f742e022bd4f": {
+      "id": "7352aa77-9e84-502e-9e59-f742e022bd4f",
+      "brand": "LAVA",
+      "model": "LAVA BEU",
+      "attributes": {
+        "colors": "ROSE PINK",
+        "mrp": 7777,
+        "price": [
+          5960,
+          5899
+        ],
+        "rating": 4.0,
+        "review_count": 469,
+        "attr_reviews": 53,
+        "attr_memory": 2.0,
+        "storage": [
+          32.0
+        ],
+        "camera_main": 13,
+        "display_size": 15.44,
+        "battery_capacity": 4060.0,
+        "ram": 2.0,
+        "os": "android",
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "unisoc",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_front": 1,
+        "display_type": "lcd display"
+      }
+    },
+    "fe32f4ee-04c5-53e1-9bf7-8f7e04450873": {
+      "id": "fe32f4ee-04c5-53e1-9bf7-8f7e04450873",
+      "brand": "Lava",
+      "model": "Blaze 5G",
+      "attributes": {
+        "price": "₹10,999",
+        "rating": 73.0,
+        "sim": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi",
+        "chipset": "Dimensity 700 5G, Octa Core, 2.2 GHz Processor",
+        "ram": 4,
+        "battery_capacity": 5000,
+        "display_size": 6.5,
+        "camera_main": 50,
+        "attr_card": "Memory Card Supported, upto 1 TB",
+        "os": "Android v12"
+      }
+    },
+    "a2d7e287-c8f6-585b-ad9f-a5eadfa86f7b": {
+      "id": "a2d7e287-c8f6-585b-ad9f-a5eadfa86f7b",
+      "brand": "Lava",
+      "model": "Blaze NXT",
+      "attributes": {
+        "price": "₹8,999",
+        "rating": 66.0,
+        "sim": "Dual Sim, 3G, 4G, VoLTE, Wi-Fi",
+        "chipset": "Helio G37, Octa Core, 2.3 GHz Processor",
+        "ram": 4,
+        "battery_capacity": 5000,
+        "display_size": 6.5,
+        "camera_main": 13,
+        "attr_card": "Memory Card Supported, upto 256 GB",
+        "os": "Android v12"
+      }
+    },
+    "16d30c6f-6d77-5190-ba51-60f403113bd6": {
+      "id": "16d30c6f-6d77-5190-ba51-60f403113bd6",
+      "brand": "Lava",
+      "model": "X3",
+      "attributes": {
+        "price": "₹6,999",
+        "sim": "Dual Sim, 3G, 4G, VoLTE, Wi-Fi",
+        "chipset": "Helio A22, Quad Core, 2 GHz Processor",
+        "ram": 3,
+        "battery_capacity": 4000,
+        "display_size": 6.5,
+        "camera_main": 8,
+        "attr_card": "Memory Card (Hybrid), upto 512 GB",
+        "os": "Android v12",
+        "attr_memory": 2.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "attr_display resolution": 1280,
+        "camera_front": 5
+      }
+    },
+    "cf5f2014-48bd-5bdb-a2f9-8418d07f65e7": {
+      "id": "cf5f2014-48bd-5bdb-a2f9-8418d07f65e7",
+      "brand": "lava",
+      "model": "Lava Blaze 5G",
+      "attributes": {
+        "price": [
+          10999,
+          8998
+        ],
+        "rating": 73.0,
+        "attr_has 5g": true,
+        "attr_has nfc": false,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "dimensity",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.2,
+        "battery_capacity": 5000.0,
+        "attr_fast charging available": 0,
+        "attr_ram capacity": 4,
+        "attr_internal memory": 128,
+        "display_size": 6.5,
+        "refresh_rate": 90,
+        "camera_main": 8.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 1,
+        "attr_extended upto": 1024.0,
+        "attr_resolution width": 1600,
+        "attr_resolution height": 720,
+        "ram": 4.0,
+        "storage": 128.0,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 50.0,
+        "display_type": "lcd display"
+      }
+    },
+    "7cda7c55-12b5-5c6f-b302-9f76325543fd": {
+      "id": "7cda7c55-12b5-5c6f-b302-9f76325543fd",
+      "brand": "lava",
+      "model": "Lava Agni 5G",
+      "attributes": {
+        "price": [
+          17990,
+          15990
+        ],
+        "rating": 84.0,
+        "attr_has 5g": true,
+        "attr_has nfc": false,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "dimensity",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.4,
+        "battery_capacity": 5000.0,
+        "attr_fast charging available": 1,
+        "charging": 30.0,
+        "attr_ram capacity": 8,
+        "attr_internal memory": 128,
+        "display_size": 6.78,
+        "refresh_rate": 90,
+        "camera_main": 16.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 1,
+        "attr_extended upto": 1024.0,
+        "attr_resolution width": 1080,
+        "attr_resolution height": 2460,
+        "ram": 8.0,
+        "storage": 128.0,
+        "attr_has fingerprints": "Yes",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 64.0,
+        "display_type": "lcd display"
+      }
+    },
+    "ec93f0c6-b3fa-5703-810f-34052e6577b1": {
+      "id": "ec93f0c6-b3fa-5703-810f-34052e6577b1",
+      "brand": "lava",
+      "model": "Lava Blaze NXT",
+      "attributes": {
+        "price": [
+          8999,
+          8499
+        ],
+        "rating": 66.0,
+        "attr_has 5g": false,
+        "attr_has nfc": false,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "helio",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.3,
+        "battery_capacity": 5000.0,
+        "attr_fast charging available": 0,
+        "attr_ram capacity": 4,
+        "attr_internal memory": 64,
+        "display_size": 6.5,
+        "refresh_rate": 60,
+        "camera_main": 8.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 1,
+        "attr_extended upto": 256.0,
+        "attr_resolution width": 720,
+        "attr_resolution height": 1600,
+        "ram": 4.0,
+        "storage": 64.0,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "display_type": "lcd display"
+      }
+    },
+    "9beda450-c5f4-50dc-9108-944f0cfeec25": {
+      "id": "9beda450-c5f4-50dc-9108-944f0cfeec25",
+      "brand": "lava",
+      "model": "Lava X3",
+      "attributes": {
+        "price": [
+          6999
+        ],
+        "attr_has 5g": false,
+        "attr_has nfc": false,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "helio",
+        "attr_num cores": 4.0,
+        "attr_processor speed": 2.0,
+        "battery_capacity": 4000.0,
+        "attr_fast charging available": 0,
+        "attr_ram capacity": 3,
+        "attr_internal memory": 32,
+        "display_size": 6.5,
+        "refresh_rate": 60,
+        "camera_main": 5.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 1,
+        "attr_extended upto": 512.0,
+        "attr_resolution width": 1600,
+        "attr_resolution height": 720
+      }
+    },
+    "70e87267-9e47-52ea-962e-6950291e8911": {
+      "id": "70e87267-9e47-52ea-962e-6950291e8911",
+      "brand": "lava",
+      "model": "lava agni 3 5g",
+      "attributes": {
+        "price": 20999,
+        "ram": 8.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 5000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 50.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.78,
+        "refresh_rate": 120.0,
+        "display_type": "amoled display"
+      }
+    },
+    "79c54dc7-8b5b-5799-9073-4239aa4a6e32": {
+      "id": "79c54dc7-8b5b-5799-9073-4239aa4a6e32",
+      "brand": "lava",
+      "model": "lava blaze duo",
+      "attributes": {
+        "price": 16999,
+        "ram": 6.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 5000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 64.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.67,
+        "refresh_rate": 120.0,
+        "display_type": "amoled display"
+      }
+    },
+    "ab1496e7-608c-576d-b418-60298c1ca4b2": {
+      "id": "ab1496e7-608c-576d-b418-60298c1ca4b2",
+      "brand": "lava",
+      "model": "lava blaze curve 5g",
+      "attributes": {
+        "price": 14999,
+        "ram": 8.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 5000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 64.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.67,
+        "refresh_rate": 120.0,
+        "display_type": "amoled display"
+      }
+    },
+    "ddcb6bbc-5872-543f-ae9a-4f478db88743": {
+      "id": "ddcb6bbc-5872-543f-ae9a-4f478db88743",
+      "brand": "lava",
+      "model": "lava blaze x",
+      "attributes": {
+        "price": 14999,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 5000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 64.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.67,
+        "refresh_rate": 120.0,
+        "display_type": "amoled display"
+      }
+    },
+    "05364408-bfb3-55e2-894f-e549edf74b2e": {
+      "id": "05364408-bfb3-55e2-894f-e549edf74b2e",
+      "brand": "lava",
+      "model": "lava blaze curve 5g 256gb",
+      "attributes": {
+        "price": 15499,
+        "ram": 8.0,
+        "os": "android",
+        "storage": 256.0,
+        "battery_capacity": 5000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 64.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.67,
+        "refresh_rate": 120.0,
+        "display_type": "amoled display"
+      }
+    },
+    "6aab7227-973d-542e-b7aa-a024bc315594": {
+      "id": "6aab7227-973d-542e-b7aa-a024bc315594",
+      "brand": "lava",
+      "model": "lava yuva smart",
+      "attributes": {
+        "price": 6099,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "unisoc",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 6.75,
+        "refresh_rate": 60.0,
+        "display_type": "lcd display"
+      }
+    },
+    "fd86716e-e50f-5137-ba9b-186fc0fa7b15": {
+      "id": "fd86716e-e50f-5137-ba9b-186fc0fa7b15",
+      "brand": "lava",
+      "model": "lava blaze 3",
+      "attributes": {
+        "price": 10999,
+        "ram": 6.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 5000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 50.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.56,
+        "refresh_rate": 90.0,
+        "display_type": "lcd display"
+      }
+    },
+    "ecd08cd9-ba42-5766-9875-963be039f1e7": {
+      "id": "ecd08cd9-ba42-5766-9875-963be039f1e7",
+      "brand": "lava",
+      "model": "lava blaze duo 8gb ram",
+      "attributes": {
+        "price": 17999,
+        "ram": 8.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 5000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 64.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.67,
+        "refresh_rate": 120.0,
+        "display_type": "amoled display"
+      }
+    },
+    "4045fbc0-f87a-5d3e-9717-3273e381942d": {
+      "id": "4045fbc0-f87a-5d3e-9717-3273e381942d",
+      "brand": "lava",
+      "model": "lava agni 2 5g",
+      "attributes": {
+        "price": 21999,
+        "ram": 8.0,
+        "os": "android",
+        "storage": 256.0,
+        "battery_capacity": 4700,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 50.0,
+        "camera_main": 4,
+        "camera_front": 1,
+        "display_size": 6.78,
+        "refresh_rate": 120.0,
+        "display_type": "amoled display"
+      }
+    },
+    "344f76fe-b1cd-5bb2-9167-2dbedbf72e88": {
+      "id": "344f76fe-b1cd-5bb2-9167-2dbedbf72e88",
+      "brand": "lava",
+      "model": "lava agni 3 5g 256gb",
+      "attributes": {
+        "price": 24999,
+        "ram": 8.0,
+        "os": "android",
+        "storage": 256.0,
+        "battery_capacity": 5000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 50.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.78,
+        "refresh_rate": 120.0,
+        "display_type": "amoled display"
+      }
+    },
+    "93218f34-3b24-5b8c-aced-efc3f3b5f09e": {
+      "id": "93218f34-3b24-5b8c-aced-efc3f3b5f09e",
+      "brand": "lava",
+      "model": "lava storm 5g",
+      "attributes": {
+        "price": 12499,
+        "ram": 8.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 5000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 50.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.78,
+        "refresh_rate": 120.0,
+        "display_type": "lcd display"
+      }
+    },
+    "15a36902-f07e-539f-87b1-1e8ee7630bb8": {
+      "id": "15a36902-f07e-539f-87b1-1e8ee7630bb8",
+      "brand": "lava",
+      "model": "lava z33",
+      "attributes": {
+        "price": 5499,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "tru-mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 6.51,
+        "display_type": "lcd display"
+      }
+    },
+    "357cc90b-09b5-5aa4-a8f0-7811796a2dc8": {
+      "id": "357cc90b-09b5-5aa4-a8f0-7811796a2dc8",
+      "brand": "lava",
+      "model": "lava yuva 4",
+      "attributes": {
+        "price": 6999,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "unisoc",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 50.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 6.56,
+        "refresh_rate": 90.0,
+        "display_type": "lcd display"
+      }
+    },
+    "ef28b5de-1f7c-55d9-9afe-36ca52d0542d": {
+      "id": "ef28b5de-1f7c-55d9-9afe-36ca52d0542d",
+      "brand": "lava",
+      "model": "lava yuva 5g",
+      "attributes": {
+        "price": 8698,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 5000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "unisoc",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 50.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.52,
+        "refresh_rate": 90.0,
+        "display_type": "lcd display"
+      }
+    },
+    "cc5ef1a0-3de1-514a-bfb7-52d2003c9601": {
+      "id": "cc5ef1a0-3de1-514a-bfb7-52d2003c9601",
+      "brand": "lava",
+      "model": "lava yuva 2 5g",
+      "attributes": {
+        "price": 9499,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 5000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "unisoc",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 50.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.67,
+        "refresh_rate": 90.0,
+        "display_type": "lcd display"
+      }
+    },
+    "2d2dc438-4ef2-5a51-8be2-772d23c6fa26": {
+      "id": "2d2dc438-4ef2-5a51-8be2-772d23c6fa26",
+      "brand": "lava",
+      "model": "lava blaze x 8gb ram",
+      "attributes": {
+        "price": 16999,
+        "ram": 8.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 5000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 64.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.67,
+        "refresh_rate": 120.0,
+        "display_type": "amoled display"
+      }
+    },
+    "10f22a2f-cda8-568d-a4ae-60b8066ae780": {
+      "id": "10f22a2f-cda8-568d-a4ae-60b8066ae780",
+      "brand": "lava",
+      "model": "lava yuva star",
+      "attributes": {
+        "price": 6899,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "unisoc",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 6.75,
+        "refresh_rate": 60.0,
+        "display_type": "lcd display"
+      }
+    },
+    "1810814c-22ff-5330-9590-73a26a8a44f1": {
+      "id": "1810814c-22ff-5330-9590-73a26a8a44f1",
+      "brand": "lava",
+      "model": "lava yuva 2 pro",
+      "attributes": {
+        "price": 6899,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.5,
+        "display_type": "lcd display"
+      }
+    },
+    "75bdf00f-95ab-5a31-916e-ab0a08d5ec73": {
+      "id": "75bdf00f-95ab-5a31-916e-ab0a08d5ec73",
+      "brand": "lava",
+      "model": "lava yuva 3",
+      "attributes": {
+        "price": 6999,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 5000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "unisoc",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 6.5,
+        "refresh_rate": 90.0,
+        "display_type": "lcd display"
+      }
+    },
+    "84eca4e8-4f28-5450-905d-fd7bb78941d5": {
+      "id": "84eca4e8-4f28-5450-905d-fd7bb78941d5",
+      "brand": "lava",
+      "model": "lava blaze pro 5g",
+      "attributes": {
+        "price": 11999,
+        "ram": 8.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 5000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 50.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 6.78,
+        "refresh_rate": 120.0,
+        "display_type": "lcd display"
+      }
+    },
+    "442f9f10-fb1f-5e1f-b91b-3444230c9f8a": {
+      "id": "442f9f10-fb1f-5e1f-b91b-3444230c9f8a",
+      "brand": "lava",
+      "model": "lava blaze 2 5g",
+      "attributes": {
+        "price": 10498,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 5000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 50.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.56,
+        "refresh_rate": 90.0,
+        "display_type": "lcd display"
+      }
+    },
+    "3c22d64b-bc91-58de-a52b-2368883dfbd5": {
+      "id": "3c22d64b-bc91-58de-a52b-2368883dfbd5",
+      "brand": "lava",
+      "model": "lava a51",
+      "attributes": {
+        "price": 4999,
+        "ram": 0.5,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 1750,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.5,
+        "display_type": "tft display"
+      }
+    },
+    "f40aa957-056a-5ec0-bd62-cf42febdd9ed": {
+      "id": "f40aa957-056a-5ec0-bd62-cf42febdd9ed",
+      "brand": "lava",
+      "model": "lava blaze 5g 6gb ram",
+      "attributes": {
+        "price": 9299,
+        "ram": 6.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 50.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.5,
+        "refresh_rate": 90.0,
+        "display_type": "lcd display"
+      }
+    },
+    "babb8d08-da5a-584b-8b8d-b0f3bced9aca": {
+      "id": "babb8d08-da5a-584b-8b8d-b0f3bced9aca",
+      "brand": "lava",
+      "model": "lava yuva 4 128gb",
+      "attributes": {
+        "price": 7499,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "unisoc",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 50.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 6.56,
+        "refresh_rate": 90.0,
+        "display_type": "lcd display"
+      }
+    },
+    "350897ab-2dc2-5fed-847f-cb4165338524": {
+      "id": "350897ab-2dc2-5fed-847f-cb4165338524",
+      "brand": "lava",
+      "model": "lava z60",
+      "attributes": {
+        "price": 4929,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2500,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "3532e504-11e0-5785-b303-8a51fd511162": {
+      "id": "3532e504-11e0-5785-b303-8a51fd511162",
+      "brand": "lava",
+      "model": "lava z3",
+      "attributes": {
+        "price": 5497,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.51,
+        "display_type": "lcd display"
+      }
+    },
+    "d2780468-eb4f-564b-aeab-e5643b3cbbf5": {
+      "id": "d2780468-eb4f-564b-aeab-e5643b3cbbf5",
+      "brand": "lava",
+      "model": "lava yuva 3 128gb",
+      "attributes": {
+        "price": 6699,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 5000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "unisoc",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 6.5,
+        "refresh_rate": 90.0,
+        "display_type": "lcd display"
+      }
+    },
+    "a9a477ad-a774-5af5-80d1-22f8e795bfad": {
+      "id": "a9a477ad-a774-5af5-80d1-22f8e795bfad",
+      "brand": "lava",
+      "model": "lava blaze x 6gb ram",
+      "attributes": {
+        "price": 15999,
+        "ram": 6.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 5000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 64.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.67,
+        "refresh_rate": 120.0,
+        "display_type": "amoled display"
+      }
+    },
+    "39e344c4-86dd-5638-8f2e-36649c820835": {
+      "id": "39e344c4-86dd-5638-8f2e-36649c820835",
+      "brand": "lava",
+      "model": "lava iris x1 selfie",
+      "attributes": {
+        "price": 5599,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2000,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.5,
+        "display_type": "lcd display"
+      }
+    },
+    "199a889f-bb44-52a1-b4e8-02484258017d": {
+      "id": "199a889f-bb44-52a1-b4e8-02484258017d",
+      "brand": "lava",
+      "model": "lava z25",
+      "attributes": {
+        "price": 6599,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 3020,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "2bcdd06f-7b92-59c5-a5d1-022e9d3e0f72": {
+      "id": "2bcdd06f-7b92-59c5-a5d1-022e9d3e0f72",
+      "brand": "lava",
+      "model": "lava blaze 2 5g 128gb",
+      "attributes": {
+        "price": 9299,
+        "ram": 6.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 5000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 50.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.56,
+        "refresh_rate": 90.0,
+        "display_type": "lcd display"
+      }
+    },
+    "caad26c5-51d8-58cd-9380-05ccd7f651f1": {
+      "id": "caad26c5-51d8-58cd-9380-05ccd7f651f1",
+      "brand": "lava",
+      "model": "lava o2",
+      "attributes": {
+        "price": 8498,
+        "ram": 8.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 5000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "unisoc",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 50.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 6.5,
+        "refresh_rate": 90.0,
+        "display_type": "lcd display"
+      }
+    },
+    "54fa5b54-089e-503b-8988-1479cdd723f5": {
+      "id": "54fa5b54-089e-503b-8988-1479cdd723f5",
+      "brand": "lava",
+      "model": "lava iris x5",
+      "attributes": {
+        "price": 7599,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2100,
+        "charging": "No",
+        "attr_processor brand": "broadcom",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "721ea9fa-64da-5e7d-8233-5d3168b7da06": {
+      "id": "721ea9fa-64da-5e7d-8233-5d3168b7da06",
+      "brand": "lava",
+      "model": "lava iris atom x",
+      "attributes": {
+        "price": 3550,
+        "ram": 0.25,
+        "os": "android",
+        "storage": 0.5,
+        "battery_capacity": 1400,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_num core": 1.0,
+        "attr_primery rear camera": 2.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.0,
+        "display_type": "tft display"
+      }
+    },
+    "3aa43f17-880e-5fe0-8f48-cbf46b3e0d39": {
+      "id": "3aa43f17-880e-5fe0-8f48-cbf46b3e0d39",
+      "brand": "lava",
+      "model": "lava x50",
+      "attributes": {
+        "price": 4999,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2800,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "8ef29cf4-bc94-5607-b669-8d79f51f93d4": {
+      "id": "8ef29cf4-bc94-5607-b669-8d79f51f93d4",
+      "brand": "lava",
+      "model": "lava x50 plus",
+      "attributes": {
+        "price": 9199,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 2800,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "aa26db8d-e922-54d1-86b8-72ffa3ae7bee": {
+      "id": "aa26db8d-e922-54d1-86b8-72ffa3ae7bee",
+      "brand": "lava",
+      "model": "lava z40",
+      "attributes": {
+        "price": 4500,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2250,
+        "charging": "No",
+        "attr_processor brand": "quad",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 2.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.0,
+        "display_type": "lcd display"
+      }
+    },
+    "973626f9-288a-507e-98fa-73c931dc4217": {
+      "id": "973626f9-288a-507e-98fa-73c931dc4217",
+      "brand": "lava",
+      "model": "lava z93",
+      "attributes": {
+        "price": 9999,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 3500,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.22,
+        "display_type": "lcd display"
+      }
+    },
+    "41e11e75-9c2a-5f32-8205-f0777e9fc6b4": {
+      "id": "41e11e75-9c2a-5f32-8205-f0777e9fc6b4",
+      "brand": "lava",
+      "model": "lava z53",
+      "attributes": {
+        "price": 5499,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 4120,
+        "charging": "Yes",
+        "attr_processor brand": "unisoc",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 6.1,
+        "display_type": "tft display"
+      }
+    },
+    "18bcbb9c-bdd8-5a39-a748-7d79ec3b54d3": {
+      "id": "18bcbb9c-bdd8-5a39-a748-7d79ec3b54d3",
+      "brand": "lava",
+      "model": "lava z66",
+      "attributes": {
+        "price": 4999,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 3950,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "tru-mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.08,
+        "display_type": "lcd display"
+      }
+    },
+    "6f476b56-69f8-502b-bda2-a49939a0d6bd": {
+      "id": "6f476b56-69f8-502b-bda2-a49939a0d6bd",
+      "brand": "lava",
+      "model": "lava z4",
+      "attributes": {
+        "price": 7199,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.51,
+        "display_type": "lcd display"
+      }
+    },
+    "e03a0534-de67-59a2-b8c6-cd8fa563a83a": {
+      "id": "e03a0534-de67-59a2-b8c6-cd8fa563a83a",
+      "brand": "lava",
+      "model": "lava z3 pro",
+      "attributes": {
+        "price": 6599,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 6.51,
+        "display_type": "lcd display"
+      }
+    },
+    "ce40febb-3ca0-52d6-9a7d-7aea006965f9": {
+      "id": "ce40febb-3ca0-52d6-9a7d-7aea006965f9",
+      "brand": "lava",
+      "model": "lava blaze x1 5g",
+      "attributes": {
+        "price": 12499,
+        "ram": 6.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 50.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.5,
+        "refresh_rate": 90.0,
+        "display_type": "lcd display"
+      }
+    },
+    "a83594f8-4884-5f52-94e8-223ad3a9a801": {
+      "id": "a83594f8-4884-5f52-94e8-223ad3a9a801",
+      "brand": "lava",
+      "model": "lava yuva 2",
+      "attributes": {
+        "price": 6399,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "unisoc",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.5,
+        "refresh_rate": 90.0,
+        "display_type": "lcd display"
+      }
+    },
+    "7a24ad6d-b39f-527c-85b5-934b66d42230": {
+      "id": "7a24ad6d-b39f-527c-85b5-934b66d42230",
+      "brand": "lava",
+      "model": "lava yuva 3 pro",
+      "attributes": {
+        "price": 9499,
+        "ram": 8.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 5000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "unisoc",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 50.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 6.5,
+        "refresh_rate": 90.0,
+        "display_type": "lcd display"
+      }
+    },
+    "b8a45640-611d-526c-8dce-90f54ad988a3": {
+      "id": "b8a45640-611d-526c-8dce-90f54ad988a3",
+      "brand": "lava",
+      "model": "lava iris pro 20",
+      "attributes": {
+        "price": 8000,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 4.0,
+        "battery_capacity": 2000,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.7,
+        "display_type": "lcd display"
+      }
+    },
+    "d8a8ad9b-c0f5-5cf7-b0c5-246101906e71": {
+      "id": "d8a8ad9b-c0f5-5cf7-b0c5-246101906e71",
+      "brand": "lava",
+      "model": "lava iris selfie 50",
+      "attributes": {
+        "price": 6696,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2400,
+        "charging": "No",
+        "attr_processor brand": "broadcom",
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "60858182-63a0-566d-9313-fab6cd2e6c15": {
+      "id": "60858182-63a0-566d-9313-fab6cd2e6c15",
+      "brand": "lava",
+      "model": "lava iris x8",
+      "attributes": {
+        "price": 7074,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2500,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "1970f3dd-948b-5bac-8003-00b0e0abbed6": {
+      "id": "1970f3dd-948b-5bac-8003-00b0e0abbed6",
+      "brand": "lava",
+      "model": "lava iris fuel 20",
+      "attributes": {
+        "price": 5999,
+        "ram": 0.5,
+        "os": "android",
+        "storage": 4.0,
+        "battery_capacity": 4400,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "tft display"
+      }
+    },
+    "d886ea39-4f64-536c-96e9-7010dc1ecf52": {
+      "id": "d886ea39-4f64-536c-96e9-7010dc1ecf52",
+      "brand": "lava",
+      "model": "lava iris fuel 10",
+      "attributes": {
+        "price": 6340,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.5,
+        "display_type": "tft display"
+      }
+    },
+    "9123f471-5b40-5b37-98ec-1df23e3a5ae7": {
+      "id": "9123f471-5b40-5b37-98ec-1df23e3a5ae7",
+      "brand": "lava",
+      "model": "lava iris alfa l",
+      "attributes": {
+        "price": 6800,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "c67c678d-9510-549b-b42d-6e1134b84f50": {
+      "id": "c67c678d-9510-549b-b42d-6e1134b84f50",
+      "brand": "lava",
+      "model": "lava iris x9",
+      "attributes": {
+        "price": 10300,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2650,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "147e1137-2db3-5661-821e-2119160b3ce7": {
+      "id": "147e1137-2db3-5661-821e-2119160b3ce7",
+      "brand": "lava",
+      "model": "lava pixel v1",
+      "attributes": {
+        "price": 8999,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 2650,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "0510a4b5-79a5-5d6b-babc-8938091163c1": {
+      "id": "0510a4b5-79a5-5d6b-babc-8938091163c1",
+      "brand": "lava",
+      "model": "lava iris fuel f1",
+      "attributes": {
+        "price": 6999,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 4000,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "7e4bd8a3-dea0-57b2-b2e6-cfdaada44aa0": {
+      "id": "7e4bd8a3-dea0-57b2-b2e6-cfdaada44aa0",
+      "brand": "lava",
+      "model": "lava iris x10",
+      "attributes": {
+        "price": 14600,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2900,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "453525c7-fdbd-55b7-bcb3-babcfe1f5f30": {
+      "id": "453525c7-fdbd-55b7-bcb3-babcfe1f5f30",
+      "brand": "lava",
+      "model": "lava a76",
+      "attributes": {
+        "price": 4499,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 1850,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.5,
+        "display_type": "lcd display"
+      }
+    },
+    "746bb685-be58-5621-965f-f949588c4eea": {
+      "id": "746bb685-be58-5621-965f-f949588c4eea",
+      "brand": "lava",
+      "model": "lava a72",
+      "attributes": {
+        "price": 6499,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2500,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "f637619f-faf6-5700-b44e-d1eb686fd508": {
+      "id": "f637619f-faf6-5700-b44e-d1eb686fd508",
+      "brand": "lava",
+      "model": "lava x28",
+      "attributes": {
+        "price": 3299,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2600,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "dfa87ab2-cdc6-5df8-b307-2020d16e92f0": {
+      "id": "dfa87ab2-cdc6-5df8-b307-2020d16e92f0",
+      "brand": "lava",
+      "model": "lava x41 plus",
+      "attributes": {
+        "price": 4999,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 2500,
+        "charging": "No",
+        "attr_processor brand": "quad",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "2d69ce17-52a4-5f6f-8a0e-c103fdba9a31": {
+      "id": "2d69ce17-52a4-5f6f-8a0e-c103fdba9a31",
+      "brand": "lava",
+      "model": "lava a77",
+      "attributes": {
+        "price": 4485,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2000,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.5,
+        "display_type": "tft display"
+      }
+    },
+    "a56c5ebf-e074-5fc3-b26f-21e23efe2109": {
+      "id": "a56c5ebf-e074-5fc3-b26f-21e23efe2109",
+      "brand": "lava",
+      "model": "lava z10 3gb ram",
+      "attributes": {
+        "price": 10283,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2620,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "06697f8f-2a79-5f64-b5f7-aa70ab38ac16": {
+      "id": "06697f8f-2a79-5f64-b5f7-aa70ab38ac16",
+      "brand": "lava",
+      "model": "lava a44",
+      "attributes": {
+        "price": 3999,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 1500,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.0,
+        "display_type": "tft display"
+      }
+    },
+    "c731c9f0-2248-5769-b641-ee2dab1a0eeb": {
+      "id": "c731c9f0-2248-5769-b641-ee2dab1a0eeb",
+      "brand": "lava",
+      "model": "lava a97 2gb plus",
+      "attributes": {
+        "price": 5149,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2350,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "tft display"
+      }
+    },
+    "3fb38d6f-6572-54c1-97b1-37a777797899": {
+      "id": "3fb38d6f-6572-54c1-97b1-37a777797899",
+      "brand": "lava",
+      "model": "lava z80",
+      "attributes": {
+        "price": 5299,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2500,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "cc8cd383-20f5-5b2f-920b-c025d53b4495": {
+      "id": "cc8cd383-20f5-5b2f-920b-c025d53b4495",
+      "brand": "lava",
+      "model": "lava z90",
+      "attributes": {
+        "price": 6999,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 2750,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.2,
+        "display_type": "lcd display"
+      }
+    },
+    "0e875f2e-ede5-58d1-b686-54cc06413a0c": {
+      "id": "0e875f2e-ede5-58d1-b686-54cc06413a0c",
+      "brand": "lava",
+      "model": "lava z50",
+      "attributes": {
+        "price": 3999,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2000,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.5,
+        "display_type": "tft display"
+      }
+    },
+    "0d9d1c64-b15e-539b-a645-4020110d1e58": {
+      "id": "0d9d1c64-b15e-539b-a645-4020110d1e58",
+      "brand": "lava",
+      "model": "lava z91",
+      "attributes": {
+        "price": 5449,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.7,
+        "display_type": "lcd display"
+      }
+    },
+    "8d13c84d-b0a6-547e-bed1-1d43677288d3": {
+      "id": "8d13c84d-b0a6-547e-bed1-1d43677288d3",
+      "brand": "lava",
+      "model": "lava z61",
+      "attributes": {
+        "price": 4949,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.45,
+        "display_type": "lcd display"
+      }
+    },
+    "0469fe9a-b2c9-51a2-8a83-6e8d79522105": {
+      "id": "0469fe9a-b2c9-51a2-8a83-6e8d79522105",
+      "brand": "lava",
+      "model": "lava z91 16gb",
+      "attributes": {
+        "price": 5009,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.7,
+        "display_type": "lcd display"
+      }
+    },
+    "c763f02d-1cbb-572f-80b1-865a0648c859": {
+      "id": "c763f02d-1cbb-572f-80b1-865a0648c859",
+      "brand": "lava",
+      "model": "lava z60s",
+      "attributes": {
+        "price": 4949,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2500,
+        "charging": "No",
+        "attr_processor brand": "quad",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "4f6e9374-c922-5b5c-9b1d-ee6617cf4592": {
+      "id": "4f6e9374-c922-5b5c-9b1d-ee6617cf4592",
+      "brand": "lava",
+      "model": "lava z61 2gb ram",
+      "attributes": {
+        "price": 5590,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.45,
+        "display_type": "lcd display"
+      }
+    },
+    "69d59266-696f-51f7-9f65-0e68094de124": {
+      "id": "69d59266-696f-51f7-9f65-0e68094de124",
+      "brand": "lava",
+      "model": "lava z92",
+      "attributes": {
+        "price": 6999,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 3260,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 6.22,
+        "display_type": "lcd display"
+      }
+    },
+    "1a716e52-29a9-5a1d-bb2f-a8d9544a419e": {
+      "id": "1a716e52-29a9-5a1d-bb2f-a8d9544a419e",
+      "brand": "lava",
+      "model": "lava z51",
+      "attributes": {
+        "price": 5299,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2550,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "tft display"
+      }
+    },
+    "e1cb5506-0230-5c13-b827-f76bbe9a5ffe": {
+      "id": "e1cb5506-0230-5c13-b827-f76bbe9a5ffe",
+      "brand": "lava",
+      "model": "lava z62",
+      "attributes": {
+        "price": 5890,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 3380,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 6.0,
+        "display_type": "lcd display"
+      }
+    },
+    "04a474ed-0c8a-5350-86bb-0c9c8ed20bd6": {
+      "id": "04a474ed-0c8a-5350-86bb-0c9c8ed20bd6",
+      "brand": "lava",
+      "model": "lava z71",
+      "attributes": {
+        "price": 5390,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 3200,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 5.7,
+        "display_type": "lcd display"
+      }
+    },
+    "dcf9613e-ec33-58e7-86f3-7f188a8f8c37": {
+      "id": "dcf9613e-ec33-58e7-86f3-7f188a8f8c37",
+      "brand": "lava",
+      "model": "lava z61 pro",
+      "attributes": {
+        "price": 5399,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 3100,
+        "charging": "No",
+        "attr_processor brand": "tru-mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.45,
+        "display_type": "lcd display"
+      }
+    },
+    "285559f6-4293-5830-a8b5-6253c1d0520d": {
+      "id": "285559f6-4293-5830-a8b5-6253c1d0520d",
+      "brand": "lava",
+      "model": "lava z1",
+      "attributes": {
+        "price": 6249,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 3100,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "tft display"
+      }
+    },
+    "12f01cab-42ed-5699-a78a-5fa7ac2d655b": {
+      "id": "12f01cab-42ed-5699-a78a-5fa7ac2d655b",
+      "brand": "lava",
+      "model": "lava z6",
+      "attributes": {
+        "price": 9215,
+        "ram": 6.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.51,
+        "display_type": "lcd display"
+      }
+    },
+    "a8069690-dda1-5958-9b18-92b803913dc3": {
+      "id": "a8069690-dda1-5958-9b18-92b803913dc3",
+      "brand": "lava",
+      "model": "lava z2s",
+      "attributes": {
+        "price": 4909,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 6.51,
+        "display_type": "lcd display"
+      }
+    },
+    "12b61f01-a00e-568e-8c91-1b74339240a6": {
+      "id": "12b61f01-a00e-568e-8c91-1b74339240a6",
+      "brand": "lava",
+      "model": "lava z2 3gb ram",
+      "attributes": {
+        "price": 5999,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.51,
+        "display_type": "lcd display"
+      }
+    },
+    "70445e9b-bb33-59b9-a904-226cc26226be": {
+      "id": "70445e9b-bb33-59b9-a904-226cc26226be",
+      "brand": "lava",
+      "model": "lava a89",
+      "attributes": {
+        "price": 4899,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2000,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "17b14866-96fa-5a50-8794-daa28c1c1341": {
+      "id": "17b14866-96fa-5a50-8794-daa28c1c1341",
+      "brand": "lava",
+      "model": "lava iris x1 16gb",
+      "attributes": {
+        "price": 7800,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 1800,
+        "charging": "No",
+        "attr_processor brand": "broadcom",
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.5,
+        "display_type": "lcd display"
+      }
+    },
+    "8a745ea4-95df-506a-add7-757802061149": {
+      "id": "8a745ea4-95df-506a-add7-757802061149",
+      "brand": "lava",
+      "model": "lava iris 3g 415",
+      "attributes": {
+        "price": 6199,
+        "ram": 0.5,
+        "os": "android",
+        "storage": 4.0,
+        "battery_capacity": 1500,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.0,
+        "display_type": "lcd display"
+      }
+    },
+    "86086f68-0f3b-5244-ac17-a52a2f2b767b": {
+      "id": "86086f68-0f3b-5244-ac17-a52a2f2b767b",
+      "brand": "lava",
+      "model": "lava iris 504q plus",
+      "attributes": {
+        "price": 12000,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2000,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_primery rear camera": 10.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "35075152-ebfe-5fe3-b083-18bc1600302e": {
+      "id": "35075152-ebfe-5fe3-b083-18bc1600302e",
+      "brand": "lava",
+      "model": "lava iris 450 colour",
+      "attributes": {
+        "price": 7999,
+        "ram": 0.5,
+        "os": "android",
+        "storage": 4.0,
+        "battery_capacity": 1800,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.5,
+        "display_type": "lcd display"
+      }
+    },
+    "7e0645fc-09d0-5fb1-a895-c6c54c203f21": {
+      "id": "7e0645fc-09d0-5fb1-a895-c6c54c203f21",
+      "brand": "lava",
+      "model": "lava z1s",
+      "attributes": {
+        "price": 5299,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 3100,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "fa453d28-5a91-5b7c-8435-0dd29801c396": {
+      "id": "fa453d28-5a91-5b7c-8435-0dd29801c396",
+      "brand": "lava",
+      "model": "lava z21",
+      "attributes": {
+        "price": 5199,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 3100,
+        "charging": "No",
+        "attr_processor brand": "tru-mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "30a80393-eec2-5996-b199-193e7daf6648": {
+      "id": "30a80393-eec2-5996-b199-193e7daf6648",
+      "brand": "lava",
+      "model": "lava x2",
+      "attributes": {
+        "price": 5799,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.5,
+        "display_type": "lcd display"
+      }
+    },
+    "08eb691c-2c84-5c6a-a41d-6d5e52d191f1": {
+      "id": "08eb691c-2c84-5c6a-a41d-6d5e52d191f1",
+      "brand": "lava",
+      "model": "lava z6 128gb",
+      "attributes": {
+        "price": 7999,
+        "ram": 6.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.51,
+        "display_type": "lcd display"
+      }
+    },
+    "e2841a27-e8aa-5c13-9591-53f1ab828655": {
+      "id": "e2841a27-e8aa-5c13-9591-53f1ab828655",
+      "brand": "lava",
+      "model": "lava blaze",
+      "attributes": {
+        "price": 5999,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.51,
+        "display_type": "lcd display"
+      }
+    },
+    "e9ef46d8-71b1-5f47-a64a-506d0f654b50": {
+      "id": "e9ef46d8-71b1-5f47-a64a-506d0f654b50",
+      "brand": "lava",
+      "model": "lava yuva pro",
+      "attributes": {
+        "price": 6996,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.51,
+        "refresh_rate": 60.0,
+        "display_type": "lcd display"
+      }
+    },
+    "ba2b013c-8860-5dbc-8773-0a6e1b51a04c": {
+      "id": "ba2b013c-8860-5dbc-8773-0a6e1b51a04c",
+      "brand": "lava",
+      "model": "lava blaze 2",
+      "attributes": {
+        "price": 8999,
+        "ram": 6.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 5000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "unisoc",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.5,
+        "refresh_rate": 90.0,
+        "display_type": "lcd display"
+      }
+    },
+    "838741e2-61b5-5b2c-88d1-1938586f3042": {
+      "id": "838741e2-61b5-5b2c-88d1-1938586f3042",
+      "brand": "lava",
+      "model": "lava yuva",
+      "attributes": {
+        "price": 7999,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 4000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 6.5,
+        "display_type": "lcd display"
+      }
+    },
+    "0354b5b1-8f6a-539e-bff5-f49567aaa91e": {
+      "id": "0354b5b1-8f6a-539e-bff5-f49567aaa91e",
+      "brand": "lava",
+      "model": "lava blaze 5g 8gb ram",
+      "attributes": {
+        "price": 16349,
+        "ram": 8.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 50.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.5,
+        "refresh_rate": 90.0,
+        "display_type": "lcd display"
+      }
+    },
+    "9d1065f2-4c36-59ae-b842-e36a51b1735a": {
+      "id": "9d1065f2-4c36-59ae-b842-e36a51b1735a",
+      "brand": "lava",
+      "model": "lava blaze 2 pro",
+      "attributes": {
+        "price": 7499,
+        "ram": 8.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 5000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "unisoc",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 50.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.5,
+        "refresh_rate": 90.0,
+        "display_type": "lcd display"
+      }
+    },
+    "20bc1f74-785e-53d3-b276-3208f4c23cb2": {
+      "id": "20bc1f74-785e-53d3-b276-3208f4c23cb2",
+      "brand": "lava",
+      "model": "lava o1",
+      "attributes": {
+        "price": 6999,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 5000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "unisoc",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.56,
+        "refresh_rate": 90.0,
+        "display_type": "lcd display"
+      }
+    },
+    "a13f8eb5-249a-5397-b868-a895c71d49a2": {
+      "id": "a13f8eb5-249a-5397-b868-a895c71d49a2",
+      "brand": "lava",
+      "model": "lava yuva 5g 128gb",
+      "attributes": {
+        "price": 9996,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 5000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "unisoc",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 50.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.52,
+        "refresh_rate": 90.0,
+        "display_type": "lcd display"
+      }
+    },
+    "764b47fc-d13e-5f74-b7c4-b87b87a242f6": {
+      "id": "764b47fc-d13e-5f74-b7c4-b87b87a242f6",
+      "brand": "lava",
+      "model": "lava magnum x604",
+      "attributes": {
+        "price": 6990,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2800,
+        "charging": "No",
+        "attr_processor brand": "quad",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 6.0,
+        "display_type": "lcd display"
+      }
+    },
+    "d4224b27-4fa5-5ec6-81ff-59682029365a": {
+      "id": "d4224b27-4fa5-5ec6-81ff-59682029365a",
+      "brand": "lava",
+      "model": "lava iris fuel 50",
+      "attributes": {
+        "price": 6938,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "0abf248b-c41c-57b0-b612-35521f529400": {
+      "id": "0abf248b-c41c-57b0-b612-35521f529400",
+      "brand": "lava",
+      "model": "lava iris fuel 60",
+      "attributes": {
+        "price": 8950,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 4000,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_primery rear camera": 10.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "0a483963-f3db-5c7e-96b7-b497de1fa330": {
+      "id": "0a483963-f3db-5c7e-96b7-b497de1fa330",
+      "brand": "lava",
+      "model": "lava iris x1 grand",
+      "attributes": {
+        "price": 6299,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2200,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "e9c9ea20-bfe0-5019-8868-2eb4ddc7afc2": {
+      "id": "e9c9ea20-bfe0-5019-8868-2eb4ddc7afc2",
+      "brand": "lava",
+      "model": "lava iris fuel 25",
+      "attributes": {
+        "price": 5699,
+        "ram": 0.5,
+        "os": "android",
+        "storage": 4.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "tft display"
+      }
+    },
+    "e459d880-596c-5667-97cf-d4b79ed74556": {
+      "id": "e459d880-596c-5667-97cf-d4b79ed74556",
+      "brand": "lava",
+      "model": "lava iris x8 1gb ram",
+      "attributes": {
+        "price": 7499,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2500,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "da5d73b7-bbb9-5a2c-b256-d528e5e4212c": {
+      "id": "da5d73b7-bbb9-5a2c-b256-d528e5e4212c",
+      "brand": "lava",
+      "model": "lava x81",
+      "attributes": {
+        "price": 11500,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2700,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "c85eb54b-ff2b-58c9-851a-6f2cc4e63a77": {
+      "id": "c85eb54b-ff2b-58c9-851a-6f2cc4e63a77",
+      "brand": "lava",
+      "model": "lava a79",
+      "attributes": {
+        "price": 4799,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2200,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "4ff8966b-7aa2-5f97-a25d-106c39a73643": {
+      "id": "4ff8966b-7aa2-5f97-a25d-106c39a73643",
+      "brand": "lava",
+      "model": "lava x17",
+      "attributes": {
+        "price": 4999,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2350,
+        "charging": "No",
+        "attr_processor brand": "spreadtrum",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "4705bd66-a366-5688-b20a-71cae980455f": {
+      "id": "4705bd66-a366-5688-b20a-71cae980455f",
+      "brand": "lava",
+      "model": "lava z81",
+      "attributes": {
+        "price": 5749,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.7,
+        "display_type": "lcd display"
+      }
+    },
+    "e27dd6b9-415d-5a0d-9fdb-162dcb5fbff7": {
+      "id": "e27dd6b9-415d-5a0d-9fdb-162dcb5fbff7",
+      "brand": "lava",
+      "model": "lava z81 16gb",
+      "attributes": {
+        "price": 5489,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.7,
+        "display_type": "lcd display"
+      }
+    },
+    "a879dd51-f9c9-53d1-80e6-3a6d26b4c490": {
+      "id": "a879dd51-f9c9-53d1-80e6-3a6d26b4c490",
+      "brand": "lava",
+      "model": "lava z92 2gb ram",
+      "attributes": {
+        "price": 5699,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 3260,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 6.22,
+        "display_type": "lcd display"
+      }
+    },
+    "12fc8f3c-bce5-5c98-bdff-44b82abf123d": {
+      "id": "12fc8f3c-bce5-5c98-bdff-44b82abf123d",
+      "brand": "lava",
+      "model": "lava z41",
+      "attributes": {
+        "price": 4499,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2500,
+        "charging": "No",
+        "attr_processor brand": "unisoc",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "tft display"
+      }
+    },
+    "4830ec9c-c280-5704-9743-32d06f938e69": {
+      "id": "4830ec9c-c280-5704-9743-32d06f938e69",
+      "brand": "LAVA",
+      "model": "3G 356",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 1.0,
+        "camera_front": 0.3
+      }
+    },
+    "401f9dd0-2023-5d2a-b3c1-b123e0c1f569": {
+      "id": "401f9dd0-2023-5d2a-b3c1-b123e0c1f569",
+      "brand": "LAVA",
+      "model": "3G 402+",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0
+      }
+    },
+    "f9ee757b-54e8-56a3-a767-211f47b69d9d": {
+      "id": "f9ee757b-54e8-56a3-a767-211f47b69d9d",
+      "brand": "LAVA",
+      "model": "3G 412",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "ae1762a1-ef14-576c-8caa-2d1260ef1db3": {
+      "id": "ae1762a1-ef14-576c-8caa-2d1260ef1db3",
+      "brand": "LAVA",
+      "model": "3G 415",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 1500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "04a31cf0-2a5a-5a7f-85d0-bd6890af58a1": {
+      "id": "04a31cf0-2a5a-5a7f-85d0-bd6890af58a1",
+      "brand": "LAVA",
+      "model": "A44",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 1500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "28e527f1-80d2-56df-9aa3-5a9c45d33d52": {
+      "id": "28e527f1-80d2-56df-9aa3-5a9c45d33d52",
+      "brand": "LAVA",
+      "model": "A48",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 1300.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "42d100d2-08d2-51d8-8289-186d0e412119": {
+      "id": "42d100d2-08d2-51d8-8289-186d0e412119",
+      "brand": "LAVA",
+      "model": "A52",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Mar 01, 2016",
+        "battery_capacity": 1200.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "20ef662e-a047-56a5-88de-ac0231ecf3a5": {
+      "id": "20ef662e-a047-56a5-88de-ac0231ecf3a5",
+      "brand": "LAVA",
+      "model": "A59",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 1750.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "1e30f9d3-e7c3-51ca-b590-af5fd64f9a76": {
+      "id": "1e30f9d3-e7c3-51ca-b590-af5fd64f9a76",
+      "brand": "LAVA",
+      "model": "A67",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2000.0,
+        "attr_memory": 0.5,
+        "display_size": 5.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "5b9fc8ea-81fc-5b46-b728-e84cf01e6def": {
+      "id": "5b9fc8ea-81fc-5b46-b728-e84cf01e6def",
+      "brand": "LAVA",
+      "model": "A71",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2500.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "cfaa63ae-ac53-5726-bea8-f389c5782545": {
+      "id": "cfaa63ae-ac53-5726-bea8-f389c5782545",
+      "brand": "LAVA",
+      "model": "A72",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2500.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "b65ad624-4dbe-5b15-b08a-3b77d7eba89f": {
+      "id": "b65ad624-4dbe-5b15-b08a-3b77d7eba89f",
+      "brand": "LAVA",
+      "model": "A73",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2200.0,
+        "chipset": "Spreadtrum",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "bb2be6cb-6ed9-5b70-9147-79e04f094633": {
+      "id": "bb2be6cb-6ed9-5b70-9147-79e04f094633",
+      "brand": "LAVA",
+      "model": "A76",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 1850.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "9d57135a-527a-559b-877c-ba1c6e0b075c": {
+      "id": "9d57135a-527a-559b-877c-ba1c6e0b075c",
+      "brand": "LAVA",
+      "model": "A76+",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 1850.0,
+        "chipset": "Spreadtrum",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "e7cadea9-1c99-5d69-aabc-17d776aebe20": {
+      "id": "e7cadea9-1c99-5d69-aabc-17d776aebe20",
+      "brand": "LAVA",
+      "model": "A77",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2000.0,
+        "chipset": "Spreadtrum",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "b2b08b8c-9b62-5f5e-a385-394edeb5b03e": {
+      "id": "b2b08b8c-9b62-5f5e-a385-394edeb5b03e",
+      "brand": "LAVA",
+      "model": "A79",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2200.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.5,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "37479615-b787-50c5-89d5-ac0bfb5f8952": {
+      "id": "37479615-b787-50c5-89d5-ac0bfb5f8952",
+      "brand": "LAVA",
+      "model": "A88",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2000.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "38a50b98-15b5-594f-a7c9-332982098fa6": {
+      "id": "38a50b98-15b5-594f-a7c9-332982098fa6",
+      "brand": "LAVA",
+      "model": "A89",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2000.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "3f626de4-ca61-579e-af07-dd02d074cbaa": {
+      "id": "3f626de4-ca61-579e-af07-dd02d074cbaa",
+      "brand": "LAVA",
+      "model": "A97",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2350.0,
+        "chipset": "Spreadtrum",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "547bcf47-95f7-5e93-8e54-a7195402c61f": {
+      "id": "547bcf47-95f7-5e93-8e54-a7195402c61f",
+      "brand": "LAVA",
+      "model": "A97 2GB+",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 2350.0,
+        "chipset": "Spreadtrum",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 800,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "90378e9b-98ba-5bd3-9407-818577be6f58": {
+      "id": "90378e9b-98ba-5bd3-9407-818577be6f58",
+      "brand": "LAVA",
+      "model": "Flair E2",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Sep 01, 2015",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "572d5dc2-63c8-5225-90c5-8c0c02a61721": {
+      "id": "572d5dc2-63c8-5225-90c5-8c0c02a61721",
+      "brand": "LAVA",
+      "model": "Flair P1i",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Jun 01, 2015",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "0a8baac0-1856-51ae-b28f-059004ef34d6": {
+      "id": "0a8baac0-1856-51ae-b28f-059004ef34d6",
+      "brand": "LAVA",
+      "model": "Flair S1",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 1750.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "930efbf3-c168-59ea-9c4e-5b9c9ae0c7ce": {
+      "id": "930efbf3-c168-59ea-9c4e-5b9c9ae0c7ce",
+      "brand": "LAVA",
+      "model": "Flair Z1",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "release_date": "Jul 30, 2015",
+        "battery_capacity": 2000.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "464bd996-f3fd-5c23-b7c3-f159be019050": {
+      "id": "464bd996-f3fd-5c23-b7c3-f159be019050",
+      "brand": "LAVA",
+      "model": "Icon",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2500.0,
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "050f63aa-c788-54b9-bd2c-4cabab7fba58": {
+      "id": "050f63aa-c788-54b9-bd2c-4cabab7fba58",
+      "brand": "LAVA",
+      "model": "Iris 250",
+      "attributes": {
+        "os": "Android 4.2",
+        "release_date": "Aug 01, 2014",
+        "battery_capacity": 1450.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "57052933-157c-55f8-aeea-15c9bb449303": {
+      "id": "57052933-157c-55f8-aeea-15c9bb449303",
+      "brand": "LAVA",
+      "model": "Iris 300 Style",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "bfc74b93-8e67-536c-8f69-5736b968fd54": {
+      "id": "bfc74b93-8e67-536c-8f69-5736b968fd54",
+      "brand": "LAVA",
+      "model": "Iris 349",
+      "attributes": {
+        "os": "Android 2.3",
+        "release_date": "Mar 01, 2013",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0,
+        "camera_front": 2
+      }
+    },
+    "2a3246d3-ecac-5937-9925-fe6d7d61ad8f": {
+      "id": "2a3246d3-ecac-5937-9925-fe6d7d61ad8f",
+      "brand": "LAVA",
+      "model": "Iris 349i",
+      "attributes": {
+        "os": "Android 2.3.6",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "37dfc53f-5271-5a00-b2b2-6147f1bb6009": {
+      "id": "37dfc53f-5271-5a00-b2b2-6147f1bb6009",
+      "brand": "LAVA",
+      "model": "Iris 350",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "b4d4aa59-bdea-5dc9-b1be-c1a80dc3cca9": {
+      "id": "b4d4aa59-bdea-5dc9-b1be-c1a80dc3cca9",
+      "brand": "LAVA",
+      "model": "Iris 350M",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 1200.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "d0db998f-e7dc-5022-b70d-6053a62db3d9": {
+      "id": "d0db998f-e7dc-5022-b70d-6053a62db3d9",
+      "brand": "LAVA",
+      "model": "Iris 351",
+      "attributes": {
+        "os": "Android 2.3.5",
+        "battery_capacity": 1300.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0
+      }
+    },
+    "7926d6ce-28e4-5848-932c-6fcb78272c14": {
+      "id": "7926d6ce-28e4-5848-932c-6fcb78272c14",
+      "brand": "LAVA",
+      "model": "Iris 354e",
+      "attributes": {
+        "os": "Android 4.2",
+        "release_date": "Dec 01, 2013",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 2.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "c32e501b-a5e2-543b-8c57-986c5d3dcb70": {
+      "id": "c32e501b-a5e2-543b-8c57-986c5d3dcb70",
+      "brand": "LAVA",
+      "model": "Iris 355",
+      "attributes": {
+        "os": "Android 2.3",
+        "release_date": "Mar 01, 2013",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "02b22b95-55a0-59f1-a8f9-682e6bf5dc2b": {
+      "id": "02b22b95-55a0-59f1-a8f9-682e6bf5dc2b",
+      "brand": "LAVA",
+      "model": "Iris 360 Music",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "b68cdfbe-b44b-55e5-9eab-ac440e315880": {
+      "id": "b68cdfbe-b44b-55e5-9eab-ac440e315880",
+      "brand": "LAVA",
+      "model": "Iris 370",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 1300.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "1f3f7fea-cea8-5901-a25f-d1401d875c09": {
+      "id": "1f3f7fea-cea8-5901-a25f-d1401d875c09",
+      "brand": "LAVA",
+      "model": "Iris 400 Colour",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "e61a85ac-e539-53c8-a320-2d5d105465bf": {
+      "id": "e61a85ac-e539-53c8-a320-2d5d105465bf",
+      "brand": "LAVA",
+      "model": "Iris 400Q",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "Aug 01, 2014",
+        "battery_capacity": 1700.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "417e66d7-8371-5346-83d4-50285ffc6f98": {
+      "id": "417e66d7-8371-5346-83d4-50285ffc6f98",
+      "brand": "LAVA",
+      "model": "Iris 400s",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "af3e7e53-e275-57ef-8031-7d9f98a861f0": {
+      "id": "af3e7e53-e275-57ef-8031-7d9f98a861f0",
+      "brand": "LAVA",
+      "model": "Iris 401",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 1450.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "dfffecc2-73cf-5dc2-ac4e-432cbc190109": {
+      "id": "dfffecc2-73cf-5dc2-ac4e-432cbc190109",
+      "brand": "LAVA",
+      "model": "Iris 402e",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 1450.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "67ee09a8-7e4c-53a5-a96c-6fbcb4837446": {
+      "id": "67ee09a8-7e4c-53a5-a96c-6fbcb4837446",
+      "brand": "LAVA",
+      "model": "Iris 404 Flair",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "a5651534-afe1-5183-b706-72a47a32501f": {
+      "id": "a5651534-afe1-5183-b706-72a47a32501f",
+      "brand": "LAVA",
+      "model": "Iris 404e",
+      "attributes": {
+        "os": "Android 4.2",
+        "release_date": "Dec 01, 2013",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 2.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "369e2126-fee7-5d59-80e1-cab85b9c705b": {
+      "id": "369e2126-fee7-5d59-80e1-cab85b9c705b",
+      "brand": "LAVA",
+      "model": "Iris 405",
+      "attributes": {
+        "os": "Android 4.1.2",
+        "release_date": "May 01, 2013",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "7b351799-24ad-5b39-bf3c-a5f2deda2aea": {
+      "id": "7b351799-24ad-5b39-bf3c-a5f2deda2aea",
+      "brand": "LAVA",
+      "model": "Iris 405+",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "e1b04c9d-e0a5-5e65-9f5e-965f222ae66a": {
+      "id": "e1b04c9d-e0a5-5e65-9f5e-965f222ae66a",
+      "brand": "LAVA",
+      "model": "Iris 406Q",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Apr 01, 2014",
+        "battery_capacity": 1700.0,
+        "chipset": "Qualcomm Snapdragon 200",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "3928083e-2ef4-5bfb-85c3-11104aef0c17": {
+      "id": "3928083e-2ef4-5bfb-85c3-11104aef0c17",
+      "brand": "LAVA",
+      "model": "Iris 410",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Sep 01, 2014",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "3577950f-0d52-5e7e-ad69-038144086bde": {
+      "id": "3577950f-0d52-5e7e-ad69-038144086bde",
+      "brand": "LAVA",
+      "model": "Iris 430",
+      "attributes": {
+        "os": "Android 4.0.4",
+        "release_date": "Jul 01, 2013",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.5,
+        "storage": " miniSDHC",
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "7d0f72d6-ff8d-5657-bc0a-3d10f1d7409e": {
+      "id": "7d0f72d6-ff8d-5657-bc0a-3d10f1d7409e",
+      "brand": "LAVA",
+      "model": "Iris 450 Colour",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 1800.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "4def9851-0a05-5995-bc3c-f75a8590f20c": {
+      "id": "4def9851-0a05-5995-bc3c-f75a8590f20c",
+      "brand": "LAVA",
+      "model": "Iris 450 Colour+",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 1800.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "f12d987b-863c-5c22-bc77-8b8963777c18": {
+      "id": "f12d987b-863c-5c22-bc77-8b8963777c18",
+      "brand": "LAVA",
+      "model": "Iris 454",
+      "attributes": {
+        "os": "Android 4.0.4",
+        "release_date": "Feb 01, 2013",
+        "battery_capacity": 1650.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 0.3
+      }
+    },
+    "dfec6d95-76de-595c-86f9-b10bda31749c": {
+      "id": "dfec6d95-76de-595c-86f9-b10bda31749c",
+      "brand": "LAVA",
+      "model": "Iris 455",
+      "attributes": {
+        "os": "Android 4.1",
+        "release_date": "Apr 01, 2013",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "30cff6a4-35f0-5c35-84c0-46fe06285cdd": {
+      "id": "30cff6a4-35f0-5c35-84c0-46fe06285cdd",
+      "brand": "LAVA",
+      "model": "Iris 458",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 2000.0,
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 8.0,
+        "camera_front": 0.3
+      }
+    },
+    "a93785ea-81b6-5d27-ad16-d03a950217e7": {
+      "id": "a93785ea-81b6-5d27-ad16-d03a950217e7",
+      "brand": "LAVA",
+      "model": "Iris 460",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "Aug 01, 2014",
+        "battery_capacity": 1650.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "96454636-1e24-5ecb-a1b7-f16c37fd8456": {
+      "id": "96454636-1e24-5ecb-a1b7-f16c37fd8456",
+      "brand": "LAVA",
+      "model": "Iris 465",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 1750.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "2a079368-2ca4-5b3b-ae3f-c85822e61670": {
+      "id": "2a079368-2ca4-5b3b-ae3f-c85822e61670",
+      "brand": "LAVA",
+      "model": "Iris 470",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 1650.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "c183a953-e82e-5984-a253-a8ac67da26ef": {
+      "id": "c183a953-e82e-5984-a253-a8ac67da26ef",
+      "brand": "LAVA",
+      "model": "Iris 500",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Nov 01, 2014",
+        "battery_capacity": 1800.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "b67ed19d-a955-5d79-81b7-045833694c65": {
+      "id": "b67ed19d-a955-5d79-81b7-045833694c65",
+      "brand": "LAVA",
+      "model": "Iris 501",
+      "attributes": {
+        "os": "Android 4.0.4",
+        "release_date": "Jan 01, 2013",
+        "battery_capacity": 2300.0,
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "c4fb35aa-a52c-52e9-931d-b5fda60b0214": {
+      "id": "c4fb35aa-a52c-52e9-931d-b5fda60b0214",
+      "brand": "LAVA",
+      "model": "Iris 502",
+      "attributes": {
+        "os": "Android 4.1",
+        "release_date": "Feb 01, 2013",
+        "battery_capacity": 2000.0,
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "4902edc6-7b2a-51e6-8e8c-6cab922e0df8": {
+      "id": "4902edc6-7b2a-51e6-8e8c-6cab922e0df8",
+      "brand": "LAVA",
+      "model": "Iris 503",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "release_date": "Oct 01, 2013",
+        "battery_capacity": 2000.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "c4cb2d37-d24e-5c27-a564-32b88458b042": {
+      "id": "c4cb2d37-d24e-5c27-a564-32b88458b042",
+      "brand": "LAVA",
+      "model": "Iris 504 Q",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 2000.0,
+        "attr_memory": 1.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "81e1db32-26f8-5814-91a0-e584ff42022c": {
+      "id": "81e1db32-26f8-5814-91a0-e584ff42022c",
+      "brand": "LAVA",
+      "model": "Iris 504Q+",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "Apr 01, 2014",
+        "battery_capacity": 2000.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 10.0,
+        "camera_front": 2
+      }
+    },
+    "1b040260-3dc1-5b56-9c2d-7111ab4df49c": {
+      "id": "1b040260-3dc1-5b56-9c2d-7111ab4df49c",
+      "brand": "LAVA",
+      "model": "Iris 506Q",
+      "attributes": {
+        "os": "Android 4.2",
+        "release_date": "Sep 01, 2013",
+        "battery_capacity": 2000.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "568ad6d2-3746-5525-af29-0640c65b57ab": {
+      "id": "568ad6d2-3746-5525-af29-0640c65b57ab",
+      "brand": "LAVA",
+      "model": "Iris 550Q",
+      "attributes": {
+        "os": "Android 4.2",
+        "release_date": "Apr 01, 2014",
+        "battery_capacity": 2600.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "a61bb0bb-3079-5830-bb5c-3c4042d84649": {
+      "id": "a61bb0bb-3079-5830-bb5c-3c4042d84649",
+      "brand": "LAVA",
+      "model": "Iris Atom 2",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Aug 01, 2015",
+        "battery_capacity": 1750.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "e98ff2dd-5233-569f-98f5-361b5a4134c3": {
+      "id": "e98ff2dd-5233-569f-98f5-361b5a4134c3",
+      "brand": "LAVA",
+      "model": "Iris Atom 3",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Dec 01, 2015",
+        "battery_capacity": 2000.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "c6748808-9695-5733-bed5-548c6f2abf95": {
+      "id": "c6748808-9695-5733-bed5-548c6f2abf95",
+      "brand": "LAVA",
+      "model": "Iris Fuel 10",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 3000.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "513cc83f-d29e-5940-ac56-9549539b4385": {
+      "id": "513cc83f-d29e-5940-ac56-9549539b4385",
+      "brand": "LAVA",
+      "model": "Iris Fuel 20",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 4400.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "48d40d73-039a-5591-97c5-51da37a7d86c": {
+      "id": "48d40d73-039a-5591-97c5-51da37a7d86c",
+      "brand": "LAVA",
+      "model": "Iris Fuel 25",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 3000.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "7d34047f-5a23-5416-9242-34031572dc78": {
+      "id": "7d34047f-5a23-5416-9242-34031572dc78",
+      "brand": "LAVA",
+      "model": "Iris Fuel 50",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "Oct 01, 2014",
+        "battery_capacity": 3000.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "903fd360-cb1b-5070-af8d-d3dee1d99f57": {
+      "id": "903fd360-cb1b-5070-af8d-d3dee1d99f57",
+      "brand": "LAVA",
+      "model": "Iris Fuel 60",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "Dec 01, 2014",
+        "battery_capacity": 4000.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 10.0,
+        "camera_front": 2
+      }
+    },
+    "913612e7-ef4d-5888-b46d-6748910ff6e5": {
+      "id": "913612e7-ef4d-5888-b46d-6748910ff6e5",
+      "brand": "LAVA",
+      "model": "Iris Fuel F1",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Oct 01, 2015",
+        "battery_capacity": 4000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "4d09ffd0-4124-5689-b66e-81b5ee007c0a": {
+      "id": "4d09ffd0-4124-5689-b66e-81b5ee007c0a",
+      "brand": "LAVA",
+      "model": "Iris Fuel F1 Mini",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 2000.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "4423a715-b4ff-5dbc-8429-3465f6587dcc": {
+      "id": "4423a715-b4ff-5dbc-8429-3465f6587dcc",
+      "brand": "LAVA",
+      "model": "Iris N320",
+      "attributes": {
+        "os": "Android 2.3.6",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "05dd10bb-aeaf-5814-8a2c-748982ff1b36": {
+      "id": "05dd10bb-aeaf-5814-8a2c-748982ff1b36",
+      "brand": "LAVA",
+      "model": "Iris N350",
+      "attributes": {
+        "os": "Android 2.3",
+        "battery_capacity": 1300.0,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "e86312b5-4903-57ad-8b2f-bca06fbb32de": {
+      "id": "e86312b5-4903-57ad-8b2f-bca06fbb32de",
+      "brand": "LAVA",
+      "model": "Iris N400",
+      "attributes": {
+        "os": "Android 4.0.4",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 127.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "531bf634-dec6-5a40-bbf7-53507a503426": {
+      "id": "531bf634-dec6-5a40-bbf7-53507a503426",
+      "brand": "LAVA",
+      "model": "Iris Pro 20",
+      "attributes": {
+        "os": "Android 4.2.1",
+        "battery_capacity": 2000.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.7,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 0.3
+      }
+    },
+    "5c4b6e35-1917-5cae-837a-65a6a1c8ab7c": {
+      "id": "5c4b6e35-1917-5cae-837a-65a6a1c8ab7c",
+      "brand": "LAVA",
+      "model": "Iris Pro 30",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 2000.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.7,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 3
+      }
+    },
+    "afe62f1c-e822-5253-b706-fdcdd38a405a": {
+      "id": "afe62f1c-e822-5253-b706-fdcdd38a405a",
+      "brand": "LAVA",
+      "model": "Iris Pro 30+",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 2000.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 4.7,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 3
+      }
+    },
+    "75f3f343-2850-50e6-ab82-69f53e596981": {
+      "id": "75f3f343-2850-50e6-ab82-69f53e596981",
+      "brand": "LAVA",
+      "model": "Iris Selfie 50",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Nov 01, 2014",
+        "battery_capacity": 2400.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "eced992d-23be-520e-8467-265a86c74a8b": {
+      "id": "eced992d-23be-520e-8467-265a86c74a8b",
+      "brand": "LAVA",
+      "model": "Iris X1",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "May 01, 2014",
+        "battery_capacity": 1800.0,
+        "chipset": "Broadcom BCM23550",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "81140e36-c004-58ae-9290-b456fb6c4925": {
+      "id": "81140e36-c004-58ae-9290-b456fb6c4925",
+      "brand": "LAVA",
+      "model": "Iris X1 Atom S",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Jun 01, 2015",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "e8909dbf-3b42-524a-af99-7700ab039310": {
+      "id": "e8909dbf-3b42-524a-af99-7700ab039310",
+      "brand": "LAVA",
+      "model": "Iris X1 Beats",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2200.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "377d967e-920c-52ea-90c0-d7b139915b4b": {
+      "id": "377d967e-920c-52ea-90c0-d7b139915b4b",
+      "brand": "LAVA",
+      "model": "Iris X1 Grand",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2200.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "9a3463d7-6df3-5d78-9794-0085fa999a73": {
+      "id": "9a3463d7-6df3-5d78-9794-0085fa999a73",
+      "brand": "LAVA",
+      "model": "Iris X1 Selfie",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Aug 12, 2015",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "7e1c3a19-b1db-53be-b1b2-ca00555a5974": {
+      "id": "7e1c3a19-b1db-53be-b1b2-ca00555a5974",
+      "brand": "LAVA",
+      "model": "Iris X1 atom",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Apr 17, 2015",
+        "battery_capacity": 1750.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "b1817bdd-9f5e-5392-88a9-bb42c4910388": {
+      "id": "b1817bdd-9f5e-5392-88a9-bb42c4910388",
+      "brand": "LAVA",
+      "model": "Iris X1 mini",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 1750.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "d0e521e5-25c8-504c-83d1-bb684626bf45": {
+      "id": "d0e521e5-25c8-504c-83d1-bb684626bf45",
+      "brand": "LAVA",
+      "model": "Iris X5",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "Sep 01, 2014",
+        "battery_capacity": 2100.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "dd523f48-aed4-576e-80de-ae2908988d16": {
+      "id": "dd523f48-aed4-576e-80de-ae2908988d16",
+      "brand": "LAVA",
+      "model": "Iris X5 4G",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Jul 30, 2015",
+        "battery_capacity": 2500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "3f887cc2-f51d-522f-982f-52b099766686": {
+      "id": "3f887cc2-f51d-522f-982f-52b099766686",
+      "brand": "LAVA",
+      "model": "Iris X8",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "Feb 01, 2015",
+        "battery_capacity": 2500.0,
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 3
+      }
+    },
+    "7b08540d-9c3a-5ae4-8302-ed7f822019d2": {
+      "id": "7b08540d-9c3a-5ae4-8302-ed7f822019d2",
+      "brand": "LAVA",
+      "model": "Iris alfa",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2200.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "d6d2a204-033a-524c-abd7-78d0803518c8": {
+      "id": "d6d2a204-033a-524c-abd7-78d0803518c8",
+      "brand": "LAVA",
+      "model": "Iris win 1",
+      "attributes": {
+        "os": "Windows Phone 8.1",
+        "battery_capacity": 1950.0,
+        "chipset": "Qualcomm Snapdragon 200",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "7928ff0d-5041-5c34-8a25-e20c74d48e7b": {
+      "id": "7928ff0d-5041-5c34-8a25-e20c74d48e7b",
+      "brand": "LAVA",
+      "model": "P7",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2000.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "e8444c74-0a4b-54d8-a332-76fcf72d54a6": {
+      "id": "e8444c74-0a4b-54d8-a332-76fcf72d54a6",
+      "brand": "LAVA",
+      "model": "Pixel V1",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Jul 01, 2015",
+        "battery_capacity": 2650.0,
+        "attr_memory": 2.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDHC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "3fb551f6-677f-574c-abde-69a88ef4243c": {
+      "id": "3fb551f6-677f-574c-abde-69a88ef4243c",
+      "brand": "LAVA",
+      "model": "Pixel V2",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Sep 01, 2015",
+        "battery_capacity": 2500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "6925f1a7-87b1-5234-996f-1f9e6eca935f": {
+      "id": "6925f1a7-87b1-5234-996f-1f9e6eca935f",
+      "brand": "LAVA",
+      "model": "S12",
+      "attributes": {
+        "os": "Android 2.2",
+        "release_date": "Oct 01, 2011",
+        "battery_capacity": 1300.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "19cd943c-3815-5721-9e29-2272ecfa0938": {
+      "id": "19cd943c-3815-5721-9e29-2272ecfa0938",
+      "brand": "LAVA",
+      "model": "V2s",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 8
+      }
+    },
+    "4f93a1d1-7b4b-5b11-8824-14a58bfa57f2": {
+      "id": "4f93a1d1-7b4b-5b11-8824-14a58bfa57f2",
+      "brand": "LAVA",
+      "model": "V5",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "dc3475e8-420b-5b66-9aa0-457f47e6f848": {
+      "id": "dc3475e8-420b-5b66-9aa0-457f47e6f848",
+      "brand": "LAVA",
+      "model": "X10",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Nov 01, 2015",
+        "battery_capacity": 2900.0,
+        "attr_memory": 3.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "bdffb624-2a8e-5ba3-ab45-ad0b7db3b4f3": {
+      "id": "bdffb624-2a8e-5ba3-ab45-ad0b7db3b4f3",
+      "brand": "LAVA",
+      "model": "X11",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2500.0,
+        "attr_memory": 2.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "5987a3a8-7560-5d52-a85d-75d500a9e126": {
+      "id": "5987a3a8-7560-5d52-a85d-75d500a9e126",
+      "brand": "LAVA",
+      "model": "X28+",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2600.0,
+        "attr_memory": 1.0,
+        "storage": " microSD",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "03febb29-2f8d-54fb-bb03-a6b477928a24": {
+      "id": "03febb29-2f8d-54fb-bb03-a6b477928a24",
+      "brand": "LAVA",
+      "model": "XOLO X900",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1460.0,
+        "chipset": "Intel Atom",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "display_size": 4.0,
+        "attr_display resolution": 1024,
+        "camera_main": 8.0,
+        "camera_front": 1.3
+      }
+    },
+    "b72f763d-f79f-524e-9051-914291fdf87f": {
+      "id": "b72f763d-f79f-524e-9051-914291fdf87f",
+      "brand": "LAVA",
+      "model": "Z10",
+      "attributes": {
+        "battery_capacity": 2620.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "07373095-0c7b-5ed9-a61c-4be9e058af1b": {
+      "id": "07373095-0c7b-5ed9-a61c-4be9e058af1b",
+      "brand": "LAVA",
+      "model": "Z25",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 3020.0,
+        "chipset": "MediaTek",
+        "attr_memory": 4.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "ca8153c4-5000-58e0-b1e8-3ebf9d8a47eb": {
+      "id": "ca8153c4-5000-58e0-b1e8-3ebf9d8a47eb",
+      "brand": "LAVA",
+      "model": "Z40",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "release_date": "January 2019",
+        "battery_capacity": 2250.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 2.0,
+        "camera_front": 2
+      }
+    },
+    "7c3feeb2-9867-5601-97bb-f3924b6b5367": {
+      "id": "7c3feeb2-9867-5601-97bb-f3924b6b5367",
+      "brand": "LAVA",
+      "model": "Z50",
+      "attributes": {
+        "os": "Android 8.0 Oreo",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "1d4ca897-5ba8-5b06-8e9c-17a536744910": {
+      "id": "1d4ca897-5ba8-5b06-8e9c-17a536744910",
+      "brand": "LAVA",
+      "model": "Z60",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 2500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "51feae23-025b-5786-82fe-a3235bd478b2": {
+      "id": "51feae23-025b-5786-82fe-a3235bd478b2",
+      "brand": "LAVA",
+      "model": "Z60s",
+      "attributes": {
+        "os": "Android 8.0 Oreo",
+        "battery_capacity": 2500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 5.0,
+        "camera_front": 5
+      }
+    },
+    "c2bafd35-5141-57e2-8480-06a61ada2622": {
+      "id": "c2bafd35-5141-57e2-8480-06a61ada2622",
+      "brand": "LAVA",
+      "model": "Z61",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "release_date": "Jul 23, 2018",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSD",
+        "display_size": 5.5,
+        "attr_display resolution": 2160,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "f5db3e4a-b907-5195-a4a6-405dddf81c5e": {
+      "id": "f5db3e4a-b907-5195-a4a6-405dddf81c5e",
+      "brand": "LAVA",
+      "model": "Z70",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 2500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "b7d0f026-3dad-5250-a631-aec7d61fbc2f": {
+      "id": "b7d0f026-3dad-5250-a631-aec7d61fbc2f",
+      "brand": "LAVA",
+      "model": "Z80",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "1c492bda-8baa-52ec-80e8-7f997dbb6e25": {
+      "id": "1c492bda-8baa-52ec-80e8-7f997dbb6e25",
+      "brand": "LAVA",
+      "model": "Z81",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek Helio A22",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 1440,
+        "camera_main": 13.0,
+        "camera_front": 13
+      }
+    },
+    "b1d94a4c-f6c5-59ca-88d0-a790a5f4cb65": {
+      "id": "b1d94a4c-f6c5-59ca-88d0-a790a5f4cb65",
+      "brand": "LAVA",
+      "model": "Z90",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 2750.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDHC",
+        "display_size": 5.2,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 8
+      }
+    },
+    "f9e073d2-4fbb-5da7-8960-cb9dde4c6b61": {
+      "id": "f9e073d2-4fbb-5da7-8960-cb9dde4c6b61",
+      "brand": "LAVA",
+      "model": "Z91",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 1440,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "f45df4b8-0135-570e-878b-e65e5dea39e7": {
+      "id": "f45df4b8-0135-570e-878b-e65e5dea39e7",
+      "brand": "LAVA",
+      "model": "Z91E",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "battery_capacity": 3000.0,
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1440,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "20853d43-49f3-5b60-8720-275de79c20ef": {
+      "id": "20853d43-49f3-5b60-8720-275de79c20ef",
+      "brand": "LAVA",
+      "model": "Z92",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "release_date": "January 2019",
+        "battery_capacity": 3260.0,
+        "chipset": "MediaTek Helio P22",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 6.2,
+        "attr_display resolution": 1520,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "887e4896-1c67-58f1-bae8-56dbff40d1c5": {
+      "id": "887e4896-1c67-58f1-bae8-56dbff40d1c5",
+      "brand": "LAVA",
+      "model": "alfa L",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "release_date": "Apr 23, 2015",
+        "battery_capacity": 3000.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.5,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    }
+  }
+}

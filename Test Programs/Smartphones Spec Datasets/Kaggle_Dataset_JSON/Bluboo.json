@@ -1,0 +1,37 @@
+{
+  "brand": "Bluboo",
+  "phones": {
+    "c0fefe27-cf5d-507d-9e63-48fa40709d12": {
+      "id": "c0fefe27-cf5d-507d-9e63-48fa40709d12",
+      "brand": "Bluboo",
+      "model": "D6 Pro 2/16GB Black",
+      "attributes": {
+        "attr_unnamed 0": 311,
+        "os": "Android",
+        "attr_popularity": 159,
+        "attr_sellers amount": 1,
+        "display_size": 5.5,
+        "attr_memory size": 16.0,
+        "attr_battery size": 2700.0,
+        "release_date": 2
+      }
+    },
+    "0b7a55de-9470-5477-9aba-0ad274e02111": {
+      "id": "0b7a55de-9470-5477-9aba-0ad274e02111",
+      "brand": "Bluboo",
+      "model": "S1 Black",
+      "attributes": {
+        "attr_unnamed 0": 857,
+        "os": "Android",
+        "attr_popularity": 58,
+        "mrp": 3015.0,
+        "attr_highest price": 3050.0,
+        "attr_sellers amount": 2,
+        "display_size": 5.5,
+        "attr_memory size": 64.0,
+        "attr_battery size": 3500.0,
+        "release_date": 10
+      }
+    }
+  }
+}

@@ -1,0 +1,529 @@
+{
+  "brand": "Archos",
+  "phones": {
+    "da8c96a0-34ba-5094-982b-2c947cabc9b9": {
+      "id": "da8c96a0-34ba-5094-982b-2c947cabc9b9",
+      "brand": "Archos",
+      "model": "40 Neon",
+      "attributes": {
+        "attr_unnamed 0": 73,
+        "os": "Android",
+        "attr_popularity": 190,
+        "attr_sellers amount": 1,
+        "display_size": 4.0,
+        "attr_memory size": 8.0,
+        "attr_battery size": 1300.0,
+        "release_date": 5
+      }
+    },
+    "882b95c9-eb14-5892-8e3f-913364df127f": {
+      "id": "882b95c9-eb14-5892-8e3f-913364df127f",
+      "brand": "Archos",
+      "model": "A50 GRANITE 2/16GB Black",
+      "attributes": {
+        "attr_unnamed 0": 160,
+        "os": "Android",
+        "attr_popularity": 617,
+        "attr_sellers amount": 1,
+        "display_size": 5.0,
+        "attr_memory size": 16.0,
+        "attr_battery size": 2700.0,
+        "release_date": 11
+      }
+    },
+    "189296c3-7eac-5d5b-9fd0-405a5369f8f5": {
+      "id": "189296c3-7eac-5d5b-9fd0-405a5369f8f5",
+      "brand": "Archos",
+      "model": "Core 50 16GB Red",
+      "attributes": {
+        "attr_unnamed 0": 310,
+        "os": "Android",
+        "attr_popularity": 245,
+        "mrp": 1899.0,
+        "attr_highest price": 2099.0,
+        "attr_sellers amount": 5,
+        "display_size": 5.0,
+        "attr_memory size": 16.0,
+        "attr_battery size": 2000.0,
+        "release_date": 8
+      }
+    },
+    "cc97056b-4361-5fbd-9f83-a09f8e218953": {
+      "id": "cc97056b-4361-5fbd-9f83-a09f8e218953",
+      "brand": "Archos",
+      "model": "Sense 55DC 16GB Black",
+      "attributes": {
+        "attr_unnamed 0": 898,
+        "os": "Android",
+        "attr_popularity": 51,
+        "attr_sellers amount": 1,
+        "display_size": 5.5,
+        "attr_memory size": 16.0,
+        "attr_battery size": 3000.0,
+        "release_date": 6
+      }
+    },
+    "fb7fb0b6-fed0-579b-955f-37d55b3bc1ea": {
+      "id": "fb7fb0b6-fed0-579b-955f-37d55b3bc1ea",
+      "brand": "Archos",
+      "model": "Sense 55DC 16GB Gold",
+      "attributes": {
+        "attr_unnamed 0": 899,
+        "os": "Android",
+        "attr_popularity": 99,
+        "attr_sellers amount": 5,
+        "display_size": 5.5,
+        "attr_memory size": 16.0,
+        "attr_battery size": 3000.0,
+        "release_date": 3
+      }
+    },
+    "2d0fc899-b1bf-5107-85a8-ac6dc31cf590": {
+      "id": "2d0fc899-b1bf-5107-85a8-ac6dc31cf590",
+      "brand": "Archos",
+      "model": "Sense 55S 16GB Black",
+      "attributes": {
+        "attr_unnamed 0": 902,
+        "os": "Android",
+        "attr_popularity": 72,
+        "mrp": 2222.0,
+        "attr_highest price": 2899.0,
+        "attr_sellers amount": 8,
+        "display_size": 5.5,
+        "attr_memory size": 16.0,
+        "attr_battery size": 3000.0,
+        "release_date": 3
+      }
+    },
+    "8a4b6d5d-cf55-5cfb-ac0d-8820ea03e9be": {
+      "id": "8a4b6d5d-cf55-5cfb-ac0d-8820ea03e9be",
+      "brand": "ARCHOS",
+      "model": "40 Cesium",
+      "attributes": {
+        "os": "Windows Phone 8.1",
+        "battery_capacity": 1950.0,
+        "chipset": "Qualcomm Snapdragon 200",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "5aab574d-f11b-5bdb-a06a-f21ded2e9237": {
+      "id": "5aab574d-f11b-5bdb-a06a-f21ded2e9237",
+      "brand": "ARCHOS",
+      "model": "40 Titanium",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 1500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "517a74b0-3689-538e-b059-354584bb9ae3": {
+      "id": "517a74b0-3689-538e-b059-354584bb9ae3",
+      "brand": "ARCHOS",
+      "model": "40b Titanium",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 1400.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSD",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "d511f4ae-1afe-59cc-b3db-d610fd58b9ad": {
+      "id": "d511f4ae-1afe-59cc-b3db-d610fd58b9ad",
+      "brand": "ARCHOS",
+      "model": "45 Titanium",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 1680.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "27c323be-0f81-508e-aaa2-490edd22f49e": {
+      "id": "27c323be-0f81-508e-aaa2-490edd22f49e",
+      "brand": "ARCHOS",
+      "model": "45b Helium 4G",
+      "attributes": {
+        "os": "Android 4.4.4",
+        "battery_capacity": 1850.0,
+        "chipset": "Qualcomm Snapdragon 410",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "e8010ed2-dee5-54cc-bb0f-dbac3066ba90": {
+      "id": "e8010ed2-dee5-54cc-bb0f-dbac3066ba90",
+      "brand": "ARCHOS",
+      "model": "45c Platinum",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "September 2014",
+        "battery_capacity": 1700.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "7f49f7de-6833-5adf-bc65-00d98a67bca1": {
+      "id": "7f49f7de-6833-5adf-bc65-00d98a67bca1",
+      "brand": "ARCHOS",
+      "model": "50 Cesium",
+      "attributes": {
+        "os": "Windows 10 Mobile",
+        "release_date": "Nov 01, 2015",
+        "battery_capacity": 2100.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "c93c9244-ae10-5583-8982-697e358d5e49": {
+      "id": "c93c9244-ae10-5583-8982-697e358d5e49",
+      "brand": "ARCHOS",
+      "model": "50 Diamond",
+      "attributes": {
+        "os": "Android 4.4.4",
+        "release_date": "Feb 2015",
+        "battery_capacity": 2700.0,
+        "chipset": "Qualcomm Snapdragon 615",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 16.0,
+        "camera_front": 8
+      }
+    },
+    "9317e082-53d5-5184-8942-f9e43ac7a6a1": {
+      "id": "9317e082-53d5-5184-8942-f9e43ac7a6a1",
+      "brand": "ARCHOS",
+      "model": "50 Graphite",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "release_date": "Jun 01, 2017",
+        "battery_capacity": 2400.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "7eb306bd-c91c-5824-9fa3-d82ec23400a0": {
+      "id": "7eb306bd-c91c-5824-9fa3-d82ec23400a0",
+      "brand": "ARCHOS",
+      "model": "50 Helium Plus",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Jul 01, 2015",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "49132a36-5deb-5c46-b049-5a02b582b646": {
+      "id": "49132a36-5deb-5c46-b049-5a02b582b646",
+      "brand": "ARCHOS",
+      "model": "50 Titanium",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 2100.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "4d1cb182-eeea-530a-a988-45db94293d61": {
+      "id": "4d1cb182-eeea-530a-a988-45db94293d61",
+      "brand": "ARCHOS",
+      "model": "50b Helium 4G",
+      "attributes": {
+        "os": "Android 4.4.4",
+        "battery_capacity": 2000.0,
+        "chipset": "Qualcomm Snapdragon 410",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "027ca5fe-2ff4-58db-9cf9-b614106ace79": {
+      "id": "027ca5fe-2ff4-58db-9cf9-b614106ace79",
+      "brand": "ARCHOS",
+      "model": "50b Platinum",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "September 2014",
+        "battery_capacity": 1900.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "1bc95d57-ad3f-50b9-94a3-ee0fe851292e": {
+      "id": "1bc95d57-ad3f-50b9-94a3-ee0fe851292e",
+      "brand": "ARCHOS",
+      "model": "50c Helium 4G",
+      "attributes": {
+        "os": "Android 4.4.4",
+        "battery_capacity": 2500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "1c229d33-12bf-5d27-a72c-438121e9360c": {
+      "id": "1c229d33-12bf-5d27-a72c-438121e9360c",
+      "brand": "ARCHOS",
+      "model": "50c Oxygen",
+      "attributes": {
+        "os": "Android 4.2",
+        "release_date": "Feb 20, 2014",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "fb6a0ac5-797d-545c-b0ab-1b992b3ed932": {
+      "id": "fb6a0ac5-797d-545c-b0ab-1b992b3ed932",
+      "brand": "ARCHOS",
+      "model": "50e Helium 4G",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2100.0,
+        "chipset": "Qualcomm Snapdragon 210",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "e2a5766f-b618-5a59-8015-20b11d16de2f": {
+      "id": "e2a5766f-b618-5a59-8015-20b11d16de2f",
+      "brand": "ARCHOS",
+      "model": "53 Titanium",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 2100.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 5.3,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "4a57781b-7187-58da-b1b3-abd81f9edf4d": {
+      "id": "4a57781b-7187-58da-b1b3-abd81f9edf4d",
+      "brand": "ARCHOS",
+      "model": "55 Graphite",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "release_date": "Jun 01, 2017",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "a82ec14d-9435-511c-8969-560f42ad419d": {
+      "id": "a82ec14d-9435-511c-8969-560f42ad419d",
+      "brand": "ARCHOS",
+      "model": "55 Helium Plus",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Jul 01, 2015",
+        "battery_capacity": 2400.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "64e7ba80-2bb6-5319-a12b-309cad01152d": {
+      "id": "64e7ba80-2bb6-5319-a12b-309cad01152d",
+      "brand": "ARCHOS",
+      "model": "64 Xenon",
+      "attributes": {
+        "os": "Android 4.2",
+        "release_date": "Feb 20, 2014",
+        "battery_capacity": 2800.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSD",
+        "display_size": 6.4,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "55417b0c-f0a1-5303-a8fa-55e59aec451c": {
+      "id": "55417b0c-f0a1-5303-a8fa-55e59aec451c",
+      "brand": "ARCHOS",
+      "model": "Diamond 2 Note",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Feb 18, 2016",
+        "battery_capacity": 3610.0,
+        "chipset": "MediaTek Helio X10",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 2560,
+        "camera_main": 16.0,
+        "camera_front": 8
+      }
+    },
+    "4eb796f0-f0f6-56f2-b1ef-ada5e0c3c1ca": {
+      "id": "4eb796f0-f0f6-56f2-b1ef-ada5e0c3c1ca",
+      "brand": "ARCHOS",
+      "model": "Diamond 2 Plus",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek Helio P10",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 20.0,
+        "camera_front": 8
+      }
+    },
+    "6ba98b9d-4a7e-5a85-8a27-be8d3e6d117c": {
+      "id": "6ba98b9d-4a7e-5a85-8a27-be8d3e6d117c",
+      "brand": "ARCHOS",
+      "model": "Diamond Omega",
+      "attributes": {
+        "os": "Android 7.1 Nougat",
+        "release_date": "Nov 01, 2017",
+        "battery_capacity": 3100.0,
+        "chipset": "Qualcomm Snapdragon 835",
+        "attr_memory": 8.0,
+        "attr_primary storage": 128.0,
+        "display_size": 5.7,
+        "attr_display resolution": 2040,
+        "camera_main": 12.0,
+        "camera_front": 5
+      }
+    },
+    "8333e45c-c125-54ad-89a5-ea079842287d": {
+      "id": "8333e45c-c125-54ad-89a5-ea079842287d",
+      "brand": "ARCHOS",
+      "model": "Diamond Plus",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2850.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 16.0,
+        "camera_front": 8
+      }
+    },
+    "84f40593-ef30-5b99-acac-dbd722885fb3": {
+      "id": "84f40593-ef30-5b99-acac-dbd722885fb3",
+      "brand": "ARCHOS",
+      "model": "Diamond S",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2300.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "camera_main": 16.0,
+        "camera_front": 8
+      }
+    }
+  }
+}

@@ -1,0 +1,1164 @@
+{
+  "brand": "Blackview",
+  "phones": {
+    "0c45da99-8623-5705-866d-d981938faa83": {
+      "id": "0c45da99-8623-5705-866d-d981938faa83",
+      "brand": "Blackview",
+      "model": "A30 2/16GB Black",
+      "attributes": {
+        "attr_unnamed 0": 156,
+        "os": "Android",
+        "attr_popularity": 240,
+        "mrp": 1795.0,
+        "attr_highest price": 1910.0,
+        "attr_sellers amount": 2,
+        "display_size": 5.5,
+        "attr_memory size": 16.0,
+        "attr_battery size": 2500.0,
+        "release_date": 9
+      }
+    },
+    "6c5ce672-b35b-53cd-8175-f460e0633c4d": {
+      "id": "6c5ce672-b35b-53cd-8175-f460e0633c4d",
+      "brand": "Blackview",
+      "model": "A60 1/16GB Black",
+      "attributes": {
+        "attr_unnamed 0": 167,
+        "os": "Android",
+        "attr_popularity": 857,
+        "mrp": 1735.0,
+        "attr_highest price": 2052.0,
+        "attr_sellers amount": 42,
+        "display_size": 6.1,
+        "attr_memory size": 16.0,
+        "attr_battery size": 4080.0,
+        "release_date": 5
+      }
+    },
+    "e112a13b-480f-5bb8-a251-3b043270686c": {
+      "id": "e112a13b-480f-5bb8-a251-3b043270686c",
+      "brand": "Blackview",
+      "model": "A60 Plus 4/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 168,
+        "os": "Android",
+        "attr_popularity": 1027,
+        "mrp": 2695.0,
+        "attr_highest price": 3189.0,
+        "attr_sellers amount": 8,
+        "display_size": 6.08,
+        "attr_memory size": 64.0,
+        "attr_battery size": 4080.0,
+        "release_date": 12
+      }
+    },
+    "19065dcb-0fc6-54b5-97da-ca63df911514": {
+      "id": "19065dcb-0fc6-54b5-97da-ca63df911514",
+      "brand": "Blackview",
+      "model": "A60 Pro 3/16GB Black",
+      "attributes": {
+        "attr_unnamed 0": 169,
+        "os": "Android",
+        "attr_popularity": 904,
+        "mrp": 2299.0,
+        "attr_highest price": 2599.0,
+        "attr_sellers amount": 15,
+        "display_size": 6.08,
+        "attr_memory size": 16.0,
+        "attr_battery size": 4080.0,
+        "release_date": 7
+      }
+    },
+    "b5c67937-0155-5340-b492-19178cad0fff": {
+      "id": "b5c67937-0155-5340-b492-19178cad0fff",
+      "brand": "Blackview",
+      "model": "A80 2/16GB Red",
+      "attributes": {
+        "attr_unnamed 0": 178,
+        "os": "Android",
+        "attr_popularity": 578,
+        "mrp": 2090.0,
+        "attr_highest price": 2471.0,
+        "attr_sellers amount": 10,
+        "display_size": 6.21,
+        "attr_memory size": 16.0,
+        "attr_battery size": 4200.0,
+        "release_date": 6
+      }
+    },
+    "44de8927-6db7-54a8-b1b8-af05a4531ac9": {
+      "id": "44de8927-6db7-54a8-b1b8-af05a4531ac9",
+      "brand": "Blackview",
+      "model": "A80 Pro 4/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 179,
+        "os": "Android",
+        "attr_popularity": 1018,
+        "mrp": 3134.0,
+        "attr_highest price": 3692.0,
+        "attr_sellers amount": 26,
+        "display_size": 6.49,
+        "attr_memory size": 64.0,
+        "attr_battery size": 4680.0,
+        "release_date": 1
+      }
+    },
+    "7167a4dc-a1c0-5f52-b2a7-87fd00a19c59": {
+      "id": "7167a4dc-a1c0-5f52-b2a7-87fd00a19c59",
+      "brand": "Blackview",
+      "model": "BV1000 Black",
+      "attributes": {
+        "attr_unnamed 0": 218,
+        "attr_popularity": 688,
+        "mrp": 900.0,
+        "attr_highest price": 1186.0,
+        "attr_sellers amount": 22,
+        "display_size": 2.4,
+        "attr_memory size": 0.032,
+        "attr_battery size": 3000.0,
+        "release_date": 1
+      }
+    },
+    "265a7613-190d-5c2d-88ea-ee2d6efbc583": {
+      "id": "265a7613-190d-5c2d-88ea-ee2d6efbc583",
+      "brand": "Blackview",
+      "model": "BV4900 3/32GB Black",
+      "attributes": {
+        "attr_unnamed 0": 219,
+        "os": "Android",
+        "attr_popularity": 877,
+        "mrp": 2819.0,
+        "attr_highest price": 3199.0,
+        "attr_sellers amount": 23,
+        "display_size": 5.7,
+        "attr_memory size": 32.0,
+        "attr_battery size": 5580.0,
+        "release_date": 11
+      }
+    },
+    "58ab0d17-1454-5122-ac5e-dd201c6f4782": {
+      "id": "58ab0d17-1454-5122-ac5e-dd201c6f4782",
+      "brand": "Blackview",
+      "model": "BV4900 Pro 4/64GB Orange",
+      "attributes": {
+        "attr_unnamed 0": 220,
+        "os": "Android",
+        "attr_popularity": 869,
+        "mrp": 3333.0,
+        "attr_highest price": 3719.0,
+        "attr_sellers amount": 13,
+        "display_size": 5.7,
+        "attr_memory size": 64.0,
+        "attr_battery size": 5580.0,
+        "release_date": 1
+      }
+    },
+    "eb1638dd-067c-5507-8261-c364d45ec852": {
+      "id": "eb1638dd-067c-5507-8261-c364d45ec852",
+      "brand": "Blackview",
+      "model": "BV5100 4/128GB Green",
+      "attributes": {
+        "attr_unnamed 0": 221,
+        "os": "Android",
+        "attr_popularity": 515,
+        "mrp": 4610.0,
+        "attr_highest price": 5099.0,
+        "attr_sellers amount": 13,
+        "display_size": 5.7,
+        "attr_memory size": 128.0,
+        "attr_battery size": 5580.0,
+        "release_date": 12
+      }
+    },
+    "6fb789cc-b6f7-574b-beea-4f69e9bab24c": {
+      "id": "6fb789cc-b6f7-574b-beea-4f69e9bab24c",
+      "brand": "Blackview",
+      "model": "BV5100 Pro 4/128GB Black",
+      "attributes": {
+        "attr_unnamed 0": 222,
+        "os": "Android",
+        "attr_popularity": 138,
+        "mrp": 5999.0,
+        "attr_highest price": 7838.0,
+        "attr_sellers amount": 22,
+        "display_size": 5.7,
+        "attr_memory size": 128.0,
+        "attr_battery size": 5580.0,
+        "release_date": 1
+      }
+    },
+    "661a471f-bb7e-5c4d-bd4e-1470eb0d3287": {
+      "id": "661a471f-bb7e-5c4d-bd4e-1470eb0d3287",
+      "brand": "Blackview",
+      "model": "BV5500 2/16GB Black",
+      "attributes": {
+        "attr_unnamed 0": 223,
+        "os": "Android",
+        "attr_popularity": 772,
+        "mrp": 2149.0,
+        "attr_highest price": 3099.0,
+        "attr_sellers amount": 54,
+        "display_size": 5.5,
+        "attr_memory size": 16.0,
+        "attr_battery size": 4400.0,
+        "release_date": 2
+      }
+    },
+    "8a3f498b-9963-53c9-8403-68709ad31340": {
+      "id": "8a3f498b-9963-53c9-8403-68709ad31340",
+      "brand": "Blackview",
+      "model": "BV5500 Plus 3/32GB Black",
+      "attributes": {
+        "attr_unnamed 0": 224,
+        "os": "Android",
+        "attr_popularity": 1023,
+        "mrp": 2560.0,
+        "attr_highest price": 3040.0,
+        "attr_sellers amount": 25,
+        "display_size": 5.5,
+        "attr_memory size": 32.0,
+        "attr_battery size": 4400.0,
+        "release_date": 6
+      }
+    },
+    "5aa33deb-f3fc-5cf5-b4c3-5001f971f234": {
+      "id": "5aa33deb-f3fc-5cf5-b4c3-5001f971f234",
+      "brand": "Blackview",
+      "model": "BV5500 Pro 3/16GB Black",
+      "attributes": {
+        "attr_unnamed 0": 225,
+        "os": "Android",
+        "attr_popularity": 553,
+        "mrp": 2629.0,
+        "attr_highest price": 3800.0,
+        "attr_sellers amount": 47,
+        "display_size": 5.5,
+        "attr_memory size": 16.0,
+        "attr_battery size": 4400.0,
+        "release_date": 6
+      }
+    },
+    "93a12649-f587-5ddf-92d7-42bade8a1be0": {
+      "id": "93a12649-f587-5ddf-92d7-42bade8a1be0",
+      "brand": "Blackview",
+      "model": "BV5800 Pro 2/16GB Black",
+      "attributes": {
+        "attr_unnamed 0": 227,
+        "os": "Android",
+        "attr_popularity": 425,
+        "attr_sellers amount": 1,
+        "display_size": 5.5,
+        "attr_memory size": 16.0,
+        "attr_battery size": 5580.0,
+        "release_date": 9
+      }
+    },
+    "e9e162de-0a9f-523d-bed1-86b46d3ebb82": {
+      "id": "e9e162de-0a9f-523d-bed1-86b46d3ebb82",
+      "brand": "Blackview",
+      "model": "BV5900 3/32GB Black",
+      "attributes": {
+        "attr_unnamed 0": 228,
+        "os": "Android",
+        "attr_popularity": 659,
+        "mrp": 3447.0,
+        "attr_highest price": 4389.0,
+        "attr_sellers amount": 26,
+        "display_size": 5.7,
+        "attr_memory size": 32.0,
+        "attr_battery size": 5580.0,
+        "release_date": 12
+      }
+    },
+    "9e318b7b-9fa2-5668-a4d3-6c64f720a533": {
+      "id": "9e318b7b-9fa2-5668-a4d3-6c64f720a533",
+      "brand": "Blackview",
+      "model": "BV6100 3/16GB Black",
+      "attributes": {
+        "attr_unnamed 0": 229,
+        "os": "Android",
+        "attr_popularity": 806,
+        "mrp": 3190.0,
+        "attr_highest price": 3895.0,
+        "attr_sellers amount": 23,
+        "display_size": 6.88,
+        "attr_memory size": 16.0,
+        "attr_battery size": 5580.0,
+        "release_date": 9
+      }
+    },
+    "a417782a-323d-5f00-b55a-41a8de8b2e54": {
+      "id": "a417782a-323d-5f00-b55a-41a8de8b2e54",
+      "brand": "Blackview",
+      "model": "BV6300 3/32GB Black",
+      "attributes": {
+        "attr_unnamed 0": 230,
+        "os": "Android",
+        "attr_popularity": 849,
+        "mrp": 3590.0,
+        "attr_highest price": 4674.0,
+        "attr_sellers amount": 29,
+        "display_size": 5.7,
+        "attr_memory size": 32.0,
+        "attr_battery size": 4380.0,
+        "release_date": 11
+      }
+    },
+    "dbaa301f-a403-5169-9829-053ba2ad588b": {
+      "id": "dbaa301f-a403-5169-9829-053ba2ad588b",
+      "brand": "Blackview",
+      "model": "BV6300 Pro 6/128GB Black",
+      "attributes": {
+        "attr_unnamed 0": 231,
+        "os": "Android",
+        "attr_popularity": 882,
+        "mrp": 5199.0,
+        "attr_highest price": 5873.0,
+        "attr_sellers amount": 28,
+        "display_size": 5.7,
+        "attr_memory size": 128.0,
+        "attr_battery size": 4380.0,
+        "release_date": 8
+      }
+    },
+    "13d09dff-111c-5491-8f2a-0d2ee846a8be": {
+      "id": "13d09dff-111c-5491-8f2a-0d2ee846a8be",
+      "brand": "Blackview",
+      "model": "BV6800 Pro 4/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 232,
+        "os": "Android",
+        "attr_popularity": 821,
+        "mrp": 4640.0,
+        "attr_highest price": 7399.0,
+        "attr_sellers amount": 55,
+        "display_size": 5.7,
+        "attr_memory size": 64.0,
+        "attr_battery size": 6580.0,
+        "release_date": 11
+      }
+    },
+    "5d00f717-49e5-5816-bc89-be0615e070d0": {
+      "id": "5d00f717-49e5-5816-bc89-be0615e070d0",
+      "brand": "Blackview",
+      "model": "BV6900 4/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 233,
+        "os": "Android",
+        "attr_popularity": 764,
+        "mrp": 4670.0,
+        "attr_highest price": 5472.0,
+        "attr_sellers amount": 10,
+        "display_size": 5.84,
+        "attr_memory size": 64.0,
+        "attr_battery size": 5580.0,
+        "release_date": 7
+      }
+    },
+    "00f066ea-1d49-525d-9825-4272bedb04a7": {
+      "id": "00f066ea-1d49-525d-9825-4272bedb04a7",
+      "brand": "Blackview",
+      "model": "BV8000 Pro Lion Gold",
+      "attributes": {
+        "attr_unnamed 0": 234,
+        "os": "Android",
+        "attr_popularity": 536,
+        "mrp": 4440.0,
+        "attr_highest price": 5130.0,
+        "attr_sellers amount": 19,
+        "display_size": 5.0,
+        "attr_memory size": 64.0,
+        "attr_battery size": 4180.0,
+        "release_date": 7
+      }
+    },
+    "752cdab6-4e9f-5487-b0a3-42dae7a6f3dc": {
+      "id": "752cdab6-4e9f-5487-b0a3-42dae7a6f3dc",
+      "brand": "Blackview",
+      "model": "BV9100 4/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 236,
+        "os": "Android",
+        "attr_popularity": 954,
+        "mrp": 5150.0,
+        "attr_highest price": 5850.0,
+        "attr_sellers amount": 13,
+        "display_size": 6.3,
+        "attr_memory size": 64.0,
+        "attr_battery size": 13000.0,
+        "release_date": 10
+      }
+    },
+    "25a79d3f-c9da-5715-b014-cb080de5008c": {
+      "id": "25a79d3f-c9da-5715-b014-cb080de5008c",
+      "brand": "Blackview",
+      "model": "BV9500 Black",
+      "attributes": {
+        "attr_unnamed 0": 237,
+        "os": "Android",
+        "attr_popularity": 562,
+        "mrp": 5780.0,
+        "attr_highest price": 6929.0,
+        "attr_sellers amount": 5,
+        "display_size": 5.7,
+        "attr_memory size": 64.0,
+        "attr_battery size": 10000.0,
+        "release_date": 9
+      }
+    },
+    "fb080dff-7bbf-592f-809d-d9fa584f6600": {
+      "id": "fb080dff-7bbf-592f-809d-d9fa584f6600",
+      "brand": "Blackview",
+      "model": "BV9500 Plus 4/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 238,
+        "os": "Android",
+        "attr_popularity": 792,
+        "mrp": 5649.0,
+        "attr_highest price": 6119.0,
+        "attr_sellers amount": 17,
+        "display_size": 5.7,
+        "attr_memory size": 64.0,
+        "attr_battery size": 10000.0,
+        "release_date": 10
+      }
+    },
+    "67e5a733-5458-5588-9c7f-c1e259c396a6": {
+      "id": "67e5a733-5458-5588-9c7f-c1e259c396a6",
+      "brand": "Blackview",
+      "model": "BV9500 Pro 6/128GB Black",
+      "attributes": {
+        "attr_unnamed 0": 239,
+        "os": "Android",
+        "attr_popularity": 612,
+        "mrp": 7398.0,
+        "attr_highest price": 11924.0,
+        "attr_sellers amount": 7,
+        "display_size": 5.7,
+        "attr_memory size": 128.0,
+        "attr_battery size": 10000.0,
+        "release_date": 10
+      }
+    },
+    "e75b383b-1937-54b0-8a1b-2c2364ded270": {
+      "id": "e75b383b-1937-54b0-8a1b-2c2364ded270",
+      "brand": "Blackview",
+      "model": "BV9600 4/64GB Silver",
+      "attributes": {
+        "attr_unnamed 0": 240,
+        "os": "Android",
+        "attr_popularity": 104,
+        "mrp": 5910.0,
+        "attr_highest price": 6349.0,
+        "attr_sellers amount": 20,
+        "display_size": 6.21,
+        "attr_memory size": 64.0,
+        "attr_battery size": 5580.0,
+        "release_date": 8
+      }
+    },
+    "afc4ee86-7f8d-544d-9b6c-53a89fd0c8a0": {
+      "id": "afc4ee86-7f8d-544d-9b6c-53a89fd0c8a0",
+      "brand": "Blackview",
+      "model": "BV9600 Pro 6/128GB Black",
+      "attributes": {
+        "attr_unnamed 0": 242,
+        "os": "Android",
+        "attr_popularity": 373,
+        "mrp": 6730.0,
+        "attr_highest price": 7165.0,
+        "attr_sellers amount": 10,
+        "display_size": 6.21,
+        "attr_memory size": 128.0,
+        "attr_battery size": 5580.0,
+        "release_date": 2
+      }
+    },
+    "15b499ed-60e8-57a7-8fdc-61ec73bd27b1": {
+      "id": "15b499ed-60e8-57a7-8fdc-61ec73bd27b1",
+      "brand": "Blackview",
+      "model": "BV9600E 4/128GB Grey",
+      "attributes": {
+        "attr_unnamed 0": 244,
+        "os": "Android",
+        "attr_popularity": 533,
+        "mrp": 5899.0,
+        "attr_highest price": 7011.0,
+        "attr_sellers amount": 18,
+        "display_size": 6.21,
+        "attr_memory size": 128.0,
+        "attr_battery size": 5580.0,
+        "release_date": 6
+      }
+    },
+    "fc9e4df3-f8ba-55bd-9c16-90c1c6abe671": {
+      "id": "fc9e4df3-f8ba-55bd-9c16-90c1c6abe671",
+      "brand": "Blackview",
+      "model": "BV9700 Pro 6/128GB Black",
+      "attributes": {
+        "attr_unnamed 0": 245,
+        "os": "Android",
+        "attr_popularity": 898,
+        "mrp": 6790.0,
+        "attr_highest price": 7289.0,
+        "attr_sellers amount": 20,
+        "display_size": 5.84,
+        "attr_memory size": 128.0,
+        "attr_battery size": 4380.0,
+        "release_date": 8
+      }
+    },
+    "fb1f6054-a3ba-5401-8c3f-d2c91f590595": {
+      "id": "fb1f6054-a3ba-5401-8c3f-d2c91f590595",
+      "brand": "Blackview",
+      "model": "BV9700 Pro 6/128GB Black + Night Vision Camera",
+      "attributes": {
+        "attr_unnamed 0": 246,
+        "os": "Android",
+        "attr_popularity": 77,
+        "mrp": 7599.0,
+        "attr_highest price": 7860.0,
+        "attr_sellers amount": 3,
+        "display_size": 5.84,
+        "attr_memory size": 128.0,
+        "attr_battery size": 4380.0,
+        "release_date": 8
+      }
+    },
+    "6df9a0bc-a4e3-563a-92dc-2a2995bdcb51": {
+      "id": "6df9a0bc-a4e3-563a-92dc-2a2995bdcb51",
+      "brand": "Blackview",
+      "model": "BV9800 6/128Gb Black",
+      "attributes": {
+        "attr_unnamed 0": 247,
+        "os": "Android",
+        "attr_popularity": 293,
+        "mrp": 9760.0,
+        "attr_highest price": 10499.0,
+        "attr_sellers amount": 14,
+        "display_size": 6.3,
+        "attr_memory size": 128.0,
+        "attr_battery size": 6580.0,
+        "release_date": 2
+      }
+    },
+    "b674838f-80d3-5fc2-b438-eaa1b56a1d80": {
+      "id": "b674838f-80d3-5fc2-b438-eaa1b56a1d80",
+      "brand": "Blackview",
+      "model": "BV9800 Pro 6/128GB Orange",
+      "attributes": {
+        "attr_unnamed 0": 249,
+        "os": "Android",
+        "attr_popularity": 879,
+        "mrp": 9949.0,
+        "attr_highest price": 11258.0,
+        "attr_sellers amount": 30,
+        "display_size": 6.3,
+        "attr_memory size": 128.0,
+        "attr_battery size": 6580.0,
+        "release_date": 5
+      }
+    },
+    "72aa43d5-fbb0-535c-b6dc-212f14985f39": {
+      "id": "72aa43d5-fbb0-535c-b6dc-212f14985f39",
+      "brand": "Blackview",
+      "model": "BV9900 8/256GB Black",
+      "attributes": {
+        "attr_unnamed 0": 250,
+        "os": "Android",
+        "attr_popularity": 732,
+        "mrp": 9536.0,
+        "attr_highest price": 10611.0,
+        "attr_sellers amount": 14,
+        "display_size": 5.84,
+        "attr_memory size": 256.0,
+        "attr_battery size": 4380.0,
+        "release_date": 5
+      }
+    },
+    "f34d1cac-1c1c-5d82-851c-1538b2be4b8a": {
+      "id": "f34d1cac-1c1c-5d82-851c-1538b2be4b8a",
+      "brand": "Blackview",
+      "model": "BV9900 Pro 8/128GB Gray",
+      "attributes": {
+        "attr_unnamed 0": 251,
+        "os": "Android",
+        "attr_popularity": 802,
+        "mrp": 12077.0,
+        "attr_highest price": 14279.0,
+        "attr_sellers amount": 6,
+        "display_size": 5.84,
+        "attr_memory size": 128.0,
+        "attr_battery size": 4380.0,
+        "release_date": 6
+      }
+    },
+    "4e95c42d-1b5a-512c-a713-167ce733cc51": {
+      "id": "4e95c42d-1b5a-512c-a713-167ce733cc51",
+      "brand": "Blackview",
+      "model": "BV9900E 6/128GB Black",
+      "attributes": {
+        "attr_unnamed 0": 252,
+        "os": "Android",
+        "attr_popularity": 918,
+        "mrp": 7380.0,
+        "attr_highest price": 7999.0,
+        "attr_sellers amount": 21,
+        "display_size": 5.84,
+        "attr_memory size": 128.0,
+        "attr_battery size": 4380.0,
+        "release_date": 11
+      }
+    },
+    "e98e58b3-81a9-5906-b4da-ef2380d75b04": {
+      "id": "e98e58b3-81a9-5906-b4da-ef2380d75b04",
+      "brand": "Blackview",
+      "model": "BV5200 Pro",
+      "attributes": {
+        "price": "₹8,990",
+        "rating": 67.0,
+        "sim": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",
+        "chipset": "Helio G35, Octa Core, 2.3 GHz Processor",
+        "ram": 4,
+        "battery_capacity": 5180,
+        "display_size": 6.1,
+        "camera_main": 13,
+        "attr_card": "Memory Card Supported",
+        "os": "Android v12"
+      }
+    },
+    "c05b1462-dcd8-5a8c-90e5-99f1e93df638": {
+      "id": "c05b1462-dcd8-5a8c-90e5-99f1e93df638",
+      "brand": "blackview",
+      "model": "Blackview BV5200 Pro",
+      "attributes": {
+        "price": [
+          8990
+        ],
+        "rating": 67.0,
+        "attr_has 5g": true,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "helio",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.3,
+        "battery_capacity": 5180.0,
+        "attr_fast charging available": 1,
+        "charging": 10.0,
+        "attr_ram capacity": 4,
+        "attr_internal memory": 64,
+        "display_size": 6.1,
+        "refresh_rate": 60,
+        "camera_main": 8.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 1,
+        "attr_resolution width": 720,
+        "attr_resolution height": 1560
+      }
+    },
+    "e8beb4be-e050-5cc5-bcaf-2268e046621e": {
+      "id": "e8beb4be-e050-5cc5-bcaf-2268e046621e",
+      "brand": "Blackview",
+      "model": "A100",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "June 2021",
+        "battery_capacity": 4680.0,
+        "chipset": "Mediatek Helio P70",
+        "attr_memory": 6.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.7,
+        "attr_display resolution": 2400,
+        "camera_main": 12.0,
+        "camera_front": 8
+      }
+    },
+    "ae8b8143-4beb-50e9-9a2e-017e99d6a58e": {
+      "id": "ae8b8143-4beb-50e9-9a2e-017e99d6a58e",
+      "brand": "Blackview",
+      "model": "A50",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "March 2022",
+        "battery_capacity": 4280.0,
+        "chipset": "Unisoc Tiger T310",
+        "attr_memory": 3.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 720,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "7aa88f83-2e5c-5852-a843-1cd7bc715295": {
+      "id": "7aa88f83-2e5c-5852-a843-1cd7bc715295",
+      "brand": "Blackview",
+      "model": "A55",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "December 2021",
+        "battery_capacity": 4780.0,
+        "chipset": "Mediatek Helio A22",
+        "attr_memory": 3.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 6.5,
+        "attr_display resolution": 720,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "64554023-b4f4-5c7f-ad73-cbd1e7484a84": {
+      "id": "64554023-b4f4-5c7f-ad73-cbd1e7484a84",
+      "brand": "Blackview",
+      "model": "A55 Pro",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "March 2022",
+        "battery_capacity": 4780.0,
+        "chipset": "Mediatek Helio P22",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.5,
+        "attr_display resolution": 720,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "78d5f8ac-a49e-5b83-9a66-8af2b96db5df": {
+      "id": "78d5f8ac-a49e-5b83-9a66-8af2b96db5df",
+      "brand": "Blackview",
+      "model": "A70",
+      "attributes": {
+        "os": "Android 11",
+        "battery_capacity": 5380.0,
+        "chipset": "Unisoc SC9863A",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 6.5,
+        "attr_display resolution": 720,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "328491d6-0b6b-5f65-8a8f-3178a4879dba": {
+      "id": "328491d6-0b6b-5f65-8a8f-3178a4879dba",
+      "brand": "Blackview",
+      "model": "A70 Pro",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "December 2021",
+        "battery_capacity": 5380.0,
+        "chipset": "Unisoc Tiger T310",
+        "attr_memory": 4.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 6.5,
+        "attr_display resolution": 720,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "c8f0082e-3686-59f2-aae4-db54a3b0e161": {
+      "id": "c8f0082e-3686-59f2-aae4-db54a3b0e161",
+      "brand": "Blackview",
+      "model": "A80 Plus",
+      "attributes": {
+        "os": "Android 10",
+        "battery_capacity": 4680.0,
+        "chipset": "Mediatek Helio A25",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.5,
+        "attr_display resolution": 720,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "bcfd9e9e-29db-5d9a-b9db-b12bf4a6166b": {
+      "id": "bcfd9e9e-29db-5d9a-b9db-b12bf4a6166b",
+      "brand": "Blackview",
+      "model": "A80s",
+      "attributes": {
+        "os": "Android 10",
+        "release_date": "January 2021",
+        "battery_capacity": 4200.0,
+        "chipset": "Mediatek Helio A25",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.2,
+        "attr_display resolution": 720,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "a8e7a3da-42ff-5832-9495-c5e1e35910ca": {
+      "id": "a8e7a3da-42ff-5832-9495-c5e1e35910ca",
+      "brand": "Blackview",
+      "model": "A90",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "May 2021",
+        "battery_capacity": 4280.0,
+        "chipset": "Mediatek Helio P60",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.4,
+        "attr_display resolution": 720,
+        "camera_main": 12.0,
+        "camera_front": 8
+      }
+    },
+    "c847497b-ddcd-561d-92a9-3537b49ed407": {
+      "id": "c847497b-ddcd-561d-92a9-3537b49ed407",
+      "brand": "Blackview",
+      "model": "A95",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "January 2022",
+        "battery_capacity": 4380.0,
+        "chipset": "Mediatek Helio P70",
+        "attr_memory": 8.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.5,
+        "attr_display resolution": 720,
+        "camera_main": 20.0,
+        "camera_front": 8
+      }
+    },
+    "1884d1e7-652e-5134-9bae-37481fdcc647": {
+      "id": "1884d1e7-652e-5134-9bae-37481fdcc647",
+      "brand": "Blackview",
+      "model": "BL5000",
+      "attributes": {
+        "os": "Android 11",
+        "battery_capacity": 4980.0,
+        "chipset": "Dimensity 700",
+        "attr_memory": 8.0,
+        "attr_primary storage": 128.0,
+        "display_size": 6.4,
+        "attr_display resolution": 2300,
+        "camera_main": 12.0,
+        "camera_front": 16
+      }
+    },
+    "749b5468-4c2a-5589-813e-7a335e1ca5bb": {
+      "id": "749b5468-4c2a-5589-813e-7a335e1ca5bb",
+      "brand": "Blackview",
+      "model": "BL6000 Pro",
+      "attributes": {
+        "os": "Android 10",
+        "battery_capacity": 5280.0,
+        "chipset": "MediaTek Dimensity 800",
+        "attr_memory": 8.0,
+        "attr_primary storage": 256.0,
+        "display_size": 6.4,
+        "attr_display resolution": 2300,
+        "camera_main": 48.0,
+        "camera_front": 16
+      }
+    },
+    "8fd3c29d-d074-514f-9ea6-a5e38f29e9cb": {
+      "id": "8fd3c29d-d074-514f-9ea6-a5e38f29e9cb",
+      "brand": "Blackview",
+      "model": "BL8800",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "May 09, 2022",
+        "battery_capacity": 8380.0,
+        "chipset": "MediaTek Dimensity 700",
+        "attr_memory": 8.0,
+        "attr_primary storage": 128.0,
+        "storage": " not expandable",
+        "display_size": 6.6,
+        "attr_display resolution": 2408,
+        "camera_main": 50.0,
+        "camera_front": 16
+      }
+    },
+    "b017f4c5-ee28-5280-ad21-27d8e71c153d": {
+      "id": "b017f4c5-ee28-5280-ad21-27d8e71c153d",
+      "brand": "Blackview",
+      "model": "BL8800 Pro",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "May 09, 2022",
+        "battery_capacity": 8380.0,
+        "chipset": "MediaTek Dimensity 700",
+        "attr_memory": 8.0,
+        "attr_primary storage": 128.0,
+        "storage": " not expandable",
+        "display_size": 6.6,
+        "attr_display resolution": 2408,
+        "camera_main": 50.0,
+        "camera_front": 16
+      }
+    },
+    "32afa647-02c2-5c1f-a5fb-6d1fb740331d": {
+      "id": "32afa647-02c2-5c1f-a5fb-6d1fb740331d",
+      "brand": "Blackview",
+      "model": "BV4900",
+      "attributes": {
+        "os": "Android 10",
+        "battery_capacity": 5580.0,
+        "chipset": "Mediatek helio A22",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 1440,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "98cb01bd-58ea-5a4f-ae0c-49dfda13a846": {
+      "id": "98cb01bd-58ea-5a4f-ae0c-49dfda13a846",
+      "brand": "Blackview",
+      "model": "BV4900 Pro",
+      "attributes": {
+        "os": "Android 10",
+        "battery_capacity": 5580.0,
+        "chipset": "MediaTek Helio A25",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 1440,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "3e2fcff7-68dc-52da-a87e-fd96196731e3": {
+      "id": "3e2fcff7-68dc-52da-a87e-fd96196731e3",
+      "brand": "Blackview",
+      "model": "BV4900s",
+      "attributes": {
+        "os": "Android 11",
+        "battery_capacity": 5580.0,
+        "chipset": "Unisoc ",
+        "attr_memory": 2.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 1440,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "a6cddedd-a174-57ee-95b6-d999fcbd45e2": {
+      "id": "a6cddedd-a174-57ee-95b6-d999fcbd45e2",
+      "brand": "Blackview",
+      "model": "BV5100",
+      "attributes": {
+        "os": "Android 10",
+        "battery_capacity": 5580.0,
+        "chipset": "MediaTek Helio A25",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 1440,
+        "camera_main": 16.0,
+        "camera_front": 13
+      }
+    },
+    "78458d0b-a8e3-5b4f-983f-e7041f18210a": {
+      "id": "78458d0b-a8e3-5b4f-983f-e7041f18210a",
+      "brand": "Blackview",
+      "model": "BV5900",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "battery_capacity": 5580.0,
+        "chipset": "Mediatek helio A22",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 1520,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "ba6b805d-c52a-5199-b2c3-b07b50cb307d": {
+      "id": "ba6b805d-c52a-5199-b2c3-b07b50cb307d",
+      "brand": "Blackview",
+      "model": "BV6300 Pro",
+      "attributes": {
+        "os": "Android 10",
+        "battery_capacity": 4380.0,
+        "chipset": "MediaTek Helio P70",
+        "attr_memory": 6.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 1440,
+        "camera_main": 16.0,
+        "camera_front": 13
+      }
+    },
+    "77b3b302-18ea-5392-9605-c1955095546c": {
+      "id": "77b3b302-18ea-5392-9605-c1955095546c",
+      "brand": "Blackview",
+      "model": "BV6600",
+      "attributes": {
+        "os": "Android 10",
+        "battery_capacity": 8580.0,
+        "chipset": "MediaTek Helio A25",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 1440,
+        "camera_main": 16.0,
+        "camera_front": 8
+      }
+    },
+    "717b041b-9000-5a95-992b-8144ade65a81": {
+      "id": "717b041b-9000-5a95-992b-8144ade65a81",
+      "brand": "Blackview",
+      "model": "BV6600 Pro",
+      "attributes": {
+        "os": "Android 11",
+        "battery_capacity": 8580.0,
+        "chipset": "MediaTek Helio P35",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 1440,
+        "camera_main": 16.0,
+        "camera_front": 8
+      }
+    },
+    "d54f0fa2-bd2c-5039-ad7f-9f117075b78d": {
+      "id": "d54f0fa2-bd2c-5039-ad7f-9f117075b78d",
+      "brand": "Blackview",
+      "model": "BV6600E",
+      "attributes": {
+        "os": "Android 11",
+        "battery_capacity": 8580.0,
+        "chipset": "Unisoc SC9863A",
+        "attr_memory": 4.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 1440,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "abd4d93d-bf45-5299-8b15-629fedd870d9": {
+      "id": "abd4d93d-bf45-5299-8b15-629fedd870d9",
+      "brand": "Blackview",
+      "model": "BV8800",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "Jan 10, 2022",
+        "battery_capacity": 8380.0,
+        "chipset": "Mediatek Helio G96",
+        "attr_memory": 8.0,
+        "attr_primary storage": 128.0,
+        "storage": " not expandable",
+        "display_size": 6.6,
+        "attr_display resolution": 2408,
+        "refresh_rate": 90.0,
+        "camera_main": 50.0,
+        "camera_front": 16
+      }
+    },
+    "21edc0ed-a954-55f9-81a6-07bbe449ffeb": {
+      "id": "21edc0ed-a954-55f9-81a6-07bbe449ffeb",
+      "brand": "Blackview",
+      "model": "BV9800 Pro",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "battery_capacity": 6580.0,
+        "chipset": "MediaTek Helio P70",
+        "attr_memory": 6.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.3,
+        "attr_display resolution": 2340,
+        "camera_main": 48.0,
+        "camera_front": 16
+      }
+    },
+    "36399c41-1dda-59e9-b46f-c671f4a8aadb": {
+      "id": "36399c41-1dda-59e9-b46f-c671f4a8aadb",
+      "brand": "Blackview",
+      "model": "BV9900E",
+      "attributes": {
+        "os": "Android 10",
+        "battery_capacity": 4380.0,
+        "chipset": "MediaTek Helio P90",
+        "attr_memory": 6.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 5.8,
+        "attr_display resolution": 2240,
+        "camera_main": 48.0,
+        "camera_front": 16
+      }
+    },
+    "9906b7de-ddb7-533d-a3ba-9b90387a8492": {
+      "id": "9906b7de-ddb7-533d-a3ba-9b90387a8492",
+      "brand": "Blackview",
+      "model": "Oscal C20 Pro",
+      "attributes": {
+        "os": "Android 11",
+        "battery_capacity": 3380.0,
+        "chipset": "UNISOC SC9863A",
+        "attr_memory": 2.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1560,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "d30cae23-69f9-57cb-a890-5a35483909af": {
+      "id": "d30cae23-69f9-57cb-a890-5a35483909af",
+      "brand": "Blackview",
+      "model": "Oscal C60",
+      "attributes": {
+        "os": "Android 11",
+        "battery_capacity": 4780.0,
+        "chipset": "Mediatek Helio A22",
+        "attr_memory": 4.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 6.5,
+        "attr_display resolution": 1600,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "90e8e004-bde9-5917-9684-015fb0780da6": {
+      "id": "90e8e004-bde9-5917-9684-015fb0780da6",
+      "brand": "Blackview",
+      "model": "S60 Pro",
+      "attributes": {
+        "os": "Android 11",
+        "battery_capacity": 5580.0,
+        "chipset": "MediaTek Helio A25",
+        "attr_memory": 4.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 1440,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    }
+  }
+}

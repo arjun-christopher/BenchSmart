@@ -1,0 +1,124 @@
+{
+  "brand": "i-mobile",
+  "phones": {
+    "7549045d-c029-5f72-9282-b2f2fbd3a847": {
+      "id": "7549045d-c029-5f72-9282-b2f2fbd3a847",
+      "brand": "i-mobile",
+      "model": "3G 8500",
+      "attributes": {
+        "os": "Android ",
+        "battery_capacity": 1500.0,
+        "storage": " microSD",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "6503fc80-74dd-598a-a7f4-c9f86f6b236c": {
+      "id": "6503fc80-74dd-598a-a7f4-c9f86f6b236c",
+      "brand": "i-mobile",
+      "model": "6010",
+      "attributes": {
+        "os": "Android ",
+        "battery_capacity": 1200.0,
+        "attr_memory": 0.1,
+        "storage": " microSDHC",
+        "display_size": 3.0,
+        "attr_display resolution": 400,
+        "camera_main": 3.0
+      }
+    },
+    "635fa87b-5610-50ea-b0d7-5a5c1e351eaa": {
+      "id": "635fa87b-5610-50ea-b0d7-5a5c1e351eaa",
+      "brand": "i-mobile",
+      "model": "i651",
+      "attributes": {
+        "os": "Android 2.1",
+        "battery_capacity": 1500.0,
+        "storage": " microSD",
+        "display_size": 3.2,
+        "attr_display resolution": 800,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "d30cee89-3ccb-576d-b984-288eee325d07": {
+      "id": "d30cee89-3ccb-576d-b984-288eee325d07",
+      "brand": "i-mobile",
+      "model": "i680",
+      "attributes": {
+        "os": "Android 2.2",
+        "battery_capacity": 1200.0,
+        "storage": " microSD",
+        "display_size": 2.4,
+        "attr_display resolution": 240,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "772785aa-9c06-5ff5-8564-496ec18b8304": {
+      "id": "772785aa-9c06-5ff5-8564-496ec18b8304",
+      "brand": "i-mobile",
+      "model": "i691",
+      "attributes": {
+        "os": "Android 2.2",
+        "battery_capacity": 1250.0,
+        "storage": " microSD",
+        "display_size": 3.5,
+        "camera_main": 3.0
+      }
+    },
+    "83410915-4da5-51a6-895e-c7186d9ebfd4": {
+      "id": "83410915-4da5-51a6-895e-c7186d9ebfd4",
+      "brand": "i-mobile",
+      "model": "i692",
+      "attributes": {
+        "os": "Android 2.2",
+        "battery_capacity": 1200.0,
+        "storage": " microSD",
+        "display_size": 3.2,
+        "camera_main": 2.0
+      }
+    },
+    "14da019f-3422-549c-92d0-37ec6822d3ab": {
+      "id": "14da019f-3422-549c-92d0-37ec6822d3ab",
+      "brand": "i-mobile",
+      "model": "i693",
+      "attributes": {
+        "os": "Android 2.2",
+        "battery_capacity": 1200.0,
+        "chipset": "Qualcomm Snapdragon S1",
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "e213f3c8-a850-56c1-b107-32627849c1ba": {
+      "id": "e213f3c8-a850-56c1-b107-32627849c1ba",
+      "brand": "i-mobile",
+      "model": "i810",
+      "attributes": {
+        "os": "Android 2.2",
+        "battery_capacity": 1350.0,
+        "attr_primary storage": 0.0,
+        "storage": " microSD",
+        "display_size": 3.2,
+        "camera_main": 8.0
+      }
+    },
+    "bd3872d8-f254-550f-8181-2c8178d4775f": {
+      "id": "bd3872d8-f254-550f-8181-2c8178d4775f",
+      "brand": "i-mobile",
+      "model": "i858",
+      "attributes": {
+        "os": "Android 1.6",
+        "battery_capacity": 1500.0,
+        "storage": " microSD",
+        "display_size": 4.3,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    }
+  }
+}

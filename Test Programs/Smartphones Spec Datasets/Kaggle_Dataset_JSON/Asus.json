@@ -1,0 +1,3504 @@
+{
+  "brand": "Asus",
+  "phones": {
+    "0a193326-e184-5979-ac84-e7146d5b5c0d": {
+      "id": "0a193326-e184-5979-ac84-e7146d5b5c0d",
+      "brand": "Asus",
+      "model": "ROG Phone 5s 5G 256GB",
+      "attributes": {
+        "cpu": "Qualcomm Snapdragon 888 Plus Processor",
+        "attr_camera specs rear": 64,
+        "attr_camera specs front": 24,
+        "display_size": 6.78,
+        "attr_ram of phone": 12,
+        "storage": 256,
+        "battery_capacity": 6000,
+        "os": "Android v11 OS",
+        "attr_real price available": 57999,
+        "attr_score by smartprice": 8.2
+      }
+    },
+    "b83808da-7d03-532f-991d-7b09dc07a10b": {
+      "id": "b83808da-7d03-532f-991d-7b09dc07a10b",
+      "brand": "Asus",
+      "model": "8z",
+      "attributes": {
+        "cpu": "Qualcomm Snapdragon 888 Processor",
+        "attr_camera specs rear": 64,
+        "attr_camera specs front": 12,
+        "display_size": 5.9,
+        "attr_ram of phone": 8,
+        "storage": 128,
+        "battery_capacity": 4000,
+        "os": "Android v11 OS",
+        "attr_real price available": 42999,
+        "attr_score by smartprice": 7.5
+      }
+    },
+    "eac8bab4-0188-52a8-b12b-99865a677c93": {
+      "id": "eac8bab4-0188-52a8-b12b-99865a677c93",
+      "brand": "Asus",
+      "model": "ROG Phone 5s 5G",
+      "attributes": {
+        "cpu": "Qualcomm Snapdragon 888 Plus Processor",
+        "attr_camera specs rear": 64,
+        "attr_camera specs front": 24,
+        "display_size": 6.78,
+        "attr_ram of phone": 8,
+        "storage": 128,
+        "battery_capacity": 6000,
+        "os": "Android v11 OS",
+        "attr_real price available": 49999,
+        "attr_score by smartprice": 8.2,
+        "price": "₹39,999",
+        "rating": 87.0,
+        "sim": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",
+        "chipset": "Snapdragon  888+, Octa Core, 2.9 GHz Processor",
+        "ram": 8,
+        "camera_main": 64,
+        "attr_card": "Android v11"
+      }
+    },
+    "5e7315fe-eaf8-5802-ae4c-5ad0045c98ae": {
+      "id": "5e7315fe-eaf8-5802-ae4c-5ad0045c98ae",
+      "brand": "Asus",
+      "model": "ROG Phone 5",
+      "attributes": {
+        "cpu": "Qualcomm Snapdragon 888 Processor",
+        "attr_camera specs rear": 64,
+        "attr_camera specs front": 24,
+        "display_size": 6.78,
+        "attr_ram of phone": 8,
+        "storage": [
+          128,
+          " not expandable"
+        ],
+        "battery_capacity": 6000,
+        "os": "Android v11 OS",
+        "attr_real price available": 49999,
+        "attr_score by smartprice": 8.3,
+        "release_date": "Apr 26, 2021",
+        "chipset": "Snapdragon 888",
+        "attr_memory": 8.0,
+        "attr_primary storage": 128.0,
+        "attr_display resolution": 2448,
+        "refresh_rate": 144.0,
+        "camera_main": 64.0,
+        "camera_front": 24
+      }
+    },
+    "2b5a66b3-310c-5de0-b9a8-56c9247642ed": {
+      "id": "2b5a66b3-310c-5de0-b9a8-56c9247642ed",
+      "brand": "Asus",
+      "model": "ROG Phone 3 12GB RAM",
+      "attributes": {
+        "cpu": "Qualcomm Snapdragon 865 Plus Processor",
+        "attr_camera specs rear": 64,
+        "attr_camera specs front": 24,
+        "display_size": 6.59,
+        "attr_ram of phone": 12,
+        "storage": 128,
+        "battery_capacity": 6000,
+        "os": "Android v10 (Q) OS",
+        "attr_first site": "Out of Stock",
+        "attr_real price available": 49999,
+        "attr_score by smartprice": 8.3
+      }
+    },
+    "1e1828d6-57c0-5154-9a41-a2e7fcd7063d": {
+      "id": "1e1828d6-57c0-5154-9a41-a2e7fcd7063d",
+      "brand": "ASUS",
+      "model": "ROG Phone 3",
+      "attributes": {
+        "cpu": "Qualcomm Snapdragon 865 Plus Processor",
+        "attr_camera specs rear": 64,
+        "attr_camera specs front": 24,
+        "display_size": 6.59,
+        "attr_ram of phone": 8,
+        "storage": [
+          128,
+          " not expandable"
+        ],
+        "battery_capacity": 6000,
+        "os": "Android v10 (Q) OS",
+        "attr_real price available": 46999,
+        "attr_score by smartprice": 8.7,
+        "release_date": "Jul 23, 2020",
+        "chipset": "Qualcomm Snapdragon 865+",
+        "attr_memory": 12.0,
+        "attr_primary storage": 128.0,
+        "attr_display resolution": 2340,
+        "refresh_rate": 144.0
+      }
+    },
+    "43a8bee9-05ed-5ada-9a78-b743daa177a1": {
+      "id": "43a8bee9-05ed-5ada-9a78-b743daa177a1",
+      "brand": "Asus",
+      "model": "Zenfone 8 Mini (S-888 8/128)",
+      "attributes": {
+        "cpu": 195299,
+        "gpu": 307939,
+        "attr_mem": 131853,
+        "attr_ux": 153924,
+        "attr_total score": 789015
+      }
+    },
+    "ed9957bc-ef94-53ce-88f9-5b1b8c52c955": {
+      "id": "ed9957bc-ef94-53ce-88f9-5b1b8c52c955",
+      "brand": "ASUS",
+      "model": "ROG Phone 3 Strix 12/128GB Black (90AI0031-M00010)",
+      "attributes": {
+        "attr_unnamed 0": 754,
+        "os": "Android",
+        "attr_popularity": 973,
+        "mrp": 17970.0,
+        "attr_highest price": 19999.0,
+        "attr_sellers amount": 5,
+        "display_size": 6.59,
+        "attr_memory size": 128.0,
+        "attr_battery size": 6000.0,
+        "release_date": 9
+      }
+    },
+    "71d77a06-5468-5d38-ac19-a35abac42e07": {
+      "id": "71d77a06-5468-5d38-ac19-a35abac42e07",
+      "brand": "ASUS",
+      "model": "ROG Phone 3 ZS661KS 12/128GB Black (90AI0032-M00180)",
+      "attributes": {
+        "attr_unnamed 0": 755,
+        "os": "Android",
+        "attr_popularity": 1140,
+        "mrp": 17589.0,
+        "attr_highest price": 20634.0,
+        "attr_sellers amount": 7,
+        "display_size": 6.59,
+        "attr_memory size": 128.0,
+        "attr_battery size": 6000.0,
+        "release_date": 9
+      }
+    },
+    "0fb99e9b-a314-5d8c-ba50-2f729a355959": {
+      "id": "0fb99e9b-a314-5d8c-ba50-2f729a355959",
+      "brand": "ASUS",
+      "model": "ROG Phone 3 ZS661KS 12/256GB Black",
+      "attributes": {
+        "attr_unnamed 0": 756,
+        "os": "Android",
+        "attr_popularity": 1002,
+        "mrp": 21377.0,
+        "attr_highest price": 22400.0,
+        "attr_sellers amount": 5,
+        "display_size": 6.59,
+        "attr_memory size": 256.0,
+        "attr_battery size": 6000.0,
+        "release_date": 9
+      }
+    },
+    "ca04aa19-4d54-54dd-a450-cf0527ff4da0": {
+      "id": "ca04aa19-4d54-54dd-a450-cf0527ff4da0",
+      "brand": "ASUS",
+      "model": "ROG Phone 3 ZS661KS 12/512GB Black",
+      "attributes": {
+        "attr_unnamed 0": 757,
+        "os": "Android",
+        "attr_popularity": 1088,
+        "mrp": 27299.0,
+        "attr_highest price": 29999.0,
+        "attr_sellers amount": 11,
+        "display_size": 6.59,
+        "attr_memory size": 512.0,
+        "attr_battery size": 6000.0,
+        "release_date": 9
+      }
+    },
+    "bcef5121-cd14-5814-9223-989837a5da08": {
+      "id": "bcef5121-cd14-5814-9223-989837a5da08",
+      "brand": "ASUS",
+      "model": "ROG Phone 8/512GB DualSim Black",
+      "attributes": {
+        "attr_unnamed 0": 758,
+        "os": "Android",
+        "attr_popularity": 112,
+        "attr_sellers amount": 1,
+        "display_size": 6.0,
+        "attr_memory size": 512.0,
+        "attr_battery size": 4000.0,
+        "release_date": 12
+      }
+    },
+    "3ef6bf5d-a528-55e6-9f55-8221c2c82b55": {
+      "id": "3ef6bf5d-a528-55e6-9f55-8221c2c82b55",
+      "brand": "ASUS",
+      "model": "ZenFone Live ZB501KL Navy Black (ZB501KL-4A053A)",
+      "attributes": {
+        "attr_unnamed 0": 1086,
+        "os": "Android",
+        "attr_popularity": 281,
+        "attr_sellers amount": 1,
+        "display_size": 5.0,
+        "attr_memory size": 32.0,
+        "attr_battery size": 2650.0,
+        "release_date": 7
+      }
+    },
+    "c7c94be3-ec1e-550b-b844-8717f056ba7b": {
+      "id": "c7c94be3-ec1e-550b-b844-8717f056ba7b",
+      "brand": "ASUS",
+      "model": "Zenfone 5 ZE620KL 4/64GB Blue (ZE620KL-1A012WW)",
+      "attributes": {
+        "attr_unnamed 0": 1087,
+        "os": "Android",
+        "attr_popularity": 893,
+        "mrp": 5528.0,
+        "attr_highest price": 5799.0,
+        "attr_sellers amount": 2,
+        "display_size": 6.2,
+        "attr_memory size": 64.0,
+        "attr_battery size": 3300.0,
+        "release_date": 3
+      }
+    },
+    "f8203713-a989-5226-a7ee-d633b8b46a76": {
+      "id": "f8203713-a989-5226-a7ee-d633b8b46a76",
+      "brand": "ASUS",
+      "model": "Zenfone 7 Pro ZS671KS 8/256GB Black",
+      "attributes": {
+        "attr_unnamed 0": 1088,
+        "os": "Android",
+        "attr_popularity": 980,
+        "mrp": 26290.0,
+        "attr_highest price": 31299.0,
+        "attr_sellers amount": 23,
+        "display_size": 6.67,
+        "attr_memory size": 256.0,
+        "attr_battery size": 5000.0,
+        "release_date": 10
+      }
+    },
+    "f5cf1ad2-5ac0-5a2d-af17-5f83c351620b": {
+      "id": "f5cf1ad2-5ac0-5a2d-af17-5f83c351620b",
+      "brand": "ASUS",
+      "model": "Zenfone 7 ZS670KS 8/128GB Black",
+      "attributes": {
+        "attr_unnamed 0": 1089,
+        "os": "Android",
+        "attr_popularity": 1012,
+        "mrp": 20650.0,
+        "attr_highest price": 23799.0,
+        "attr_sellers amount": 20,
+        "display_size": 6.67,
+        "attr_memory size": 128.0,
+        "attr_battery size": 5000.0,
+        "release_date": 10
+      }
+    },
+    "db71f42c-3f57-5c21-8a16-79bca2dc6003": {
+      "id": "db71f42c-3f57-5c21-8a16-79bca2dc6003",
+      "brand": "Asus",
+      "model": "ROG Phone 6 Pro 5G",
+      "attributes": {
+        "price": "₹89,999",
+        "rating": 88.0,
+        "sim": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",
+        "chipset": "Snapdragon 8+ Gen1, Octa Core, 3.2 GHz Processor",
+        "ram": 18,
+        "battery_capacity": 6000,
+        "display_size": 6.78,
+        "camera_main": 50,
+        "attr_card": "Memory Card Not Supported",
+        "os": "Android v12"
+      }
+    },
+    "cbaa2742-07ff-524a-af2d-8c9a872bd3cf": {
+      "id": "cbaa2742-07ff-524a-af2d-8c9a872bd3cf",
+      "brand": "Asus",
+      "model": "ROG Phone 7",
+      "attributes": {
+        "price": "₹75,990",
+        "rating": 87.0,
+        "sim": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",
+        "chipset": "Snapdragon 8 Gen2, Octa Core, 3.2 GHz Processor",
+        "ram": 18,
+        "battery_capacity": 6000,
+        "display_size": 6.8,
+        "camera_main": 64,
+        "attr_card": "Memory Card Not Supported",
+        "os": "Android v13"
+      }
+    },
+    "986f0df0-a422-5f27-ab03-0ed2277b527b": {
+      "id": "986f0df0-a422-5f27-ab03-0ed2277b527b",
+      "brand": "Asus",
+      "model": "ROG Phone 6 Batman Edition",
+      "attributes": {
+        "price": "₹72,999",
+        "rating": 88.0,
+        "sim": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",
+        "chipset": "Dimensity 9000 Plus, Octa Core, 3.2 GHz Processor",
+        "ram": 16,
+        "battery_capacity": 6000,
+        "display_size": 6.78,
+        "camera_main": 50,
+        "attr_card": "Memory Card Not Supported",
+        "os": "Android v12"
+      }
+    },
+    "bb027d35-dbcb-5a39-b64c-8b2885c176b6": {
+      "id": "bb027d35-dbcb-5a39-b64c-8b2885c176b6",
+      "brand": "Asus",
+      "model": "ZenFone 9",
+      "attributes": {
+        "price": "₹63,990",
+        "rating": 86.0,
+        "sim": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",
+        "chipset": "Snapdragon 8+ Gen1, Octa Core, 3.2 GHz Processor",
+        "ram": 8,
+        "battery_capacity": 4300,
+        "display_size": 5.9,
+        "camera_main": 50,
+        "attr_card": "Android v12",
+        "os": "No FM Radio",
+        "release_date": "Jul 28, 2022",
+        "attr_memory": 8.0,
+        "attr_primary storage": 128.0,
+        "storage": " not expandable",
+        "attr_display resolution": 2400,
+        "refresh_rate": 120.0,
+        "camera_front": 12
+      }
+    },
+    "6ece1f6d-5c03-5927-a47b-861ca19be74c": {
+      "id": "6ece1f6d-5c03-5927-a47b-861ca19be74c",
+      "brand": "Asus",
+      "model": "ROG Phone 6",
+      "attributes": {
+        "price": "₹71,999",
+        "rating": 86.0,
+        "sim": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",
+        "chipset": "Snapdragon 8+ Gen1, Octa Core, 3.2 GHz Processor",
+        "ram": 12,
+        "battery_capacity": 6000,
+        "display_size": 6.78,
+        "camera_main": 50,
+        "attr_card": "Memory Card Not Supported",
+        "os": "Android v12",
+        "release_date": "Jul 13, 2022",
+        "attr_memory": 16.0,
+        "attr_primary storage": 512.0,
+        "storage": " not expandable ",
+        "attr_display resolution": 2448,
+        "refresh_rate": 165.0,
+        "camera_front": 12
+      }
+    },
+    "3d343c12-bbcd-5737-87b6-aff7f9fb7594": {
+      "id": "3d343c12-bbcd-5737-87b6-aff7f9fb7594",
+      "brand": "Asus",
+      "model": "ROG Phone 6D Ultimate",
+      "attributes": {
+        "price": "₹1,07,990",
+        "sim": "Dual Sim, 3G, 4G, 5G, VoLTE, Wi-Fi, NFC",
+        "chipset": "Dimensity 9000 Plus, Octa Core, 3.2 GHz Processor",
+        "ram": 16,
+        "battery_capacity": 6000,
+        "display_size": 6.78,
+        "camera_main": "Dual Display",
+        "attr_card": 50,
+        "os": "Memory Card Not Supported"
+      }
+    },
+    "8743fe8a-2018-5cff-8a31-5d1660a4d933": {
+      "id": "8743fe8a-2018-5cff-8a31-5d1660a4d933",
+      "brand": "asus",
+      "model": "Asus ROG Phone 6 Pro 5G",
+      "attributes": {
+        "price": [
+          89999
+        ],
+        "rating": 88.0,
+        "attr_has 5g": true,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "snapdragon",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 3.2,
+        "battery_capacity": 6000.0,
+        "attr_fast charging available": 1,
+        "charging": 65.0,
+        "attr_ram capacity": 18,
+        "attr_internal memory": 512,
+        "display_size": 6.78,
+        "refresh_rate": 165,
+        "camera_main": 12.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 0,
+        "attr_resolution width": 1080,
+        "attr_resolution height": 2448
+      }
+    },
+    "dbe34cdb-d85d-5288-b034-c43793a232a1": {
+      "id": "dbe34cdb-d85d-5288-b034-c43793a232a1",
+      "brand": "asus",
+      "model": "Asus ROG Phone 7",
+      "attributes": {
+        "price": [
+          75990
+        ],
+        "rating": 87.0,
+        "attr_has 5g": true,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "snapdragon",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 3.2,
+        "battery_capacity": 6000.0,
+        "attr_fast charging available": 1,
+        "charging": 120.0,
+        "attr_ram capacity": 18,
+        "attr_internal memory": 256,
+        "display_size": 6.8,
+        "refresh_rate": 165,
+        "camera_main": 32.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 0,
+        "attr_resolution width": 1080,
+        "attr_resolution height": 2448
+      }
+    },
+    "5aee5846-483d-5710-a6dc-df05f5cd5acd": {
+      "id": "5aee5846-483d-5710-a6dc-df05f5cd5acd",
+      "brand": "asus",
+      "model": "Asus ROG Phone 6 Batman Edition",
+      "attributes": {
+        "price": [
+          72999
+        ],
+        "rating": 88.0,
+        "attr_has 5g": true,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "dimensity",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 3.2,
+        "battery_capacity": 6000.0,
+        "attr_fast charging available": 1,
+        "charging": 65.0,
+        "attr_ram capacity": 16,
+        "attr_internal memory": 256,
+        "display_size": 6.78,
+        "refresh_rate": 165,
+        "camera_main": 12.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 0,
+        "attr_resolution width": 1080,
+        "attr_resolution height": 2448
+      }
+    },
+    "ab35e23d-9e0a-561a-915e-913ce18fe934": {
+      "id": "ab35e23d-9e0a-561a-915e-913ce18fe934",
+      "brand": "asus",
+      "model": "Asus ZenFone 9",
+      "attributes": {
+        "price": [
+          63990
+        ],
+        "rating": 86.0,
+        "attr_has 5g": true,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "snapdragon",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 3.2,
+        "battery_capacity": 4300.0,
+        "attr_fast charging available": 1,
+        "charging": 30.0,
+        "attr_ram capacity": 8,
+        "attr_internal memory": 128,
+        "display_size": 5.9,
+        "refresh_rate": 120,
+        "camera_main": 12.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 0,
+        "attr_resolution width": 1080,
+        "attr_resolution height": 2400
+      }
+    },
+    "581cea5e-2e69-59ab-8805-3b5438d24490": {
+      "id": "581cea5e-2e69-59ab-8805-3b5438d24490",
+      "brand": "asus",
+      "model": "Asus ROG Phone 5s 5G",
+      "attributes": {
+        "price": [
+          39999,
+          55999
+        ],
+        "rating": 87.0,
+        "attr_has 5g": true,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "snapdragon",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.9,
+        "battery_capacity": 6000.0,
+        "attr_fast charging available": 1,
+        "charging": 65.0,
+        "attr_ram capacity": 8,
+        "attr_internal memory": 128,
+        "display_size": 6.78,
+        "refresh_rate": 144,
+        "camera_main": 24.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 0,
+        "attr_resolution width": 1080,
+        "attr_resolution height": 2448,
+        "ram": 8.0,
+        "storage": 128.0,
+        "attr_has fingerprints": "Yes",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 64.0,
+        "display_type": "amoled display"
+      }
+    },
+    "2d99e97f-f985-5d57-853b-04a8235b3568": {
+      "id": "2d99e97f-f985-5d57-853b-04a8235b3568",
+      "brand": "asus",
+      "model": "Asus ROG Phone 6",
+      "attributes": {
+        "price": [
+          71999
+        ],
+        "rating": 86.0,
+        "attr_has 5g": true,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "snapdragon",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 3.2,
+        "battery_capacity": 6000.0,
+        "attr_fast charging available": 1,
+        "charging": 65.0,
+        "attr_ram capacity": 12,
+        "attr_internal memory": 256,
+        "display_size": 6.78,
+        "refresh_rate": 165,
+        "camera_main": 12.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 0,
+        "attr_resolution width": 1080,
+        "attr_resolution height": 2448
+      }
+    },
+    "350c9778-dcec-59b1-967d-2b768e582d32": {
+      "id": "350c9778-dcec-59b1-967d-2b768e582d32",
+      "brand": "asus",
+      "model": "Asus ROG Phone 6D Ultimate",
+      "attributes": {
+        "price": [
+          107990
+        ],
+        "attr_has 5g": true,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "dimensity",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 3.2,
+        "battery_capacity": 6000.0,
+        "attr_fast charging available": 1,
+        "charging": 65.0,
+        "attr_ram capacity": 16,
+        "attr_internal memory": 512,
+        "display_size": 6.78,
+        "refresh_rate": 165,
+        "camera_main": 12.0,
+        "camera_front": 1.0,
+        "attr_extended memory available": 0,
+        "attr_resolution width": 1080,
+        "attr_resolution height": 2448
+      }
+    },
+    "0a5cd1f1-78a8-515f-953f-10be03cf2eb6": {
+      "id": "0a5cd1f1-78a8-515f-953f-10be03cf2eb6",
+      "brand": "asus",
+      "model": "asus rog phone 8 pro",
+      "attributes": {
+        "price": 94999,
+        "ram": 16.0,
+        "os": "android",
+        "storage": 512.0,
+        "battery_capacity": 5500,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 50.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.78,
+        "refresh_rate": 165.0,
+        "display_type": "amoled display"
+      }
+    },
+    "4bceb647-9ff6-566f-9043-2147e8e55ac6": {
+      "id": "4bceb647-9ff6-566f-9043-2147e8e55ac6",
+      "brand": "asus",
+      "model": "asus rog phone 5s 5g 256gb",
+      "attributes": {
+        "price": 32999,
+        "ram": 12.0,
+        "os": "android",
+        "storage": 256.0,
+        "battery_capacity": 6000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 64.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.78,
+        "refresh_rate": 144.0,
+        "display_type": "amoled display"
+      }
+    },
+    "ef4c8aa9-0f0f-56ef-8705-7e7adf2877f9": {
+      "id": "ef4c8aa9-0f0f-56ef-8705-7e7adf2877f9",
+      "brand": "asus",
+      "model": "asus rog phone 3",
+      "attributes": {
+        "price": 55999,
+        "ram": 8.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 6000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 64.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.59,
+        "refresh_rate": 144.0,
+        "display_type": "amoled display"
+      }
+    },
+    "c6f33d27-7d44-5283-8959-e9b6420365dd": {
+      "id": "c6f33d27-7d44-5283-8959-e9b6420365dd",
+      "brand": "asus",
+      "model": "asus 8z",
+      "attributes": {
+        "price": 48999,
+        "ram": 8.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 4000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 64.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 5.9,
+        "refresh_rate": 120.0,
+        "display_type": "amoled display"
+      }
+    },
+    "af5849c5-0919-5cab-ba4f-3871f613ce3d": {
+      "id": "af5849c5-0919-5cab-ba4f-3871f613ce3d",
+      "brand": "asus",
+      "model": "asus rog phone 5",
+      "attributes": {
+        "price": 55999,
+        "ram": 8.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 6000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 64.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.78,
+        "refresh_rate": 144.0,
+        "display_type": "amoled display"
+      }
+    },
+    "f50f8e1f-1506-5b15-8ed8-4abbdfe31573": {
+      "id": "f50f8e1f-1506-5b15-8ed8-4abbdfe31573",
+      "brand": "asus",
+      "model": "asus rog phone 8 pro 1tb",
+      "attributes": {
+        "price": 119999,
+        "ram": 24.0,
+        "os": "android",
+        "storage": 1024.0,
+        "battery_capacity": 5500,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 50.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.78,
+        "refresh_rate": 165.0,
+        "display_type": "amoled display"
+      }
+    },
+    "9b897519-2a76-58e6-b4fd-5b943b60ffcd": {
+      "id": "9b897519-2a76-58e6-b4fd-5b943b60ffcd",
+      "brand": "asus",
+      "model": "asus zenfone 2 laser ze550kl 3gb ram",
+      "attributes": {
+        "price": 13999,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "7706610d-a0b6-5b2c-8a25-2c2bf7fbe971": {
+      "id": "7706610d-a0b6-5b2c-8a25-2c2bf7fbe971",
+      "brand": "asus",
+      "model": "asus zenfone lite l1",
+      "attributes": {
+        "price": 7199,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.45,
+        "display_type": "lcd display"
+      }
+    },
+    "095359aa-8216-52c6-82c1-ca54eaacfbf6": {
+      "id": "095359aa-8216-52c6-82c1-ca54eaacfbf6",
+      "brand": "asus",
+      "model": "asus rog phone 2",
+      "attributes": {
+        "price": 40999,
+        "ram": 8.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 6000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 48.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.59,
+        "refresh_rate": 120.0,
+        "display_type": "amoled display"
+      }
+    },
+    "d07187c3-8bb3-58e9-ad28-be8d695b6984": {
+      "id": "d07187c3-8bb3-58e9-ad28-be8d695b6984",
+      "brand": "asus",
+      "model": "asus zenfone max pro m1 64gb",
+      "attributes": {
+        "price": 9990,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 5000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 5.99,
+        "display_type": "lcd display"
+      }
+    },
+    "2c6a19a7-ec1d-5cd9-9220-0096d0fe9f2c": {
+      "id": "2c6a19a7-ec1d-5cd9-9220-0096d0fe9f2c",
+      "brand": "asus",
+      "model": "asus zenfone max pro m2",
+      "attributes": {
+        "price": 15999,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 12.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.26,
+        "display_type": "lcd display"
+      }
+    },
+    "52b994e0-1e2f-5ecd-bd8e-2044f59ac27d": {
+      "id": "52b994e0-1e2f-5ecd-bd8e-2044f59ac27d",
+      "brand": "asus",
+      "model": "asus 6z",
+      "attributes": {
+        "price": 35999,
+        "ram": 6.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 48.0,
+        "camera_main": 2,
+        "camera_front": 2,
+        "display_size": 6.4,
+        "display_type": "lcd display"
+      }
+    },
+    "64a33cfc-55d8-5931-a611-f701228491cc": {
+      "id": "64a33cfc-55d8-5931-a611-f701228491cc",
+      "brand": "asus",
+      "model": "asus 6z 128gb",
+      "attributes": {
+        "price": 38999,
+        "ram": 6.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 48.0,
+        "camera_main": 2,
+        "camera_front": 2,
+        "display_size": 6.4,
+        "display_type": "lcd display"
+      }
+    },
+    "927b693e-649f-5240-93e6-ae5b38f522d8": {
+      "id": "927b693e-649f-5240-93e6-ae5b38f522d8",
+      "brand": "asus",
+      "model": "asus zenfone 3 max zc553kl",
+      "attributes": {
+        "price": 18999,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 4100,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 16.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "7e52f261-67c2-5ee9-864b-e882928e8465": {
+      "id": "7e52f261-67c2-5ee9-864b-e882928e8465",
+      "brand": "asus",
+      "model": "asus rog phone 5 ultimate",
+      "attributes": {
+        "price": 85999,
+        "ram": 18.0,
+        "os": "android",
+        "storage": 512.0,
+        "battery_capacity": 6000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 64.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.78,
+        "refresh_rate": 144.0,
+        "display_type": "amoled display"
+      }
+    },
+    "58119ee1-7821-5188-a9c2-fe94cb0b546d": {
+      "id": "58119ee1-7821-5188-a9c2-fe94cb0b546d",
+      "brand": "asus",
+      "model": "asus zenfone 2 laser ze500kl",
+      "attributes": {
+        "price": 9799,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2070,
+        "charging": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "783df90a-da69-5f9a-963c-42ff1f2cbb02": {
+      "id": "783df90a-da69-5f9a-963c-42ff1f2cbb02",
+      "brand": "asus",
+      "model": "asus zenfone max zc550kl",
+      "attributes": {
+        "price": 7499,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "2e4bede1-b6d9-52ec-a1a6-84b1c53afbaf": {
+      "id": "2e4bede1-b6d9-52ec-a1a6-84b1c53afbaf",
+      "brand": "asus",
+      "model": "asus zenfone 2 laser ze500kl 8gb",
+      "attributes": {
+        "price": 10499,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2070,
+        "charging": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "0b9e4250-ee5f-5441-a697-0c256469df64": {
+      "id": "0b9e4250-ee5f-5441-a697-0c256469df64",
+      "brand": "asus",
+      "model": "asus zenfone 5z 256gb",
+      "attributes": {
+        "price": 43999,
+        "ram": 8.0,
+        "os": "android",
+        "storage": 256.0,
+        "battery_capacity": 3300,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 12.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.2,
+        "display_type": "lcd display"
+      }
+    },
+    "90f23fa8-f10c-5243-981d-20643613799e": {
+      "id": "90f23fa8-f10c-5243-981d-20643613799e",
+      "brand": "asus",
+      "model": "asus zenfone max pro m1 6gb ram",
+      "attributes": {
+        "price": 11999,
+        "ram": 6.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 5000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 16.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 5.99,
+        "display_type": "lcd display"
+      }
+    },
+    "fed003ed-a95d-5264-8ea6-9772aae3d8b8": {
+      "id": "fed003ed-a95d-5264-8ea6-9772aae3d8b8",
+      "brand": "asus",
+      "model": "asus zenfone max m1",
+      "attributes": {
+        "price": 8999,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 4000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.45,
+        "display_type": "lcd display"
+      }
+    },
+    "c46d4005-1245-5ce1-993e-83094d8b9ffe": {
+      "id": "c46d4005-1245-5ce1-993e-83094d8b9ffe",
+      "brand": "asus",
+      "model": "asus zenfone max pro m2 64gb",
+      "attributes": {
+        "price": 17999,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 12.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.26,
+        "display_type": "lcd display"
+      }
+    },
+    "afbfafe1-e7d0-5513-9736-2a6bc3f36f11": {
+      "id": "afbfafe1-e7d0-5513-9736-2a6bc3f36f11",
+      "brand": "asus",
+      "model": "asus rog phone 3 256gb",
+      "attributes": {
+        "price": 65999,
+        "ram": 12.0,
+        "os": "android",
+        "storage": 256.0,
+        "battery_capacity": 6000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 64.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.59,
+        "refresh_rate": 144.0,
+        "display_type": "amoled display"
+      }
+    },
+    "7f97bc31-771e-51ff-9202-c568319c52f2": {
+      "id": "7f97bc31-771e-51ff-9202-c568319c52f2",
+      "brand": "asus",
+      "model": "asus rog phone 3 12gb ram",
+      "attributes": {
+        "price": 57999,
+        "ram": 12.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 6000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 64.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.59,
+        "refresh_rate": 144.0,
+        "display_type": "amoled display"
+      }
+    },
+    "392e0302-b46e-513a-a197-6f54ddad2840": {
+      "id": "392e0302-b46e-513a-a197-6f54ddad2840",
+      "brand": "asus",
+      "model": "asus zenfone 5 (8gb, 1.6ghz)",
+      "attributes": {
+        "price": 8595,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2110,
+        "charging": "No",
+        "attr_processor brand": "intel",
+        "attr_num core": 2.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "059bf7f9-3c40-51ee-9ae8-f30afeaa45cb": {
+      "id": "059bf7f9-3c40-51ee-9ae8-f30afeaa45cb",
+      "brand": "asus",
+      "model": "asus zenfone 4 a450cg",
+      "attributes": {
+        "price": 7499,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 1750,
+        "charging": "No",
+        "attr_processor brand": "intel",
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.5,
+        "display_type": "lcd display"
+      }
+    },
+    "eabedb9f-a97c-5697-996c-76ac36279e97": {
+      "id": "eabedb9f-a97c-5697-996c-76ac36279e97",
+      "brand": "asus",
+      "model": "asus zenfone 4",
+      "attributes": {
+        "price": 6200,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 1600,
+        "charging": "No",
+        "attr_processor brand": "intel",
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.0,
+        "display_type": "tft display"
+      }
+    },
+    "7ce3f5ea-39cd-5900-8450-835d32bc8319": {
+      "id": "7ce3f5ea-39cd-5900-8450-835d32bc8319",
+      "brand": "asus",
+      "model": "asus zenfone c zc451cg",
+      "attributes": {
+        "price": 5299,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2100,
+        "charging": "No",
+        "attr_processor brand": "intel",
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.5,
+        "display_type": "lcd display"
+      }
+    },
+    "93d67332-513a-5bb4-a37b-eec5a4fc9060": {
+      "id": "93d67332-513a-5bb4-a37b-eec5a4fc9060",
+      "brand": "asus",
+      "model": "asus zenfone 2 ze551ml (2gb ram, full hd, 16gb, 1.8ghz)",
+      "attributes": {
+        "price": 14120,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "No",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "intel",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "8cc744ea-4706-5af4-a510-3e466d2b867c": {
+      "id": "8cc744ea-4706-5af4-a510-3e466d2b867c",
+      "brand": "asus",
+      "model": "asus zenfone 2 4gb ram 64gb 2.3ghz",
+      "attributes": {
+        "price": 22899,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "No",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "intel",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "e35e5317-d017-502c-9975-9725a6cd83d2": {
+      "id": "e35e5317-d017-502c-9975-9725a6cd83d2",
+      "brand": "asus",
+      "model": "asus zenfone 3",
+      "attributes": {
+        "price": 22999,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 2650,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 16.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.2,
+        "display_type": "lcd display"
+      }
+    },
+    "d6fb40d3-f52a-5565-aa57-159fda9ad737": {
+      "id": "d6fb40d3-f52a-5565-aa57-159fda9ad737",
+      "brand": "asus",
+      "model": "asus zenfone selfie 32gb",
+      "attributes": {
+        "price": 16999,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "e70accb4-b974-5c97-9385-cc4b45728963": {
+      "id": "e70accb4-b974-5c97-9385-cc4b45728963",
+      "brand": "asus",
+      "model": "asus padfone mini pf400cg",
+      "attributes": {
+        "price": 9347,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 1200,
+        "charging": "No",
+        "attr_processor brand": "intel",
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.0,
+        "display_type": "lcd display"
+      }
+    },
+    "4cd5aae2-f88a-5c9a-a85e-898d3189ddd7": {
+      "id": "4cd5aae2-f88a-5c9a-a85e-898d3189ddd7",
+      "brand": "asus",
+      "model": "asus zenfone 2 deluxe 64gb",
+      "attributes": {
+        "price": 22999,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "No",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "intel",
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "99f6e03f-7503-51b9-a6ca-4768bd4d77e6": {
+      "id": "99f6e03f-7503-51b9-a6ca-4768bd4d77e6",
+      "brand": "asus",
+      "model": "asus zenfone 2 ze551ml 4gb ram 128gb 2.3ghz",
+      "attributes": {
+        "price": 29999,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "No",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "intel",
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "d404de93-1898-5830-a65d-bc3864d512ef": {
+      "id": "d404de93-1898-5830-a65d-bc3864d512ef",
+      "brand": "asus",
+      "model": "asus zenfone 2 ze551ml 4gb ram 16gb 1.8ghz",
+      "attributes": {
+        "price": 17999,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "No",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "intel",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "fbd7acd6-dbdd-5683-a819-10b075c2b5b6": {
+      "id": "fbd7acd6-dbdd-5683-a819-10b075c2b5b6",
+      "brand": "asus",
+      "model": "asus zenfone selfie 16gb",
+      "attributes": {
+        "price": 14999,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "dcc8fe53-9d10-5975-98fb-383ce7021581": {
+      "id": "dcc8fe53-9d10-5975-98fb-383ce7021581",
+      "brand": "asus",
+      "model": "asus zenfone go zc451tg",
+      "attributes": {
+        "price": 5299,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 1600,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.5,
+        "display_type": "lcd display"
+      }
+    },
+    "a9287c6d-357c-512d-9e95-b0a63223e005": {
+      "id": "a9287c6d-357c-512d-9e95-b0a63223e005",
+      "brand": "asus",
+      "model": "asus zenfone 2 laser ze550kl",
+      "attributes": {
+        "price": 8499,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "1763cd82-28c2-5b3f-8904-4667449f71c6": {
+      "id": "1763cd82-28c2-5b3f-8904-4667449f71c6",
+      "brand": "asus",
+      "model": "asus zenfone selfie 3gb ram 16gb",
+      "attributes": {
+        "price": 9999,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "5ba34d2e-e147-522b-962f-f9fe8c28d2f6": {
+      "id": "5ba34d2e-e147-522b-962f-f9fe8c28d2f6",
+      "brand": "asus",
+      "model": "asus zenfone max 2016 3gb ram",
+      "attributes": {
+        "price": 14499,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "other display"
+      }
+    },
+    "0ab92203-67dc-59db-960c-485137a172b0": {
+      "id": "0ab92203-67dc-59db-960c-485137a172b0",
+      "brand": "asus",
+      "model": "asus zenfone 3 deluxe",
+      "attributes": {
+        "price": 50999,
+        "ram": 6.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 23.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.7,
+        "display_type": "amoled display"
+      }
+    },
+    "fb6dc4fa-805e-535e-ab60-5ec7af44f456": {
+      "id": "fb6dc4fa-805e-535e-ab60-5ec7af44f456",
+      "brand": "asus",
+      "model": "asus zenfone 3 laser zc551kl",
+      "attributes": {
+        "price": 19999,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "22ac6df9-e9cb-51cc-bf2a-7751a8fabb7e": {
+      "id": "22ac6df9-e9cb-51cc-bf2a-7751a8fabb7e",
+      "brand": "asus",
+      "model": "asus zenfone 3 max",
+      "attributes": {
+        "price": 13999,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 4100,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.2,
+        "display_type": "lcd display"
+      }
+    },
+    "5052abf6-3a87-5bfb-812d-560994d0a226": {
+      "id": "5052abf6-3a87-5bfb-812d-560994d0a226",
+      "brand": "asus",
+      "model": "asus zenfone 3 deluxe 256gb",
+      "attributes": {
+        "price": 63999,
+        "ram": 6.0,
+        "os": "android",
+        "storage": 256.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 23.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.7,
+        "display_type": "amoled display"
+      }
+    },
+    "431ddb93-7011-5fb1-acbd-85f992ebd362": {
+      "id": "431ddb93-7011-5fb1-acbd-85f992ebd362",
+      "brand": "asus",
+      "model": "asus zenfone ar zs571kl",
+      "attributes": {
+        "price": 49999,
+        "ram": 8.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 3300,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 23.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.7,
+        "display_type": "amoled display"
+      }
+    },
+    "e6533bfd-4c04-5627-824a-99a3324164e5": {
+      "id": "e6533bfd-4c04-5627-824a-99a3324164e5",
+      "brand": "asus",
+      "model": "asus zenfone 3s max",
+      "attributes": {
+        "price": 14999,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.2,
+        "display_type": "lcd display"
+      }
+    },
+    "df810ae5-1ee7-5fa4-82ae-8770f97e126a": {
+      "id": "df810ae5-1ee7-5fa4-82ae-8770f97e126a",
+      "brand": "asus",
+      "model": "asus zenfone live 16gb",
+      "attributes": {
+        "price": 10499,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2650,
+        "charging": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "d10f699e-dda7-5a5d-96ad-23d88ea2eb09": {
+      "id": "d10f699e-dda7-5a5d-96ad-23d88ea2eb09",
+      "brand": "asus",
+      "model": "asus zenfone 4 selfie zb553kl",
+      "attributes": {
+        "price": 6299,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "ba637f23-a38c-5211-85bf-6d44b12d7746": {
+      "id": "ba637f23-a38c-5211-85bf-6d44b12d7746",
+      "brand": "asus",
+      "model": "asus zenfone 4 selfie pro",
+      "attributes": {
+        "price": 25999,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 16.0,
+        "camera_main": 1,
+        "camera_front": 2,
+        "display_size": 5.5,
+        "display_type": "amoled display"
+      }
+    },
+    "76566120-0da5-5f33-b7be-4d716948f044": {
+      "id": "76566120-0da5-5f33-b7be-4d716948f044",
+      "brand": "asus",
+      "model": "asus zenfone 4 selfie",
+      "attributes": {
+        "price": 7499,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 16.0,
+        "camera_main": 1,
+        "camera_front": 2,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "5b8d6615-9b23-5d0a-8473-a60c0130dc0d": {
+      "id": "5b8d6615-9b23-5d0a-8473-a60c0130dc0d",
+      "brand": "asus",
+      "model": "asus zenfone 5z",
+      "attributes": {
+        "price": 32999,
+        "ram": 6.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 3300,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 12.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.2,
+        "display_type": "lcd display"
+      }
+    },
+    "7ce97634-2076-5fe0-aab7-413aaca1a0d6": {
+      "id": "7ce97634-2076-5fe0-aab7-413aaca1a0d6",
+      "brand": "asus",
+      "model": "asus zenfone max pro m1",
+      "attributes": {
+        "price": 7999,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 5000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 5.99,
+        "display_type": "lcd display"
+      }
+    },
+    "32366795-aa48-5d78-8b71-99dd7cf417ad": {
+      "id": "32366795-aa48-5d78-8b71-99dd7cf417ad",
+      "brand": "asus",
+      "model": "asus rog phone",
+      "attributes": {
+        "price": 83999,
+        "ram": 8.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 4000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 12.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.0,
+        "refresh_rate": 90.0,
+        "display_type": "amoled display"
+      }
+    },
+    "78c0100b-19f9-5bcc-a25b-97aaeb7d21e8": {
+      "id": "78c0100b-19f9-5bcc-a25b-97aaeb7d21e8",
+      "brand": "asus",
+      "model": "asus zenfone 5z 128gb",
+      "attributes": {
+        "price": 36299,
+        "ram": 6.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 3300,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 12.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.2,
+        "display_type": "lcd display"
+      }
+    },
+    "424426ac-1d29-50f9-ad6d-83d98932efdc": {
+      "id": "424426ac-1d29-50f9-ad6d-83d98932efdc",
+      "brand": "asus",
+      "model": "asus zenfone zoom s",
+      "attributes": {
+        "price": 26999,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 12.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "amoled display"
+      }
+    },
+    "c96544c9-937a-5f4c-815f-f0eba136c97c": {
+      "id": "c96544c9-937a-5f4c-815f-f0eba136c97c",
+      "brand": "asus",
+      "model": "asus zenfone max m2",
+      "attributes": {
+        "price": 12999,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 4000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.26,
+        "display_type": "lcd display"
+      }
+    },
+    "546b3312-43ee-5a56-86d6-19c52498dea3": {
+      "id": "546b3312-43ee-5a56-86d6-19c52498dea3",
+      "brand": "asus",
+      "model": "asus zenfone max m2 64gb",
+      "attributes": {
+        "price": 14999,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 4000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.26,
+        "display_type": "lcd display"
+      }
+    },
+    "1c20ba6c-4787-581d-a617-fcc643e0500e": {
+      "id": "1c20ba6c-4787-581d-a617-fcc643e0500e",
+      "brand": "asus",
+      "model": "asus zenfone max pro m2 6gb ram",
+      "attributes": {
+        "price": 19999,
+        "ram": 6.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 12.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.26,
+        "display_type": "lcd display"
+      }
+    },
+    "8bf81c3f-3e7f-5399-a50b-562510fcc613": {
+      "id": "8bf81c3f-3e7f-5399-a50b-562510fcc613",
+      "brand": "asus",
+      "model": "asus 6z 256gb",
+      "attributes": {
+        "price": 43999,
+        "ram": 8.0,
+        "os": "android",
+        "storage": 256.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 48.0,
+        "camera_main": 2,
+        "camera_front": 2,
+        "display_size": 6.4,
+        "display_type": "lcd display"
+      }
+    },
+    "3e375b25-6ff4-56b8-8f1e-70a8733d0010": {
+      "id": "3e375b25-6ff4-56b8-8f1e-70a8733d0010",
+      "brand": "asus",
+      "model": "asus rog phone 5 256gb",
+      "attributes": {
+        "price": 63999,
+        "ram": 12.0,
+        "os": "android",
+        "storage": 256.0,
+        "battery_capacity": 6000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 64.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.78,
+        "refresh_rate": 144.0,
+        "display_type": "amoled display"
+      }
+    },
+    "070e5b24-1320-5110-9e6c-91fd4d35bcab": {
+      "id": "070e5b24-1320-5110-9e6c-91fd4d35bcab",
+      "brand": "asus",
+      "model": "asus rog phone 5s pro 5g",
+      "attributes": {
+        "price": 85999,
+        "ram": 18.0,
+        "os": "android",
+        "storage": 512.0,
+        "battery_capacity": 6000,
+        "charging": "Yes",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "Yes",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 64.0,
+        "camera_main": 3,
+        "camera_front": 1,
+        "display_size": 6.78,
+        "refresh_rate": 144.0,
+        "display_type": "amoled display"
+      }
+    },
+    "c70dd746-87e5-5c52-a258-d5a85aa8f660": {
+      "id": "c70dd746-87e5-5c52-a258-d5a85aa8f660",
+      "brand": "asus",
+      "model": "asus rog phone 2 512gb",
+      "attributes": {
+        "price": 62999,
+        "ram": 12.0,
+        "os": "android",
+        "storage": 512.0,
+        "battery_capacity": 6000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 48.0,
+        "camera_main": 2,
+        "camera_front": 1,
+        "display_size": 6.59,
+        "refresh_rate": 120.0,
+        "display_type": "amoled display"
+      }
+    },
+    "d465f9ff-8f63-5e59-8f90-fe3714ceb0d4": {
+      "id": "d465f9ff-8f63-5e59-8f90-fe3714ceb0d4",
+      "brand": "asus",
+      "model": "asus zenfone go 4.5 zb452kg",
+      "attributes": {
+        "price": 5299,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2070,
+        "charging": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 5.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.5,
+        "display_type": "tft display"
+      }
+    },
+    "114eb667-b289-5bcf-9b1e-15dcb32409f5": {
+      "id": "114eb667-b289-5bcf-9b1e-15dcb32409f5",
+      "brand": "asus",
+      "model": "asus zenfone zoom zx551ml",
+      "attributes": {
+        "price": 37999,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 128.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "No",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "intel",
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "80e3c407-bd27-5b81-ab04-2955d2379118": {
+      "id": "80e3c407-bd27-5b81-ab04-2955d2379118",
+      "brand": "asus",
+      "model": "asus zenfone 2 ze551ml 4gb ram 32gb 2.3ghz",
+      "attributes": {
+        "price": 18999,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "No",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "intel",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "9a93ab5b-ac62-5148-83cf-0136298eba14": {
+      "id": "9a93ab5b-ac62-5148-83cf-0136298eba14",
+      "brand": "asus",
+      "model": "asus zenfone 6 16gb",
+      "attributes": {
+        "price": 17999,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 3300,
+        "charging": "No",
+        "attr_processor brand": "intel",
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 6.0,
+        "display_type": "lcd display"
+      }
+    },
+    "e79dd3b7-6b4a-5b0b-9dab-ee439aee31d1": {
+      "id": "e79dd3b7-6b4a-5b0b-9dab-ee439aee31d1",
+      "brand": "asus",
+      "model": "asus zenfone 5 lite",
+      "attributes": {
+        "price": 8499,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2500,
+        "charging": "No",
+        "attr_processor brand": "intel",
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "cbe2636e-061e-518f-a4df-25446d288eed": {
+      "id": "cbe2636e-061e-518f-a4df-25446d288eed",
+      "brand": "asus",
+      "model": "asus zenfone 2 laser ze601kl",
+      "attributes": {
+        "price": 17999,
+        "ram": 3.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 6.0,
+        "display_type": "lcd display"
+      }
+    },
+    "5865de14-e82d-52c7-8433-67637e60384c": {
+      "id": "5865de14-e82d-52c7-8433-67637e60384c",
+      "brand": "asus",
+      "model": "asus zenfone go zc500tg 16gb",
+      "attributes": {
+        "price": 6999,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2070,
+        "charging": "No",
+        "attr_processor brand": "mediatek",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "7639e7b0-b0ce-5315-a187-5307cf230cf0": {
+      "id": "7639e7b0-b0ce-5315-a187-5307cf230cf0",
+      "brand": "asus",
+      "model": "asus zenfone go 5.0 lte t500",
+      "attributes": {
+        "price": 7999,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 2500,
+        "charging": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.0,
+        "display_type": "lcd display"
+      }
+    },
+    "e242c6e4-0176-59f6-82ed-c43406543b47": {
+      "id": "e242c6e4-0176-59f6-82ed-c43406543b47",
+      "brand": "asus",
+      "model": "asus zenfone max 2016 2gb ram",
+      "attributes": {
+        "price": 9999,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 32.0,
+        "battery_capacity": 5000,
+        "charging": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "other display"
+      }
+    },
+    "0c522257-fc7d-5aa4-aeed-c24339829e91": {
+      "id": "0c522257-fc7d-5aa4-aeed-c24339829e91",
+      "brand": "asus",
+      "model": "asus zenfone 3 ze552kl",
+      "attributes": {
+        "price": 28999,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "Yes",
+        "attr_has nfc": "No",
+        "attr_has 5g": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 8.0,
+        "attr_primery rear camera": 16.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "8ee9e562-9285-5aa9-bbe3-97c7782138cc": {
+      "id": "8ee9e562-9285-5aa9-bbe3-97c7782138cc",
+      "brand": "asus",
+      "model": "asus zenfone go zb450kl",
+      "attributes": {
+        "price": 7499,
+        "ram": 1.0,
+        "os": "android",
+        "storage": 8.0,
+        "battery_capacity": 2070,
+        "charging": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 8.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 4.5,
+        "display_type": "tft display"
+      }
+    },
+    "2098c9e4-b574-5fda-807e-c7bed0657178": {
+      "id": "2098c9e4-b574-5fda-807e-c7bed0657178",
+      "brand": "asus",
+      "model": "asus zenfone go zb552kl",
+      "attributes": {
+        "price": 8999,
+        "ram": 2.0,
+        "os": "android",
+        "storage": 16.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_processor brand": "snapdragon",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "d7f42972-a284-5c3e-b16d-17a9752496af": {
+      "id": "d7f42972-a284-5c3e-b16d-17a9752496af",
+      "brand": "asus",
+      "model": "asus zenfone zoom zx551ml 64gb",
+      "attributes": {
+        "price": 37999,
+        "ram": 4.0,
+        "os": "android",
+        "storage": 64.0,
+        "battery_capacity": 3000,
+        "charging": "No",
+        "attr_has fingerprints": "No",
+        "attr_has nfc": "Yes",
+        "attr_has 5g": "No",
+        "attr_processor brand": "intel",
+        "attr_num core": 4.0,
+        "attr_primery rear camera": 13.0,
+        "camera_main": 1,
+        "camera_front": 1,
+        "display_size": 5.5,
+        "display_type": "lcd display"
+      }
+    },
+    "0344ecd9-7fb5-5fc3-bf3e-451a72ccad48": {
+      "id": "0344ecd9-7fb5-5fc3-bf3e-451a72ccad48",
+      "brand": "Asus",
+      "model": "E600",
+      "attributes": {
+        "os": "Windows Phone 7.5 Mango",
+        "battery_capacity": 1300.0,
+        "camera_main": 5.0
+      }
+    },
+    "66a8d474-5ae2-51b4-a782-bb0b06b32bd8": {
+      "id": "66a8d474-5ae2-51b4-a782-bb0b06b32bd8",
+      "brand": "Asus",
+      "model": "M530w",
+      "attributes": {
+        "os": "Windows Mobile Standard 6.0",
+        "release_date": "Dec 13, 2007",
+        "battery_capacity": 1200.0,
+        "attr_memory": 0.06,
+        "storage": " microSD",
+        "display_size": 2.4,
+        "attr_display resolution": 240,
+        "camera_main": 2.0
+      }
+    },
+    "3d59697f-4e9a-5cbe-8376-0daaf216a910": {
+      "id": "3d59697f-4e9a-5cbe-8376-0daaf216a910",
+      "brand": "Asus",
+      "model": "M930",
+      "attributes": {
+        "os": "Windows Mobile Standard 6.0",
+        "release_date": "Jul 23, 2008",
+        "battery_capacity": 1100.0,
+        "attr_memory": 0.06,
+        "storage": " microSDHC",
+        "display_size": 2.6,
+        "attr_display resolution": 240,
+        "camera_main": 2.0
+      }
+    },
+    "117e09aa-b954-58e2-86e2-c537df0292a3": {
+      "id": "117e09aa-b954-58e2-86e2-c537df0292a3",
+      "brand": "Asus",
+      "model": "P320",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.1",
+        "release_date": "May 28, 2008",
+        "battery_capacity": 1100.0,
+        "chipset": "TI OMAP850",
+        "attr_memory": 0.06,
+        "storage": " microSDHC",
+        "display_size": 2.6,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "62fc56cb-6dca-55f3-9278-61ee998b4779": {
+      "id": "62fc56cb-6dca-55f3-9278-61ee998b4779",
+      "brand": "Asus",
+      "model": "P526",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.0",
+        "battery_capacity": 1300.0,
+        "chipset": "TI OMAP850",
+        "attr_memory": 0.06,
+        "storage": " microSD",
+        "display_size": 2.6,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "b7262a24-212f-5a10-a136-96f05d29bcd6": {
+      "id": "b7262a24-212f-5a10-a136-96f05d29bcd6",
+      "brand": "Asus",
+      "model": "P527",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.0",
+        "release_date": "Feb 19, 2008",
+        "battery_capacity": 1300.0,
+        "chipset": "TI OMAP850",
+        "attr_memory": 0.06,
+        "storage": " microSDHC",
+        "display_size": 2.6,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "ce379e67-7040-5139-ba84-3270b85f404e": {
+      "id": "ce379e67-7040-5139-ba84-3270b85f404e",
+      "brand": "Asus",
+      "model": "P535",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.0",
+        "battery_capacity": 1300.0,
+        "attr_memory": 0.06,
+        "storage": " miniSD",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "d0269b07-c9c5-56fb-8ea7-9cf261bb3a61": {
+      "id": "d0269b07-c9c5-56fb-8ea7-9cf261bb3a61",
+      "brand": "Asus",
+      "model": "P565",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.1",
+        "release_date": "Dec 12, 2008",
+        "battery_capacity": 1300.0,
+        "attr_memory": 0.1,
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "attr_display resolution": 640,
+        "camera_main": 3.0
+      }
+    },
+    "9d0c68ef-0a46-57cc-9fa2-649ca562239d": {
+      "id": "9d0c68ef-0a46-57cc-9fa2-649ca562239d",
+      "brand": "Asus",
+      "model": "P735",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.0",
+        "battery_capacity": 1300.0,
+        "attr_memory": 0.06,
+        "storage": " miniSD",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    },
+    "80af7fda-ff8a-5bc3-b74d-79b723c86100": {
+      "id": "80af7fda-ff8a-5bc3-b74d-79b723c86100",
+      "brand": "Asus",
+      "model": "P750",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.0",
+        "battery_capacity": 1300.0,
+        "attr_memory": 0.06,
+        "storage": " microSDHC",
+        "display_size": 2.6,
+        "attr_display resolution": 320,
+        "camera_main": 3.0
+      }
+    },
+    "0d78b32d-7b57-5842-9aa3-e47fe1e6fa03": {
+      "id": "0d78b32d-7b57-5842-9aa3-e47fe1e6fa03",
+      "brand": "Asus",
+      "model": "P835",
+      "attributes": {
+        "os": "Windows Mobile Professional 6.1",
+        "release_date": "May 08, 2009",
+        "battery_capacity": 1100.0,
+        "chipset": "Qualcomm MSM7201A",
+        "attr_memory": 0.3,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "84789c45-e881-5b31-84a2-b069b82ed261": {
+      "id": "84789c45-e881-5b31-84a2-b069b82ed261",
+      "brand": "Asus",
+      "model": "PadFone",
+      "attributes": {
+        "os": "Android 4.0.3",
+        "battery_capacity": 1520.0,
+        "chipset": "Qualcomm Snapdragon S4 Plus",
+        "attr_memory": 1.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 0.3
+      }
+    },
+    "3da90882-3222-5c4b-9477-45ce502039eb": {
+      "id": "3da90882-3222-5c4b-9477-45ce502039eb",
+      "brand": "Asus",
+      "model": "PadFone E",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1820.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 1.0,
+        "storage": " microSDXC",
+        "display_size": 4.7,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 1.2
+      }
+    },
+    "1b451dbd-e3d8-5382-927f-4efd7868dd81": {
+      "id": "1b451dbd-e3d8-5382-927f-4efd7868dd81",
+      "brand": "Asus",
+      "model": "PadFone Infinity",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2400.0,
+        "chipset": "Qualcomm Snapdragon 600",
+        "attr_memory": 2.0,
+        "attr_primary storage": 64.0,
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 2
+      }
+    },
+    "6ef98339-e32a-519e-9dbb-88be6ff09666": {
+      "id": "6ef98339-e32a-519e-9dbb-88be6ff09666",
+      "brand": "Asus",
+      "model": "PadFone Infinity 2",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 2400.0,
+        "chipset": "Qualcomm Snapdragon 800",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 2
+      }
+    },
+    "11089471-d1ec-5310-9e34-c96014d9793e": {
+      "id": "11089471-d1ec-5310-9e34-c96014d9793e",
+      "brand": "Asus",
+      "model": "PadFone X",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2300.0,
+        "chipset": "Qualcomm Snapdragon 800",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 2
+      }
+    },
+    "3ad665ff-51eb-521f-a83c-445bbf9307ab": {
+      "id": "3ad665ff-51eb-521f-a83c-445bbf9307ab",
+      "brand": "Asus",
+      "model": "PadFone X mini",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2060.0,
+        "chipset": "Intel Atom",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "b4b2ddfd-2f44-58e9-98e9-647babe77276": {
+      "id": "b4b2ddfd-2f44-58e9-98e9-647babe77276",
+      "brand": "Asus",
+      "model": "PadFone mini",
+      "attributes": {
+        "os": "Android 4.3",
+        "battery_capacity": 1200.0,
+        "chipset": "Intel Atom",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "48b4f9ed-d144-50e7-bdb6-faabf64f9189": {
+      "id": "48b4f9ed-d144-50e7-bdb6-faabf64f9189",
+      "brand": "Asus",
+      "model": "Padfone 2",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2140.0,
+        "chipset": "Qualcomm Snapdragon S4 Pro",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "display_size": 4.7,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 1.2
+      }
+    },
+    "89d9d3a9-dc09-59b6-bf44-1b8d55647acb": {
+      "id": "89d9d3a9-dc09-59b6-bf44-1b8d55647acb",
+      "brand": "Asus",
+      "model": "ROG Phone",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "Oct 29, 2018",
+        "battery_capacity": 4000.0,
+        "chipset": "Qualcomm Snapdragon 845",
+        "attr_memory": 8.0,
+        "attr_primary storage": 512.0,
+        "display_size": 6.0,
+        "attr_display resolution": 2160,
+        "refresh_rate": 90.0,
+        "camera_main": 12.0,
+        "camera_front": 8
+      }
+    },
+    "52c5bc1d-46a4-5b74-8e83-58aa46cc9eba": {
+      "id": "52c5bc1d-46a4-5b74-8e83-58aa46cc9eba",
+      "brand": "Asus",
+      "model": "ROG Phone 3 Strix Edition",
+      "attributes": {
+        "os": "Android 10",
+        "release_date": "Jul 23, 2020",
+        "battery_capacity": 6000.0,
+        "chipset": "Qualcomm Snapdragon 865+",
+        "attr_memory": 8.0,
+        "attr_primary storage": 256.0,
+        "storage": " not expandable",
+        "display_size": 6.6,
+        "attr_display resolution": 2340,
+        "refresh_rate": 144.0,
+        "camera_main": 64.0,
+        "camera_front": 24
+      }
+    },
+    "d4f58a28-2ae5-59a8-a616-5f6584222213": {
+      "id": "d4f58a28-2ae5-59a8-a616-5f6584222213",
+      "brand": "Asus",
+      "model": "ROG Phone 5 Ultimate",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "Jun 07, 2021",
+        "battery_capacity": 6000.0,
+        "chipset": "Snapdragon 888",
+        "attr_memory": 18.0,
+        "attr_primary storage": 512.0,
+        "storage": " not expandable",
+        "display_size": 6.8,
+        "attr_display resolution": 2448,
+        "refresh_rate": 144.0,
+        "camera_main": 64.0,
+        "camera_front": 24
+      }
+    },
+    "e3c404f1-bf9f-59e8-8fdb-dc1a32e133e7": {
+      "id": "e3c404f1-bf9f-59e8-8fdb-dc1a32e133e7",
+      "brand": "Asus",
+      "model": "ROG Phone 6 Pro",
+      "attributes": {
+        "os": "Android 12",
+        "release_date": "Jul 13, 2022",
+        "battery_capacity": 6000.0,
+        "chipset": "Qualcomm Snapdragon 8+ Gen 1",
+        "attr_memory": 18.0,
+        "attr_primary storage": 512.0,
+        "storage": " not expandable ",
+        "display_size": 6.8,
+        "attr_display resolution": 2448,
+        "refresh_rate": 165.0,
+        "camera_main": 50.0,
+        "camera_front": 12
+      }
+    },
+    "46f90cbb-5bfd-527f-a36b-39c021a0e645": {
+      "id": "46f90cbb-5bfd-527f-a36b-39c021a0e645",
+      "brand": "Asus",
+      "model": "ROG Phone II",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "Sep 04, 2019",
+        "battery_capacity": 6000.0,
+        "chipset": "Qualcomm Snapdragon 855 Plus",
+        "attr_memory": 12.0,
+        "attr_primary storage": 512.0,
+        "storage": " not expandable",
+        "display_size": 6.6,
+        "attr_display resolution": 2340,
+        "refresh_rate": 120.0,
+        "camera_main": 48.0,
+        "camera_front": 24
+      }
+    },
+    "5e14f9dc-da4b-5c12-a564-821b4bb863c3": {
+      "id": "5e14f9dc-da4b-5c12-a564-821b4bb863c3",
+      "brand": "Asus",
+      "model": "ZenFone 2",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 3000.0,
+        "chipset": "Intel Atom",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "da811f99-895d-520e-83b4-41203080a2bb": {
+      "id": "da811f99-895d-520e-83b4-41203080a2bb",
+      "brand": "Asus",
+      "model": "ZenFone 2 (ZE500CL)",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "release_date": "Mar 01, 2015",
+        "battery_capacity": 2500.0,
+        "chipset": "Intel Atom",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "359b4b40-929b-53b5-af86-aeb6d077cf5f": {
+      "id": "359b4b40-929b-53b5-af86-aeb6d077cf5f",
+      "brand": "Asus",
+      "model": "ZenFone 2 Laser",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Sep 01, 2015",
+        "battery_capacity": 2400.0,
+        "chipset": "Qualcomm Snapdragon 410",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "2277d7e7-8dcf-5748-9c83-f960a0647c0b": {
+      "id": "2277d7e7-8dcf-5748-9c83-f960a0647c0b",
+      "brand": "Asus",
+      "model": "ZenFone 2 Laser (US)",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "release_date": "Nov 02, 2015",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 615",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "cabf8a1a-cd6f-5435-9864-9f4a7d96e0c8": {
+      "id": "cabf8a1a-cd6f-5435-9864-9f4a7d96e0c8",
+      "brand": "Asus",
+      "model": "ZenFone 2 Laser 5.5-inch",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "release_date": "Sep 01, 2015",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 410",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "4109629a-caed-5c4e-8afd-4bd8c75f0d57": {
+      "id": "4109629a-caed-5c4e-8afd-4bd8c75f0d57",
+      "brand": "Asus",
+      "model": "ZenFone 2E",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "release_date": "Jul 22, 2015",
+        "battery_capacity": 2500.0,
+        "chipset": "Intel Atom",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "7af02e21-5e3e-5c05-a448-10bf0735d025": {
+      "id": "7af02e21-5e3e-5c05-a448-10bf0735d025",
+      "brand": "Asus",
+      "model": "ZenFone 3",
+      "attributes": {
+        "os": "Android 8.0 Oreo",
+        "release_date": "Jul 12, 2016",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 625",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 16.0,
+        "camera_front": 8
+      }
+    },
+    "487f94d3-0100-50ff-8384-87df3e05e590": {
+      "id": "487f94d3-0100-50ff-8384-87df3e05e590",
+      "brand": "Asus",
+      "model": "ZenFone 3 Deluxe",
+      "attributes": {
+        "os": "Android 8.0 Oreo",
+        "release_date": "Jul 12, 2016",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 821",
+        "attr_memory": 6.0,
+        "attr_primary storage": 256.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 1920,
+        "camera_main": 23.0,
+        "camera_front": 8
+      }
+    },
+    "ffad01b5-7c4b-58f7-8910-54780b7b89b9": {
+      "id": "ffad01b5-7c4b-58f7-8910-54780b7b89b9",
+      "brand": "Asus",
+      "model": "ZenFone 3 Deluxe (ZS550KL)",
+      "attributes": {
+        "os": "Android 8.0 Oreo",
+        "release_date": "Oct 12, 2016",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 625",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 16.0,
+        "camera_front": 8
+      }
+    },
+    "07c341cd-d41f-5923-be91-ceb416e652bd": {
+      "id": "07c341cd-d41f-5923-be91-ceb416e652bd",
+      "brand": "Asus",
+      "model": "ZenFone 3 Laser",
+      "attributes": {
+        "os": "Android 7.1 Nougat",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 430",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "432cbc5a-c54f-5239-884d-583148b45980": {
+      "id": "432cbc5a-c54f-5239-884d-583148b45980",
+      "brand": "Asus",
+      "model": "ZenFone 3 Max",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 4130.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "44c081d3-b26f-5e11-a0a7-6da55b54ae35": {
+      "id": "44c081d3-b26f-5e11-a0a7-6da55b54ae35",
+      "brand": "Asus",
+      "model": "ZenFone 3 Ultra",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Jul 12, 2016",
+        "battery_capacity": 4600.0,
+        "chipset": "Qualcomm Snapdragon 652",
+        "attr_memory": 4.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.8,
+        "attr_display resolution": 1920,
+        "camera_main": 23.0,
+        "camera_front": 8
+      }
+    },
+    "beca03ce-da59-50bb-930b-e79ea6057b62": {
+      "id": "beca03ce-da59-50bb-930b-e79ea6057b62",
+      "brand": "Asus",
+      "model": "ZenFone 3 Zoom",
+      "attributes": {
+        "os": "Android 8.0 Oreo",
+        "release_date": "Feb 15, 2017",
+        "battery_capacity": 5000.0,
+        "chipset": "Qualcomm Snapdragon 625",
+        "attr_memory": 4.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 12.0,
+        "camera_front": 13
+      }
+    },
+    "cadb7698-46b3-5952-bd48-d74e5e935959": {
+      "id": "cadb7698-46b3-5952-bd48-d74e5e935959",
+      "brand": "Asus",
+      "model": "ZenFone 4",
+      "attributes": {
+        "os": "Android 8.0 Oreo",
+        "release_date": "Oct 30, 2017",
+        "battery_capacity": 3300.0,
+        "chipset": "Qualcomm Snapdragon 630",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 12.0,
+        "camera_front": 8
+      }
+    },
+    "e212fb9c-14e1-59c2-874e-e53762f41742": {
+      "id": "e212fb9c-14e1-59c2-874e-e53762f41742",
+      "brand": "Asus",
+      "model": "ZenFone 4 (A400CG)",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "battery_capacity": 1200.0,
+        "chipset": "Intel Atom",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "b21578dc-82e8-5e0e-a9e2-bd765b2e45c2": {
+      "id": "b21578dc-82e8-5e0e-a9e2-bd765b2e45c2",
+      "brand": "Asus",
+      "model": "ZenFone 4 Max",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "release_date": "Sep 11, 2017",
+        "battery_capacity": 5000.0,
+        "chipset": "Qualcomm Snapdragon 430",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "c388bfe3-14ce-58e2-9197-c0db209536a8": {
+      "id": "c388bfe3-14ce-58e2-9197-c0db209536a8",
+      "brand": "Asus",
+      "model": "ZenFone 4 Pro",
+      "attributes": {
+        "os": "Android 8.0 Oreo",
+        "release_date": "Oct 30, 2017",
+        "battery_capacity": 3600.0,
+        "chipset": "Qualcomm Snapdragon 835",
+        "attr_memory": 6.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 12.0,
+        "camera_front": 8
+      }
+    },
+    "ce2dffd4-37ea-5fd6-ae0e-05f3002492cb": {
+      "id": "ce2dffd4-37ea-5fd6-ae0e-05f3002492cb",
+      "brand": "Asus",
+      "model": "ZenFone 4 Selfie",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "release_date": "Sep 14, 2017",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 430",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 16.0,
+        "camera_front": 20
+      }
+    },
+    "2dc4f2d7-d5ab-5a15-a778-ded9a6caecb7": {
+      "id": "2dc4f2d7-d5ab-5a15-a778-ded9a6caecb7",
+      "brand": "Asus",
+      "model": "ZenFone 4 Selfie Pro",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "release_date": "Sep 14, 2017",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 625",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 16.0,
+        "camera_front": 24
+      }
+    },
+    "1870fc26-2397-5c4c-b340-61ea384fc742": {
+      "id": "1870fc26-2397-5c4c-b340-61ea384fc742",
+      "brand": "Asus",
+      "model": "ZenFone 5 (A502CG)",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "battery_capacity": 2110.0,
+        "chipset": "Intel Atom",
+        "attr_memory": 2.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "f22d0b89-d3b5-526d-b3f3-fe08407ae68c": {
+      "id": "f22d0b89-d3b5-526d-b3f3-fe08407ae68c",
+      "brand": "Asus",
+      "model": "ZenFone 5 (ZE620KL)",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "May 01, 2018",
+        "battery_capacity": 3300.0,
+        "chipset": "Qualcomm Snapdragon 636",
+        "attr_memory": 6.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.2,
+        "attr_display resolution": 2246,
+        "camera_main": 12.0,
+        "camera_front": 8
+      }
+    },
+    "e0811c12-ebfe-5a62-9529-a6afee594ce7": {
+      "id": "e0811c12-ebfe-5a62-9529-a6afee594ce7",
+      "brand": "Asus",
+      "model": "ZenFone 5Q",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "Jun 11, 2018",
+        "battery_capacity": 3300.0,
+        "chipset": "Qualcomm Snapdragon 630",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 2160,
+        "camera_main": 16.0,
+        "camera_front": 20
+      }
+    },
+    "9f0f42d0-1964-555c-9bcc-4ac43eb9544a": {
+      "id": "9f0f42d0-1964-555c-9bcc-4ac43eb9544a",
+      "brand": "Asus",
+      "model": "ZenFone 5z",
+      "attributes": {
+        "os": "Android 10",
+        "release_date": "Jun 13, 2018",
+        "battery_capacity": 3300.0,
+        "chipset": "Qualcomm Snapdragon 845",
+        "attr_memory": 8.0,
+        "attr_primary storage": 256.0,
+        "storage": " microSDXC",
+        "display_size": 6.2,
+        "attr_display resolution": 2246,
+        "camera_front": 8
+      }
+    },
+    "6d96839e-5a12-5ec4-b913-60781287ad7d": {
+      "id": "6d96839e-5a12-5ec4-b913-60781287ad7d",
+      "brand": "Asus",
+      "model": "ZenFone 6",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "battery_capacity": 3300.0,
+        "chipset": "Intel Atom",
+        "attr_memory": 2.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 2
+      }
+    },
+    "aed27d2c-43ba-5f3b-8b4d-8141e04ff7aa": {
+      "id": "aed27d2c-43ba-5f3b-8b4d-8141e04ff7aa",
+      "brand": "Asus",
+      "model": "ZenFone 6 (2019)",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "May 25, 2019",
+        "battery_capacity": 5000.0,
+        "chipset": "Qualcomm Snapdragon 855",
+        "attr_memory": 6.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.4,
+        "attr_display resolution": 2340,
+        "camera_main": 48.0
+      }
+    },
+    "60bc3e1c-bdc3-5c85-bfc9-bb871ad51413": {
+      "id": "60bc3e1c-bdc3-5c85-bfc9-bb871ad51413",
+      "brand": "Asus",
+      "model": "ZenFone 7",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "Sep 01, 2020",
+        "battery_capacity": 5000.0,
+        "chipset": "Qualcomm Snapdragon 865",
+        "attr_memory": 6.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.7,
+        "attr_display resolution": 2400,
+        "refresh_rate": 90.0,
+        "camera_main": 64.0
+      }
+    },
+    "2f36ec90-8402-5d89-9f45-cf2bac307e9d": {
+      "id": "2f36ec90-8402-5d89-9f45-cf2bac307e9d",
+      "brand": "Asus",
+      "model": "ZenFone 7 Pro",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "Sep 01, 2020",
+        "battery_capacity": 5000.0,
+        "chipset": "Qualcomm Snapdragon 865+",
+        "attr_memory": 8.0,
+        "attr_primary storage": 256.0,
+        "storage": " microSDXC",
+        "display_size": 6.7,
+        "attr_display resolution": 2400,
+        "refresh_rate": 90.0,
+        "camera_main": 64.0
+      }
+    },
+    "be25e4ac-218e-5a40-ab04-441d7424c2a3": {
+      "id": "be25e4ac-218e-5a40-ab04-441d7424c2a3",
+      "brand": "Asus",
+      "model": "ZenFone 8",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "May 13, 2021",
+        "battery_capacity": 4000.0,
+        "chipset": "Qualcomm Snapdragon 888",
+        "attr_memory": 6.0,
+        "attr_primary storage": 128.0,
+        "storage": " not expandable",
+        "display_size": 5.9,
+        "attr_display resolution": 2400,
+        "refresh_rate": 120.0,
+        "camera_main": 64.0,
+        "camera_front": 12
+      }
+    },
+    "2ef013ea-6ddd-5256-baa1-455593440468": {
+      "id": "2ef013ea-6ddd-5256-baa1-455593440468",
+      "brand": "Asus",
+      "model": "ZenFone 8 Flip",
+      "attributes": {
+        "os": "Android 11",
+        "release_date": "May 13, 2021",
+        "battery_capacity": 5000.0,
+        "chipset": "Qualcomm Snapdragon 888",
+        "attr_memory": 8.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.7,
+        "attr_display resolution": 2400,
+        "refresh_rate": 90.0,
+        "camera_main": 64.0
+      }
+    },
+    "4950b67a-992f-5884-8cd7-87919252d275": {
+      "id": "4950b67a-992f-5884-8cd7-87919252d275",
+      "brand": "Asus",
+      "model": "ZenFone AR",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "release_date": "Aug 03, 2017",
+        "battery_capacity": 3300.0,
+        "chipset": "Qualcomm Snapdragon 821",
+        "attr_memory": 6.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 2560,
+        "camera_main": 23.0,
+        "camera_front": 8
+      }
+    },
+    "d1abb50b-a8ca-55b5-8f54-a4d8860fdc61": {
+      "id": "d1abb50b-a8ca-55b5-8f54-a4d8860fdc61",
+      "brand": "Asus",
+      "model": "ZenFone C",
+      "attributes": {
+        "os": "Android 4.4.4",
+        "battery_capacity": 2100.0,
+        "chipset": "Intel Atom",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "4f242f4f-da4f-5632-b337-339e682c464f": {
+      "id": "4f242f4f-da4f-5632-b337-339e682c464f",
+      "brand": "Asus",
+      "model": "ZenFone Live",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Feb 24, 2017",
+        "battery_capacity": 2650.0,
+        "chipset": "Qualcomm Snapdragon 410",
+        "attr_memory": 2.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "43b7a6e9-c718-5b52-b31a-8b9b9cfd73ed": {
+      "id": "43b7a6e9-c718-5b52-b31a-8b9b9cfd73ed",
+      "brand": "Asus",
+      "model": "ZenFone Live (L1)",
+      "attributes": {
+        "os": "Android 8.0 Oreo",
+        "release_date": "Aug 06, 2018",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 425",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 2160,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "dea38dc7-d31e-5f16-9cf7-7b39db55aaab": {
+      "id": "dea38dc7-d31e-5f16-9cf7-7b39db55aaab",
+      "brand": "Asus",
+      "model": "ZenFone Live (L2)",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "release_date": "Jul 29, 2019",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 430",
+        "attr_memory": 2.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1440,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "42f2df64-91cd-5a2e-9988-9a0169e4db69": {
+      "id": "42f2df64-91cd-5a2e-9988-9a0169e4db69",
+      "brand": "Asus",
+      "model": "ZenFone Max",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "release_date": "Jan 14, 2016",
+        "battery_capacity": 5000.0,
+        "chipset": "Qualcomm Snapdragon 410",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "96968b93-b73e-5760-bcba-88b68bd3d310": {
+      "id": "96968b93-b73e-5760-bcba-88b68bd3d310",
+      "brand": "Asus",
+      "model": "ZenFone Max (M1)",
+      "attributes": {
+        "os": "Android 8.0 Oreo",
+        "battery_capacity": 4000.0,
+        "chipset": "Qualcomm Snapdragon 425",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1440,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "a9b147cc-86c4-5156-bd87-2a8750add49d": {
+      "id": "a9b147cc-86c4-5156-bd87-2a8750add49d",
+      "brand": "Asus",
+      "model": "ZenFone Max (M2)",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "Dec 20, 2018",
+        "battery_capacity": 4000.0,
+        "chipset": "Qualcomm Snapdragon 632",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.3,
+        "attr_display resolution": 1520,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "1bbba770-59f1-5ba7-ba5c-dc606e5efc4e": {
+      "id": "1bbba770-59f1-5ba7-ba5c-dc606e5efc4e",
+      "brand": "Asus",
+      "model": "ZenFone Max Plus (M1)",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 4130.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 2160,
+        "camera_main": 16.0,
+        "camera_front": 16
+      }
+    },
+    "511b3669-840c-5ad8-a833-727ad85d3a52": {
+      "id": "511b3669-840c-5ad8-a833-727ad85d3a52",
+      "brand": "Asus",
+      "model": "ZenFone Max Pro (M1)",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "May 03, 2018",
+        "battery_capacity": 5000.0,
+        "chipset": "Qualcomm Snapdragon 636",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 2160,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "b38a7562-001a-59d6-ab37-128e291fb4b9": {
+      "id": "b38a7562-001a-59d6-ab37-128e291fb4b9",
+      "brand": "Asus",
+      "model": "ZenFone Max Pro (M2)",
+      "attributes": {
+        "os": "Android 9.0 Pie",
+        "release_date": "Dec 11, 2018",
+        "battery_capacity": 5000.0,
+        "chipset": "Qualcomm Snapdragon 660",
+        "attr_memory": 6.0,
+        "attr_primary storage": 128.0,
+        "storage": " microSDXC",
+        "display_size": 6.3,
+        "attr_display resolution": 2280,
+        "camera_main": 12.0,
+        "camera_front": 13
+      }
+    },
+    "ddb9e6be-457f-51ab-8e7d-33994eafa32e": {
+      "id": "ddb9e6be-457f-51ab-8e7d-33994eafa32e",
+      "brand": "Asus",
+      "model": "ZenFone Selfie",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "release_date": "Jul 01, 2015",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 615",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 13
+      }
+    },
+    "975f54a2-de60-5610-812f-f4606af0cac6": {
+      "id": "975f54a2-de60-5610-812f-f4606af0cac6",
+      "brand": "Asus",
+      "model": "ZenFone V",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "release_date": "Sep 19, 2017",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 820",
+        "attr_memory": 4.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 1920,
+        "camera_main": 23.0,
+        "camera_front": 8
+      }
+    },
+    "6e3938ad-92b2-55be-a1d5-f91bf1294486": {
+      "id": "6e3938ad-92b2-55be-a1d5-f91bf1294486",
+      "brand": "Asus",
+      "model": "ZenFone V Live",
+      "attributes": {
+        "os": "Android 8.0 Oreo",
+        "release_date": "Nov 16, 2017",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 425",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "a88f7a7a-38e0-56e7-8325-adf60f6171e4": {
+      "id": "a88f7a7a-38e0-56e7-8325-adf60f6171e4",
+      "brand": "Asus",
+      "model": "ZenFone Zoom",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "release_date": "Dec 01, 2015",
+        "battery_capacity": 3000.0,
+        "chipset": "Intel Atom",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "04531799-a420-580d-b1cc-61387111120d": {
+      "id": "04531799-a420-580d-b1cc-61387111120d",
+      "brand": "Asus",
+      "model": "Zenfone 2 Laser 6-inch",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "release_date": "Dec 05, 2015",
+        "battery_capacity": 3000.0,
+        "chipset": "Qualcomm Snapdragon 616",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "bf0ad773-474d-5e32-84a0-d54a2c684c02": {
+      "id": "bf0ad773-474d-5e32-84a0-d54a2c684c02",
+      "brand": "Asus",
+      "model": "Zenfone 3s Max",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "release_date": "Feb 07, 2017",
+        "battery_capacity": 5000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.2,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    }
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "brand": "Fly",
+  "phones": {
+    "3d65e594-fe9c-58ae-94de-c40ad5b791c6": {
+      "id": "3d65e594-fe9c-58ae-94de-c40ad5b791c6",
+      "brand": "Fly",
+      "model": "FF243 (Black)",
+      "attributes": {
+        "attr_unnamed 0": 351,
+        "attr_popularity": 442,
+        "mrp": 418.0,
+        "attr_highest price": 655.0,
+        "attr_sellers amount": 32,
+        "display_size": 2.4,
+        "attr_memory size": 0.032,
+        "attr_battery size": 1700.0,
+        "release_date": 8
+      }
+    },
+    "a7114a7a-e184-56cf-9d80-4415928e67c1": {
+      "id": "a7114a7a-e184-56cf-9d80-4415928e67c1",
+      "brand": "Fly",
+      "model": "FF249 Dual Sim Black",
+      "attributes": {
+        "attr_unnamed 0": 352,
+        "attr_popularity": 905,
+        "mrp": 497.0,
+        "attr_highest price": 719.0,
+        "attr_sellers amount": 55,
+        "display_size": 2.4,
+        "attr_memory size": 0.032,
+        "attr_battery size": 4000.0,
+        "release_date": 12
+      }
+    },
+    "7c95eade-8641-5c80-9079-51b34c520d92": {
+      "id": "7c95eade-8641-5c80-9079-51b34c520d92",
+      "brand": "Fly",
+      "model": "FF250 Black",
+      "attributes": {
+        "attr_unnamed 0": 353,
+        "attr_popularity": 773,
+        "mrp": 239.0,
+        "attr_highest price": 379.0,
+        "attr_sellers amount": 25,
+        "display_size": 2.4,
+        "attr_battery size": 800.0,
+        "release_date": 1
+      }
+    },
+    "fe79ebca-e05f-5605-bac3-2ee6b5ab0bbd": {
+      "id": "fe79ebca-e05f-5605-bac3-2ee6b5ab0bbd",
+      "brand": "Fly",
+      "model": "FF281 Dual Sim (Black)",
+      "attributes": {
+        "attr_unnamed 0": 354,
+        "attr_popularity": 653,
+        "mrp": 499.0,
+        "attr_highest price": 719.0,
+        "attr_sellers amount": 28,
+        "display_size": 2.8,
+        "attr_memory size": 0.032,
+        "attr_battery size": 1400.0,
+        "release_date": 7
+      }
+    },
+    "5e33fbc7-f468-500f-837f-7443eee36296": {
+      "id": "5e33fbc7-f468-500f-837f-7443eee36296",
+      "brand": "Fly",
+      "model": "FF281 Silver",
+      "attributes": {
+        "attr_unnamed 0": 355,
+        "attr_popularity": 502,
+        "mrp": 497.0,
+        "attr_highest price": 679.0,
+        "attr_sellers amount": 19,
+        "display_size": 2.8,
+        "attr_memory size": 0.032,
+        "attr_battery size": 1400.0,
+        "release_date": 11
+      }
+    },
+    "4f3abb00-c5a6-5397-99f3-3eeba46695a2": {
+      "id": "4f3abb00-c5a6-5397-99f3-3eeba46695a2",
+      "brand": "Fly",
+      "model": "Blade IQ4516",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2050.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "display_size": 4.8,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "3ffe1852-31b7-55f8-bdb2-af0847d3508a": {
+      "id": "3ffe1852-31b7-55f8-bdb2-af0847d3508a",
+      "brand": "Fly",
+      "model": "Dune 2 IQ4505",
+      "attributes": {
+        "os": "Android ",
+        "battery_capacity": 1800.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "aa80b175-d678-59fd-a479-52801a9d8205": {
+      "id": "aa80b175-d678-59fd-a479-52801a9d8205",
+      "brand": "Fly",
+      "model": "Dune 3 IQ4507",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2000.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "94c7ebf1-7919-577f-9a1b-2b1a6b385ee6": {
+      "id": "94c7ebf1-7919-577f-9a1b-2b1a6b385ee6",
+      "brand": "Fly",
+      "model": "Dune 4 IQ4508",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2000.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 8.0,
+        "camera_front": 3.2
+      }
+    },
+    "aed50a68-70d3-5609-83a5-0903d6dcc187": {
+      "id": "aed50a68-70d3-5609-83a5-0903d6dcc187",
+      "brand": "Fly",
+      "model": "Dune IQ4503Q",
+      "attributes": {
+        "os": "Android ",
+        "battery_capacity": 2000.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "bb62ac3f-6b81-5050-859e-73486576141c": {
+      "id": "bb62ac3f-6b81-5050-859e-73486576141c",
+      "brand": "Fly",
+      "model": "Dune Pro IQ4517",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2100.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "3a8ac827-84e9-593d-b695-549b293370a0": {
+      "id": "3a8ac827-84e9-593d-b695-549b293370a0",
+      "brand": "Fly",
+      "model": "Eclipse 3 IQ4514",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2000.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "edda6e4e-30c2-5679-bfa7-fc7d953dd301": {
+      "id": "edda6e4e-30c2-5679-bfa7-fc7d953dd301",
+      "brand": "Fly",
+      "model": "Eclipse IQ4418",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "5bf5e425-c305-5cab-a85c-3e013b8d31c1": {
+      "id": "5bf5e425-c305-5cab-a85c-3e013b8d31c1",
+      "brand": "Fly",
+      "model": "Epic IQ4602",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2300.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "4f4dcd9d-0e9f-5960-8f72-51110295dc34": {
+      "id": "4f4dcd9d-0e9f-5960-8f72-51110295dc34",
+      "brand": "Fly",
+      "model": "Epic Note IQ4551",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2100.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.5,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "29f1bb1a-cf49-571d-91ce-bb892f5b53b3": {
+      "id": "29f1bb1a-cf49-571d-91ce-bb892f5b53b3",
+      "brand": "Fly",
+      "model": "Horizon 1 IQ239",
+      "attributes": {
+        "os": "Android ",
+        "battery_capacity": 1100.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "790b4db0-3cda-5f64-8970-f759a2ed7332": {
+      "id": "790b4db0-3cda-5f64-8970-f759a2ed7332",
+      "brand": "Fly",
+      "model": "Horizon 2 IQ436",
+      "attributes": {
+        "os": "Android ",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "08f834e4-ec79-5cea-8bfb-1168516fca52": {
+      "id": "08f834e4-ec79-5cea-8bfb-1168516fca52",
+      "brand": "Fly",
+      "model": "Horizon 3 IQ434",
+      "attributes": {
+        "os": "Android ",
+        "battery_capacity": 1000.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 1.0
+      }
+    },
+    "4f324367-0db6-5e79-a38a-9be961f4166a": {
+      "id": "4f324367-0db6-5e79-a38a-9be961f4166a",
+      "brand": "Fly",
+      "model": "Intruder IQ4509",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "battery_capacity": 2200.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "a7c9ee85-b13f-5ff5-a73d-b059533b4745": {
+      "id": "a7c9ee85-b13f-5ff5-a73d-b059533b4745",
+      "brand": "Fly",
+      "model": "Iris 2 IQ4490i",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "f6c19738-fbfa-599b-a118-1e58550d0184": {
+      "id": "f6c19738-fbfa-599b-a118-1e58550d0184",
+      "brand": "Fly",
+      "model": "Iris IQ4400",
+      "attributes": {
+        "os": "Android ",
+        "battery_capacity": 1250.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0
+      }
+    },
+    "a34452b4-8ceb-534f-b360-34afefbd13f3": {
+      "id": "a34452b4-8ceb-534f-b360-34afefbd13f3",
+      "brand": "Fly",
+      "model": "Spark IQ4404",
+      "attributes": {
+        "battery_capacity": 1750.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "3a18290b-d830-5e67-a530-b9288ce26f0f": {
+      "id": "3a18290b-d830-5e67-a530-b9288ce26f0f",
+      "brand": "Fly",
+      "model": "Thunder 3 IQ4415",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 1650.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "9f9e32e8-ad5f-5a35-96a5-5d91282377f4": {
+      "id": "9f9e32e8-ad5f-5a35-96a5-5d91282377f4",
+      "brand": "Fly",
+      "model": "Thunder 5 IQ4413",
+      "attributes": {
+        "os": "Android 4.2",
+        "release_date": "May 01, 2015",
+        "battery_capacity": 1800.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.7,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "6f5068d9-1496-587e-a6c2-ff4c77991f65": {
+      "id": "6f5068d9-1496-587e-a6c2-ff4c77991f65",
+      "brand": "Fly",
+      "model": "Thunder IQ4405 Quad",
+      "attributes": {
+        "os": "Android 4.2",
+        "release_date": "Jul 13, 2015",
+        "battery_capacity": 1800.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    },
+    "81871fc9-3a54-56ca-9c48-0c0ddb19fb83": {
+      "id": "81871fc9-3a54-56ca-9c48-0c0ddb19fb83",
+      "brand": "Fly",
+      "model": "Titan IQ4511",
+      "attributes": {
+        "os": "Android ",
+        "battery_capacity": 1920.0,
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0
+      }
+    }
+  }
+}

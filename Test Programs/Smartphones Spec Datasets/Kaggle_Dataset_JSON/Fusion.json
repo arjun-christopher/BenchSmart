@@ -1,0 +1,22 @@
+{
+  "brand": "Fusion",
+  "phones": {
+    "4e97aa2d-ab34-58e8-a956-343882f4620b": {
+      "id": "4e97aa2d-ab34-58e8-a956-343882f4620b",
+      "brand": "Fusion",
+      "model": "Garage Grid4",
+      "attributes": {
+        "os": "GridOS ",
+        "battery_capacity": 1300.0,
+        "chipset": "Qualcomm Snapdragon S2",
+        "attr_memory": 0.5,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    }
+  }
+}

@@ -1,0 +1,661 @@
+{
+  "brand": "Yezz",
+  "phones": {
+    "f0aef7bf-1e5d-570d-9182-43076428ba0d": {
+      "id": "f0aef7bf-1e5d-570d-9182-43076428ba0d",
+      "brand": "Yezz",
+      "model": "ANDY A4M",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 1400.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 8.0,
+        "camera_front": 1.3
+      }
+    },
+    "2d7c7ccf-d6c1-5a98-be5a-f80e65d84e06": {
+      "id": "2d7c7ccf-d6c1-5a98-be5a-f80e65d84e06",
+      "brand": "Yezz",
+      "model": "ANDY A5QP",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 1800.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "64ed85b7-baa3-57e1-9a25-a8177312ad17": {
+      "id": "64ed85b7-baa3-57e1-9a25-a8177312ad17",
+      "brand": "Yezz",
+      "model": "ANDY A6M",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 2400.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 6.0,
+        "attr_display resolution": 960,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "72882355-b3ca-524e-9b9c-611b6c8502e2": {
+      "id": "72882355-b3ca-524e-9b9c-611b6c8502e2",
+      "brand": "Yezz",
+      "model": "ANDY A6Q",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 3000.0,
+        "attr_memory": 1.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "a52ce3ef-4f01-50bc-9a8c-61e47b741c2e": {
+      "id": "a52ce3ef-4f01-50bc-9a8c-61e47b741c2e",
+      "brand": "Yezz",
+      "model": "ANDY AZ4.5",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 1800.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "c1397376-6bfe-5d8b-ad21-885264cef28f": {
+      "id": "c1397376-6bfe-5d8b-ad21-885264cef28f",
+      "brand": "Yezz",
+      "model": "Andy",
+      "attributes": {
+        "os": "Android 2.2",
+        "battery_capacity": 1100.0,
+        "attr_memory": 0.1,
+        "storage": " microSDHC",
+        "display_size": 3.2,
+        "attr_display resolution": 480,
+        "camera_main": 2.0
+      }
+    },
+    "58a1b6e8-01cb-5eba-ad26-b680f42516b5": {
+      "id": "58a1b6e8-01cb-5eba-ad26-b680f42516b5",
+      "brand": "Yezz",
+      "model": "Andy 3G",
+      "attributes": {
+        "os": "Android 2.3",
+        "battery_capacity": 1000.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "db6528d3-e2a2-5d92-b13d-a91bf5ba098b": {
+      "id": "db6528d3-e2a2-5d92-b13d-a91bf5ba098b",
+      "brand": "Yezz",
+      "model": "Andy 4.5E LTE",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Feb 01, 2015",
+        "battery_capacity": 1400.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "c5f9741b-ac50-5397-93df-b8dfcab43b48": {
+      "id": "c5f9741b-ac50-5397-93df-b8dfcab43b48",
+      "brand": "Yezz",
+      "model": "Andy 4.5EL LTE",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Jul 01, 2015",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "87485504-69ac-580e-9189-2db092b926e1": {
+      "id": "87485504-69ac-580e-9189-2db092b926e1",
+      "brand": "Yezz",
+      "model": "Andy 4.5M",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 1500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 13.0,
+        "camera_front": 1.3
+      }
+    },
+    "4c3a707b-7b8b-5e1c-9689-7cbb8807615c": {
+      "id": "4c3a707b-7b8b-5e1c-9689-7cbb8807615c",
+      "brand": "Yezz",
+      "model": "Andy 4.7M LTE",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 1800.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 4.7,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "1bfe2b19-62fb-5a4d-a743-771ef92a29cd": {
+      "id": "1bfe2b19-62fb-5a4d-a743-771ef92a29cd",
+      "brand": "Yezz",
+      "model": "Andy 4E",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Feb 20, 2015",
+        "battery_capacity": 1450.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 8.0,
+        "camera_front": 0.3
+      }
+    },
+    "2d736b40-f4d4-586f-8653-d6f76dba9024": {
+      "id": "2d736b40-f4d4-586f-8653-d6f76dba9024",
+      "brand": "Yezz",
+      "model": "Andy 4E LTE",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Mar 01, 2015",
+        "battery_capacity": 1450.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "f37330e3-df83-5622-b357-c8fa0021ef26": {
+      "id": "f37330e3-df83-5622-b357-c8fa0021ef26",
+      "brand": "Yezz",
+      "model": "Andy 4E2I",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Mar 01, 2015",
+        "battery_capacity": 1400.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "f47af0f5-4e5a-5205-9c8e-460775ecbaac": {
+      "id": "f47af0f5-4e5a-5205-9c8e-460775ecbaac",
+      "brand": "Yezz",
+      "model": "Andy 4EI",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Jul 01, 2014",
+        "battery_capacity": 1400.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "c47492a8-944e-553d-869e-332d5516401f": {
+      "id": "c47492a8-944e-553d-869e-332d5516401f",
+      "brand": "Yezz",
+      "model": "Andy 4EI2",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 1400.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "195ce19c-c439-5ef0-8e99-a782a35dda9d": {
+      "id": "195ce19c-c439-5ef0-8e99-a782a35dda9d",
+      "brand": "Yezz",
+      "model": "Andy 4EL2 LTE",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 1600.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "e8a76341-081f-5e09-bf14-70cc2794bcdb": {
+      "id": "e8a76341-081f-5e09-bf14-70cc2794bcdb",
+      "brand": "Yezz",
+      "model": "Andy 5.5EI",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Jul 01, 2014",
+        "battery_capacity": 2500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 854,
+        "camera_main": 8.0,
+        "camera_front": 1.3
+      }
+    },
+    "fcd90700-b792-557d-8252-93885489dade": {
+      "id": "fcd90700-b792-557d-8252-93885489dade",
+      "brand": "Yezz",
+      "model": "Andy 5.5T LTE VR",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Jan 02, 2016",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 20.0,
+        "camera_front": 8
+      }
+    },
+    "01fc5d19-b5d6-5d74-865c-4f4fe21dd424": {
+      "id": "01fc5d19-b5d6-5d74-865c-4f4fe21dd424",
+      "brand": "Yezz",
+      "model": "Andy 5EI",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Jul 01, 2014",
+        "battery_capacity": 1550.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "eba750a4-aed0-565f-b005-f059a5f0360c": {
+      "id": "eba750a4-aed0-565f-b005-f059a5f0360c",
+      "brand": "Yezz",
+      "model": "Andy 5EI3",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "e669e098-4e80-5675-9039-7e882f5fa708": {
+      "id": "e669e098-4e80-5675-9039-7e882f5fa708",
+      "brand": "Yezz",
+      "model": "Andy 5EL LTE",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Jul 15, 2015",
+        "battery_capacity": 2100.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "bbf3f9ec-d2ce-5a1c-9571-9e74450d8594": {
+      "id": "bbf3f9ec-d2ce-5a1c-9571-9e74450d8594",
+      "brand": "Yezz",
+      "model": "Andy 5M LTE",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Feb 01, 2015",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "e9d1ad30-bd48-5f82-8595-1ed8342457bc": {
+      "id": "e9d1ad30-bd48-5f82-8595-1ed8342457bc",
+      "brand": "Yezz",
+      "model": "Andy 5M VR",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "40b95d72-f727-5001-8955-4ee4f196ad33": {
+      "id": "40b95d72-f727-5001-8955-4ee4f196ad33",
+      "brand": "Yezz",
+      "model": "Andy 5S LTE",
+      "attributes": {
+        "os": "Android 4.4",
+        "chipset": "Qualcomm Snapdragon 410",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "6fec4cf0-ebe4-5707-a8b6-91dfea1b004b": {
+      "id": "6fec4cf0-ebe4-5707-a8b6-91dfea1b004b",
+      "brand": "Yezz",
+      "model": "Andy 5T",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 1800.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "a22ef105-fb49-5703-82b7-16590e75081b": {
+      "id": "a22ef105-fb49-5703-82b7-16590e75081b",
+      "brand": "Yezz",
+      "model": "Andy 5T LTE",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 2350.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    },
+    "02b19366-5f54-58e0-bd9a-a013703a14ef": {
+      "id": "02b19366-5f54-58e0-bd9a-a013703a14ef",
+      "brand": "Yezz",
+      "model": "Andy 6EL LTE",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Nov 01, 2015",
+        "battery_capacity": 2900.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "a96f2724-ea41-5fe1-8d97-8924ad74b1bc": {
+      "id": "a96f2724-ea41-5fe1-8d97-8924ad74b1bc",
+      "brand": "Yezz",
+      "model": "Andy 6Q",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "65df1845-505d-57d7-bb43-fb2f0d78a15a": {
+      "id": "65df1845-505d-57d7-bb43-fb2f0d78a15a",
+      "brand": "Yezz",
+      "model": "Andy A4",
+      "attributes": {
+        "os": "Android 4.1",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 8.0,
+        "camera_front": 0.3
+      }
+    },
+    "a4b967c8-eb9c-5196-94c8-51d42c524160": {
+      "id": "a4b967c8-eb9c-5196-94c8-51d42c524160",
+      "brand": "Yezz",
+      "model": "Andy A4.5",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.5,
+        "storage": " microSDXC",
+        "display_size": 4.5,
+        "attr_display resolution": 960,
+        "camera_main": 13.0,
+        "camera_front": 1.3
+      }
+    },
+    "a8b7756c-120a-575f-a8fd-fc8deb04f64e": {
+      "id": "a8b7756c-120a-575f-a8fd-fc8deb04f64e",
+      "brand": "Yezz",
+      "model": "Andy A5",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 2000.0,
+        "attr_memory": 0.5,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 2
+      }
+    },
+    "3f867002-b7f2-5bd6-ac54-621e528ccbde": {
+      "id": "3f867002-b7f2-5bd6-ac54-621e528ccbde",
+      "brand": "Yezz",
+      "model": "Andy C5ML",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "Nov 01, 2014",
+        "battery_capacity": 2020.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 960,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "debea298-74fd-53ab-8692-856587cb767c": {
+      "id": "debea298-74fd-53ab-8692-856587cb767c",
+      "brand": "Yezz",
+      "model": "Andy C5QL",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "Dec 01, 2014",
+        "battery_capacity": 2020.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 960,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "890fa053-140c-5a9f-9ded-d4f6c1631c48": {
+      "id": "890fa053-140c-5a9f-9ded-d4f6c1631c48",
+      "brand": "Yezz",
+      "model": "Andy C5V",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 2020.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "916e0b0f-14db-510c-892b-678364624ec9": {
+      "id": "916e0b0f-14db-510c-892b-678364624ec9",
+      "brand": "Yezz",
+      "model": "Andy C5VP",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "Aug 01, 2014",
+        "battery_capacity": 2020.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 960,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "1bc371f6-c137-5cb1-b5ca-756434c7afb8": {
+      "id": "1bc371f6-c137-5cb1-b5ca-756434c7afb8",
+      "brand": "Yezz",
+      "model": "Billy 4",
+      "attributes": {
+        "os": "Windows Phone 8.1",
+        "release_date": "Oct 01, 2014",
+        "battery_capacity": 1300.0,
+        "chipset": "Qualcomm Snapdragon 200",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 8.0,
+        "camera_front": 1.3
+      }
+    },
+    "e3cc937f-80e7-5e1a-b218-017630cd212d": {
+      "id": "e3cc937f-80e7-5e1a-b218-017630cd212d",
+      "brand": "Yezz",
+      "model": "Billy 4.7",
+      "attributes": {
+        "os": "Windows Phone 8.1",
+        "attr_memory": 1.0,
+        "storage": " microSDXC",
+        "display_size": 4.7,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "ca9a8709-4ff2-51ff-b5f5-cd874b306495": {
+      "id": "ca9a8709-4ff2-51ff-b5f5-cd874b306495",
+      "brand": "Yezz",
+      "model": "Billy 5S LTE",
+      "attributes": {
+        "os": "Windows Phone 8.1",
+        "release_date": "Feb 01, 2015",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    }
+  }
+}

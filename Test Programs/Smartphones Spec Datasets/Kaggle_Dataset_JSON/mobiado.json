@@ -1,0 +1,20 @@
+{
+  "brand": "mobiado",
+  "phones": {
+    "623dddd4-4ba7-54dd-91a1-e636b0795385": {
+      "id": "623dddd4-4ba7-54dd-91a1-e636b0795385",
+      "brand": "mobiado",
+      "model": "GRAND TOUCH ASTON MARTIN",
+      "attributes": {
+        "os": "Android ",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 16.0,
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    }
+  }
+}

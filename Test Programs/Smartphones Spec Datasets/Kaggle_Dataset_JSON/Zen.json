@@ -1,0 +1,688 @@
+{
+  "brand": "Zen",
+  "phones": {
+    "92521b98-6f40-5f2a-8888-35cf610e16e6": {
+      "id": "92521b98-6f40-5f2a-8888-35cf610e16e6",
+      "brand": "Zen",
+      "model": "Mobile 105 Max",
+      "attributes": {
+        "os": "Android 4.4.4",
+        "release_date": "Nov 16, 2015",
+        "battery_capacity": 1250.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "7fe2b94a-0c93-5947-9b0c-4167eaa91ed1": {
+      "id": "7fe2b94a-0c93-5947-9b0c-4167eaa91ed1",
+      "brand": "Zen",
+      "model": "Mobile 111",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "c6dd33b6-be69-5a98-a56a-63b93116d7e5": {
+      "id": "c6dd33b6-be69-5a98-a56a-63b93116d7e5",
+      "brand": "Zen",
+      "model": "Mobile 303 Elite 2",
+      "attributes": {
+        "os": "Android 4.4.4",
+        "release_date": "Dec 04, 2015",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0,
+        "camera_front": 1.3
+      }
+    },
+    "4f9da062-7de4-50dd-ab1c-3858b7908cd2": {
+      "id": "4f9da062-7de4-50dd-ab1c-3858b7908cd2",
+      "brand": "Zen",
+      "model": "Mobile Admire Curve",
+      "attributes": {
+        "os": "Android 4.4.4",
+        "release_date": "Nov 25, 2015",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0,
+        "camera_front": 1.3
+      }
+    },
+    "bffbc586-8867-551d-8f08-041a9208b921": {
+      "id": "bffbc586-8867-551d-8f08-041a9208b921",
+      "brand": "Zen",
+      "model": "Mobile Admire Fab",
+      "attributes": {
+        "os": "Android 4.4.4",
+        "release_date": "Sep 16, 2015",
+        "battery_capacity": 2000.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 3.0,
+        "camera_front": 1.3
+      }
+    },
+    "43130ba0-5c3d-599b-bcbf-7a0d38a68e56": {
+      "id": "43130ba0-5c3d-599b-bcbf-7a0d38a68e56",
+      "brand": "Zen",
+      "model": "Mobile Admire Fab Q",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Jan 11, 2016",
+        "battery_capacity": 1800.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 3.0,
+        "camera_front": 1.3
+      }
+    },
+    "c223e79c-5a0b-57d3-abe2-bfd6310280de": {
+      "id": "c223e79c-5a0b-57d3-abe2-bfd6310280de",
+      "brand": "Zen",
+      "model": "Mobile Admire Sxy",
+      "attributes": {
+        "os": "Android 5.0 Lollipop",
+        "battery_capacity": 1800.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "111ae06f-3ae7-5b46-b512-2cb5c6e7443e": {
+      "id": "111ae06f-3ae7-5b46-b512-2cb5c6e7443e",
+      "brand": "Zen",
+      "model": "Mobile Cinemax 2",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "release_date": "Dec 01, 2015",
+        "battery_capacity": 2900.0,
+        "chipset": "Spreadtrum",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.5,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "9ea98685-7865-5973-a9a9-8f201d9c0cad": {
+      "id": "9ea98685-7865-5973-a9a9-8f201d9c0cad",
+      "brand": "Zen",
+      "model": "Mobile U1",
+      "attributes": {
+        "os": "Android 2.3",
+        "battery_capacity": 1200.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "camera_main": 3.0
+      }
+    },
+    "bb5b6f10-8ac2-54a8-bcba-106587246fef": {
+      "id": "bb5b6f10-8ac2-54a8-bcba-106587246fef",
+      "brand": "Zen",
+      "model": "Mobile U4",
+      "attributes": {
+        "os": "Android 2.3",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 4.3,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "bcfe04a4-0ef9-5710-9fa9-5f0565fcf8fa": {
+      "id": "bcfe04a4-0ef9-5710-9fa9-5f0565fcf8fa",
+      "brand": "Zen",
+      "model": "Mobile U5",
+      "attributes": {
+        "os": "Android 2.3",
+        "battery_capacity": 2200.0,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 5.2,
+        "camera_main": 3.0,
+        "camera_front": 0.3
+      }
+    },
+    "eb50cb3f-e704-52f9-bb49-c8da5b934166": {
+      "id": "eb50cb3f-e704-52f9-bb49-c8da5b934166",
+      "brand": "Zen",
+      "model": "Mobile Ultrafone 102",
+      "attributes": {
+        "os": "Android 2.3",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0
+      }
+    },
+    "ce3519c6-aa0e-5092-a00f-de6471632b29": {
+      "id": "ce3519c6-aa0e-5092-a00f-de6471632b29",
+      "brand": "Zen",
+      "model": "Mobile Ultrafone 104",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1350.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "54cdd4d5-de89-5e26-8970-a3119a34e1b7": {
+      "id": "54cdd4d5-de89-5e26-8970-a3119a34e1b7",
+      "brand": "Zen",
+      "model": "Mobile Ultrafone 105 3G",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 1600.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 2.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0,
+        "camera_front": 1.3
+      }
+    },
+    "3b5e9fae-b7ec-55c7-bc9f-7191c8abb0cb": {
+      "id": "3b5e9fae-b7ec-55c7-bc9f-7191c8abb0cb",
+      "brand": "Zen",
+      "model": "Mobile Ultrafone 105 Fire",
+      "attributes": {
+        "os": "Firefox ",
+        "release_date": "Oct 01, 2014",
+        "battery_capacity": 1200.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "9b8da2db-af2e-53ce-abd0-f089e94fed86": {
+      "id": "9b8da2db-af2e-53ce-abd0-f089e94fed86",
+      "brand": "Zen",
+      "model": "Mobile Ultrafone 105 Sport",
+      "attributes": {
+        "os": "Android 4.0",
+        "release_date": "Jul 22, 2014",
+        "battery_capacity": 1350.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 2.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "59cdac3d-f49a-5f85-bdca-09d92ab58ad8": {
+      "id": "59cdac3d-f49a-5f85-bdca-09d92ab58ad8",
+      "brand": "Zen",
+      "model": "Mobile Ultrafone 105 pro",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 1200.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "0a50ded7-9b89-54d4-9356-a02350e8250a": {
+      "id": "0a50ded7-9b89-54d4-9356-a02350e8250a",
+      "brand": "Zen",
+      "model": "Mobile Ultrafone 108",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "eb937e79-a462-5632-b010-b3149cdba374": {
+      "id": "eb937e79-a462-5632-b010-b3149cdba374",
+      "brand": "Zen",
+      "model": "Mobile Ultrafone 109",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 1200.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "da8b12c5-a658-51e6-91b8-b9ac75452620": {
+      "id": "da8b12c5-a658-51e6-91b8-b9ac75452620",
+      "brand": "Zen",
+      "model": "Mobile Ultrafone 303 Elite",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "Dec 29, 2014",
+        "battery_capacity": 1600.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 2.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 3.0,
+        "camera_front": 1.3
+      }
+    },
+    "b16349bb-e5dd-5efa-b8a8-ce3178fe512f": {
+      "id": "b16349bb-e5dd-5efa-b8a8-ce3178fe512f",
+      "brand": "Zen",
+      "model": "Mobile Ultrafone 303 Power +",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 2200.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 2.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "e83a1eb5-2052-54a1-9ed4-0648ba1659da": {
+      "id": "e83a1eb5-2052-54a1-9ed4-0648ba1659da",
+      "brand": "Zen",
+      "model": "Mobile Ultrafone 303 Quad",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "Dec 01, 2014",
+        "battery_capacity": 1650.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "5adeddd3-8da8-57f2-b384-f117bc574ea2": {
+      "id": "5adeddd3-8da8-57f2-b384-f117bc574ea2",
+      "brand": "Zen",
+      "model": "Mobile Ultrafone 306 Play",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 1500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0,
+        "camera_front": 1.3
+      }
+    },
+    "fed5fa1e-7ac6-5982-b4ae-24aa8cccd466": {
+      "id": "fed5fa1e-7ac6-5982-b4ae-24aa8cccd466",
+      "brand": "Zen",
+      "model": "Mobile Ultrafone 402",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 2100.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 3.0,
+        "camera_front": 1.3
+      }
+    },
+    "f47320eb-9f00-5ad1-b7b3-524f29b496e6": {
+      "id": "f47320eb-9f00-5ad1-b7b3-524f29b496e6",
+      "brand": "Zen",
+      "model": "Mobile Ultrafone 402 Play",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 2000.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 3.0,
+        "camera_front": 1.3
+      }
+    },
+    "6f6eac55-3d18-5af6-b608-9c30cbcc7c44": {
+      "id": "6f6eac55-3d18-5af6-b608-9c30cbcc7c44",
+      "brand": "Zen",
+      "model": "Mobile Ultrafone 402 Pro",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 1800.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "accc289f-a023-5b4b-8b14-ca34d990e90a": {
+      "id": "accc289f-a023-5b4b-8b14-ca34d990e90a",
+      "brand": "Zen",
+      "model": "Mobile Ultrafone 402 Sport",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "Feb 02, 2015",
+        "battery_capacity": 2200.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "bc9c4c7c-2249-5a1a-a095-331c49a1f80e": {
+      "id": "bc9c4c7c-2249-5a1a-a095-331c49a1f80e",
+      "brand": "Zen",
+      "model": "Mobile Ultrafone 402 style",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 1600.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "18dd7533-0184-5a05-891a-80ba26d4f1b2": {
+      "id": "18dd7533-0184-5a05-891a-80ba26d4f1b2",
+      "brand": "Zen",
+      "model": "Mobile Ultrafone 402 style pro",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 2100.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "0ed36ea0-87b2-515e-abad-91a30b3e65fd": {
+      "id": "0ed36ea0-87b2-515e-abad-91a30b3e65fd",
+      "brand": "Zen",
+      "model": "Mobile Ultrafone 501",
+      "attributes": {
+        "os": "Android 4.1",
+        "battery_capacity": 1800.0,
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "fe402641-0e3d-503c-88cd-e7d6e61887ad": {
+      "id": "fe402641-0e3d-503c-88cd-e7d6e61887ad",
+      "brand": "Zen",
+      "model": "Mobile Ultrafone 506",
+      "attributes": {
+        "os": "Android 4.4",
+        "release_date": "Sep 30, 2014",
+        "battery_capacity": 2100.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 1.3
+      }
+    },
+    "4556a9df-bf06-554d-ba34-b3aba2b1be48": {
+      "id": "4556a9df-bf06-554d-ba34-b3aba2b1be48",
+      "brand": "Zen",
+      "model": "Mobile Ultrafone Megashot 1",
+      "attributes": {
+        "os": "Android 4.4.4",
+        "release_date": "May 15, 2015",
+        "battery_capacity": 1800.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "0c46d3a5-c1e3-567f-9862-0f9d82cd918d": {
+      "id": "0c46d3a5-c1e3-567f-9862-0f9d82cd918d",
+      "brand": "Zen",
+      "model": "Mobile Ultrafone Powermax 1",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 4200.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 960,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "c1f3b4cd-353c-547c-9843-a68e07c4b82d": {
+      "id": "c1f3b4cd-353c-547c-9843-a68e07c4b82d",
+      "brand": "Zen",
+      "model": "Mobile WOW",
+      "attributes": {
+        "os": "Android 4.4.4",
+        "release_date": "Jan 23, 2016",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    },
+    "f29d5d3a-05dd-5b98-9608-56b5ebb0b6e6": {
+      "id": "f29d5d3a-05dd-5b98-9608-56b5ebb0b6e6",
+      "brand": "Zen",
+      "model": "Mobile ultrafone 101",
+      "attributes": {
+        "os": "Android 2.3",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0
+      }
+    },
+    "0e0045f7-83e8-5e77-9861-3080fa0b1b1d": {
+      "id": "0e0045f7-83e8-5e77-9861-3080fa0b1b1d",
+      "brand": "Zen",
+      "model": "Mobile ultrafone 302",
+      "attributes": {
+        "os": "Android 2.3",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 2.0,
+        "camera_front": 1.3
+      }
+    },
+    "e0bd4871-eb15-5233-8f8e-aabe64981c51": {
+      "id": "e0bd4871-eb15-5233-8f8e-aabe64981c51",
+      "brand": "Zen",
+      "model": "Mobile ultrafone 303 Power",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "b0e93947-0cd5-570c-8a1f-dce86e5f3db2": {
+      "id": "b0e93947-0cd5-570c-8a1f-dce86e5f3db2",
+      "brand": "Zen",
+      "model": "Mobile ultrafone 304",
+      "attributes": {
+        "os": "Android 2.3",
+        "battery_capacity": 1400.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "camera_main": 3.0,
+        "camera_front": 1.3
+      }
+    },
+    "cc1c27fc-2c11-5936-bbd9-1855b795b151": {
+      "id": "cc1c27fc-2c11-5936-bbd9-1855b795b151",
+      "brand": "Zen",
+      "model": "Mobile ultrafone 308",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0,
+        "camera_front": 1.3
+      }
+    },
+    "e24c8499-0bdf-5cef-bd02-a7662421995a": {
+      "id": "e24c8499-0bdf-5cef-bd02-a7662421995a",
+      "brand": "Zen",
+      "model": "Mobile ultrafone 502",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 1700.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.5,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 1.3
+      }
+    },
+    "56e339b0-a9b9-5f84-bc8f-206f4be90def": {
+      "id": "56e339b0-a9b9-5f84-bc8f-206f4be90def",
+      "brand": "Zen",
+      "model": "Mobile ultrafone 504",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 2000.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "7292ba29-bc8a-5f21-b0a0-a6e065e7db03": {
+      "id": "7292ba29-bc8a-5f21-b0a0-a6e065e7db03",
+      "brand": "Zen",
+      "model": "Mobile ultrafone 701 HD",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 2000.0,
+        "attr_memory": 1.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 3
+      }
+    },
+    "510e6342-fec6-549f-9a77-2c52bac417fa": {
+      "id": "510e6342-fec6-549f-9a77-2c52bac417fa",
+      "brand": "Zen",
+      "model": "Mobile ultrafone AMAZE 701FHD",
+      "attributes": {
+        "os": "Android 4.2.1",
+        "battery_capacity": 2050.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 8
+      }
+    }
+  }
+}

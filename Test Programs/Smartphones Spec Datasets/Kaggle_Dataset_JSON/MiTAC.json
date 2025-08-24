@@ -1,0 +1,19 @@
+{
+  "brand": "MiTAC",
+  "phones": {
+    "9acf12d2-3891-5cf8-872c-13bb1e0e3361": {
+      "id": "9acf12d2-3891-5cf8-872c-13bb1e0e3361",
+      "brand": "MiTAC",
+      "model": "Mio 8390",
+      "attributes": {
+        "os": "Windows Mobile Standard 2003",
+        "battery_capacity": 750.0,
+        "attr_memory": 0.02,
+        "attr_primary storage": 0.0,
+        "storage": " SD",
+        "attr_display resolution": 220,
+        "camera_main": 0.0
+      }
+    }
+  }
+}

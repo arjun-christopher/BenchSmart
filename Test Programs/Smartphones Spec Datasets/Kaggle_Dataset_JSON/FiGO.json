@@ -1,0 +1,90 @@
+{
+  "brand": "FiGO",
+  "phones": {
+    "6cd31197-876f-5970-8b04-0f1823e92c22": {
+      "id": "6cd31197-876f-5970-8b04-0f1823e92c22",
+      "brand": "FiGO",
+      "model": "Atrium",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 2500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    },
+    "002e65fe-ceee-5c20-ab44-b8bfca986d9b": {
+      "id": "002e65fe-ceee-5c20-ab44-b8bfca986d9b",
+      "brand": "FiGO",
+      "model": "Epic",
+      "attributes": {
+        "os": "Android 5.1 Lollipop",
+        "battery_capacity": 4000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "1367cfa0-1788-53f6-9e2a-5c39fced1926": {
+      "id": "1367cfa0-1788-53f6-9e2a-5c39fced1926",
+      "brand": "FiGO",
+      "model": "Gravity",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "dcbad90e-b122-534b-a791-c74621279990": {
+      "id": "dcbad90e-b122-534b-a791-c74621279990",
+      "brand": "FiGO",
+      "model": "Orion",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "29c9f018-e561-5cca-a61c-2df1a22277c0": {
+      "id": "29c9f018-e561-5cca-a61c-2df1a22277c0",
+      "brand": "FiGO",
+      "model": "Virtue",
+      "attributes": {
+        "os": "Android 6.0 Marshmallow",
+        "battery_capacity": 1400.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 8.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 2.0,
+        "camera_front": 0.3
+      }
+    }
+  }
+}

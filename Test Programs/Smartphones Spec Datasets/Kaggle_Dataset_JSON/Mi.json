@@ -1,0 +1,233 @@
+{
+  "brand": "Mi",
+  "phones": {
+    "3ce107e6-6e23-5c75-9de6-8f09e7f2acf5": {
+      "id": "3ce107e6-6e23-5c75-9de6-8f09e7f2acf5",
+      "brand": "Mi",
+      "model": "12 Pro (S-8 Gen 1 12/256)",
+      "attributes": {
+        "cpu": 221570,
+        "gpu": 427999,
+        "attr_mem": 164052,
+        "attr_ux": 168607,
+        "attr_total score": 982228
+      }
+    },
+    "5875bf7a-6774-5a6d-9c2e-aa863ec8ab13": {
+      "id": "5875bf7a-6774-5a6d-9c2e-aa863ec8ab13",
+      "brand": "Mi",
+      "model": "12 (S-8 Gen 1 8/256)",
+      "attributes": {
+        "cpu": 215610,
+        "gpu": 409770,
+        "attr_mem": 162098,
+        "attr_ux": 160914,
+        "attr_total score": 948391
+      }
+    },
+    "d5a253cf-b1bf-5587-ae3a-0322e13a00fe": {
+      "id": "d5a253cf-b1bf-5587-ae3a-0322e13a00fe",
+      "brand": "Mi",
+      "model": "11i (S-888 8/256)",
+      "attributes": {
+        "cpu": 204450,
+        "gpu": 311315,
+        "attr_mem": 125515,
+        "attr_ux": 153509,
+        "attr_total score": 794789
+      }
+    },
+    "700e2948-fb4a-59ab-9f40-52de7902c922": {
+      "id": "700e2948-fb4a-59ab-9f40-52de7902c922",
+      "brand": "Mi",
+      "model": "11 Ultra (S-888 12/256)",
+      "attributes": {
+        "cpu": 197298,
+        "gpu": 300789,
+        "attr_mem": 131336,
+        "attr_ux": 158323,
+        "attr_total score": 787745
+      }
+    },
+    "195b89f9-01b4-54fc-8c9c-901dc410e913": {
+      "id": "195b89f9-01b4-54fc-8c9c-901dc410e913",
+      "brand": "Mi",
+      "model": "11T Pro (S-888 8/256)",
+      "attributes": {
+        "cpu": 199993,
+        "gpu": 298367,
+        "attr_mem": 130016,
+        "attr_ux": 151328,
+        "attr_total score": 779704
+      }
+    },
+    "5414329d-2aa3-53c7-b8d1-4c958a813a6a": {
+      "id": "5414329d-2aa3-53c7-b8d1-4c958a813a6a",
+      "brand": "Mi",
+      "model": "11 (S-888 8/256)",
+      "attributes": {
+        "cpu": 195922,
+        "gpu": 292240,
+        "attr_mem": 128323,
+        "attr_ux": 156020,
+        "attr_total score": 772505
+      }
+    },
+    "6fa816aa-97e9-58c8-be48-39f8fcec4ed0": {
+      "id": "6fa816aa-97e9-58c8-be48-39f8fcec4ed0",
+      "brand": "Mi",
+      "model": "10T Pro 5G (S-865 8/128)",
+      "attributes": {
+        "cpu": 182792,
+        "gpu": 275502,
+        "attr_mem": 119287,
+        "attr_ux": 152290,
+        "attr_total score": 729871
+      }
+    },
+    "e40dfa9d-b043-5901-9b2c-80ae2150ef3b": {
+      "id": "e40dfa9d-b043-5901-9b2c-80ae2150ef3b",
+      "brand": "Mi",
+      "model": "11X (S-870 6/128)",
+      "attributes": {
+        "cpu": 191836,
+        "gpu": 250934,
+        "attr_mem": 112030,
+        "attr_ux": 150136,
+        "attr_total score": 704933
+      }
+    },
+    "3915dbe8-8795-5eec-b0e6-7ab8434dc5da": {
+      "id": "3915dbe8-8795-5eec-b0e6-7ab8434dc5da",
+      "brand": "Mi",
+      "model": "12X (S-870 8/256)",
+      "attributes": {
+        "cpu": 183426,
+        "gpu": 244165,
+        "attr_mem": 110754,
+        "attr_ux": 144418,
+        "attr_total score": 682763
+      }
+    },
+    "769de7ff-b81f-5b4b-b0b6-272ba6051b50": {
+      "id": "769de7ff-b81f-5b4b-b0b6-272ba6051b50",
+      "brand": "Mi",
+      "model": "10 (S-865 8/256)",
+      "attributes": {
+        "cpu": 186019,
+        "gpu": 229019,
+        "attr_mem": 109255,
+        "attr_ux": 134448,
+        "attr_total score": 658741
+      }
+    },
+    "5d018711-ba96-58d1-9142-2b98f40e1b5c": {
+      "id": "5d018711-ba96-58d1-9142-2b98f40e1b5c",
+      "brand": "Mi",
+      "model": "11T 5G (M-1200 8/256)",
+      "attributes": {
+        "cpu": 153660,
+        "gpu": 239628,
+        "attr_mem": 115503,
+        "attr_ux": 130869,
+        "attr_total score": 639660
+      }
+    },
+    "d90898a7-7d09-50fe-9e2f-3742edd9ac5a": {
+      "id": "d90898a7-7d09-50fe-9e2f-3742edd9ac5a",
+      "brand": "Mi",
+      "model": "9 (S-855 6/128)",
+      "attributes": {
+        "cpu": 147840,
+        "gpu": 194579,
+        "attr_mem": 80851,
+        "attr_ux": 109653,
+        "attr_total score": 532919
+      }
+    },
+    "7adf2f6a-d0f6-5e34-ab5f-62886f2782e2": {
+      "id": "7adf2f6a-d0f6-5e34-ab5f-62886f2782e2",
+      "brand": "Mi",
+      "model": "11 Lite (S-780G 8/128)",
+      "attributes": {
+        "cpu": 156830,
+        "gpu": 170813,
+        "attr_mem": 82547,
+        "attr_ux": 121833,
+        "attr_total score": 532023
+      }
+    },
+    "b2724ce6-c0c5-58d9-8999-8ddc0a5cae82": {
+      "id": "b2724ce6-c0c5-58d9-8999-8ddc0a5cae82",
+      "brand": "Mi",
+      "model": "9T Pro (S-855 6/128)",
+      "attributes": {
+        "cpu": 146709,
+        "gpu": 190616,
+        "attr_mem": 75726,
+        "attr_ux": 110293,
+        "attr_total score": 523344
+      }
+    },
+    "9411a857-032a-5a77-8dd0-73d3800dc0bf": {
+      "id": "9411a857-032a-5a77-8dd0-73d3800dc0bf",
+      "brand": "Mi",
+      "model": "11 Lite 5G NE (S-778G 8/256)",
+      "attributes": {
+        "cpu": 153937,
+        "gpu": 158990,
+        "attr_mem": 85772,
+        "attr_ux": 118234,
+        "attr_total score": 516932
+      }
+    },
+    "bea28deb-5e55-53bf-b604-e9dc36b09b60": {
+      "id": "bea28deb-5e55-53bf-b604-e9dc36b09b60",
+      "brand": "Mi",
+      "model": "8 (S-845 6/128)",
+      "attributes": {
+        "cpu": 103508,
+        "gpu": 160901,
+        "attr_mem": 65957,
+        "attr_ux": 88365,
+        "attr_total score": 418731
+      }
+    },
+    "3a533d6c-eb86-582f-8352-75c4543b7cb4": {
+      "id": "3a533d6c-eb86-582f-8352-75c4543b7cb4",
+      "brand": "Mi",
+      "model": "11 Lite 4G (S-730 8/128)",
+      "attributes": {
+        "cpu": 103866,
+        "gpu": 97401,
+        "attr_mem": 59697,
+        "attr_ux": 98312,
+        "attr_total score": 359276
+      }
+    },
+    "a3848a4d-658a-5c4a-b767-817213c7bbf7": {
+      "id": "a3848a4d-658a-5c4a-b767-817213c7bbf7",
+      "brand": "Mi",
+      "model": "Note 10 Lite (S-730 6/128)",
+      "attributes": {
+        "cpu": 103517,
+        "gpu": 90972,
+        "attr_mem": 56063,
+        "attr_ux": 92392,
+        "attr_total score": 342944
+      }
+    },
+    "043b9d03-ca68-5b0d-b0ae-c506f8148298": {
+      "id": "043b9d03-ca68-5b0d-b0ae-c506f8148298",
+      "brand": "Mi",
+      "model": "9T (S-730 6/128)",
+      "attributes": {
+        "cpu": 104133,
+        "gpu": 83652,
+        "attr_mem": 54486,
+        "attr_ux": 88646,
+        "attr_total score": 330916
+      }
+    }
+  }
+}

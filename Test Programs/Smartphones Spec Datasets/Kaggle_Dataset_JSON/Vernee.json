@@ -1,0 +1,71 @@
+{
+  "brand": "Vernee",
+  "phones": {
+    "6789d754-c8f9-5117-9219-4cd17ca8ad3c": {
+      "id": "6789d754-c8f9-5117-9219-4cd17ca8ad3c",
+      "brand": "Vernee",
+      "model": "Mix 2 M2 4/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 614,
+        "os": "Android",
+        "attr_popularity": 801,
+        "mrp": 2644.0,
+        "attr_highest price": 2934.0,
+        "attr_sellers amount": 4,
+        "display_size": 6.0,
+        "attr_memory size": 64.0,
+        "attr_battery size": 4200.0,
+        "release_date": 8
+      }
+    },
+    "5dd8425f-cc88-5b48-8998-6258e78dca6a": {
+      "id": "5dd8425f-cc88-5b48-8998-6258e78dca6a",
+      "brand": "Vernee",
+      "model": "Mix 2 M2 4/64GB Blue",
+      "attributes": {
+        "attr_unnamed 0": 615,
+        "os": "Android",
+        "attr_popularity": 559,
+        "mrp": 2469.0,
+        "attr_highest price": 3089.0,
+        "attr_sellers amount": 4,
+        "display_size": 6.0,
+        "attr_memory size": 64.0,
+        "attr_battery size": 4200.0,
+        "release_date": 10
+      }
+    },
+    "07593e46-7ba2-57d4-815a-e812d225f1be": {
+      "id": "07593e46-7ba2-57d4-815a-e812d225f1be",
+      "brand": "Vernee",
+      "model": "T3 Pro 3/16GB Black",
+      "attributes": {
+        "attr_unnamed 0": 918,
+        "os": "Android",
+        "attr_popularity": 649,
+        "attr_sellers amount": 1,
+        "display_size": 5.5,
+        "attr_memory size": 16.0,
+        "attr_battery size": 4080.0,
+        "release_date": 12
+      }
+    },
+    "9a354658-1e25-505e-93a9-ff4711b3c7d7": {
+      "id": "9a354658-1e25-505e-93a9-ff4711b3c7d7",
+      "brand": "Vernee",
+      "model": "X 4/64GB Black",
+      "attributes": {
+        "attr_unnamed 0": 953,
+        "os": "Android",
+        "attr_popularity": 766,
+        "mrp": 2797.0,
+        "attr_highest price": 2850.0,
+        "attr_sellers amount": 2,
+        "display_size": 6.0,
+        "attr_memory size": 64.0,
+        "attr_battery size": 6200.0,
+        "release_date": 10
+      }
+    }
+  }
+}

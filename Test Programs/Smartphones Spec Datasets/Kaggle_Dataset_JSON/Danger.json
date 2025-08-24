@@ -1,0 +1,41 @@
+{
+  "brand": "Danger",
+  "phones": {
+    "f96bbb7b-5ae6-5afd-b39c-43f556b61fa1": {
+      "id": "f96bbb7b-5ae6-5afd-b39c-43f556b61fa1",
+      "brand": "Danger",
+      "model": "Hiptop Color",
+      "attributes": {
+        "os": "Danger ",
+        "attr_memory": 0.03,
+        "attr_primary storage": 0.0,
+        "attr_display resolution": 160
+      }
+    },
+    "7b025a43-ee2e-563e-b645-029df57debbc": {
+      "id": "7b025a43-ee2e-563e-b645-029df57debbc",
+      "brand": "Danger",
+      "model": "Sidekick 3",
+      "attributes": {
+        "os": "Danger 3.0",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.06,
+        "attr_primary storage": 0.0,
+        "storage": " miniSD",
+        "attr_display resolution": 160,
+        "camera_main": 1.0
+      }
+    },
+    "a1aab394-6d5e-549a-be9c-ac3eb56a9f9e": {
+      "id": "a1aab394-6d5e-549a-be9c-ac3eb56a9f9e",
+      "brand": "Danger",
+      "model": "Sidekick iD",
+      "attributes": {
+        "os": "Danger 3.3",
+        "battery_capacity": 1500.0,
+        "display_size": 2.4,
+        "attr_display resolution": 160
+      }
+    }
+  }
+}

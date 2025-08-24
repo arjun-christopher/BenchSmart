@@ -1,0 +1,58 @@
+{
+    "listings": [
+        {
+            "brand": "Redmi",
+            "model": "Redmi 13 5G Prime Edition",
+            "title": "Redmi 13 5G Prime Edition, Hawaiian Blue, 8GB+128GB | India Debut SD 4 Gen 2 AE | 108MP Pro Grade Camera | 6.79in Largest Display in Segment",
+            "variant": "Hawaiian Blue, 8GB+128GB",
+            "warranty": "1 Year",
+            "weight": "205 g",
+            "wireless_charging": "null"
+        },
+        {
+            "brand": "Samsung",
+            "model": "Galaxy M35 5G",
+            "title": "Samsung Galaxy M35 5G (Moonlight Blue,8GB RAM,128GB Storage)| Corning Gorilla Glass Victus+| AnTuTu Score 595K+| Vapour Cooling Chamber| 6000mAh Battery| 120Hz Super AMOLED Display| AI|Without Charger",
+            "variant": "Moonlight Blue, 8GB+128GB",
+            "warranty": "null",
+            "weight": "null",
+            "wireless_charging": "null"
+        },
+        {
+            "brand": "POCO",
+            "model": "POCO M7 5G",
+            "title": "POCO M7 5G Mint Green 6GB RAM|128GB ROM|SD4 Gen2 Processor|6.88\" HD+ Display|50MP Camera|8MP Front Camera|5160 mAh Battery",
+            "variant": "Mint Green 6GB+128GB",
+            "warranty": "null",
+            "weight": "null",
+            "wireless_charging": "null"
+        },
+        {
+            "brand": "Tecno",
+            "model": "POP 9",
+            "title": "Tecno POP 9 (Magic Skin Green, 3GB+64GB) |India's 1st Mediatek G50 | IP54 Rated | IR Remote | Dual Speaker with DTS | 36 Month Lag Free Fluency | 15W Fast Charging Support | 5000 mAh Battery",
+            "variant": "Magic Skin Green, 3GB+64GB",
+            "warranty": "null",
+            "weight": "null",
+            "wireless_charging": "null"
+        },
+        {
+            "brand": "iQOO",
+            "model": "Z10x 5G",
+            "title": "iQOO Z10x 5G (Ultramarine, 8GB RAM, 256GB Storage) | 6500 mAh Large Capacity Battery | Dimensity 7300 Processor | Military-Grade Durability",
+            "variant": "Ultramarine, 8GB+256GB",
+            "warranty": "null",
+            "weight": "null",
+            "wireless_charging": "null"
+        },
+        {
+            "brand": "iQOO",
+            "model": "Z10 Lite 5G",
+            "title": "iQOO Z10 Lite 5G (Titanium Blue, 4GB RAM, 128GB Storage) | 6000 mAh Battery | Dimensity 6300 5G Processor with 433K+* AnTuTu Score | IP64 Rated & Military Grade Shock-Resistance*",
+            "variant": "Titanium Blue, 4GB+128GB",
+            "warranty": "null",
+            "weight": "null",
+            "wireless_charging": "null"
+        }
+    ]
+}

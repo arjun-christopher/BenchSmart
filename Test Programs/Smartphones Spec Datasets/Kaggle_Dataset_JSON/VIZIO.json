@@ -1,0 +1,19 @@
+{
+  "brand": "VIZIO",
+  "phones": {
+    "55ef259f-dec1-5114-95f1-54561beece5e": {
+      "id": "55ef259f-dec1-5114-95f1-54561beece5e",
+      "brand": "VIZIO",
+      "model": "VIA Phone",
+      "attributes": {
+        "os": "Android 2.2",
+        "attr_primary storage": 2.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 0.3
+      }
+    }
+  }
+}

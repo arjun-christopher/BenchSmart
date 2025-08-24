@@ -1,0 +1,56 @@
+{
+  "brand": "Handspring",
+  "phones": {
+    "81612beb-677e-540d-bddc-c4ed4ff082e3": {
+      "id": "81612beb-677e-540d-bddc-c4ed4ff082e3",
+      "brand": "Handspring",
+      "model": "Treo 180",
+      "attributes": {
+        "os": "Palm OS "
+      }
+    },
+    "74ba11b7-a70a-5c6a-8dfd-6108f20a3559": {
+      "id": "74ba11b7-a70a-5c6a-8dfd-6108f20a3559",
+      "brand": "Handspring",
+      "model": "Treo 270",
+      "attributes": {
+        "os": "Palm OS 3.5"
+      }
+    },
+    "c9ac999f-9120-5a55-9276-cc7c3aa102d3": {
+      "id": "c9ac999f-9120-5a55-9276-cc7c3aa102d3",
+      "brand": "Handspring",
+      "model": "Treo 300",
+      "attributes": {
+        "os": "Palm OS 3.5",
+        "attr_primary storage": 0.0
+      }
+    },
+    "7ece40e9-9b59-52bf-8a30-3fca8b1433e6": {
+      "id": "7ece40e9-9b59-52bf-8a30-3fca8b1433e6",
+      "brand": "Handspring",
+      "model": "Treo 600 (CDMA edition)",
+      "attributes": {
+        "os": "Palm OS 5",
+        "chipset": "TI OMAP",
+        "attr_primary storage": 0.0,
+        "storage": " SD",
+        "attr_display resolution": 160,
+        "camera_main": 0.0
+      }
+    },
+    "30cbdc7d-6676-5500-9e5d-4df11bf9af5d": {
+      "id": "30cbdc7d-6676-5500-9e5d-4df11bf9af5d",
+      "brand": "Handspring",
+      "model": "Treo 600 (GSM edition)",
+      "attributes": {
+        "os": "Palm OS 5.2.x",
+        "attr_memory": 0.03,
+        "attr_primary storage": 0.0,
+        "storage": " SD",
+        "attr_display resolution": 160,
+        "camera_main": 0.0
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "brand": "Black",
+  "phones": {
+    "293eb684-c938-5b91-a2a4-da22c1c102cd": {
+      "id": "293eb684-c938-5b91-a2a4-da22c1c102cd",
+      "brand": "Black",
+      "model": "Shark 4 (S-870 8/128)",
+      "attributes": {
+        "cpu": 189415,
+        "gpu": 245712,
+        "attr_mem": 117836,
+        "attr_ux": 153645,
+        "attr_total score": 706606
+      }
+    }
+  }
+}

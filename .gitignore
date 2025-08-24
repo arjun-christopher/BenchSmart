@@ -69,3 +69,6 @@ chromedriver.log
 
 # Line endings
 * text=auto eol=lf
+
+# Kaggle
+kaggle.json

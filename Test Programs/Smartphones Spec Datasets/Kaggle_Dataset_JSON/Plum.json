@@ -1,0 +1,413 @@
+{
+  "brand": "Plum",
+  "phones": {
+    "b215a35c-86a3-580a-9598-4a68f3811790": {
+      "id": "b215a35c-86a3-580a-9598-4a68f3811790",
+      "brand": "Plum",
+      "model": "Axe II",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 1450.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "60ec8253-88ac-5084-a728-3e098dad3475": {
+      "id": "60ec8253-88ac-5084-a728-3e098dad3475",
+      "brand": "Plum",
+      "model": "Axe Plus",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 1200.0,
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "a1d0ef38-be4b-59df-a755-179c7de67e69": {
+      "id": "a1d0ef38-be4b-59df-a755-179c7de67e69",
+      "brand": "Plum",
+      "model": "Check Plus",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 1500.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 4.5,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 2
+      }
+    },
+    "f9031419-9507-50fa-b78c-415668fef6f4": {
+      "id": "f9031419-9507-50fa-b78c-415668fef6f4",
+      "brand": "Plum",
+      "model": "Coach Plus",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 2600.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "f0f4d394-98b9-5b3e-8d61-c52c080fa0a1": {
+      "id": "f0f4d394-98b9-5b3e-8d61-c52c080fa0a1",
+      "brand": "Plum",
+      "model": "Coach Plus II",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 2400.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 1.3
+      }
+    },
+    "68a5b644-2bf9-57a4-b9de-dfe5b5ee2027": {
+      "id": "68a5b644-2bf9-57a4-b9de-dfe5b5ee2027",
+      "brand": "Plum",
+      "model": "Coach Pro",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "Jan 02, 2015",
+        "battery_capacity": 2400.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "72adf454-642d-5557-93ee-b75a9ba7d6e7": {
+      "id": "72adf454-642d-5557-93ee-b75a9ba7d6e7",
+      "brand": "Plum",
+      "model": "Gator",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 3600.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 800,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "e31617af-b065-5840-9abe-0817bae73971": {
+      "id": "e31617af-b065-5840-9abe-0817bae73971",
+      "brand": "Plum",
+      "model": "Gator Plus",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 3600.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "d2750444-ad51-55e6-a83f-e294c89f91ab": {
+      "id": "d2750444-ad51-55e6-a83f-e294c89f91ab",
+      "brand": "Plum",
+      "model": "Might",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 2400.0,
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 5.3,
+        "attr_display resolution": 800,
+        "camera_main": 5.0
+      }
+    },
+    "4b93acf5-4536-5120-abc3-214408547c19": {
+      "id": "4b93acf5-4536-5120-abc3-214408547c19",
+      "brand": "Plum",
+      "model": "Might II 3G",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 2000.0,
+        "attr_memory": 1.0,
+        "attr_primary storage": 4.0,
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "e4433875-d950-5839-9c03-6441e14d5d83": {
+      "id": "e4433875-d950-5839-9c03-6441e14d5d83",
+      "brand": "Plum",
+      "model": "Might LTE",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 2000.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 8.0,
+        "camera_front": 3
+      }
+    },
+    "afe2f85a-6176-5afc-acab-3739ab06ecc1": {
+      "id": "afe2f85a-6176-5afc-acab-3739ab06ecc1",
+      "brand": "Plum",
+      "model": "Might Plus",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 2000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "51ed41c5-3306-5661-8fe3-3f9c9ea1ede2": {
+      "id": "51ed41c5-3306-5661-8fe3-3f9c9ea1ede2",
+      "brand": "Plum",
+      "model": "Might Pro",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "release_date": "Aug 01, 2014",
+        "battery_capacity": 2200.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 8.0,
+        "camera_front": 1.3
+      }
+    },
+    "3121210b-c400-5a78-b5f4-f2836252819f": {
+      "id": "3121210b-c400-5a78-b5f4-f2836252819f",
+      "brand": "Plum",
+      "model": "Pilot Plus",
+      "attributes": {
+        "os": "Android 4.4.2",
+        "battery_capacity": 2200.0,
+        "chipset": "MediaTek",
+        "attr_memory": 1.0,
+        "attr_primary storage": 8.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    },
+    "b8663674-932d-597e-a07b-845ed4df87cc": {
+      "id": "b8663674-932d-597e-a07b-845ed4df87cc",
+      "brand": "Plum",
+      "model": "Sync 3.5",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 1350.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 1.0,
+        "camera_front": 1.3
+      }
+    },
+    "828a375d-0f7d-5d89-aafe-20d8d05d9445": {
+      "id": "828a375d-0f7d-5d89-aafe-20d8d05d9445",
+      "brand": "Plum",
+      "model": "Sync 4.0",
+      "attributes": {
+        "os": "Android 4.4",
+        "battery_capacity": 1200.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "04078f42-cbb3-5cc1-91af-b2ddfcff2df7": {
+      "id": "04078f42-cbb3-5cc1-91af-b2ddfcff2df7",
+      "brand": "Plum",
+      "model": "Sync 5.0",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 1900.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 5.0,
+        "attr_display resolution": 854,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "2e76e4f7-ec9d-53e4-ac12-76e49cfd1b6e": {
+      "id": "2e76e4f7-ec9d-53e4-ac12-76e49cfd1b6e",
+      "brand": "Plum",
+      "model": "Trigger",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1350.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.25,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0,
+        "camera_front": 2
+      }
+    },
+    "0884d782-0ea4-5a0a-983d-53e90cef1a5c": {
+      "id": "0884d782-0ea4-5a0a-983d-53e90cef1a5c",
+      "brand": "Plum",
+      "model": "Trigger Plus",
+      "attributes": {
+        "os": "Android 4.2.2",
+        "battery_capacity": 1100.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.25,
+        "attr_primary storage": 2.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "01b35af3-8196-5dd4-89cc-31baeeb51c2f": {
+      "id": "01b35af3-8196-5dd4-89cc-31baeeb51c2f",
+      "brand": "Plum",
+      "model": "Trigger Pro",
+      "attributes": {
+        "os": "Android 4.2",
+        "battery_capacity": 1350.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 4.0,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 5.0,
+        "camera_front": 1.3
+      }
+    },
+    "e73ca6e7-4ad9-51f1-b95b-c68b7e49d2d3": {
+      "id": "e73ca6e7-4ad9-51f1-b95b-c68b7e49d2d3",
+      "brand": "Plum",
+      "model": "Velocity",
+      "attributes": {
+        "os": "Android 2.2",
+        "battery_capacity": 800.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 2.6,
+        "attr_display resolution": 240,
+        "camera_main": 2.0
+      }
+    },
+    "a9bd4e9e-846b-5dca-ac43-2ba09bd0e2ff": {
+      "id": "a9bd4e9e-846b-5dca-ac43-2ba09bd0e2ff",
+      "brand": "Plum",
+      "model": "Velocity II",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1200.0,
+        "chipset": "MediaTek",
+        "attr_memory": 0.5,
+        "attr_primary storage": 0.0,
+        "storage": " microSDHC",
+        "display_size": 2.6,
+        "attr_display resolution": 320,
+        "camera_main": 3.0,
+        "camera_front": 1.3
+      }
+    },
+    "345aeab2-3209-5a87-9946-ac9f5c6b8fd4": {
+      "id": "345aeab2-3209-5a87-9946-ac9f5c6b8fd4",
+      "brand": "Plum",
+      "model": "axe",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1500.0,
+        "attr_memory": 0.5,
+        "storage": " microSDHC",
+        "display_size": 4.0,
+        "attr_display resolution": 480,
+        "camera_main": 5.0
+      }
+    },
+    "8e06e872-31f9-58bd-a76b-805dfd76430e": {
+      "id": "8e06e872-31f9-58bd-a76b-805dfd76430e",
+      "brand": "Plum",
+      "model": "capacity",
+      "attributes": {
+        "os": "Android 4.0",
+        "battery_capacity": 1200.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 3.5,
+        "attr_display resolution": 480,
+        "camera_main": 3.0
+      }
+    },
+    "8dece07c-96f4-5600-ba00-b47d291c1f90": {
+      "id": "8dece07c-96f4-5600-ba00-b47d291c1f90",
+      "brand": "Plum",
+      "model": "wicked",
+      "attributes": {
+        "os": "Android 2.2",
+        "battery_capacity": 1000.0,
+        "attr_memory": 0.25,
+        "storage": " microSDHC",
+        "display_size": 2.8,
+        "attr_display resolution": 320,
+        "camera_main": 2.0
+      }
+    }
+  }
+}

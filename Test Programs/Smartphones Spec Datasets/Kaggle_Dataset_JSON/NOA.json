@@ -1,0 +1,139 @@
+{
+  "brand": "NOA",
+  "phones": {
+    "1f614360-0a6c-55a0-9d9f-6082e277b3a7": {
+      "id": "1f614360-0a6c-55a0-9d9f-6082e277b3a7",
+      "brand": "NOA",
+      "model": "H10le",
+      "attributes": {
+        "os": "Android 7.1 Nougat",
+        "battery_capacity": 3800.0,
+        "chipset": "MediaTek Helio X27",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 13
+      }
+    },
+    "bf0c0b5d-7f65-58b9-acf8-efe598597603": {
+      "id": "bf0c0b5d-7f65-58b9-acf8-efe598597603",
+      "brand": "NOA",
+      "model": "N1",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "battery_capacity": 3000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 5.5,
+        "attr_display resolution": 1440,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "ccfea296-3fdb-53c5-9c97-7a371cee19b7": {
+      "id": "ccfea296-3fdb-53c5-9c97-7a371cee19b7",
+      "brand": "NOA",
+      "model": "N10",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "battery_capacity": 3600.0,
+        "chipset": "MediaTek",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.2,
+        "attr_display resolution": 2246,
+        "camera_main": 16.0,
+        "camera_front": 16
+      }
+    },
+    "5400ce64-a7d1-50f5-822e-d041b5833ee9": {
+      "id": "5400ce64-a7d1-50f5-822e-d041b5833ee9",
+      "brand": "NOA",
+      "model": "N2",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 3850.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "display_size": 5.0,
+        "attr_display resolution": 1920,
+        "camera_main": 13.0,
+        "camera_front": 5
+      }
+    },
+    "0c5a84c9-9615-50a0-baa6-ac727f1ab72b": {
+      "id": "0c5a84c9-9615-50a0-baa6-ac727f1ab72b",
+      "brand": "NOA",
+      "model": "N5",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 5000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 3.0,
+        "attr_primary storage": 32.0,
+        "storage": " microSDHC",
+        "display_size": 5.5,
+        "attr_display resolution": 1280,
+        "camera_main": 13.0,
+        "camera_front": 16
+      }
+    },
+    "f2bb7f43-205e-50d8-bf65-7265212d1cf9": {
+      "id": "f2bb7f43-205e-50d8-bf65-7265212d1cf9",
+      "brand": "NOA",
+      "model": "N7",
+      "attributes": {
+        "os": "Android 8.1 Oreo",
+        "battery_capacity": 3300.0,
+        "chipset": "MediaTek",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 5.7,
+        "attr_display resolution": 1440,
+        "camera_main": 16.0,
+        "camera_front": 16
+      }
+    },
+    "5f22e8b6-67f8-570a-a91e-5cc20ddd9916": {
+      "id": "5f22e8b6-67f8-570a-a91e-5cc20ddd9916",
+      "brand": "NOA",
+      "model": "N8",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 5000.0,
+        "chipset": "MediaTek",
+        "attr_memory": 4.0,
+        "attr_primary storage": 64.0,
+        "storage": " microSDXC",
+        "display_size": 6.0,
+        "attr_display resolution": 1440,
+        "camera_main": 13.0,
+        "camera_front": 16
+      }
+    },
+    "7197ed5b-0dab-5451-872b-5c4b341b73f5": {
+      "id": "7197ed5b-0dab-5451-872b-5c4b341b73f5",
+      "brand": "NOA",
+      "model": "Sprint 4G",
+      "attributes": {
+        "os": "Android 7.0 Nougat",
+        "battery_capacity": 2800.0,
+        "chipset": "MediaTek",
+        "attr_memory": 2.0,
+        "attr_primary storage": 16.0,
+        "display_size": 5.0,
+        "attr_display resolution": 1280,
+        "camera_main": 8.0,
+        "camera_front": 5
+      }
+    }
+  }
+}

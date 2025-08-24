@@ -1,0 +1,17 @@
+{
+  "brand": "ROG",
+  "phones": {
+    "2607d1c0-c9ea-5927-a94b-9a816def5567": {
+      "id": "2607d1c0-c9ea-5927-a94b-9a816def5567",
+      "brand": "ROG",
+      "model": "Phone 5s (S-888+ 16/512)",
+      "attributes": {
+        "cpu": 209799,
+        "gpu": 324341,
+        "attr_mem": 152881,
+        "attr_ux": 159766,
+        "attr_total score": 846786
+      }
+    }
+  }
+}

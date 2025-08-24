@@ -1,0 +1,35 @@
+{
+  "brand": "Bravis",
+  "phones": {
+    "889377f6-6767-540a-9320-1992d4d36561": {
+      "id": "889377f6-6767-540a-9320-1992d4d36561",
+      "brand": "Bravis",
+      "model": "A512 Harmony Pro DS Black",
+      "attributes": {
+        "attr_unnamed 0": 161,
+        "os": "Android",
+        "attr_popularity": 302,
+        "attr_sellers amount": 1,
+        "display_size": 5.0,
+        "attr_memory size": 16.0,
+        "attr_battery size": 3200.0,
+        "release_date": 1
+      }
+    },
+    "80c40ed6-5400-5ad3-98c0-3a58d7dfa507": {
+      "id": "80c40ed6-5400-5ad3-98c0-3a58d7dfa507",
+      "brand": "Bravis",
+      "model": "N1-550 Cruiser Dual Sim Black",
+      "attributes": {
+        "attr_unnamed 0": 652,
+        "os": "Android",
+        "attr_popularity": 35,
+        "attr_sellers amount": 1,
+        "display_size": 5.5,
+        "attr_memory size": 16.0,
+        "attr_battery size": 4500.0,
+        "release_date": 11
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "brand": "Globex",
+  "phones": {
+    "30dc37f1-93fb-550b-a088-86c4c2ec4476": {
+      "id": "30dc37f1-93fb-550b-a088-86c4c2ec4476",
+      "brand": "Globex",
+      "model": "Neon A1",
+      "attributes": {
+        "attr_unnamed 0": 660,
+        "attr_popularity": 463,
+        "mrp": 600.0,
+        "attr_highest price": 705.0,
+        "attr_sellers amount": 2,
+        "display_size": 1.77,
+        "attr_memory size": 0.032,
+        "attr_battery size": 800.0,
+        "release_date": 7
+      }
+    }
+  }
+}

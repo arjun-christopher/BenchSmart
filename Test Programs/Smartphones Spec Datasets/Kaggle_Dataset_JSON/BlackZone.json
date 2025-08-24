@@ -1,0 +1,21 @@
+{
+  "brand": "BlackZone",
+  "phones": {
+    "1c795d45-fdb7-59a2-a00e-c37434df29cd": {
+      "id": "1c795d45-fdb7-59a2-a00e-c37434df29cd",
+      "brand": "BlackZone",
+      "model": "Ultra 4G",
+      "attributes": {
+        "price": "₹1,899",
+        "sim": "Dual Sim, 3G, 4G, VoLTE",
+        "chipset": "Single Core, 1 GHz Processor",
+        "ram": 48,
+        "battery_capacity": 2500,
+        "display_size": 1.8,
+        "camera_main": 2,
+        "attr_card": "Memory Card Supported, upto 48 GB",
+        "os": "Bluetooth"
+      }
+    }
+  }
+}

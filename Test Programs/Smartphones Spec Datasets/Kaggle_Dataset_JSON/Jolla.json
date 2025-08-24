@@ -1,0 +1,23 @@
+{
+  "brand": "Jolla",
+  "phones": {
+    "5a9da2ca-b1d6-5e44-88cc-1c719878ccd7": {
+      "id": "5a9da2ca-b1d6-5e44-88cc-1c719878ccd7",
+      "brand": "Jolla",
+      "model": "Smartphone",
+      "attributes": {
+        "os": "Sailfish ",
+        "release_date": "Nov 28, 2013",
+        "battery_capacity": 2100.0,
+        "chipset": "Qualcomm Snapdragon 400",
+        "attr_memory": 1.0,
+        "attr_primary storage": 16.0,
+        "storage": " microSDXC",
+        "display_size": 4.5,
+        "attr_display resolution": 960,
+        "camera_main": 8.0,
+        "camera_front": 2
+      }
+    }
+  }
+}
