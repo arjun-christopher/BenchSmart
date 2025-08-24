@@ -395,6 +395,126 @@
         "os": "Memory Card Not Supported"
       }
     },
+    "8743fe8a-2018-5cff-8a31-5d1660a4d933": {
+      "id": "8743fe8a-2018-5cff-8a31-5d1660a4d933",
+      "brand": "asus",
+      "model": "Asus ROG Phone 6 Pro 5G",
+      "attributes": {
+        "price": [
+          89999
+        ],
+        "rating": 88.0,
+        "attr_has 5g": true,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "snapdragon",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 3.2,
+        "battery_capacity": 6000.0,
+        "attr_fast charging available": 1,
+        "charging": 65.0,
+        "attr_ram capacity": 18,
+        "attr_internal memory": 512,
+        "display_size": 6.78,
+        "refresh_rate": 165,
+        "camera_main": 12.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 0,
+        "attr_resolution width": 1080,
+        "attr_resolution height": 2448
+      }
+    },
+    "dbe34cdb-d85d-5288-b034-c43793a232a1": {
+      "id": "dbe34cdb-d85d-5288-b034-c43793a232a1",
+      "brand": "asus",
+      "model": "Asus ROG Phone 7",
+      "attributes": {
+        "price": [
+          75990
+        ],
+        "rating": 87.0,
+        "attr_has 5g": true,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "snapdragon",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 3.2,
+        "battery_capacity": 6000.0,
+        "attr_fast charging available": 1,
+        "charging": 120.0,
+        "attr_ram capacity": 18,
+        "attr_internal memory": 256,
+        "display_size": 6.8,
+        "refresh_rate": 165,
+        "camera_main": 32.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 0,
+        "attr_resolution width": 1080,
+        "attr_resolution height": 2448
+      }
+    },
+    "5aee5846-483d-5710-a6dc-df05f5cd5acd": {
+      "id": "5aee5846-483d-5710-a6dc-df05f5cd5acd",
+      "brand": "asus",
+      "model": "Asus ROG Phone 6 Batman Edition",
+      "attributes": {
+        "price": [
+          72999
+        ],
+        "rating": 88.0,
+        "attr_has 5g": true,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "dimensity",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 3.2,
+        "battery_capacity": 6000.0,
+        "attr_fast charging available": 1,
+        "charging": 65.0,
+        "attr_ram capacity": 16,
+        "attr_internal memory": 256,
+        "display_size": 6.78,
+        "refresh_rate": 165,
+        "camera_main": 12.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 0,
+        "attr_resolution width": 1080,
+        "attr_resolution height": 2448
+      }
+    },
+    "ab35e23d-9e0a-561a-915e-913ce18fe934": {
+      "id": "ab35e23d-9e0a-561a-915e-913ce18fe934",
+      "brand": "asus",
+      "model": "Asus ZenFone 9",
+      "attributes": {
+        "price": [
+          63990
+        ],
+        "rating": 86.0,
+        "attr_has 5g": true,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "snapdragon",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 3.2,
+        "battery_capacity": 4300.0,
+        "attr_fast charging available": 1,
+        "charging": 30.0,
+        "attr_ram capacity": 8,
+        "attr_internal memory": 128,
+        "display_size": 5.9,
+        "refresh_rate": 120,
+        "camera_main": 12.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 0,
+        "attr_resolution width": 1080,
+        "attr_resolution height": 2400
+      }
+    },
     "581cea5e-2e69-59ab-8805-3b5438d24490": {
       "id": "581cea5e-2e69-59ab-8805-3b5438d24490",
       "brand": "asus",
@@ -404,8 +524,10 @@
           39999,
           55999
         ],
-        "rating": 8.7,
-        "attr_5g or not": 1,
+        "rating": 87.0,
+        "attr_has 5g": true,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
         "attr_processor speed": 2.9,
@@ -417,14 +539,11 @@
         "display_size": 6.78,
         "refresh_rate": 144,
         "camera_main": 24.0,
+        "camera_front": 1.0,
         "os": "android",
         "attr_extended memory available": 0,
-        "attr_resolution height": 2448,
         "attr_resolution width": 1080,
-        "attr_has 5g": true,
-        "attr_has nfc": true,
-        "attr_has ir blaster": false,
-        "camera_front": 1.0,
+        "attr_resolution height": 2448,
         "ram": 8.0,
         "storage": 128.0,
         "attr_has fingerprints": "Yes",
@@ -441,8 +560,10 @@
         "price": [
           71999
         ],
-        "rating": 8.6,
-        "attr_5g or not": 1,
+        "rating": 86.0,
+        "attr_has 5g": true,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
         "attr_processor speed": 3.2,
@@ -454,76 +575,11 @@
         "display_size": 6.78,
         "refresh_rate": 165,
         "camera_main": 12.0,
+        "camera_front": 1.0,
         "os": "android",
         "attr_extended memory available": 0,
-        "attr_resolution height": 2448,
         "attr_resolution width": 1080,
-        "attr_has 5g": true,
-        "attr_has nfc": true,
-        "attr_has ir blaster": false,
-        "camera_front": 1.0
-      }
-    },
-    "5aee5846-483d-5710-a6dc-df05f5cd5acd": {
-      "id": "5aee5846-483d-5710-a6dc-df05f5cd5acd",
-      "brand": "asus",
-      "model": "Asus ROG Phone 6 Batman Edition",
-      "attributes": {
-        "price": [
-          72999
-        ],
-        "rating": 8.8,
-        "attr_5g or not": 1,
-        "attr_processor brand": "dimensity",
-        "attr_num cores": 8.0,
-        "attr_processor speed": 3.2,
-        "battery_capacity": 6000.0,
-        "attr_fast charging available": 1,
-        "charging": 65.0,
-        "attr_ram capacity": 16,
-        "attr_internal memory": 256,
-        "display_size": 6.78,
-        "refresh_rate": 165,
-        "camera_main": 12.0,
-        "os": "android",
-        "attr_extended memory available": 0,
-        "attr_resolution height": 2448,
-        "attr_resolution width": 1080,
-        "attr_has 5g": true,
-        "attr_has nfc": true,
-        "attr_has ir blaster": false,
-        "camera_front": 1.0
-      }
-    },
-    "8743fe8a-2018-5cff-8a31-5d1660a4d933": {
-      "id": "8743fe8a-2018-5cff-8a31-5d1660a4d933",
-      "brand": "asus",
-      "model": "Asus ROG Phone 6 Pro 5G",
-      "attributes": {
-        "price": [
-          89999
-        ],
-        "rating": 8.8,
-        "attr_5g or not": 1,
-        "attr_processor brand": "snapdragon",
-        "attr_num cores": 8.0,
-        "attr_processor speed": 3.2,
-        "battery_capacity": 6000.0,
-        "attr_fast charging available": 1,
-        "charging": 65.0,
-        "attr_ram capacity": 18,
-        "attr_internal memory": 512,
-        "display_size": 6.78,
-        "refresh_rate": 165,
-        "camera_main": 12.0,
-        "os": "android",
-        "attr_extended memory available": 0,
-        "attr_resolution height": 2448,
-        "attr_resolution width": 1080,
-        "attr_has 5g": true,
-        "attr_has nfc": true,
-        "attr_has ir blaster": false,
-        "camera_front": 1.0
+        "attr_resolution height": 2448
       }
     },
     "350c9778-dcec-59b1-967d-2b768e582d32": {
@@ -534,7 +590,9 @@
         "price": [
           107990
         ],
-        "attr_5g or not": 1,
+        "attr_has 5g": true,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
         "attr_processor brand": "dimensity",
         "attr_num cores": 8.0,
         "attr_processor speed": 3.2,
@@ -546,75 +604,10 @@
         "display_size": 6.78,
         "refresh_rate": 165,
         "camera_main": 12.0,
+        "camera_front": 1.0,
         "attr_extended memory available": 0,
-        "attr_resolution height": 2448,
         "attr_resolution width": 1080,
-        "attr_has 5g": true,
-        "attr_has nfc": true,
-        "attr_has ir blaster": false,
-        "camera_front": 1.0
-      }
-    },
-    "dbe34cdb-d85d-5288-b034-c43793a232a1": {
-      "id": "dbe34cdb-d85d-5288-b034-c43793a232a1",
-      "brand": "asus",
-      "model": "Asus ROG Phone 7",
-      "attributes": {
-        "price": [
-          75990
-        ],
-        "rating": 8.7,
-        "attr_5g or not": 1,
-        "attr_processor brand": "snapdragon",
-        "attr_num cores": 8.0,
-        "attr_processor speed": 3.2,
-        "battery_capacity": 6000.0,
-        "attr_fast charging available": 1,
-        "charging": 120.0,
-        "attr_ram capacity": 18,
-        "attr_internal memory": 256,
-        "display_size": 6.8,
-        "refresh_rate": 165,
-        "camera_main": 32.0,
-        "os": "android",
-        "attr_extended memory available": 0,
-        "attr_resolution height": 2448,
-        "attr_resolution width": 1080,
-        "attr_has 5g": true,
-        "attr_has nfc": true,
-        "attr_has ir blaster": false,
-        "camera_front": 1.0
-      }
-    },
-    "ab35e23d-9e0a-561a-915e-913ce18fe934": {
-      "id": "ab35e23d-9e0a-561a-915e-913ce18fe934",
-      "brand": "asus",
-      "model": "Asus ZenFone 9",
-      "attributes": {
-        "price": [
-          63990
-        ],
-        "rating": 8.6,
-        "attr_5g or not": 1,
-        "attr_processor brand": "snapdragon",
-        "attr_num cores": 8.0,
-        "attr_processor speed": 3.2,
-        "battery_capacity": 4300.0,
-        "attr_fast charging available": 1,
-        "charging": 30.0,
-        "attr_ram capacity": 8,
-        "attr_internal memory": 128,
-        "display_size": 5.9,
-        "refresh_rate": 120,
-        "camera_main": 12.0,
-        "os": "android",
-        "attr_extended memory available": 0,
-        "attr_resolution height": 2400,
-        "attr_resolution width": 1080,
-        "attr_has 5g": true,
-        "attr_has nfc": true,
-        "attr_has ir blaster": false,
-        "camera_front": 1.0
+        "attr_resolution height": 2448
       }
     },
     "0a5cd1f1-78a8-515f-953f-10be03cf2eb6": {

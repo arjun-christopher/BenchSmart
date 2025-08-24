@@ -993,129 +993,6 @@
         "attr_display resolution": 2480
       }
     },
-    "9878f02f-d6d6-5c4d-82f0-fe74fb10632b": {
-      "id": "9878f02f-d6d6-5c4d-82f0-fe74fb10632b",
-      "brand": "huawei",
-      "model": "Huawei Honor 9N",
-      "attributes": {
-        "price": [
-          10949
-        ],
-        "rating": 6.6,
-        "attr_5g or not": 0,
-        "attr_processor brand": "kirin",
-        "attr_num cores": 8.0,
-        "attr_processor speed": 2.36,
-        "battery_capacity": 3000.0,
-        "attr_fast charging available": 0,
-        "attr_ram capacity": 4,
-        "attr_internal memory": 64,
-        "display_size": 5.84,
-        "refresh_rate": 60,
-        "camera_main": 16.0,
-        "os": "android",
-        "attr_extended memory available": 1,
-        "attr_resolution height": 2280,
-        "attr_resolution width": 1080,
-        "attr_has 5g": false,
-        "attr_has nfc": false,
-        "attr_has ir blaster": false,
-        "camera_front": 1.0,
-        "attr_extended upto": 256.0
-      }
-    },
-    "0e022bf2-221e-56a9-8ba5-0877a427e02f": {
-      "id": "0e022bf2-221e-56a9-8ba5-0877a427e02f",
-      "brand": "huawei",
-      "model": "Huawei Mate 30 RS Porsche Design",
-      "attributes": {
-        "price": [
-          214990
-        ],
-        "attr_5g or not": 1,
-        "attr_processor brand": "kirin",
-        "attr_num cores": 8.0,
-        "attr_processor speed": 2.86,
-        "battery_capacity": 4500.0,
-        "attr_fast charging available": 1,
-        "attr_ram capacity": 12,
-        "attr_internal memory": 512,
-        "display_size": 6.53,
-        "refresh_rate": 60,
-        "camera_main": 32.0,
-        "os": "android",
-        "attr_extended memory available": 1,
-        "attr_resolution height": 2400,
-        "attr_resolution width": 1176,
-        "attr_has 5g": true,
-        "attr_has nfc": true,
-        "attr_has ir blaster": true,
-        "camera_front": 2.0,
-        "attr_extended upto": 256.0
-      }
-    },
-    "f2fe70ec-7c81-576a-b986-e0b8084d0002": {
-      "id": "f2fe70ec-7c81-576a-b986-e0b8084d0002",
-      "brand": "huawei",
-      "model": "Huawei Mate 40 Pro 4G",
-      "attributes": {
-        "price": [
-          69990
-        ],
-        "attr_5g or not": 0,
-        "attr_processor brand": "kirin",
-        "attr_num cores": 8.0,
-        "attr_processor speed": 3.13,
-        "battery_capacity": 4400.0,
-        "attr_fast charging available": 1,
-        "charging": 66.0,
-        "attr_ram capacity": 8,
-        "attr_internal memory": 128,
-        "display_size": 6.76,
-        "refresh_rate": 90,
-        "camera_main": 13.0,
-        "os": "other",
-        "attr_extended memory available": 1,
-        "attr_resolution height": 2772,
-        "attr_resolution width": 1344,
-        "attr_has 5g": false,
-        "attr_has nfc": true,
-        "attr_has ir blaster": true,
-        "camera_front": 2.0,
-        "attr_extended upto": 256.0
-      }
-    },
-    "d75af67c-1f9d-550a-8a84-48ef1c1b3ff6": {
-      "id": "d75af67c-1f9d-550a-8a84-48ef1c1b3ff6",
-      "brand": "huawei",
-      "model": "Huawei Mate 50 Pro 5G",
-      "attributes": {
-        "price": [
-          99990
-        ],
-        "rating": 8.5,
-        "attr_5g or not": 1,
-        "attr_processor brand": "kirin",
-        "attr_num cores": 8.0,
-        "attr_processor speed": 3.13,
-        "battery_capacity": 4500.0,
-        "attr_fast charging available": 1,
-        "charging": 66.0,
-        "attr_ram capacity": 8,
-        "attr_internal memory": 256,
-        "display_size": 6.76,
-        "refresh_rate": 120,
-        "camera_main": 13.0,
-        "os": "other",
-        "attr_extended memory available": 0,
-        "attr_resolution height": 3200,
-        "attr_resolution width": 1440,
-        "attr_has 5g": true,
-        "attr_has nfc": true,
-        "attr_has ir blaster": false,
-        "camera_front": 1.0
-      }
-    },
     "62f72a7c-ddd0-5ffc-95da-38e8869a4cca": {
       "id": "62f72a7c-ddd0-5ffc-95da-38e8869a4cca",
       "brand": "huawei",
@@ -1124,8 +1001,10 @@
         "price": [
           239999
         ],
-        "rating": 8.1,
-        "attr_5g or not": 0,
+        "rating": 81.0,
+        "attr_has 5g": false,
+        "attr_has nfc": true,
+        "attr_has ir blaster": true,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
         "attr_processor speed": 3.2,
@@ -1137,103 +1016,12 @@
         "display_size": 6.74,
         "refresh_rate": 120,
         "camera_main": 13.0,
+        "camera_front": 1.0,
         "os": "other",
         "attr_extended memory available": 1,
-        "attr_resolution height": 2616,
+        "attr_extended upto": 256.0,
         "attr_resolution width": 1212,
-        "attr_has 5g": false,
-        "attr_has nfc": true,
-        "attr_has ir blaster": true,
-        "camera_front": 1.0,
-        "attr_extended upto": 256.0
-      }
-    },
-    "8c7440a7-6bf7-5aea-be69-90bd3359dc39": {
-      "id": "8c7440a7-6bf7-5aea-be69-90bd3359dc39",
-      "brand": "huawei",
-      "model": "Huawei Mate X",
-      "attributes": {
-        "price": [
-          169000
-        ],
-        "attr_5g or not": 1,
-        "attr_processor brand": "kirin",
-        "attr_num cores": 8.0,
-        "attr_processor speed": 2.86,
-        "battery_capacity": 4500.0,
-        "attr_fast charging available": 1,
-        "charging": 55.0,
-        "attr_ram capacity": 8,
-        "attr_internal memory": 512,
-        "display_size": 8.0,
-        "refresh_rate": 60,
-        "attr_extended memory available": 0,
-        "attr_resolution height": 2480,
-        "attr_resolution width": 2200,
-        "attr_has 5g": true,
-        "attr_has nfc": true,
-        "attr_has ir blaster": true
-      }
-    },
-    "5d7703fd-f50a-55b8-b798-ded9263357cc": {
-      "id": "5d7703fd-f50a-55b8-b798-ded9263357cc",
-      "brand": "huawei",
-      "model": "Huawei Mate Xs 2",
-      "attributes": {
-        "price": [
-          162990
-        ],
-        "rating": 8.9,
-        "attr_5g or not": 0,
-        "attr_processor brand": "snapdragon",
-        "attr_num cores": 8.0,
-        "attr_processor speed": 2.84,
-        "battery_capacity": 4600.0,
-        "attr_fast charging available": 1,
-        "charging": 66.0,
-        "attr_ram capacity": 8,
-        "attr_internal memory": 512,
-        "display_size": 7.8,
-        "refresh_rate": 120,
-        "camera_main": 11.0,
-        "attr_extended memory available": 0,
-        "attr_resolution height": 2480,
-        "attr_resolution width": 2200,
-        "attr_has 5g": false,
-        "attr_has nfc": true,
-        "attr_has ir blaster": true,
-        "camera_front": 1.0
-      }
-    },
-    "ce6d34a4-a6e6-534d-b6b9-fa33264e6548": {
-      "id": "ce6d34a4-a6e6-534d-b6b9-fa33264e6548",
-      "brand": "huawei",
-      "model": "Huawei Nova 10",
-      "attributes": {
-        "price": [
-          29990
-        ],
-        "rating": 8.2,
-        "attr_5g or not": 0,
-        "attr_processor brand": "snapdragon",
-        "attr_num cores": 8.0,
-        "attr_processor speed": 2.4,
-        "battery_capacity": 4000.0,
-        "attr_fast charging available": 1,
-        "charging": 66.0,
-        "attr_ram capacity": 8,
-        "attr_internal memory": 128,
-        "display_size": 6.67,
-        "refresh_rate": 120,
-        "camera_main": 60.0,
-        "os": "other",
-        "attr_extended memory available": 0,
-        "attr_resolution height": 2400,
-        "attr_resolution width": 1080,
-        "attr_has 5g": false,
-        "attr_has nfc": false,
-        "attr_has ir blaster": false,
-        "camera_front": 1.0
+        "attr_resolution height": 2616
       }
     },
     "7b87a92a-620a-5c0f-a44a-b702e6cac0d7": {
@@ -1244,8 +1032,10 @@
         "price": [
           23999
         ],
-        "rating": 8.4,
-        "attr_5g or not": 0,
+        "rating": 84.0,
+        "attr_has 5g": false,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
         "attr_processor speed": 2.4,
@@ -1257,77 +1047,11 @@
         "display_size": 6.67,
         "refresh_rate": 90,
         "camera_main": 16.0,
-        "os": "android",
-        "attr_extended memory available": 1,
-        "attr_resolution height": 2160,
-        "attr_resolution width": 1080,
-        "attr_has 5g": false,
-        "attr_has nfc": true,
-        "attr_has ir blaster": false,
-        "camera_front": 1.0
-      }
-    },
-    "9b962284-b8da-52a2-afb8-a553be6dc6b6": {
-      "id": "9b962284-b8da-52a2-afb8-a553be6dc6b6",
-      "brand": "huawei",
-      "model": "Huawei Nova 7i",
-      "attributes": {
-        "price": [
-          21990
-        ],
-        "rating": 8.1,
-        "attr_5g or not": 0,
-        "attr_processor brand": "kirin",
-        "attr_num cores": 8.0,
-        "attr_processor speed": 2.2,
-        "battery_capacity": 4200.0,
-        "attr_fast charging available": 1,
-        "charging": 40.0,
-        "attr_ram capacity": 8,
-        "attr_internal memory": 128,
-        "display_size": 6.4,
-        "refresh_rate": 60,
-        "camera_main": 16.0,
-        "os": "android",
-        "attr_extended memory available": 1,
-        "attr_resolution height": 2340,
-        "attr_resolution width": 1080,
-        "attr_has 5g": false,
-        "attr_has nfc": false,
-        "attr_has ir blaster": false,
         "camera_front": 1.0,
-        "attr_extended upto": 256.0
-      }
-    },
-    "8b6b5d61-7ed3-592c-8452-772dc4cca185": {
-      "id": "8b6b5d61-7ed3-592c-8452-772dc4cca185",
-      "brand": "huawei",
-      "model": "Huawei Nova 9",
-      "attributes": {
-        "price": [
-          29990
-        ],
-        "rating": 8.3,
-        "attr_5g or not": 0,
-        "attr_processor brand": "snapdragon",
-        "attr_num cores": 8.0,
-        "attr_processor speed": 2.4,
-        "battery_capacity": 4300.0,
-        "attr_fast charging available": 1,
-        "charging": 66.0,
-        "attr_ram capacity": 8,
-        "attr_internal memory": 128,
-        "display_size": 6.57,
-        "refresh_rate": 120,
-        "camera_main": 32.0,
-        "os": "other",
-        "attr_extended memory available": 0,
-        "attr_resolution height": 2340,
+        "os": "android",
+        "attr_extended memory available": 1,
         "attr_resolution width": 1080,
-        "attr_has 5g": false,
-        "attr_has nfc": true,
-        "attr_has ir blaster": false,
-        "camera_front": 1.0
+        "attr_resolution height": 2160
       }
     },
     "9c54866f-cdbb-5de4-ae01-a5f61479a1e6": {
@@ -1338,8 +1062,10 @@
         "price": [
           19990
         ],
-        "rating": 8.4,
-        "attr_5g or not": 0,
+        "rating": 84.0,
+        "attr_has 5g": false,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
         "attr_processor speed": 2.4,
@@ -1351,105 +1077,130 @@
         "display_size": 6.78,
         "refresh_rate": 90,
         "camera_main": 16.0,
+        "camera_front": 1.0,
         "os": "android",
         "attr_extended memory available": 1,
-        "attr_resolution height": 2388,
         "attr_resolution width": 1080,
+        "attr_resolution height": 2388
+      }
+    },
+    "f2fe70ec-7c81-576a-b986-e0b8084d0002": {
+      "id": "f2fe70ec-7c81-576a-b986-e0b8084d0002",
+      "brand": "huawei",
+      "model": "Huawei Mate 40 Pro 4G",
+      "attributes": {
+        "price": [
+          69990
+        ],
         "attr_has 5g": false,
         "attr_has nfc": true,
-        "attr_has ir blaster": false,
-        "camera_front": 1.0
-      }
-    },
-    "53ba67b0-5655-5533-9671-c4b87db86798": {
-      "id": "53ba67b0-5655-5533-9671-c4b87db86798",
-      "brand": "huawei",
-      "model": "Huawei Nova Y61",
-      "attributes": {
-        "price": [
-          21990
-        ],
-        "rating": 6.3,
-        "attr_5g or not": 0,
-        "attr_num cores": 8.0,
-        "battery_capacity": 5000.0,
-        "attr_fast charging available": 1,
-        "charging": 22.0,
-        "attr_ram capacity": 4,
-        "attr_internal memory": 64,
-        "display_size": 6.52,
-        "refresh_rate": 60,
-        "camera_main": 5.0,
-        "os": "other",
-        "attr_extended memory available": 1,
-        "attr_resolution height": 1600,
-        "attr_resolution width": 720,
-        "attr_has 5g": false,
-        "attr_has nfc": false,
-        "attr_has ir blaster": false,
-        "camera_front": 1.0
-      }
-    },
-    "cc3802ef-0ab7-5530-892d-99dffba7470e": {
-      "id": "cc3802ef-0ab7-5530-892d-99dffba7470e",
-      "brand": "huawei",
-      "model": "Huawei Nova Y90",
-      "attributes": {
-        "price": [
-          22990
-        ],
-        "rating": 8.2,
-        "attr_5g or not": 0,
-        "attr_processor brand": "snapdragon",
-        "attr_num cores": 8.0,
-        "attr_processor speed": 2.4,
-        "battery_capacity": 5000.0,
-        "attr_fast charging available": 1,
-        "charging": 40.0,
-        "attr_ram capacity": 8,
-        "attr_internal memory": 128,
-        "display_size": 6.7,
-        "refresh_rate": 90,
-        "camera_main": 8.0,
-        "os": "other",
-        "attr_extended memory available": 1,
-        "attr_resolution height": 2388,
-        "attr_resolution width": 1080,
-        "attr_has 5g": false,
-        "attr_has nfc": true,
-        "attr_has ir blaster": false,
-        "camera_front": 1.0
-      }
-    },
-    "9bef7a3c-4b3f-59ca-ac63-82ba2dbd4b67": {
-      "id": "9bef7a3c-4b3f-59ca-ac63-82ba2dbd4b67",
-      "brand": "huawei",
-      "model": "Huawei P40 Pro",
-      "attributes": {
-        "price": [
-          82990
-        ],
-        "attr_5g or not": 1,
+        "attr_has ir blaster": true,
         "attr_processor brand": "kirin",
         "attr_num cores": 8.0,
-        "attr_processor speed": 2.86,
-        "battery_capacity": 4200.0,
+        "attr_processor speed": 3.13,
+        "battery_capacity": 4400.0,
         "attr_fast charging available": 1,
-        "charging": 40.0,
+        "charging": 66.0,
         "attr_ram capacity": 8,
-        "attr_internal memory": 256,
-        "display_size": 6.58,
+        "attr_internal memory": 128,
+        "display_size": 6.76,
         "refresh_rate": 90,
-        "camera_main": 32.0,
-        "os": "android",
+        "camera_main": 13.0,
+        "camera_front": 2.0,
+        "os": "other",
         "attr_extended memory available": 1,
-        "attr_resolution height": 2640,
-        "attr_resolution width": 1200,
+        "attr_extended upto": 256.0,
+        "attr_resolution width": 1344,
+        "attr_resolution height": 2772
+      }
+    },
+    "d75af67c-1f9d-550a-8a84-48ef1c1b3ff6": {
+      "id": "d75af67c-1f9d-550a-8a84-48ef1c1b3ff6",
+      "brand": "huawei",
+      "model": "Huawei Mate 50 Pro 5G",
+      "attributes": {
+        "price": [
+          99990
+        ],
+        "rating": 85.0,
         "attr_has 5g": true,
         "attr_has nfc": true,
         "attr_has ir blaster": false,
-        "camera_front": 2.0,
-        "attr_extended upto": 256.0
+        "attr_processor brand": "kirin",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 3.13,
+        "battery_capacity": 4500.0,
+        "attr_fast charging available": 1,
+        "charging": 66.0,
+        "attr_ram capacity": 8,
+        "attr_internal memory": 256,
+        "display_size": 6.76,
+        "refresh_rate": 120,
+        "camera_main": 13.0,
+        "camera_front": 1.0,
+        "os": "other",
+        "attr_extended memory available": 0,
+        "attr_resolution width": 1440,
+        "attr_resolution height": 3200
+      }
+    },
+    "5d7703fd-f50a-55b8-b798-ded9263357cc": {
+      "id": "5d7703fd-f50a-55b8-b798-ded9263357cc",
+      "brand": "huawei",
+      "model": "Huawei Mate Xs 2",
+      "attributes": {
+        "price": [
+          162990
+        ],
+        "rating": 89.0,
+        "attr_has 5g": false,
+        "attr_has nfc": true,
+        "attr_has ir blaster": true,
+        "attr_processor brand": "snapdragon",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.84,
+        "battery_capacity": 4600.0,
+        "attr_fast charging available": 1,
+        "charging": 66.0,
+        "attr_ram capacity": 8,
+        "attr_internal memory": 512,
+        "display_size": 7.8,
+        "refresh_rate": 120,
+        "camera_main": 10.7,
+        "camera_front": 1.0,
+        "attr_extended memory available": 0,
+        "attr_resolution width": 2200,
+        "attr_resolution height": 2480
+      }
+    },
+    "8b6b5d61-7ed3-592c-8452-772dc4cca185": {
+      "id": "8b6b5d61-7ed3-592c-8452-772dc4cca185",
+      "brand": "huawei",
+      "model": "Huawei Nova 9",
+      "attributes": {
+        "price": [
+          29990
+        ],
+        "rating": 83.0,
+        "attr_has 5g": false,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "snapdragon",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.4,
+        "battery_capacity": 4300.0,
+        "attr_fast charging available": 1,
+        "charging": 66.0,
+        "attr_ram capacity": 8,
+        "attr_internal memory": 128,
+        "display_size": 6.57,
+        "refresh_rate": 120,
+        "camera_main": 32.0,
+        "camera_front": 1.0,
+        "os": "other",
+        "attr_extended memory available": 0,
+        "attr_resolution width": 1080,
+        "attr_resolution height": 2340
       }
     },
     "740f7717-dc44-5a30-8230-b66b6d684ac9": {
@@ -1460,7 +1211,9 @@
         "price": [
           60999
         ],
-        "attr_5g or not": 0,
+        "attr_has 5g": false,
+        "attr_has nfc": true,
+        "attr_has ir blaster": true,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
         "attr_processor speed": 2.84,
@@ -1472,15 +1225,246 @@
         "display_size": 6.6,
         "refresh_rate": 120,
         "camera_main": 13.0,
+        "camera_front": 1.0,
         "os": "other",
         "attr_extended memory available": 1,
-        "attr_resolution height": 2700,
+        "attr_extended upto": 256.0,
         "attr_resolution width": 1288,
+        "attr_resolution height": 2700
+      }
+    },
+    "9bef7a3c-4b3f-59ca-ac63-82ba2dbd4b67": {
+      "id": "9bef7a3c-4b3f-59ca-ac63-82ba2dbd4b67",
+      "brand": "huawei",
+      "model": "Huawei P40 Pro",
+      "attributes": {
+        "price": [
+          82990
+        ],
+        "attr_has 5g": true,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "kirin",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.86,
+        "battery_capacity": 4200.0,
+        "attr_fast charging available": 1,
+        "charging": 40.0,
+        "attr_ram capacity": 8,
+        "attr_internal memory": 256,
+        "display_size": 6.58,
+        "refresh_rate": 90,
+        "camera_main": 32.0,
+        "camera_front": 2.0,
+        "os": "android",
+        "attr_extended memory available": 1,
+        "attr_extended upto": 256.0,
+        "attr_resolution width": 1200,
+        "attr_resolution height": 2640
+      }
+    },
+    "9b962284-b8da-52a2-afb8-a553be6dc6b6": {
+      "id": "9b962284-b8da-52a2-afb8-a553be6dc6b6",
+      "brand": "huawei",
+      "model": "Huawei Nova 7i",
+      "attributes": {
+        "price": [
+          21990
+        ],
+        "rating": 81.0,
+        "attr_has 5g": false,
+        "attr_has nfc": false,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "kirin",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.2,
+        "battery_capacity": 4200.0,
+        "attr_fast charging available": 1,
+        "charging": 40.0,
+        "attr_ram capacity": 8,
+        "attr_internal memory": 128,
+        "display_size": 6.4,
+        "refresh_rate": 60,
+        "camera_main": 16.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 1,
+        "attr_extended upto": 256.0,
+        "attr_resolution width": 1080,
+        "attr_resolution height": 2340
+      }
+    },
+    "9878f02f-d6d6-5c4d-82f0-fe74fb10632b": {
+      "id": "9878f02f-d6d6-5c4d-82f0-fe74fb10632b",
+      "brand": "huawei",
+      "model": "Huawei Honor 9N",
+      "attributes": {
+        "price": [
+          10949
+        ],
+        "rating": 66.0,
+        "attr_has 5g": false,
+        "attr_has nfc": false,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "kirin",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.36,
+        "battery_capacity": 3000.0,
+        "attr_fast charging available": 0,
+        "attr_ram capacity": 4,
+        "attr_internal memory": 64,
+        "display_size": 5.84,
+        "refresh_rate": 60,
+        "camera_main": 16.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 1,
+        "attr_extended upto": 256.0,
+        "attr_resolution width": 1080,
+        "attr_resolution height": 2280
+      }
+    },
+    "53ba67b0-5655-5533-9671-c4b87db86798": {
+      "id": "53ba67b0-5655-5533-9671-c4b87db86798",
+      "brand": "huawei",
+      "model": "Huawei Nova Y61",
+      "attributes": {
+        "price": [
+          21990
+        ],
+        "rating": 63.0,
+        "attr_has 5g": false,
+        "attr_has nfc": false,
+        "attr_has ir blaster": false,
+        "attr_num cores": 8.0,
+        "battery_capacity": 5000.0,
+        "attr_fast charging available": 1,
+        "charging": 22.0,
+        "attr_ram capacity": 4,
+        "attr_internal memory": 64,
+        "display_size": 6.52,
+        "refresh_rate": 60,
+        "camera_main": 5.0,
+        "camera_front": 1.0,
+        "os": "other",
+        "attr_extended memory available": 1,
+        "attr_resolution width": 720,
+        "attr_resolution height": 1600
+      }
+    },
+    "ce6d34a4-a6e6-534d-b6b9-fa33264e6548": {
+      "id": "ce6d34a4-a6e6-534d-b6b9-fa33264e6548",
+      "brand": "huawei",
+      "model": "Huawei Nova 10",
+      "attributes": {
+        "price": [
+          29990
+        ],
+        "rating": 82.0,
+        "attr_has 5g": false,
+        "attr_has nfc": false,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "snapdragon",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.4,
+        "battery_capacity": 4000.0,
+        "attr_fast charging available": 1,
+        "charging": 66.0,
+        "attr_ram capacity": 8,
+        "attr_internal memory": 128,
+        "display_size": 6.67,
+        "refresh_rate": 120,
+        "camera_main": 60.0,
+        "camera_front": 1.0,
+        "os": "other",
+        "attr_extended memory available": 0,
+        "attr_resolution width": 1080,
+        "attr_resolution height": 2400
+      }
+    },
+    "cc3802ef-0ab7-5530-892d-99dffba7470e": {
+      "id": "cc3802ef-0ab7-5530-892d-99dffba7470e",
+      "brand": "huawei",
+      "model": "Huawei Nova Y90",
+      "attributes": {
+        "price": [
+          22990
+        ],
+        "rating": 82.0,
         "attr_has 5g": false,
         "attr_has nfc": true,
-        "attr_has ir blaster": true,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "snapdragon",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.4,
+        "battery_capacity": 5000.0,
+        "attr_fast charging available": 1,
+        "charging": 40.0,
+        "attr_ram capacity": 8,
+        "attr_internal memory": 128,
+        "display_size": 6.7,
+        "refresh_rate": 90,
+        "camera_main": 8.0,
         "camera_front": 1.0,
-        "attr_extended upto": 256.0
+        "os": "other",
+        "attr_extended memory available": 1,
+        "attr_resolution width": 1080,
+        "attr_resolution height": 2388
+      }
+    },
+    "0e022bf2-221e-56a9-8ba5-0877a427e02f": {
+      "id": "0e022bf2-221e-56a9-8ba5-0877a427e02f",
+      "brand": "huawei",
+      "model": "Huawei Mate 30 RS Porsche Design",
+      "attributes": {
+        "price": [
+          214990
+        ],
+        "attr_has 5g": true,
+        "attr_has nfc": true,
+        "attr_has ir blaster": true,
+        "attr_processor brand": "kirin",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.86,
+        "battery_capacity": 4500.0,
+        "attr_fast charging available": 1,
+        "attr_ram capacity": 12,
+        "attr_internal memory": 512,
+        "display_size": 6.53,
+        "refresh_rate": 60,
+        "camera_main": 32.0,
+        "camera_front": 2.0,
+        "os": "android",
+        "attr_extended memory available": 1,
+        "attr_extended upto": 256.0,
+        "attr_resolution width": 1176,
+        "attr_resolution height": 2400
+      }
+    },
+    "8c7440a7-6bf7-5aea-be69-90bd3359dc39": {
+      "id": "8c7440a7-6bf7-5aea-be69-90bd3359dc39",
+      "brand": "huawei",
+      "model": "Huawei Mate X",
+      "attributes": {
+        "price": [
+          169000
+        ],
+        "attr_has 5g": true,
+        "attr_has nfc": true,
+        "attr_has ir blaster": true,
+        "attr_processor brand": "kirin",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.86,
+        "battery_capacity": 4500.0,
+        "attr_fast charging available": 1,
+        "charging": 55.0,
+        "attr_ram capacity": 8,
+        "attr_internal memory": 512,
+        "display_size": 8.0,
+        "refresh_rate": 60,
+        "attr_extended memory available": 0,
+        "attr_resolution width": 2200,
+        "attr_resolution height": 2480
       }
     },
     "b6ee39fb-55fd-5cb2-b6bd-101d967b8abb": {

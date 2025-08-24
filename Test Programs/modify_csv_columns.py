@@ -143,7 +143,7 @@ def extract_brand_model_color(text):
 
 # def modify_amazon_csv():
 #     """Modify Amazon Top Rated Smartphones CSV file"""
-#     file_path = r"e:\Cloud-AI-Native-Smartphone-Intelligence-Software\Test Programs\kaggle_datasets\Amazon Top Rated Smartphones  Accessories 2021   - amazon_top_rated_smartphones.csv"
+#     file_path = r"e:\BenchSmart\Test Programs\kaggle_datasets\smartphones.csv"
     
 #     # Read the CSV
 #     df = pd.read_csv(file_path)
@@ -175,7 +175,7 @@ def extract_brand_model_color(text):
 
 def modify_iphone_csv():
     """Modify iPhone results CSV file"""
-    file_path = r"e:\Cloud-AI-Native-Smartphone-Intelligence-Software\Test Programs\kaggle_datasets\iphone_results.csv"
+    file_path = r"e:\BenchSmart\Test Programs\kaggle_datasets\iphone_results.csv"
     
     # Read the CSV
     df = pd.read_csv(file_path)
@@ -213,7 +213,7 @@ def main():
     # amazon_output = modify_amazon_csv()
     # print()
     
-    # Modify iPhone CSV  
+    # # Modify iPhone CSV  
     iphone_output = modify_iphone_csv()
     print()
     

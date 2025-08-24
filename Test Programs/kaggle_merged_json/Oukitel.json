@@ -383,8 +383,10 @@
         "price": [
           29990
         ],
-        "rating": 8.4,
-        "attr_5g or not": 0,
+        "rating": 84.0,
+        "attr_has 5g": false,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
         "attr_processor brand": "helio",
         "attr_num cores": 8.0,
         "attr_processor speed": 2.0,
@@ -396,14 +398,11 @@
         "display_size": 6.78,
         "refresh_rate": 60,
         "camera_main": 16.0,
+        "camera_front": 1.0,
         "os": "android",
         "attr_extended memory available": 1,
-        "attr_resolution height": 2400,
         "attr_resolution width": 1080,
-        "attr_has 5g": false,
-        "attr_has nfc": true,
-        "attr_has ir blaster": false,
-        "camera_front": 1.0
+        "attr_resolution height": 2400
       }
     },
     "31bac564-0601-58b9-9431-8642e4ce15df": {
@@ -414,8 +413,10 @@
         "price": [
           22990
         ],
-        "rating": 8.2,
-        "attr_5g or not": 0,
+        "rating": 82.0,
+        "attr_has 5g": false,
+        "attr_has nfc": false,
+        "attr_has ir blaster": false,
         "attr_processor brand": "helio",
         "attr_num cores": 8.0,
         "attr_processor speed": 2.2,
@@ -426,13 +427,10 @@
         "attr_internal memory": 256,
         "display_size": 6.78,
         "refresh_rate": 120,
+        "camera_front": 1.0,
         "attr_extended memory available": 0,
-        "attr_resolution height": 2400,
         "attr_resolution width": 1080,
-        "attr_has 5g": false,
-        "attr_has nfc": false,
-        "attr_has ir blaster": false,
-        "camera_front": 1.0
+        "attr_resolution height": 2400
       }
     },
     "8e2da93c-c5ab-5510-873a-6880447836bc": {
@@ -443,8 +441,10 @@
         "price": [
           25899
         ],
-        "rating": 7.2,
-        "attr_5g or not": 0,
+        "rating": 72.0,
+        "attr_has 5g": false,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
         "attr_processor brand": "helio",
         "attr_num cores": 8.0,
         "attr_processor speed": 2.0,
@@ -455,14 +455,11 @@
         "display_size": 5.86,
         "refresh_rate": 60,
         "camera_main": 8.0,
+        "camera_front": 1.0,
         "os": "android",
         "attr_extended memory available": 1,
-        "attr_resolution height": 1520,
         "attr_resolution width": 720,
-        "attr_has 5g": false,
-        "attr_has nfc": true,
-        "attr_has ir blaster": false,
-        "camera_front": 1.0
+        "attr_resolution height": 1520
       }
     }
   }

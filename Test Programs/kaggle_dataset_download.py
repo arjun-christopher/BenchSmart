@@ -1,23 +1,23 @@
 import os
 # Set config dir to the folder containing kaggle.json
-os.environ['KAGGLE_CONFIG_DIR'] = r"E:\Cloud-AI-Native-Smartphone-Intelligence-Software\Test Programs"  # Change this to your actual user name
+os.environ['KAGGLE_CONFIG_DIR'] = r"E:\BenchSmart\Test Programs"  # Change this to your actual user name
 from kaggle.api.kaggle_api_extended import KaggleApi
 
 datasets = [
-    "artempozdniakov/ukrainian-market-mobile-phones-data",
-    "abhijitdahatonde/real-world-smartphones-dataset",
-    "informrohit1/smartphones-dataset",
-    "chaudharisanika/smartphones-dataset",
-    "dnyaneshyeole/flipkart-smartphones-dataset",
-    "shrutiambekar/smartphone-specifications-and-prices-in-india",
-    "pranav941/evolution-of-smartphones",
-    "ramjasmaurya/5g-smartphones-available-in-india",
-    "rohsanyadav/smartphones-dataset",
-    # "ankitkalauni/amazon-top-rated-smartphones-accessories-2021",
+    "artempozdniakov/ukrainian-market-mobile-phones-data",   #ok
+    # "abhijitdahatonde/real-world-smartphones-dataset",    #ok but model must be cleaned
+    "informrohit1/smartphones-dataset",   #ok
+    "chaudharisanika/smartphones-dataset",    #ok
+    "dnyaneshyeole/flipkart-smartphones-dataset",    #ok
+    "shrutiambekar/smartphone-specifications-and-prices-in-india",   #ok
+    "pranav941/evolution-of-smartphones",    #ok
+    "ramjasmaurya/5g-smartphones-available-in-india",    #ok
+    "rohsanyadav/smartphones-dataset",  #ok
+    # "ankitkalauni/amazon-top-rated-smartphones-accessories-2021",   #no
     "pantanjali/iphones-on-ecommerce-website-amazon",
 ]
 
-download_dir = r"E:\Cloud-AI-Native-Smartphone-Intelligence-Software\Test Programs\kaggle_datasets"
+download_dir = r"E:\BenchSmart\Test Programs\kaggle_datasets"
 
 api = KaggleApi()
 api.authenticate()

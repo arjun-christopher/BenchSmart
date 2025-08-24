@@ -12,9 +12,9 @@ from difflib import SequenceMatcher
 import pandas as pd
 
 # === CONFIG ===
-INPUT_DIR = r"E:\Cloud-AI-Native-Smartphone-Intelligence-Software\Test Programs\kaggle_datasets"
-OUTPUT_DIR = r"E:\Cloud-AI-Native-Smartphone-Intelligence-Software\Test Programs\kaggle_merged_json"  # one JSON per brand
-LOG_FILE = r"E:\Cloud-AI-Native-Smartphone-Intelligence-Software\Test Programs\kaggle_merge_log.txt"
+INPUT_DIR = r"E:\BenchSmart\Test Programs\kaggle_datasets"
+OUTPUT_DIR = r"E:\BenchSmart\Test Programs\kaggle_merged_json"  # one JSON per brand
+LOG_FILE = r"E:\BenchSmart\Test Programs\kaggle_merge_log.txt"
 
 # Create output dir
 os.makedirs(OUTPUT_DIR, exist_ok=True)

@@ -26,8 +26,10 @@
         "price": [
           14990
         ],
-        "rating": 8.5,
-        "attr_5g or not": 1,
+        "rating": 85.0,
+        "attr_has 5g": true,
+        "attr_has nfc": true,
+        "attr_has ir blaster": false,
         "attr_processor brand": "dimensity",
         "attr_num cores": 8.0,
         "attr_processor speed": 2.4,
@@ -38,14 +40,11 @@
         "display_size": 6.8,
         "refresh_rate": 60,
         "camera_main": 16.0,
+        "camera_front": 1.0,
         "os": "android",
         "attr_extended memory available": 1,
-        "attr_resolution height": 2460,
         "attr_resolution width": 1080,
-        "attr_has 5g": true,
-        "attr_has nfc": true,
-        "attr_has ir blaster": false,
-        "camera_front": 1.0
+        "attr_resolution height": 2460
       }
     },
     "fcc2761a-2d7c-58dc-a98a-47bdacd97cf7": {

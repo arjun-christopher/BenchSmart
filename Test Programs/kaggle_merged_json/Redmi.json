@@ -52,37 +52,6 @@
         "os": "Android v12"
       }
     },
-    "712abf1c-a400-577a-8d5b-2a7e5919af0d": {
-      "id": "712abf1c-a400-577a-8d5b-2a7e5919af0d",
-      "brand": "redmi",
-      "model": "Redmi 12C",
-      "attributes": {
-        "price": [
-          7999
-        ],
-        "rating": 7.0,
-        "attr_5g or not": 0,
-        "attr_processor brand": "helio",
-        "attr_num cores": 8.0,
-        "attr_processor speed": 2.0,
-        "battery_capacity": 5000.0,
-        "attr_fast charging available": 0,
-        "attr_ram capacity": 4,
-        "attr_internal memory": 64,
-        "display_size": 6.71,
-        "refresh_rate": 60,
-        "camera_main": 5.0,
-        "os": "android",
-        "attr_extended memory available": 1,
-        "attr_resolution height": 1650,
-        "attr_resolution width": 720,
-        "attr_has 5g": false,
-        "attr_has nfc": false,
-        "attr_has ir blaster": false,
-        "camera_front": 1.0,
-        "attr_extended upto": 512.0
-      }
-    },
     "04584eab-9b14-5840-bce0-2e1bdcc9254d": {
       "id": "04584eab-9b14-5840-bce0-2e1bdcc9254d",
       "brand": "redmi",
@@ -91,8 +60,10 @@
         "price": [
           18999
         ],
-        "rating": 8.1,
-        "attr_5g or not": 0,
+        "rating": 81.0,
+        "attr_has 5g": false,
+        "attr_has nfc": false,
+        "attr_has ir blaster": true,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
         "attr_processor speed": 2.3,
@@ -104,15 +75,12 @@
         "display_size": 6.67,
         "refresh_rate": 120,
         "camera_main": 16.0,
+        "camera_front": 1.0,
         "os": "android",
         "attr_extended memory available": 1,
-        "attr_resolution height": 2400,
+        "attr_extended upto": 1024.0,
         "attr_resolution width": 1080,
-        "attr_has 5g": false,
-        "attr_has nfc": false,
-        "attr_has ir blaster": true,
-        "camera_front": 1.0,
-        "attr_extended upto": 1024.0
+        "attr_resolution height": 2400
       }
     },
     "a26c8163-0845-553e-ac23-971560a6b90e": {
@@ -123,8 +91,10 @@
         "price": [
           19999
         ],
-        "rating": 8.1,
-        "attr_5g or not": 1,
+        "rating": 81.0,
+        "attr_has 5g": true,
+        "attr_has nfc": true,
+        "attr_has ir blaster": true,
         "attr_processor brand": "snapdragon",
         "attr_num cores": 8.0,
         "attr_processor speed": 2.4,
@@ -136,14 +106,41 @@
         "display_size": 6.67,
         "refresh_rate": 120,
         "camera_main": 16.0,
+        "camera_front": 1.0,
         "os": "android",
         "attr_extended memory available": 0,
-        "attr_resolution height": 2400,
         "attr_resolution width": 1080,
-        "attr_has 5g": true,
-        "attr_has nfc": true,
-        "attr_has ir blaster": true,
-        "camera_front": 1.0
+        "attr_resolution height": 2400
+      }
+    },
+    "712abf1c-a400-577a-8d5b-2a7e5919af0d": {
+      "id": "712abf1c-a400-577a-8d5b-2a7e5919af0d",
+      "brand": "redmi",
+      "model": "Redmi 12C",
+      "attributes": {
+        "price": [
+          7999
+        ],
+        "rating": 70.0,
+        "attr_has 5g": false,
+        "attr_has nfc": false,
+        "attr_has ir blaster": false,
+        "attr_processor brand": "helio",
+        "attr_num cores": 8.0,
+        "attr_processor speed": 2.0,
+        "battery_capacity": 5000.0,
+        "attr_fast charging available": 0,
+        "attr_ram capacity": 4,
+        "attr_internal memory": 64,
+        "display_size": 6.71,
+        "refresh_rate": 60,
+        "camera_main": 5.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 1,
+        "attr_extended upto": 512.0,
+        "attr_resolution width": 720,
+        "attr_resolution height": 1650
       }
     }
   }

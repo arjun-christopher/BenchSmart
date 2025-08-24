@@ -58,7 +58,9 @@
         "price": [
           5499
         ],
-        "attr_5g or not": 0,
+        "attr_has 5g": false,
+        "attr_has nfc": false,
+        "attr_has ir blaster": false,
         "attr_processor brand": "tiger",
         "attr_num cores": 4.0,
         "attr_processor speed": 2.0,
@@ -69,14 +71,38 @@
         "display_size": 6.54,
         "refresh_rate": 60,
         "camera_main": 5.0,
+        "camera_front": 1.0,
         "os": "android",
         "attr_extended memory available": 0,
-        "attr_resolution height": 1560,
         "attr_resolution width": 720,
+        "attr_resolution height": 1560
+      }
+    },
+    "c8d593c6-272d-59cf-a5f6-260c16a129f6": {
+      "id": "c8d593c6-272d-59cf-a5f6-260c16a129f6",
+      "brand": "letv",
+      "model": "Letv Y2 Pro",
+      "attributes": {
+        "price": [
+          6999
+        ],
         "attr_has 5g": false,
         "attr_has nfc": false,
         "attr_has ir blaster": false,
-        "camera_front": 1.0
+        "attr_processor brand": "unisoc",
+        "attr_num cores": 8.0,
+        "battery_capacity": 4000.0,
+        "attr_fast charging available": 0,
+        "attr_ram capacity": 4,
+        "attr_internal memory": 32,
+        "display_size": 6.5,
+        "refresh_rate": 60,
+        "camera_main": 8.0,
+        "camera_front": 1.0,
+        "os": "android",
+        "attr_extended memory available": 0,
+        "attr_resolution width": 720,
+        "attr_resolution height": 1560
       }
     },
     "c86b7137-fc2c-5ad4-985d-811134ba2e65": {
@@ -87,8 +113,10 @@
         "price": [
           5999
         ],
-        "rating": 6.0,
-        "attr_5g or not": 0,
+        "rating": 60.0,
+        "attr_has 5g": false,
+        "attr_has nfc": false,
+        "attr_has ir blaster": false,
         "attr_processor brand": "tiger",
         "attr_num cores": 4.0,
         "attr_processor speed": 1.8,
@@ -100,42 +128,11 @@
         "display_size": 6.5,
         "refresh_rate": 60,
         "camera_main": 5.0,
+        "camera_front": 1.0,
         "os": "android",
         "attr_extended memory available": 0,
-        "attr_resolution height": 1560,
         "attr_resolution width": 720,
-        "attr_has 5g": false,
-        "attr_has nfc": false,
-        "attr_has ir blaster": false,
-        "camera_front": 1.0
-      }
-    },
-    "c8d593c6-272d-59cf-a5f6-260c16a129f6": {
-      "id": "c8d593c6-272d-59cf-a5f6-260c16a129f6",
-      "brand": "letv",
-      "model": "Letv Y2 Pro",
-      "attributes": {
-        "price": [
-          6999
-        ],
-        "attr_5g or not": 0,
-        "attr_processor brand": "unisoc",
-        "attr_num cores": 8.0,
-        "battery_capacity": 4000.0,
-        "attr_fast charging available": 0,
-        "attr_ram capacity": 4,
-        "attr_internal memory": 32,
-        "display_size": 6.5,
-        "refresh_rate": 60,
-        "camera_main": 8.0,
-        "os": "android",
-        "attr_extended memory available": 0,
-        "attr_resolution height": 1560,
-        "attr_resolution width": 720,
-        "attr_has 5g": false,
-        "attr_has nfc": false,
-        "attr_has ir blaster": false,
-        "camera_front": 1.0
+        "attr_resolution height": 1560
       }
     }
   }
