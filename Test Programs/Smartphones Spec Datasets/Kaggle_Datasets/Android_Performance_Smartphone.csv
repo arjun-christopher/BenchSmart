@@ -1,0 +1,126 @@
+Platform,Category,Device Type,Device,CPU Score,GPU Score,MEM Score,UX Score,Total Score
+Android,Performance,Smartphone,1Red Magic 10 Pro (S-8 Elite 16+512),581632,1189081,495362,396540,2662615
+Android,Performance,Smartphone,2iQOO 13 (S-8 Elite 16+512),573979,1168331,482766,430592,2655668
+Android,Performance,Smartphone,3vivo X200 Ultra (S-8 Elite 16+512),579139,1167066,484903,424000,2655108
+Android,Performance,Smartphone,4OnePlus 13 (S-8 Elite 16+512),529724,1087996,488499,401377,2507596
+Android,Performance,Smartphone,5Poco F7 Ultra (S-8 Elite 16+512),525542,1026353,467989,436697,2456581
+Android,Performance,Smartphone,6Mi 15 Ultra (S-8 Elite 16+512),530042,1020348,471271,412731,2434392
+Android,Performance,Smartphone,7vivo X200 Pro (M-9400 12+256),572868,1058974,387345,409778,2428965
+Android,Performance,Smartphone,8Mi 15 (S-8 Elite 12+512),547112,1032618,436545,354835,2371110
+Android,Performance,Smartphone,9vivo X200 Pro mini (M-9400 12+256),528752,1002111,368594,396123,2295580
+Android,Performance,Smartphone,10Galaxy S25 Ultra (S-8 Elite OC 12+256),552792,859298,409142,343380,2164612
+Android,Performance,Smartphone,11realme Neo7 (M-9300+ 12+256),514052,820751,369811,378337,2082951
+Android,Performance,Smartphone,12HONOR Magic 7 Pro (S-8 Elite 12+512),295899,1148433,324820,278121,2047273
+Android,Performance,Smartphone,13realme GT 7 (M-9400e 12+512),489747,796396,395173,353887,2035203
+Android,Performance,Smartphone,14iQOO Neo9S Pro+ (S-8 Gen 3 12+256),435871,858561,380732,341824,2016988
+Android,Performance,Smartphone,15iQOO Z9 Turbo+ (M-9300+ 12+256),483823,809305,368668,350860,2012656
+Android,Performance,Smartphone,16OnePlus Ace 5 (S-8 Gen 3 12+256),431865,827758,392176,358859,2010658
+Android,Performance,Smartphone,17Galaxy S25 (S-8 Elite OC 12+256),466449,812671,392952,326071,1998143
+Android,Performance,Smartphone,18iQOO Neo10 (S-8 Gen 3 12+256),434882,844676,389609,327849,1997016
+Android,Performance,Smartphone,19REDMI Turbo 4 Pro (S-8s Gen 4 12+256),427454,806287,392906,314399,1941046
+Android,Performance,Smartphone,20iQOO Neo 10 (S-8s Gen 4 8+256),460638,790443,356011,326246,1933338
+Android,Performance,Smartphone,21iQOO Z10 Turbo Pro (S-8s Gen 4 12+256),463759,789397,346896,329767,1929819
+Android,Performance,Smartphone,22Mi 14 (S-8 Gen 3 12+512),416076,798173,384107,312852,1911208
+Android,Performance,Smartphone,23Poco F7 Pro (S-8 Gen 3 12+512),388428,742904,388747,376417,1896496
+Android,Performance,Smartphone,24OnePlus 13R (S-8 Gen 3 12+256),401228,782785,373490,323551,1881054
+Android,Performance,Smartphone,25Poco F7 (S-8s Gen 4 12+512),415621,785893,363241,302058,1866813
+Android,Performance,Smartphone,26HONOR 400 Pro (S-8 Gen 3 12+512),404713,761625,343931,310182,1820451
+Android,Performance,Smartphone,27Mi 14T Pro (M-9300+ 12+512),420046,624158,369023,320611,1733838
+Android,Performance,Smartphone,28Galaxy S24 Ultra (S-8 Gen 3 OC 12+256),430071,637234,359782,293151,1720238
+Android,Performance,Smartphone,29Galaxy S24+ (E-2400 12+256),408233,609826,304262,285114,1607435
+Android,Performance,Smartphone,30Galaxy S24 FE (E-2400 8+256),380804,592436,314544,278259,1566043
+Android,Performance,Smartphone,31Poco X7 Pro (M-8400-Ultra 12+512),358130,534901,359553,301378,1553962
+Android,Performance,Smartphone,32Galaxy S24 (E-2400 8+256),398686,599259,275316,276198,1549459
+Android,Performance,Smartphone,33Poco F6 Pro (S-8 Gen 2 12+512),360039,611159,295146,278598,1544942
+Android,Performance,Smartphone,34Galaxy S23 Ultra (S-8 Gen 2 OC 12+256),355864,549386,265773,253391,1424414
+Android,Performance,Smartphone,35iQOO Neo 10R (S-8s Gen 3 8+256),369268,462312,302238,283444,1417262
+Android,Performance,Smartphone,36iQOO Z9 Turbo Lasting (S-8s Gen 3 12+256),367001,467047,310622,270709,1415379
+Android,Performance,Smartphone,37iQOO Z9 Turbo (S-8s Gen 3 12+256),372144,475427,297883,269170,1414624
+Android,Performance,Smartphone,38Galaxy S23 (S-8 Gen 2 OC 8+256),353314,537815,263048,246632,1400809
+Android,Performance,Smartphone,39Redmi Turbo 3 (S-8s Gen 3 12+256),357888,485428,308488,247881,1399685
+Android,Performance,Smartphone,40Poco F6 (S-8s Gen 3 12+512),344822,480725,321500,248123,1395170
+Android,Performance,Smartphone,41Mi 13T Pro (M-9200+ 12+512),346854,505031,290093,252695,1394673
+Android,Performance,Smartphone,42realme GT 6 (S-8s Gen 3 12+256),338772,455587,292564,253913,1340836
+Android,Performance,Smartphone,43Infinix GT 30 Pro (M-8350 8+256),236023,537426,308267,255157,1336873
+Android,Performance,Smartphone,44realme GT 6T (S-7+ Gen 3 8+256),327612,451817,280035,226683,1286147
+Android,Performance,Smartphone,45Poco X6 Pro 5G (M-8300-Ultra 12+512),258667,484733,303091,230121,1276612
+Android,Performance,Smartphone,46Poco F5 Pro (S-8+ Gen 1 UC 12+512),330630,482848,217391,244024,1274893
+Android,Performance,Smartphone,47HONOR 200 Pro (S-8s Gen 3 12+512),277031,439172,231159,226527,1173889
+Android,Performance,Smartphone,48Motorola Edge 60 Pro (M-8350 8+256),195528,483453,248442,224483,1151906
+Android,Performance,Smartphone,49Poco F5 (S-7+ Gen 2 12+256),328411,343573,202090,235789,1109863
+Android,Performance,Smartphone,50Poco F4 GT (S-8 Gen 1 12+256),289362,387776,198291,230593,1106022
+Android,Performance,Smartphone,51Mi 12 (S-8 Gen 1 8+256),287714,389257,199516,227619,1104106
+Android,Performance,Smartphone,52Galaxy S23 FE (E-2200 8+128),303563,391351,166555,220219,1081688
+Android,Performance,Smartphone,53OnePlus Nord 4 (S-7+ Gen 3 8+256),199033,473826,216643,186627,1076129
+Android,Performance,Smartphone,54Galaxy S22 Ultra 5G (S-8 Gen 1 12+256),274648,308442,197026,210141,990257
+Android,Performance,Smartphone,55Infinix GT 20 Pro (M-8200-Ultimate 12+256),262329,267491,199943,232259,962022
+Android,Performance,Smartphone,56Galaxy S22 5G (S-8 Gen 1 8+128),276626,259270,175372,205094,916362
+Android,Performance,Smartphone,57Galaxy A56 (E-1580 8+256),287875,251415,153008,192065,884363
+Android,Performance,Smartphone,58Mi 13T (M-8200-Ultra 12+256),242476,223180,191958,214112,871726
+Android,Performance,Smartphone,59Google Pixel 7a (Tensor G2 8+128),224332,273473,165771,190450,854026
+Android,Performance,Smartphone,60Google Pixel 7 (Tensor G2 8+128),227713,272045,162330,188375,850463
+Android,Performance,Smartphone,61Mi 11T Pro (S-888 8+256),217329,247765,169812,204648,839554
+Android,Performance,Smartphone,62Google Pixel 7 Pro (Tensor G2 12+128),222260,257746,159701,193247,832954
+Android,Performance,Smartphone,63iQOO Z9 (S-7 Gen 3 8+256),265639,259296,131446,165869,822250
+Android,Performance,Smartphone,64Poco F3 (S-870 8+256),222949,214050,144199,193054,774252
+Android,Performance,Smartphone,65realme P3 5G (S-6 Gen 4 8+128),254420,182645,145075,178822,760962
+Android,Performance,Smartphone,66Poco F4 (S-870 8+256),218092,216699,137000,183703,755494
+Android,Performance,Smartphone,67Redmi Note 14 Pro+ (S-7s Gen 3 12+512),247693,195088,145138,156429,744348
+Android,Performance,Smartphone,68Google Pixel 6a (Tensor 6+128),213224,197733,147453,175748,734158
+Android,Performance,Smartphone,69Motorola Edge 40 (M-8020 8+256),203006,192892,157316,176230,729444
+Android,Performance,Smartphone,70Galaxy S20 FE 5G (S-865 6+128),200410,250415,131554,140959,723338
+Android,Performance,Smartphone,71realme 13+ 5G (M-7300 12+256),214441,148128,185017,175225,722811
+Android,Performance,Smartphone,72Redmi Note 13 Pro+ (M-7200-Ultra 12+512),215870,179594,159334,167279,722077
+Android,Performance,Smartphone,73 Galaxy S20 FE 4G (S-865 6+128),199747,248077,131076,140489,719389
+Android,Performance,Smartphone,74Infinix GT 10 Pro (M-8050 8+256),196824,164636,168602,188035,718097
+Android,Performance,Smartphone,75Galaxy A55 5G (E-1480 8+256),216267,172148,144647,171073,704135
+Android,Performance,Smartphone,76OPPO K13 5G (S-6 Gen 4 8+128),206472,180052,148271,162279,697074
+Android,Performance,Smartphone,77Infinix NOTE 50S 5G (M-7300-Ultra 8+256),209457,152985,151436,160699,674577
+Android,Performance,Smartphone,78TECNO CAMON 40 Pro 5G (M-7300 8+256),202963,153072,150479,162543,669057
+Android,Performance,Smartphone,79Galaxy S21 5G (E-2100 8+128),194003,190157,125962,156728,666850
+Android,Performance,Smartphone,80Galaxy S21 FE 5G (E-2100 8+256),180557,187466,139943,151907,659873
+Android,Performance,Smartphone,81Galaxy S21 Ultra 5G (E-2100 12+256),177669,182089,142748,156987,659493
+Android,Performance,Smartphone,82Motorola Edge 60 Fusion (M-7400 8+256),196591,158393,135076,168958,659018
+Android,Performance,Smartphone,83iQOO Z10x (M-7300-Ultra 6+128),185050,139372,164740,147348,636510
+Android,Performance,Smartphone,84Infinix NOTE 50X 5G (M-7300-Ultra 8+256),187494,148565,138747,149337,624143
+Android,Performance,Smartphone,85Redmi Note 14 Pro (M-7300-Ultra 8+256),187956,142190,129993,162771,622910
+Android,Performance,Smartphone,86Poco X7 (M-7300-Ultra 8+256),189112,142410,128244,162925,622691
+Android,Performance,Smartphone,87vivo T4x 5G (M-7300 6+128),181382,137109,158968,145004,622463
+Android,Performance,Smartphone,88Poco X3 Pro (S-860 8+256),169736,151083,126680,159256,606755
+Android,Performance,Smartphone,89Poco X5 Pro 5G (S-778G 8+256),190608,136312,129423,141834,598177
+Android,Performance,Smartphone,90Motorola Moto G75 5G (S-6 Gen 3 8+256),190461,129015,133645,144943,598064
+Android,Performance,Smartphone,91Galaxy A35 5G (E-1380 8+256),183928,131942,114271,151758,581899
+Android,Performance,Smartphone,92Poco X6 5G (S-7s Gen 2 12+256),186603,124452,123466,146356,580877
+Android,Performance,Smartphone,93Galaxy M35 (E-1380 6+128),185782,133246,110192,151392,580612
+Android,Performance,Smartphone,94Galaxy A54 (E-1380 8+256),179305,134180,111817,150660,575962
+Android,Performance,Smartphone,95Motorola Edge 50 Fusion (S-7s Gen 2 8+256),183808,99105,127617,135391,545921
+Android,Performance,Smartphone,96Galaxy A34 (M-1080 6+128),161219,116257,103889,147831,529196
+Android,Performance,Smartphone,97Redmi Note 12 Pro (M-1080 8+256),155674,109047,111313,139393,515427
+Android,Performance,Smartphone,98Poco M7 Pro 5G (M-7025 8+256),154038,49423,115816,133972,453249
+Android,Performance,Smartphone,99Redmi Note 14 5G (M-7025 8+256),153557,49700,115666,133363,452286
+Android,Performance,Smartphone,100Motorola Moto G84 (S-695 8+256),142657,82356,102607,117749,445369
+Android,Performance,Smartphone,101TECNO CAMON 40 (M-G100-Ultimate 8+256),133157,70319,118258,108648,430382
+Android,Performance,Smartphone,102Infinix NOTE 50 (M-G100-Ultimate 8+256),132243,70446,114868,108364,425921
+Android,Performance,Smartphone,103Infinix NOTE 50 Pro (M-G100-Ultimate 8+256),131414,70591,113464,108324,423793
+Android,Performance,Smartphone,104Infinix Hot 50 Pro (M-G100 8+256),130074,69631,112084,111949,423738
+Android,Performance,Smartphone,105Infinix HOT 50 Pro+ (M-G100 8+256),130769,70160,111462,110708,423099
+Android,Performance,Smartphone,106Itel P55 5G (M-6080 6+128),137853,65284,107865,109810,420812
+Android,Performance,Smartphone,107Infinix HOT 40 Pro (M-G99 8+256),130726,64316,110819,114094,419955
+Android,Performance,Smartphone,108Infinix NOTE 40 (M-G99 8+256),127112,70342,110136,112323,419913
+Android,Performance,Smartphone,109TECNO POVA 6 (M-G99 8+256),127953,70242,107837,112576,418608
+Android,Performance,Smartphone,110Motorola Moto g34 5G (S-695 4+128),141099,82082,91242,103821,418244
+Android,Performance,Smartphone,111Redmi Note 14 4G (M-G99-Ultra 8+256),122297,64973,116712,112967,416949
+Android,Performance,Smartphone,112Redmi Note 14 Pro 4G (M-G100-Ultra 8+256),124384,65844,113015,113482,416725
+Android,Performance,Smartphone,113Redmi Note 13 Pro (M-G99-Ultra 8+256),124398,65620,112164,114167,416349
+Android,Performance,Smartphone,114TECNO POVA 5 (M-G99 8+256),127185,68890,104987,114943,416005
+Android,Performance,Smartphone,115Poco M6 Pro (M-G99 8+256),123491,65589,111053,114452,414585
+Android,Performance,Smartphone,116Infinix HOT 50 (M-G100 6+256),128835,63726,108849,109312,410722
+Android,Performance,Smartphone,117Infinix Note 30 (M-G99 8+256),127051,69085,101369,113201,410706
+Android,Performance,Smartphone,118TECNO SPARK 30 Pro (M-G100 8+128),128196,69670,99638,110884,408388
+Android,Performance,Smartphone,119Poco X3 NFC (S-732G 6+128),125260,77209,72308,105489,380266
+Android,Performance,Smartphone,120Galaxy A15 5G (M-G99 4+128),129603,62303,82203,99325,373434
+Android,Performance,Smartphone,121Galaxy A15 (M-G99 4+128),128175,63046,79791,99091,370103
+Android,Performance,Smartphone,122Redmi Note 8 Pro (M-G90T 6+128),120252,69549,77664,92916,360381
+Android,Performance,Smartphone,123Redmi Note 10 Pro (S-732G 8+128),109283,74301,67218,97293,348095
+Android,Performance,Smartphone,124Redmi Note 13 4G (S-680 8+256),108740,43435,106652,86919,345746
+Android,Performance,Smartphone,125Redmi Note 8 (S-665 4+64),84119,34337,52057,63190,233703

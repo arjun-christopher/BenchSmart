@@ -62,7 +62,7 @@ for score_type, opts in score_tabs.items():
         time.sleep(0.3)
 
 # Write to CSV
-with open('geekbench_ios_benchmarks_full_allrows.csv', 'w', newline='', encoding='utf-8') as f:
+with open(r'E:\BenchSmart\Test Programs\Benchmark Scrape\Scraper Output\ios_benchmarks.csv', 'w', newline='', encoding='utf-8') as f:
     writer = csv.DictWriter(f, fieldnames=[
         'Device Name', 'Chipset', 'Device URL',
         'Single-Core Score', 'Multi-Core Score', 'Metal Score'

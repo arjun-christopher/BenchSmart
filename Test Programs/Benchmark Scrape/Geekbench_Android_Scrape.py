@@ -11,7 +11,7 @@ score_tabs = {
     "Vulkan Score": {"test": "vulkan"},
 }
 headers = {"User-Agent": "Mozilla/5.0"}
-MAX_PAGES = 3  # Set as needed
+MAX_PAGES = 10  # Set as needed
 
 all_rows = []
 
@@ -65,7 +65,7 @@ for score_type, opts in score_tabs.items():
 
 # Now, sort rows by device name or URL if desired (optional)
 # Write to CSV
-with open('geekbench_benchmarks_full_allrows.csv', 'w', newline='', encoding='utf-8') as f:
+with open(r'E:\BenchSmart\Test Programs\Benchmark Scrape\Scraper Output\android_benchmarks.csv', 'w', newline='', encoding='utf-8') as f:
     writer = csv.DictWriter(f, fieldnames=[
         'Device Name', 'Chipset', 'Device URL',
         'Single-Core Score', 'Multi-Core Score', 'OpenCL Score', 'Vulkan Score'

@@ -1,0 +1,1810 @@
+Device Name,Chipset,Device URL,Single-Core Score,Multi-Core Score,Metal Score
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-10c-cpu,3693,,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-9c-cpu,3679,,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-10c-cpu,3671,,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-9c-cpu,3654,,
+iPhone 16 Pro,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro,3448,,
+iPhone 16 Pro Max,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro-max,3431,,
+iPhone 16,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16,3317,,
+iPhone 16 Plus,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16-plus,3316,,
+iPhone 15 Pro,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro,2890,,
+iPhone 15 Pro Max,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro-max,2880,,
+iPhone 14 Pro,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro,2607,,
+iPhone 14 Pro Max,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro-max,2600,,
+iPad Air 13-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-13-inch-m2,2592,,
+iPad Air 11-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-11-inch-m2,2590,,
+"iPad Pro (12.9-inch, 6th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad14-5,2576,,
+"iPad Pro (11-inch, 4th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-4th-generation,2573,,
+iPhone 15 Plus,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15-plus,2546,,
+iPhone 15,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15,2543,,
+iPhone 13 Pro Max,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro-max,2341,,
+iPhone 13 Pro,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro,2340,,
+iPad Pro (12.9-inch 5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-5th-generation,2307,,
+iPad Pro (11-inch 3rd generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-3rd-generation,2303,,
+iPad Air (5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-air-5th-generation,2290,,
+iPhone SE (3rd generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-3rd-generation,2262,,
+iPhone 14 Plus,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-plus,2256,,
+iPhone 14,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14,2255,,
+iPhone 13 mini,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-mini,2219,,
+iPhone 13,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13,2213,,
+iPad mini (6th generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-6th-generation,2125,,
+iPhone 12 Pro Max,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro-max,2122,,
+iPad Air (4th generation),Apple A14 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-4th-generation,2083,,
+iPhone 12 Pro,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro,2076,,
+iPhone 12 Mini,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-mini,2032,,
+iPhone 12,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12,2029,,
+iPad (9th generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/ipad-9th-generation,1736,,
+iPhone 11 Pro Max,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro-max,1722,,
+iPhone 11 Pro,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro,1712,,
+iPhone 11,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11,1703,,
+iPhone SE (2nd generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-2nd-generation,1670,,
+iPad Pro 12.9-inch (4th generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-4th-generation,1331,,
+iPad Pro (11-inch),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch,1327,,
+iPad Air (3rd generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-3rd-generation,1326,,
+iPad Pro 11-inch (2nd generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-2nd-generation,1325,,
+iPad Pro (12.9-inch 3rd Generation),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-3rd-generation,1322,,
+iPad mini (5th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-5th-generation,1321,,
+iPad (8th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-8th-generation,1304,,
+iPhone XS Max,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs-max,1286,,
+iPhone XS,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs,1286,,
+iPhone XR,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xr,1250,,
+iPhone 8 Plus,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8-plus,1058,,
+iPhone X,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-x,1054,,
+iPhone 8,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8,1033,,
+iPad Pro (10.5-inch),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-10-5-inch,940,,
+iPad Pro (12.9-inch 2nd Generation),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-2nd-generation,927,,
+iPad (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-7th-generation,860,,
+iPad (6th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-6th-generation,829,,
+iPhone 7 Plus,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7-plus,816,,
+iPhone 7,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7,784,,
+iPad Pro (12.9-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch,749,,
+iPad Pro (9.7-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-9-7-inch,738,,
+iPad (5th generation),Apple A9,https://browser.geekbench.com/ios_devices/ipad-5th-generation,630,,
+iPod (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipod-7th-generation,629,,
+iPhone SE,Apple A9,https://browser.geekbench.com/ios_devices/iphone-se,618,,
+iPhone 6s,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s,605,,
+iPhone 6s Plus,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s-plus,601,,
+iPad Air 2,Apple A8X,https://browser.geekbench.com/ios_devices/ipad-air-2,441,,
+iPad mini 4,Apple A8,https://browser.geekbench.com/ios_devices/ipad-mini-4,413,,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-10c-cpu,13731,,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-10c-cpu,13475,,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-9c-cpu,13405,,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-9c-cpu,13111,,
+iPad Air 13-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-13-inch-m2,9827,,
+iPad Air 11-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-11-inch-m2,9809,,
+"iPad Pro (11-inch, 4th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-4th-generation,9779,,
+"iPad Pro (12.9-inch, 6th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad14-5,9772,,
+iPhone 16 Pro,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro,8574,,
+iPhone 16 Pro Max,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro-max,8503,,
+iPad Pro (12.9-inch 5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-5th-generation,8364,,
+iPad Pro (11-inch 3rd generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-3rd-generation,8323,,
+iPad Air (5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-air-5th-generation,8256,,
+iPhone 16,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16,8193,,
+iPhone 16 Plus,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16-plus,8192,,
+iPhone 15 Pro,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro,7179,,
+iPhone 15 Pro Max,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro-max,7141,,
+iPhone 14 Pro,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro,6696,,
+iPhone 14 Pro Max,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro-max,6666,,
+iPhone 15 Plus,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15-plus,6341,,
+iPhone 15,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15,6321,,
+iPhone 13 Pro Max,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro-max,5742,,
+iPhone 13 Pro,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro,5726,,
+iPhone 14 Plus,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-plus,5534,,
+iPhone 14,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14,5527,,
+iPhone SE (3rd generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-3rd-generation,5442,,
+iPad mini (6th generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-6th-generation,5366,,
+iPhone 13,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13,5240,,
+iPhone 13 mini,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-mini,5224,,
+iPad Air (4th generation),Apple A14 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-4th-generation,4997,,
+iPhone 12 Pro Max,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro-max,4963,,
+iPhone 12 Pro,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro,4736,,
+iPad Pro 12.9-inch (4th generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-4th-generation,4647,,
+iPad Pro 11-inch (2nd generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-2nd-generation,4626,,
+iPhone 12 Mini,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-mini,4589,,
+iPhone 12,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12,4580,,
+iPad Pro (11-inch),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch,4579,,
+iPad Pro (12.9-inch 3rd Generation),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-3rd-generation,4446,,
+iPhone 11 Pro Max,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro-max,3864,,
+iPad (9th generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/ipad-9th-generation,3853,,
+iPhone 11 Pro,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro,3810,,
+iPhone 11,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11,3654,,
+iPhone SE (2nd generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-2nd-generation,3034,,
+iPad Air (3rd generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-3rd-generation,2948,,
+iPad mini (5th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-5th-generation,2888,,
+iPad (8th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-8th-generation,2806,,
+iPhone XS Max,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs-max,2661,,
+iPhone XS,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs,2654,,
+iPhone XR,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xr,2273,,
+iPhone 8 Plus,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8-plus,2267,,
+iPad Pro (12.9-inch 2nd Generation),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-2nd-generation,2252,,
+iPad Pro (10.5-inch),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-10-5-inch,2208,,
+iPhone X,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-x,2050,,
+iPhone 8,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8,1691,,
+iPad (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-7th-generation,1381,,
+iPad Pro (12.9-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch,1245,,
+iPhone 7 Plus,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7-plus,1155,,
+iPad (6th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-6th-generation,1137,,
+iPad Pro (9.7-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-9-7-inch,1097,,
+iPod (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipod-7th-generation,1036,,
+iPad (5th generation),Apple A9,https://browser.geekbench.com/ios_devices/ipad-5th-generation,965,,
+iPhone 7,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7,962,,
+iPad Air 2,Apple A8X,https://browser.geekbench.com/ios_devices/ipad-air-2,947,,
+iPhone SE,Apple A9,https://browser.geekbench.com/ios_devices/iphone-se,934,,
+iPhone 6s,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s,875,,
+iPhone 6s Plus,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s-plus,853,,
+iPad mini 4,Apple A8,https://browser.geekbench.com/ios_devices/ipad-mini-4,603,,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-10c-cpu,54492,,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-9c-cpu,54337,,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-10c-cpu,54232,,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-9c-cpu,54210,,
+"iPad Pro (12.9-inch, 6th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad14-5,46098,,
+"iPad Pro (11-inch, 4th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-4th-generation,45845,,
+iPad Air 11-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-11-inch-m2,42113,,
+iPad Air 13-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-13-inch-m2,42036,,
+iPad Pro (12.9-inch 5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-5th-generation,32747,,
+iPad Pro (11-inch 3rd generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-3rd-generation,32692,,
+iPhone 16 Pro,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro,32681,,
+iPhone 16 Pro Max,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro-max,32674,,
+iPad Air (5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-air-5th-generation,32294,,
+iPhone 16 Plus,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16-plus,27749,,
+iPhone 16,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16,27703,,
+iPhone 15 Pro,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro,27311,,
+iPhone 15 Pro Max,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro-max,27193,,
+iPhone 15 Plus,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15-plus,22885,,
+iPhone 15,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15,22853,,
+iPhone 14 Pro,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro,22791,,
+iPhone 14 Pro Max,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro-max,22669,,
+iPhone 14 Plus,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-plus,20542,,
+iPhone 14,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14,20519,,
+iPhone 13 Pro,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro,20222,,
+iPhone 13 Pro Max,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro-max,20029,,
+iPad mini (6th generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-6th-generation,19625,,
+iPad Pro 12.9-inch (4th generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-4th-generation,18432,,
+iPad Pro 11-inch (2nd generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-2nd-generation,18431,,
+iPhone SE (3rd generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-3rd-generation,17770,,
+iPhone 13,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13,17761,,
+iPhone 13 mini,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-mini,17364,,
+iPad Pro (11-inch),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch,16684,,
+iPad Air (4th generation),Apple A14 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-4th-generation,16473,,
+iPhone 12 Pro Max,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro-max,16240,,
+iPhone 12,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12,16180,,
+iPhone 12 Mini,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-mini,16119,,
+iPhone 12 Pro,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro,16101,,
+iPad Pro (12.9-inch 3rd Generation),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-3rd-generation,15949,,
+iPad (9th generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/ipad-9th-generation,13623,,
+iPhone 11 Pro Max,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro-max,13594,,
+iPhone 11 Pro,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro,13551,,
+iPhone 11,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11,13407,,
+iPhone SE (2nd generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-2nd-generation,12714,,
+iPad Air (3rd generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-3rd-generation,9652,,
+iPad mini (5th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-5th-generation,9366,,
+iPad (8th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-8th-generation,9136,,
+iPad Pro (10.5-inch),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-10-5-inch,8341,,
+iPhone XS Max,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs-max,8274,,
+iPhone XS,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs,8238,,
+iPhone XR,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xr,8228,,
+iPad Pro (12.9-inch 2nd Generation),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-2nd-generation,8104,,
+iPad Pro (12.9-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch,5811,,
+iPad Pro (9.7-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-9-7-inch,5681,,
+iPhone 8 Plus,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8-plus,5312,,
+iPhone X,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-x,5166,,
+iPhone 8,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8,4740,,
+iPad (6th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-6th-generation,4303,,
+iPad (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-7th-generation,4193,,
+iPhone 7 Plus,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7-plus,3845,,
+iPhone 7,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7,3707,,
+iPad (5th generation),Apple A9,https://browser.geekbench.com/ios_devices/ipad-5th-generation,3093,,
+iPhone 6s Plus,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s-plus,2848,,
+iPod (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipod-7th-generation,2828,,
+iPhone 6s,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s,2812,,
+iPhone SE,Apple A9,https://browser.geekbench.com/ios_devices/iphone-se,2760,,
+iPad Air 2,Apple A8X,https://browser.geekbench.com/ios_devices/ipad-air-2,763,,
+iPad mini 4,Apple A8,https://browser.geekbench.com/ios_devices/ipad-mini-4,554,,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-10c-cpu,3693,,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-9c-cpu,3679,,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-10c-cpu,3671,,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-9c-cpu,3654,,
+iPhone 16 Pro,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro,3448,,
+iPhone 16 Pro Max,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro-max,3431,,
+iPhone 16,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16,3317,,
+iPhone 16 Plus,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16-plus,3316,,
+iPhone 15 Pro,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro,2890,,
+iPhone 15 Pro Max,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro-max,2880,,
+iPhone 14 Pro,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro,2607,,
+iPhone 14 Pro Max,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro-max,2600,,
+iPad Air 13-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-13-inch-m2,2592,,
+iPad Air 11-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-11-inch-m2,2590,,
+"iPad Pro (12.9-inch, 6th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad14-5,2576,,
+"iPad Pro (11-inch, 4th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-4th-generation,2573,,
+iPhone 15 Plus,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15-plus,2546,,
+iPhone 15,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15,2543,,
+iPhone 13 Pro Max,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro-max,2341,,
+iPhone 13 Pro,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro,2340,,
+iPad Pro (12.9-inch 5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-5th-generation,2307,,
+iPad Pro (11-inch 3rd generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-3rd-generation,2303,,
+iPad Air (5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-air-5th-generation,2290,,
+iPhone SE (3rd generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-3rd-generation,2262,,
+iPhone 14 Plus,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-plus,2256,,
+iPhone 14,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14,2255,,
+iPhone 13 mini,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-mini,2219,,
+iPhone 13,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13,2213,,
+iPad mini (6th generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-6th-generation,2125,,
+iPhone 12 Pro Max,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro-max,2122,,
+iPad Air (4th generation),Apple A14 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-4th-generation,2083,,
+iPhone 12 Pro,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro,2076,,
+iPhone 12 Mini,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-mini,2032,,
+iPhone 12,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12,2029,,
+iPad (9th generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/ipad-9th-generation,1736,,
+iPhone 11 Pro Max,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro-max,1722,,
+iPhone 11 Pro,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro,1712,,
+iPhone 11,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11,1703,,
+iPhone SE (2nd generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-2nd-generation,1670,,
+iPad Pro 12.9-inch (4th generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-4th-generation,1331,,
+iPad Pro (11-inch),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch,1327,,
+iPad Air (3rd generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-3rd-generation,1326,,
+iPad Pro 11-inch (2nd generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-2nd-generation,1325,,
+iPad Pro (12.9-inch 3rd Generation),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-3rd-generation,1322,,
+iPad mini (5th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-5th-generation,1321,,
+iPad (8th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-8th-generation,1304,,
+iPhone XS Max,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs-max,1286,,
+iPhone XS,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs,1286,,
+iPhone XR,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xr,1250,,
+iPhone 8 Plus,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8-plus,1058,,
+iPhone X,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-x,1054,,
+iPhone 8,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8,1033,,
+iPad Pro (10.5-inch),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-10-5-inch,940,,
+iPad Pro (12.9-inch 2nd Generation),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-2nd-generation,927,,
+iPad (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-7th-generation,860,,
+iPad (6th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-6th-generation,829,,
+iPhone 7 Plus,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7-plus,816,,
+iPhone 7,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7,784,,
+iPad Pro (12.9-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch,749,,
+iPad Pro (9.7-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-9-7-inch,738,,
+iPad (5th generation),Apple A9,https://browser.geekbench.com/ios_devices/ipad-5th-generation,630,,
+iPod (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipod-7th-generation,629,,
+iPhone SE,Apple A9,https://browser.geekbench.com/ios_devices/iphone-se,618,,
+iPhone 6s,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s,605,,
+iPhone 6s Plus,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s-plus,601,,
+iPad Air 2,Apple A8X,https://browser.geekbench.com/ios_devices/ipad-air-2,441,,
+iPad mini 4,Apple A8,https://browser.geekbench.com/ios_devices/ipad-mini-4,413,,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-10c-cpu,13731,,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-10c-cpu,13475,,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-9c-cpu,13405,,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-9c-cpu,13111,,
+iPad Air 13-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-13-inch-m2,9827,,
+iPad Air 11-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-11-inch-m2,9809,,
+"iPad Pro (11-inch, 4th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-4th-generation,9779,,
+"iPad Pro (12.9-inch, 6th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad14-5,9772,,
+iPhone 16 Pro,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro,8574,,
+iPhone 16 Pro Max,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro-max,8503,,
+iPad Pro (12.9-inch 5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-5th-generation,8364,,
+iPad Pro (11-inch 3rd generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-3rd-generation,8323,,
+iPad Air (5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-air-5th-generation,8256,,
+iPhone 16,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16,8193,,
+iPhone 16 Plus,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16-plus,8192,,
+iPhone 15 Pro,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro,7179,,
+iPhone 15 Pro Max,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro-max,7141,,
+iPhone 14 Pro,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro,6696,,
+iPhone 14 Pro Max,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro-max,6666,,
+iPhone 15 Plus,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15-plus,6341,,
+iPhone 15,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15,6321,,
+iPhone 13 Pro Max,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro-max,5742,,
+iPhone 13 Pro,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro,5726,,
+iPhone 14 Plus,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-plus,5534,,
+iPhone 14,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14,5527,,
+iPhone SE (3rd generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-3rd-generation,5442,,
+iPad mini (6th generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-6th-generation,5366,,
+iPhone 13,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13,5240,,
+iPhone 13 mini,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-mini,5224,,
+iPad Air (4th generation),Apple A14 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-4th-generation,4997,,
+iPhone 12 Pro Max,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro-max,4963,,
+iPhone 12 Pro,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro,4736,,
+iPad Pro 12.9-inch (4th generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-4th-generation,4647,,
+iPad Pro 11-inch (2nd generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-2nd-generation,4626,,
+iPhone 12 Mini,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-mini,4589,,
+iPhone 12,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12,4580,,
+iPad Pro (11-inch),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch,4579,,
+iPad Pro (12.9-inch 3rd Generation),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-3rd-generation,4446,,
+iPhone 11 Pro Max,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro-max,3864,,
+iPad (9th generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/ipad-9th-generation,3853,,
+iPhone 11 Pro,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro,3810,,
+iPhone 11,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11,3654,,
+iPhone SE (2nd generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-2nd-generation,3034,,
+iPad Air (3rd generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-3rd-generation,2948,,
+iPad mini (5th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-5th-generation,2888,,
+iPad (8th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-8th-generation,2806,,
+iPhone XS Max,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs-max,2661,,
+iPhone XS,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs,2654,,
+iPhone XR,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xr,2273,,
+iPhone 8 Plus,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8-plus,2267,,
+iPad Pro (12.9-inch 2nd Generation),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-2nd-generation,2252,,
+iPad Pro (10.5-inch),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-10-5-inch,2208,,
+iPhone X,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-x,2050,,
+iPhone 8,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8,1691,,
+iPad (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-7th-generation,1381,,
+iPad Pro (12.9-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch,1245,,
+iPhone 7 Plus,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7-plus,1155,,
+iPad (6th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-6th-generation,1137,,
+iPad Pro (9.7-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-9-7-inch,1097,,
+iPod (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipod-7th-generation,1036,,
+iPad (5th generation),Apple A9,https://browser.geekbench.com/ios_devices/ipad-5th-generation,965,,
+iPhone 7,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7,962,,
+iPad Air 2,Apple A8X,https://browser.geekbench.com/ios_devices/ipad-air-2,947,,
+iPhone SE,Apple A9,https://browser.geekbench.com/ios_devices/iphone-se,934,,
+iPhone 6s,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s,875,,
+iPhone 6s Plus,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s-plus,853,,
+iPad mini 4,Apple A8,https://browser.geekbench.com/ios_devices/ipad-mini-4,603,,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-10c-cpu,54492,,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-9c-cpu,54337,,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-10c-cpu,54232,,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-9c-cpu,54210,,
+"iPad Pro (12.9-inch, 6th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad14-5,46098,,
+"iPad Pro (11-inch, 4th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-4th-generation,45845,,
+iPad Air 11-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-11-inch-m2,42113,,
+iPad Air 13-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-13-inch-m2,42036,,
+iPad Pro (12.9-inch 5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-5th-generation,32747,,
+iPad Pro (11-inch 3rd generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-3rd-generation,32692,,
+iPhone 16 Pro,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro,32681,,
+iPhone 16 Pro Max,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro-max,32674,,
+iPad Air (5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-air-5th-generation,32294,,
+iPhone 16 Plus,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16-plus,27749,,
+iPhone 16,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16,27703,,
+iPhone 15 Pro,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro,27311,,
+iPhone 15 Pro Max,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro-max,27193,,
+iPhone 15 Plus,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15-plus,22885,,
+iPhone 15,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15,22853,,
+iPhone 14 Pro,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro,22791,,
+iPhone 14 Pro Max,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro-max,22669,,
+iPhone 14 Plus,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-plus,20542,,
+iPhone 14,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14,20519,,
+iPhone 13 Pro,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro,20222,,
+iPhone 13 Pro Max,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro-max,20029,,
+iPad mini (6th generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-6th-generation,19625,,
+iPad Pro 12.9-inch (4th generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-4th-generation,18432,,
+iPad Pro 11-inch (2nd generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-2nd-generation,18431,,
+iPhone SE (3rd generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-3rd-generation,17770,,
+iPhone 13,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13,17761,,
+iPhone 13 mini,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-mini,17364,,
+iPad Pro (11-inch),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch,16684,,
+iPad Air (4th generation),Apple A14 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-4th-generation,16473,,
+iPhone 12 Pro Max,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro-max,16240,,
+iPhone 12,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12,16180,,
+iPhone 12 Mini,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-mini,16119,,
+iPhone 12 Pro,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro,16101,,
+iPad Pro (12.9-inch 3rd Generation),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-3rd-generation,15949,,
+iPad (9th generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/ipad-9th-generation,13623,,
+iPhone 11 Pro Max,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro-max,13594,,
+iPhone 11 Pro,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro,13551,,
+iPhone 11,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11,13407,,
+iPhone SE (2nd generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-2nd-generation,12714,,
+iPad Air (3rd generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-3rd-generation,9652,,
+iPad mini (5th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-5th-generation,9366,,
+iPad (8th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-8th-generation,9136,,
+iPad Pro (10.5-inch),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-10-5-inch,8341,,
+iPhone XS Max,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs-max,8274,,
+iPhone XS,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs,8238,,
+iPhone XR,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xr,8228,,
+iPad Pro (12.9-inch 2nd Generation),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-2nd-generation,8104,,
+iPad Pro (12.9-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch,5811,,
+iPad Pro (9.7-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-9-7-inch,5681,,
+iPhone 8 Plus,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8-plus,5312,,
+iPhone X,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-x,5166,,
+iPhone 8,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8,4740,,
+iPad (6th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-6th-generation,4303,,
+iPad (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-7th-generation,4193,,
+iPhone 7 Plus,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7-plus,3845,,
+iPhone 7,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7,3707,,
+iPad (5th generation),Apple A9,https://browser.geekbench.com/ios_devices/ipad-5th-generation,3093,,
+iPhone 6s Plus,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s-plus,2848,,
+iPod (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipod-7th-generation,2828,,
+iPhone 6s,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s,2812,,
+iPhone SE,Apple A9,https://browser.geekbench.com/ios_devices/iphone-se,2760,,
+iPad Air 2,Apple A8X,https://browser.geekbench.com/ios_devices/ipad-air-2,763,,
+iPad mini 4,Apple A8,https://browser.geekbench.com/ios_devices/ipad-mini-4,554,,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-10c-cpu,3693,,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-9c-cpu,3679,,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-10c-cpu,3671,,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-9c-cpu,3654,,
+iPhone 16 Pro,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro,3448,,
+iPhone 16 Pro Max,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro-max,3431,,
+iPhone 16,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16,3317,,
+iPhone 16 Plus,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16-plus,3316,,
+iPhone 15 Pro,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro,2890,,
+iPhone 15 Pro Max,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro-max,2880,,
+iPhone 14 Pro,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro,2607,,
+iPhone 14 Pro Max,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro-max,2600,,
+iPad Air 13-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-13-inch-m2,2592,,
+iPad Air 11-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-11-inch-m2,2590,,
+"iPad Pro (12.9-inch, 6th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad14-5,2576,,
+"iPad Pro (11-inch, 4th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-4th-generation,2573,,
+iPhone 15 Plus,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15-plus,2546,,
+iPhone 15,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15,2543,,
+iPhone 13 Pro Max,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro-max,2341,,
+iPhone 13 Pro,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro,2340,,
+iPad Pro (12.9-inch 5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-5th-generation,2307,,
+iPad Pro (11-inch 3rd generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-3rd-generation,2303,,
+iPad Air (5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-air-5th-generation,2290,,
+iPhone SE (3rd generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-3rd-generation,2262,,
+iPhone 14 Plus,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-plus,2256,,
+iPhone 14,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14,2255,,
+iPhone 13 mini,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-mini,2219,,
+iPhone 13,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13,2213,,
+iPad mini (6th generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-6th-generation,2125,,
+iPhone 12 Pro Max,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro-max,2122,,
+iPad Air (4th generation),Apple A14 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-4th-generation,2083,,
+iPhone 12 Pro,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro,2076,,
+iPhone 12 Mini,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-mini,2032,,
+iPhone 12,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12,2029,,
+iPad (9th generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/ipad-9th-generation,1736,,
+iPhone 11 Pro Max,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro-max,1722,,
+iPhone 11 Pro,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro,1712,,
+iPhone 11,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11,1703,,
+iPhone SE (2nd generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-2nd-generation,1670,,
+iPad Pro 12.9-inch (4th generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-4th-generation,1331,,
+iPad Pro (11-inch),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch,1327,,
+iPad Air (3rd generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-3rd-generation,1326,,
+iPad Pro 11-inch (2nd generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-2nd-generation,1325,,
+iPad Pro (12.9-inch 3rd Generation),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-3rd-generation,1322,,
+iPad mini (5th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-5th-generation,1321,,
+iPad (8th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-8th-generation,1304,,
+iPhone XS Max,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs-max,1286,,
+iPhone XS,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs,1286,,
+iPhone XR,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xr,1250,,
+iPhone 8 Plus,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8-plus,1058,,
+iPhone X,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-x,1054,,
+iPhone 8,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8,1033,,
+iPad Pro (10.5-inch),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-10-5-inch,940,,
+iPad Pro (12.9-inch 2nd Generation),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-2nd-generation,927,,
+iPad (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-7th-generation,860,,
+iPad (6th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-6th-generation,829,,
+iPhone 7 Plus,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7-plus,816,,
+iPhone 7,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7,784,,
+iPad Pro (12.9-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch,749,,
+iPad Pro (9.7-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-9-7-inch,738,,
+iPad (5th generation),Apple A9,https://browser.geekbench.com/ios_devices/ipad-5th-generation,630,,
+iPod (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipod-7th-generation,629,,
+iPhone SE,Apple A9,https://browser.geekbench.com/ios_devices/iphone-se,618,,
+iPhone 6s,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s,605,,
+iPhone 6s Plus,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s-plus,601,,
+iPad Air 2,Apple A8X,https://browser.geekbench.com/ios_devices/ipad-air-2,441,,
+iPad mini 4,Apple A8,https://browser.geekbench.com/ios_devices/ipad-mini-4,413,,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-10c-cpu,13731,,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-10c-cpu,13475,,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-9c-cpu,13405,,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-9c-cpu,13111,,
+iPad Air 13-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-13-inch-m2,9827,,
+iPad Air 11-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-11-inch-m2,9809,,
+"iPad Pro (11-inch, 4th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-4th-generation,9779,,
+"iPad Pro (12.9-inch, 6th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad14-5,9772,,
+iPhone 16 Pro,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro,8574,,
+iPhone 16 Pro Max,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro-max,8503,,
+iPad Pro (12.9-inch 5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-5th-generation,8364,,
+iPad Pro (11-inch 3rd generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-3rd-generation,8323,,
+iPad Air (5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-air-5th-generation,8256,,
+iPhone 16,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16,8193,,
+iPhone 16 Plus,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16-plus,8192,,
+iPhone 15 Pro,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro,7179,,
+iPhone 15 Pro Max,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro-max,7141,,
+iPhone 14 Pro,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro,6696,,
+iPhone 14 Pro Max,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro-max,6666,,
+iPhone 15 Plus,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15-plus,6341,,
+iPhone 15,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15,6321,,
+iPhone 13 Pro Max,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro-max,5742,,
+iPhone 13 Pro,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro,5726,,
+iPhone 14 Plus,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-plus,5534,,
+iPhone 14,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14,5527,,
+iPhone SE (3rd generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-3rd-generation,5442,,
+iPad mini (6th generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-6th-generation,5366,,
+iPhone 13,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13,5240,,
+iPhone 13 mini,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-mini,5224,,
+iPad Air (4th generation),Apple A14 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-4th-generation,4997,,
+iPhone 12 Pro Max,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro-max,4963,,
+iPhone 12 Pro,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro,4736,,
+iPad Pro 12.9-inch (4th generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-4th-generation,4647,,
+iPad Pro 11-inch (2nd generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-2nd-generation,4626,,
+iPhone 12 Mini,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-mini,4589,,
+iPhone 12,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12,4580,,
+iPad Pro (11-inch),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch,4579,,
+iPad Pro (12.9-inch 3rd Generation),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-3rd-generation,4446,,
+iPhone 11 Pro Max,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro-max,3864,,
+iPad (9th generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/ipad-9th-generation,3853,,
+iPhone 11 Pro,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro,3810,,
+iPhone 11,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11,3654,,
+iPhone SE (2nd generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-2nd-generation,3034,,
+iPad Air (3rd generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-3rd-generation,2948,,
+iPad mini (5th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-5th-generation,2888,,
+iPad (8th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-8th-generation,2806,,
+iPhone XS Max,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs-max,2661,,
+iPhone XS,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs,2654,,
+iPhone XR,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xr,2273,,
+iPhone 8 Plus,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8-plus,2267,,
+iPad Pro (12.9-inch 2nd Generation),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-2nd-generation,2252,,
+iPad Pro (10.5-inch),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-10-5-inch,2208,,
+iPhone X,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-x,2050,,
+iPhone 8,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8,1691,,
+iPad (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-7th-generation,1381,,
+iPad Pro (12.9-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch,1245,,
+iPhone 7 Plus,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7-plus,1155,,
+iPad (6th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-6th-generation,1137,,
+iPad Pro (9.7-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-9-7-inch,1097,,
+iPod (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipod-7th-generation,1036,,
+iPad (5th generation),Apple A9,https://browser.geekbench.com/ios_devices/ipad-5th-generation,965,,
+iPhone 7,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7,962,,
+iPad Air 2,Apple A8X,https://browser.geekbench.com/ios_devices/ipad-air-2,947,,
+iPhone SE,Apple A9,https://browser.geekbench.com/ios_devices/iphone-se,934,,
+iPhone 6s,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s,875,,
+iPhone 6s Plus,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s-plus,853,,
+iPad mini 4,Apple A8,https://browser.geekbench.com/ios_devices/ipad-mini-4,603,,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-10c-cpu,54492,,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-9c-cpu,54337,,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-10c-cpu,54232,,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-9c-cpu,54210,,
+"iPad Pro (12.9-inch, 6th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad14-5,46098,,
+"iPad Pro (11-inch, 4th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-4th-generation,45845,,
+iPad Air 11-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-11-inch-m2,42113,,
+iPad Air 13-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-13-inch-m2,42036,,
+iPad Pro (12.9-inch 5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-5th-generation,32747,,
+iPad Pro (11-inch 3rd generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-3rd-generation,32692,,
+iPhone 16 Pro,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro,32681,,
+iPhone 16 Pro Max,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro-max,32674,,
+iPad Air (5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-air-5th-generation,32294,,
+iPhone 16 Plus,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16-plus,27749,,
+iPhone 16,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16,27703,,
+iPhone 15 Pro,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro,27311,,
+iPhone 15 Pro Max,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro-max,27193,,
+iPhone 15 Plus,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15-plus,22885,,
+iPhone 15,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15,22853,,
+iPhone 14 Pro,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro,22791,,
+iPhone 14 Pro Max,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro-max,22669,,
+iPhone 14 Plus,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-plus,20542,,
+iPhone 14,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14,20519,,
+iPhone 13 Pro,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro,20222,,
+iPhone 13 Pro Max,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro-max,20029,,
+iPad mini (6th generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-6th-generation,19625,,
+iPad Pro 12.9-inch (4th generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-4th-generation,18432,,
+iPad Pro 11-inch (2nd generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-2nd-generation,18431,,
+iPhone SE (3rd generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-3rd-generation,17770,,
+iPhone 13,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13,17761,,
+iPhone 13 mini,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-mini,17364,,
+iPad Pro (11-inch),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch,16684,,
+iPad Air (4th generation),Apple A14 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-4th-generation,16473,,
+iPhone 12 Pro Max,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro-max,16240,,
+iPhone 12,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12,16180,,
+iPhone 12 Mini,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-mini,16119,,
+iPhone 12 Pro,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro,16101,,
+iPad Pro (12.9-inch 3rd Generation),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-3rd-generation,15949,,
+iPad (9th generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/ipad-9th-generation,13623,,
+iPhone 11 Pro Max,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro-max,13594,,
+iPhone 11 Pro,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro,13551,,
+iPhone 11,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11,13407,,
+iPhone SE (2nd generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-2nd-generation,12714,,
+iPad Air (3rd generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-3rd-generation,9652,,
+iPad mini (5th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-5th-generation,9366,,
+iPad (8th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-8th-generation,9136,,
+iPad Pro (10.5-inch),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-10-5-inch,8341,,
+iPhone XS Max,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs-max,8274,,
+iPhone XS,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs,8238,,
+iPhone XR,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xr,8228,,
+iPad Pro (12.9-inch 2nd Generation),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-2nd-generation,8104,,
+iPad Pro (12.9-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch,5811,,
+iPad Pro (9.7-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-9-7-inch,5681,,
+iPhone 8 Plus,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8-plus,5312,,
+iPhone X,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-x,5166,,
+iPhone 8,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8,4740,,
+iPad (6th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-6th-generation,4303,,
+iPad (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-7th-generation,4193,,
+iPhone 7 Plus,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7-plus,3845,,
+iPhone 7,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7,3707,,
+iPad (5th generation),Apple A9,https://browser.geekbench.com/ios_devices/ipad-5th-generation,3093,,
+iPhone 6s Plus,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s-plus,2848,,
+iPod (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipod-7th-generation,2828,,
+iPhone 6s,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s,2812,,
+iPhone SE,Apple A9,https://browser.geekbench.com/ios_devices/iphone-se,2760,,
+iPad Air 2,Apple A8X,https://browser.geekbench.com/ios_devices/ipad-air-2,763,,
+iPad mini 4,Apple A8,https://browser.geekbench.com/ios_devices/ipad-mini-4,554,,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-10c-cpu,,3693,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-9c-cpu,,3679,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-10c-cpu,,3671,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-9c-cpu,,3654,
+iPhone 16 Pro,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro,,3448,
+iPhone 16 Pro Max,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro-max,,3431,
+iPhone 16,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16,,3317,
+iPhone 16 Plus,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16-plus,,3316,
+iPhone 15 Pro,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro,,2890,
+iPhone 15 Pro Max,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro-max,,2880,
+iPhone 14 Pro,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro,,2607,
+iPhone 14 Pro Max,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro-max,,2600,
+iPad Air 13-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-13-inch-m2,,2592,
+iPad Air 11-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-11-inch-m2,,2590,
+"iPad Pro (12.9-inch, 6th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad14-5,,2576,
+"iPad Pro (11-inch, 4th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-4th-generation,,2573,
+iPhone 15 Plus,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15-plus,,2546,
+iPhone 15,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15,,2543,
+iPhone 13 Pro Max,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro-max,,2341,
+iPhone 13 Pro,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro,,2340,
+iPad Pro (12.9-inch 5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-5th-generation,,2307,
+iPad Pro (11-inch 3rd generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-3rd-generation,,2303,
+iPad Air (5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-air-5th-generation,,2290,
+iPhone SE (3rd generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-3rd-generation,,2262,
+iPhone 14 Plus,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-plus,,2256,
+iPhone 14,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14,,2255,
+iPhone 13 mini,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-mini,,2219,
+iPhone 13,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13,,2213,
+iPad mini (6th generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-6th-generation,,2125,
+iPhone 12 Pro Max,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro-max,,2122,
+iPad Air (4th generation),Apple A14 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-4th-generation,,2083,
+iPhone 12 Pro,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro,,2076,
+iPhone 12 Mini,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-mini,,2032,
+iPhone 12,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12,,2029,
+iPad (9th generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/ipad-9th-generation,,1736,
+iPhone 11 Pro Max,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro-max,,1722,
+iPhone 11 Pro,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro,,1712,
+iPhone 11,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11,,1703,
+iPhone SE (2nd generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-2nd-generation,,1670,
+iPad Pro 12.9-inch (4th generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-4th-generation,,1331,
+iPad Pro (11-inch),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch,,1327,
+iPad Air (3rd generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-3rd-generation,,1326,
+iPad Pro 11-inch (2nd generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-2nd-generation,,1325,
+iPad Pro (12.9-inch 3rd Generation),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-3rd-generation,,1322,
+iPad mini (5th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-5th-generation,,1321,
+iPad (8th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-8th-generation,,1304,
+iPhone XS Max,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs-max,,1286,
+iPhone XS,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs,,1286,
+iPhone XR,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xr,,1250,
+iPhone 8 Plus,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8-plus,,1058,
+iPhone X,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-x,,1054,
+iPhone 8,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8,,1033,
+iPad Pro (10.5-inch),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-10-5-inch,,940,
+iPad Pro (12.9-inch 2nd Generation),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-2nd-generation,,927,
+iPad (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-7th-generation,,860,
+iPad (6th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-6th-generation,,829,
+iPhone 7 Plus,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7-plus,,816,
+iPhone 7,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7,,784,
+iPad Pro (12.9-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch,,749,
+iPad Pro (9.7-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-9-7-inch,,738,
+iPad (5th generation),Apple A9,https://browser.geekbench.com/ios_devices/ipad-5th-generation,,630,
+iPod (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipod-7th-generation,,629,
+iPhone SE,Apple A9,https://browser.geekbench.com/ios_devices/iphone-se,,618,
+iPhone 6s,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s,,605,
+iPhone 6s Plus,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s-plus,,601,
+iPad Air 2,Apple A8X,https://browser.geekbench.com/ios_devices/ipad-air-2,,441,
+iPad mini 4,Apple A8,https://browser.geekbench.com/ios_devices/ipad-mini-4,,413,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-10c-cpu,,13731,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-10c-cpu,,13475,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-9c-cpu,,13405,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-9c-cpu,,13111,
+iPad Air 13-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-13-inch-m2,,9827,
+iPad Air 11-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-11-inch-m2,,9809,
+"iPad Pro (11-inch, 4th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-4th-generation,,9779,
+"iPad Pro (12.9-inch, 6th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad14-5,,9772,
+iPhone 16 Pro,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro,,8574,
+iPhone 16 Pro Max,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro-max,,8503,
+iPad Pro (12.9-inch 5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-5th-generation,,8364,
+iPad Pro (11-inch 3rd generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-3rd-generation,,8323,
+iPad Air (5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-air-5th-generation,,8256,
+iPhone 16,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16,,8193,
+iPhone 16 Plus,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16-plus,,8192,
+iPhone 15 Pro,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro,,7179,
+iPhone 15 Pro Max,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro-max,,7141,
+iPhone 14 Pro,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro,,6696,
+iPhone 14 Pro Max,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro-max,,6666,
+iPhone 15 Plus,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15-plus,,6341,
+iPhone 15,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15,,6321,
+iPhone 13 Pro Max,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro-max,,5742,
+iPhone 13 Pro,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro,,5726,
+iPhone 14 Plus,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-plus,,5534,
+iPhone 14,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14,,5527,
+iPhone SE (3rd generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-3rd-generation,,5442,
+iPad mini (6th generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-6th-generation,,5366,
+iPhone 13,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13,,5240,
+iPhone 13 mini,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-mini,,5224,
+iPad Air (4th generation),Apple A14 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-4th-generation,,4997,
+iPhone 12 Pro Max,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro-max,,4963,
+iPhone 12 Pro,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro,,4736,
+iPad Pro 12.9-inch (4th generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-4th-generation,,4647,
+iPad Pro 11-inch (2nd generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-2nd-generation,,4626,
+iPhone 12 Mini,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-mini,,4589,
+iPhone 12,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12,,4580,
+iPad Pro (11-inch),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch,,4579,
+iPad Pro (12.9-inch 3rd Generation),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-3rd-generation,,4446,
+iPhone 11 Pro Max,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro-max,,3864,
+iPad (9th generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/ipad-9th-generation,,3853,
+iPhone 11 Pro,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro,,3810,
+iPhone 11,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11,,3654,
+iPhone SE (2nd generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-2nd-generation,,3034,
+iPad Air (3rd generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-3rd-generation,,2948,
+iPad mini (5th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-5th-generation,,2888,
+iPad (8th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-8th-generation,,2806,
+iPhone XS Max,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs-max,,2661,
+iPhone XS,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs,,2654,
+iPhone XR,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xr,,2273,
+iPhone 8 Plus,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8-plus,,2267,
+iPad Pro (12.9-inch 2nd Generation),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-2nd-generation,,2252,
+iPad Pro (10.5-inch),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-10-5-inch,,2208,
+iPhone X,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-x,,2050,
+iPhone 8,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8,,1691,
+iPad (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-7th-generation,,1381,
+iPad Pro (12.9-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch,,1245,
+iPhone 7 Plus,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7-plus,,1155,
+iPad (6th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-6th-generation,,1137,
+iPad Pro (9.7-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-9-7-inch,,1097,
+iPod (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipod-7th-generation,,1036,
+iPad (5th generation),Apple A9,https://browser.geekbench.com/ios_devices/ipad-5th-generation,,965,
+iPhone 7,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7,,962,
+iPad Air 2,Apple A8X,https://browser.geekbench.com/ios_devices/ipad-air-2,,947,
+iPhone SE,Apple A9,https://browser.geekbench.com/ios_devices/iphone-se,,934,
+iPhone 6s,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s,,875,
+iPhone 6s Plus,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s-plus,,853,
+iPad mini 4,Apple A8,https://browser.geekbench.com/ios_devices/ipad-mini-4,,603,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-10c-cpu,,54492,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-9c-cpu,,54337,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-10c-cpu,,54232,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-9c-cpu,,54210,
+"iPad Pro (12.9-inch, 6th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad14-5,,46098,
+"iPad Pro (11-inch, 4th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-4th-generation,,45845,
+iPad Air 11-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-11-inch-m2,,42113,
+iPad Air 13-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-13-inch-m2,,42036,
+iPad Pro (12.9-inch 5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-5th-generation,,32747,
+iPad Pro (11-inch 3rd generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-3rd-generation,,32692,
+iPhone 16 Pro,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro,,32681,
+iPhone 16 Pro Max,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro-max,,32674,
+iPad Air (5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-air-5th-generation,,32294,
+iPhone 16 Plus,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16-plus,,27749,
+iPhone 16,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16,,27703,
+iPhone 15 Pro,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro,,27311,
+iPhone 15 Pro Max,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro-max,,27193,
+iPhone 15 Plus,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15-plus,,22885,
+iPhone 15,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15,,22853,
+iPhone 14 Pro,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro,,22791,
+iPhone 14 Pro Max,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro-max,,22669,
+iPhone 14 Plus,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-plus,,20542,
+iPhone 14,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14,,20519,
+iPhone 13 Pro,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro,,20222,
+iPhone 13 Pro Max,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro-max,,20029,
+iPad mini (6th generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-6th-generation,,19625,
+iPad Pro 12.9-inch (4th generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-4th-generation,,18432,
+iPad Pro 11-inch (2nd generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-2nd-generation,,18431,
+iPhone SE (3rd generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-3rd-generation,,17770,
+iPhone 13,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13,,17761,
+iPhone 13 mini,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-mini,,17364,
+iPad Pro (11-inch),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch,,16684,
+iPad Air (4th generation),Apple A14 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-4th-generation,,16473,
+iPhone 12 Pro Max,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro-max,,16240,
+iPhone 12,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12,,16180,
+iPhone 12 Mini,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-mini,,16119,
+iPhone 12 Pro,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro,,16101,
+iPad Pro (12.9-inch 3rd Generation),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-3rd-generation,,15949,
+iPad (9th generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/ipad-9th-generation,,13623,
+iPhone 11 Pro Max,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro-max,,13594,
+iPhone 11 Pro,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro,,13551,
+iPhone 11,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11,,13407,
+iPhone SE (2nd generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-2nd-generation,,12714,
+iPad Air (3rd generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-3rd-generation,,9652,
+iPad mini (5th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-5th-generation,,9366,
+iPad (8th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-8th-generation,,9136,
+iPad Pro (10.5-inch),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-10-5-inch,,8341,
+iPhone XS Max,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs-max,,8274,
+iPhone XS,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs,,8238,
+iPhone XR,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xr,,8228,
+iPad Pro (12.9-inch 2nd Generation),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-2nd-generation,,8104,
+iPad Pro (12.9-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch,,5811,
+iPad Pro (9.7-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-9-7-inch,,5681,
+iPhone 8 Plus,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8-plus,,5312,
+iPhone X,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-x,,5166,
+iPhone 8,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8,,4740,
+iPad (6th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-6th-generation,,4303,
+iPad (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-7th-generation,,4193,
+iPhone 7 Plus,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7-plus,,3845,
+iPhone 7,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7,,3707,
+iPad (5th generation),Apple A9,https://browser.geekbench.com/ios_devices/ipad-5th-generation,,3093,
+iPhone 6s Plus,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s-plus,,2848,
+iPod (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipod-7th-generation,,2828,
+iPhone 6s,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s,,2812,
+iPhone SE,Apple A9,https://browser.geekbench.com/ios_devices/iphone-se,,2760,
+iPad Air 2,Apple A8X,https://browser.geekbench.com/ios_devices/ipad-air-2,,763,
+iPad mini 4,Apple A8,https://browser.geekbench.com/ios_devices/ipad-mini-4,,554,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-10c-cpu,,3693,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-9c-cpu,,3679,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-10c-cpu,,3671,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-9c-cpu,,3654,
+iPhone 16 Pro,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro,,3448,
+iPhone 16 Pro Max,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro-max,,3431,
+iPhone 16,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16,,3317,
+iPhone 16 Plus,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16-plus,,3316,
+iPhone 15 Pro,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro,,2890,
+iPhone 15 Pro Max,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro-max,,2880,
+iPhone 14 Pro,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro,,2607,
+iPhone 14 Pro Max,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro-max,,2600,
+iPad Air 13-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-13-inch-m2,,2592,
+iPad Air 11-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-11-inch-m2,,2590,
+"iPad Pro (12.9-inch, 6th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad14-5,,2576,
+"iPad Pro (11-inch, 4th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-4th-generation,,2573,
+iPhone 15 Plus,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15-plus,,2546,
+iPhone 15,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15,,2543,
+iPhone 13 Pro Max,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro-max,,2341,
+iPhone 13 Pro,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro,,2340,
+iPad Pro (12.9-inch 5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-5th-generation,,2307,
+iPad Pro (11-inch 3rd generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-3rd-generation,,2303,
+iPad Air (5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-air-5th-generation,,2290,
+iPhone SE (3rd generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-3rd-generation,,2262,
+iPhone 14 Plus,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-plus,,2256,
+iPhone 14,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14,,2255,
+iPhone 13 mini,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-mini,,2219,
+iPhone 13,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13,,2213,
+iPad mini (6th generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-6th-generation,,2125,
+iPhone 12 Pro Max,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro-max,,2122,
+iPad Air (4th generation),Apple A14 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-4th-generation,,2083,
+iPhone 12 Pro,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro,,2076,
+iPhone 12 Mini,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-mini,,2032,
+iPhone 12,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12,,2029,
+iPad (9th generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/ipad-9th-generation,,1736,
+iPhone 11 Pro Max,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro-max,,1722,
+iPhone 11 Pro,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro,,1712,
+iPhone 11,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11,,1703,
+iPhone SE (2nd generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-2nd-generation,,1670,
+iPad Pro 12.9-inch (4th generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-4th-generation,,1331,
+iPad Pro (11-inch),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch,,1327,
+iPad Air (3rd generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-3rd-generation,,1326,
+iPad Pro 11-inch (2nd generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-2nd-generation,,1325,
+iPad Pro (12.9-inch 3rd Generation),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-3rd-generation,,1322,
+iPad mini (5th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-5th-generation,,1321,
+iPad (8th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-8th-generation,,1304,
+iPhone XS Max,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs-max,,1286,
+iPhone XS,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs,,1286,
+iPhone XR,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xr,,1250,
+iPhone 8 Plus,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8-plus,,1058,
+iPhone X,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-x,,1054,
+iPhone 8,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8,,1033,
+iPad Pro (10.5-inch),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-10-5-inch,,940,
+iPad Pro (12.9-inch 2nd Generation),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-2nd-generation,,927,
+iPad (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-7th-generation,,860,
+iPad (6th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-6th-generation,,829,
+iPhone 7 Plus,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7-plus,,816,
+iPhone 7,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7,,784,
+iPad Pro (12.9-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch,,749,
+iPad Pro (9.7-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-9-7-inch,,738,
+iPad (5th generation),Apple A9,https://browser.geekbench.com/ios_devices/ipad-5th-generation,,630,
+iPod (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipod-7th-generation,,629,
+iPhone SE,Apple A9,https://browser.geekbench.com/ios_devices/iphone-se,,618,
+iPhone 6s,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s,,605,
+iPhone 6s Plus,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s-plus,,601,
+iPad Air 2,Apple A8X,https://browser.geekbench.com/ios_devices/ipad-air-2,,441,
+iPad mini 4,Apple A8,https://browser.geekbench.com/ios_devices/ipad-mini-4,,413,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-10c-cpu,,13731,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-10c-cpu,,13475,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-9c-cpu,,13405,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-9c-cpu,,13111,
+iPad Air 13-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-13-inch-m2,,9827,
+iPad Air 11-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-11-inch-m2,,9809,
+"iPad Pro (11-inch, 4th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-4th-generation,,9779,
+"iPad Pro (12.9-inch, 6th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad14-5,,9772,
+iPhone 16 Pro,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro,,8574,
+iPhone 16 Pro Max,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro-max,,8503,
+iPad Pro (12.9-inch 5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-5th-generation,,8364,
+iPad Pro (11-inch 3rd generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-3rd-generation,,8323,
+iPad Air (5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-air-5th-generation,,8256,
+iPhone 16,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16,,8193,
+iPhone 16 Plus,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16-plus,,8192,
+iPhone 15 Pro,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro,,7179,
+iPhone 15 Pro Max,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro-max,,7141,
+iPhone 14 Pro,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro,,6696,
+iPhone 14 Pro Max,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro-max,,6666,
+iPhone 15 Plus,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15-plus,,6341,
+iPhone 15,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15,,6321,
+iPhone 13 Pro Max,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro-max,,5742,
+iPhone 13 Pro,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro,,5726,
+iPhone 14 Plus,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-plus,,5534,
+iPhone 14,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14,,5527,
+iPhone SE (3rd generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-3rd-generation,,5442,
+iPad mini (6th generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-6th-generation,,5366,
+iPhone 13,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13,,5240,
+iPhone 13 mini,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-mini,,5224,
+iPad Air (4th generation),Apple A14 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-4th-generation,,4997,
+iPhone 12 Pro Max,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro-max,,4963,
+iPhone 12 Pro,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro,,4736,
+iPad Pro 12.9-inch (4th generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-4th-generation,,4647,
+iPad Pro 11-inch (2nd generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-2nd-generation,,4626,
+iPhone 12 Mini,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-mini,,4589,
+iPhone 12,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12,,4580,
+iPad Pro (11-inch),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch,,4579,
+iPad Pro (12.9-inch 3rd Generation),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-3rd-generation,,4446,
+iPhone 11 Pro Max,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro-max,,3864,
+iPad (9th generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/ipad-9th-generation,,3853,
+iPhone 11 Pro,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro,,3810,
+iPhone 11,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11,,3654,
+iPhone SE (2nd generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-2nd-generation,,3034,
+iPad Air (3rd generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-3rd-generation,,2948,
+iPad mini (5th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-5th-generation,,2888,
+iPad (8th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-8th-generation,,2806,
+iPhone XS Max,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs-max,,2661,
+iPhone XS,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs,,2654,
+iPhone XR,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xr,,2273,
+iPhone 8 Plus,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8-plus,,2267,
+iPad Pro (12.9-inch 2nd Generation),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-2nd-generation,,2252,
+iPad Pro (10.5-inch),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-10-5-inch,,2208,
+iPhone X,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-x,,2050,
+iPhone 8,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8,,1691,
+iPad (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-7th-generation,,1381,
+iPad Pro (12.9-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch,,1245,
+iPhone 7 Plus,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7-plus,,1155,
+iPad (6th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-6th-generation,,1137,
+iPad Pro (9.7-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-9-7-inch,,1097,
+iPod (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipod-7th-generation,,1036,
+iPad (5th generation),Apple A9,https://browser.geekbench.com/ios_devices/ipad-5th-generation,,965,
+iPhone 7,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7,,962,
+iPad Air 2,Apple A8X,https://browser.geekbench.com/ios_devices/ipad-air-2,,947,
+iPhone SE,Apple A9,https://browser.geekbench.com/ios_devices/iphone-se,,934,
+iPhone 6s,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s,,875,
+iPhone 6s Plus,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s-plus,,853,
+iPad mini 4,Apple A8,https://browser.geekbench.com/ios_devices/ipad-mini-4,,603,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-10c-cpu,,54492,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-9c-cpu,,54337,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-10c-cpu,,54232,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-9c-cpu,,54210,
+"iPad Pro (12.9-inch, 6th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad14-5,,46098,
+"iPad Pro (11-inch, 4th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-4th-generation,,45845,
+iPad Air 11-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-11-inch-m2,,42113,
+iPad Air 13-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-13-inch-m2,,42036,
+iPad Pro (12.9-inch 5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-5th-generation,,32747,
+iPad Pro (11-inch 3rd generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-3rd-generation,,32692,
+iPhone 16 Pro,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro,,32681,
+iPhone 16 Pro Max,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro-max,,32674,
+iPad Air (5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-air-5th-generation,,32294,
+iPhone 16 Plus,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16-plus,,27749,
+iPhone 16,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16,,27703,
+iPhone 15 Pro,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro,,27311,
+iPhone 15 Pro Max,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro-max,,27193,
+iPhone 15 Plus,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15-plus,,22885,
+iPhone 15,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15,,22853,
+iPhone 14 Pro,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro,,22791,
+iPhone 14 Pro Max,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro-max,,22669,
+iPhone 14 Plus,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-plus,,20542,
+iPhone 14,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14,,20519,
+iPhone 13 Pro,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro,,20222,
+iPhone 13 Pro Max,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro-max,,20029,
+iPad mini (6th generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-6th-generation,,19625,
+iPad Pro 12.9-inch (4th generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-4th-generation,,18432,
+iPad Pro 11-inch (2nd generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-2nd-generation,,18431,
+iPhone SE (3rd generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-3rd-generation,,17770,
+iPhone 13,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13,,17761,
+iPhone 13 mini,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-mini,,17364,
+iPad Pro (11-inch),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch,,16684,
+iPad Air (4th generation),Apple A14 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-4th-generation,,16473,
+iPhone 12 Pro Max,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro-max,,16240,
+iPhone 12,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12,,16180,
+iPhone 12 Mini,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-mini,,16119,
+iPhone 12 Pro,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro,,16101,
+iPad Pro (12.9-inch 3rd Generation),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-3rd-generation,,15949,
+iPad (9th generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/ipad-9th-generation,,13623,
+iPhone 11 Pro Max,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro-max,,13594,
+iPhone 11 Pro,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro,,13551,
+iPhone 11,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11,,13407,
+iPhone SE (2nd generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-2nd-generation,,12714,
+iPad Air (3rd generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-3rd-generation,,9652,
+iPad mini (5th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-5th-generation,,9366,
+iPad (8th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-8th-generation,,9136,
+iPad Pro (10.5-inch),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-10-5-inch,,8341,
+iPhone XS Max,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs-max,,8274,
+iPhone XS,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs,,8238,
+iPhone XR,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xr,,8228,
+iPad Pro (12.9-inch 2nd Generation),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-2nd-generation,,8104,
+iPad Pro (12.9-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch,,5811,
+iPad Pro (9.7-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-9-7-inch,,5681,
+iPhone 8 Plus,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8-plus,,5312,
+iPhone X,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-x,,5166,
+iPhone 8,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8,,4740,
+iPad (6th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-6th-generation,,4303,
+iPad (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-7th-generation,,4193,
+iPhone 7 Plus,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7-plus,,3845,
+iPhone 7,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7,,3707,
+iPad (5th generation),Apple A9,https://browser.geekbench.com/ios_devices/ipad-5th-generation,,3093,
+iPhone 6s Plus,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s-plus,,2848,
+iPod (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipod-7th-generation,,2828,
+iPhone 6s,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s,,2812,
+iPhone SE,Apple A9,https://browser.geekbench.com/ios_devices/iphone-se,,2760,
+iPad Air 2,Apple A8X,https://browser.geekbench.com/ios_devices/ipad-air-2,,763,
+iPad mini 4,Apple A8,https://browser.geekbench.com/ios_devices/ipad-mini-4,,554,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-10c-cpu,,3693,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-9c-cpu,,3679,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-10c-cpu,,3671,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-9c-cpu,,3654,
+iPhone 16 Pro,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro,,3448,
+iPhone 16 Pro Max,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro-max,,3431,
+iPhone 16,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16,,3317,
+iPhone 16 Plus,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16-plus,,3316,
+iPhone 15 Pro,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro,,2890,
+iPhone 15 Pro Max,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro-max,,2880,
+iPhone 14 Pro,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro,,2607,
+iPhone 14 Pro Max,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro-max,,2600,
+iPad Air 13-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-13-inch-m2,,2592,
+iPad Air 11-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-11-inch-m2,,2590,
+"iPad Pro (12.9-inch, 6th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad14-5,,2576,
+"iPad Pro (11-inch, 4th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-4th-generation,,2573,
+iPhone 15 Plus,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15-plus,,2546,
+iPhone 15,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15,,2543,
+iPhone 13 Pro Max,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro-max,,2341,
+iPhone 13 Pro,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro,,2340,
+iPad Pro (12.9-inch 5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-5th-generation,,2307,
+iPad Pro (11-inch 3rd generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-3rd-generation,,2303,
+iPad Air (5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-air-5th-generation,,2290,
+iPhone SE (3rd generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-3rd-generation,,2262,
+iPhone 14 Plus,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-plus,,2256,
+iPhone 14,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14,,2255,
+iPhone 13 mini,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-mini,,2219,
+iPhone 13,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13,,2213,
+iPad mini (6th generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-6th-generation,,2125,
+iPhone 12 Pro Max,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro-max,,2122,
+iPad Air (4th generation),Apple A14 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-4th-generation,,2083,
+iPhone 12 Pro,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro,,2076,
+iPhone 12 Mini,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-mini,,2032,
+iPhone 12,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12,,2029,
+iPad (9th generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/ipad-9th-generation,,1736,
+iPhone 11 Pro Max,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro-max,,1722,
+iPhone 11 Pro,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro,,1712,
+iPhone 11,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11,,1703,
+iPhone SE (2nd generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-2nd-generation,,1670,
+iPad Pro 12.9-inch (4th generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-4th-generation,,1331,
+iPad Pro (11-inch),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch,,1327,
+iPad Air (3rd generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-3rd-generation,,1326,
+iPad Pro 11-inch (2nd generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-2nd-generation,,1325,
+iPad Pro (12.9-inch 3rd Generation),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-3rd-generation,,1322,
+iPad mini (5th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-5th-generation,,1321,
+iPad (8th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-8th-generation,,1304,
+iPhone XS Max,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs-max,,1286,
+iPhone XS,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs,,1286,
+iPhone XR,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xr,,1250,
+iPhone 8 Plus,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8-plus,,1058,
+iPhone X,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-x,,1054,
+iPhone 8,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8,,1033,
+iPad Pro (10.5-inch),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-10-5-inch,,940,
+iPad Pro (12.9-inch 2nd Generation),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-2nd-generation,,927,
+iPad (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-7th-generation,,860,
+iPad (6th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-6th-generation,,829,
+iPhone 7 Plus,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7-plus,,816,
+iPhone 7,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7,,784,
+iPad Pro (12.9-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch,,749,
+iPad Pro (9.7-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-9-7-inch,,738,
+iPad (5th generation),Apple A9,https://browser.geekbench.com/ios_devices/ipad-5th-generation,,630,
+iPod (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipod-7th-generation,,629,
+iPhone SE,Apple A9,https://browser.geekbench.com/ios_devices/iphone-se,,618,
+iPhone 6s,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s,,605,
+iPhone 6s Plus,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s-plus,,601,
+iPad Air 2,Apple A8X,https://browser.geekbench.com/ios_devices/ipad-air-2,,441,
+iPad mini 4,Apple A8,https://browser.geekbench.com/ios_devices/ipad-mini-4,,413,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-10c-cpu,,13731,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-10c-cpu,,13475,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-9c-cpu,,13405,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-9c-cpu,,13111,
+iPad Air 13-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-13-inch-m2,,9827,
+iPad Air 11-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-11-inch-m2,,9809,
+"iPad Pro (11-inch, 4th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-4th-generation,,9779,
+"iPad Pro (12.9-inch, 6th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad14-5,,9772,
+iPhone 16 Pro,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro,,8574,
+iPhone 16 Pro Max,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro-max,,8503,
+iPad Pro (12.9-inch 5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-5th-generation,,8364,
+iPad Pro (11-inch 3rd generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-3rd-generation,,8323,
+iPad Air (5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-air-5th-generation,,8256,
+iPhone 16,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16,,8193,
+iPhone 16 Plus,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16-plus,,8192,
+iPhone 15 Pro,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro,,7179,
+iPhone 15 Pro Max,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro-max,,7141,
+iPhone 14 Pro,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro,,6696,
+iPhone 14 Pro Max,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro-max,,6666,
+iPhone 15 Plus,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15-plus,,6341,
+iPhone 15,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15,,6321,
+iPhone 13 Pro Max,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro-max,,5742,
+iPhone 13 Pro,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro,,5726,
+iPhone 14 Plus,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-plus,,5534,
+iPhone 14,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14,,5527,
+iPhone SE (3rd generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-3rd-generation,,5442,
+iPad mini (6th generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-6th-generation,,5366,
+iPhone 13,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13,,5240,
+iPhone 13 mini,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-mini,,5224,
+iPad Air (4th generation),Apple A14 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-4th-generation,,4997,
+iPhone 12 Pro Max,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro-max,,4963,
+iPhone 12 Pro,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro,,4736,
+iPad Pro 12.9-inch (4th generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-4th-generation,,4647,
+iPad Pro 11-inch (2nd generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-2nd-generation,,4626,
+iPhone 12 Mini,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-mini,,4589,
+iPhone 12,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12,,4580,
+iPad Pro (11-inch),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch,,4579,
+iPad Pro (12.9-inch 3rd Generation),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-3rd-generation,,4446,
+iPhone 11 Pro Max,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro-max,,3864,
+iPad (9th generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/ipad-9th-generation,,3853,
+iPhone 11 Pro,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro,,3810,
+iPhone 11,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11,,3654,
+iPhone SE (2nd generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-2nd-generation,,3034,
+iPad Air (3rd generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-3rd-generation,,2948,
+iPad mini (5th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-5th-generation,,2888,
+iPad (8th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-8th-generation,,2806,
+iPhone XS Max,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs-max,,2661,
+iPhone XS,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs,,2654,
+iPhone XR,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xr,,2273,
+iPhone 8 Plus,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8-plus,,2267,
+iPad Pro (12.9-inch 2nd Generation),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-2nd-generation,,2252,
+iPad Pro (10.5-inch),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-10-5-inch,,2208,
+iPhone X,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-x,,2050,
+iPhone 8,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8,,1691,
+iPad (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-7th-generation,,1381,
+iPad Pro (12.9-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch,,1245,
+iPhone 7 Plus,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7-plus,,1155,
+iPad (6th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-6th-generation,,1137,
+iPad Pro (9.7-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-9-7-inch,,1097,
+iPod (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipod-7th-generation,,1036,
+iPad (5th generation),Apple A9,https://browser.geekbench.com/ios_devices/ipad-5th-generation,,965,
+iPhone 7,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7,,962,
+iPad Air 2,Apple A8X,https://browser.geekbench.com/ios_devices/ipad-air-2,,947,
+iPhone SE,Apple A9,https://browser.geekbench.com/ios_devices/iphone-se,,934,
+iPhone 6s,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s,,875,
+iPhone 6s Plus,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s-plus,,853,
+iPad mini 4,Apple A8,https://browser.geekbench.com/ios_devices/ipad-mini-4,,603,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-10c-cpu,,54492,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-9c-cpu,,54337,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-10c-cpu,,54232,
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-9c-cpu,,54210,
+"iPad Pro (12.9-inch, 6th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad14-5,,46098,
+"iPad Pro (11-inch, 4th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-4th-generation,,45845,
+iPad Air 11-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-11-inch-m2,,42113,
+iPad Air 13-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-13-inch-m2,,42036,
+iPad Pro (12.9-inch 5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-5th-generation,,32747,
+iPad Pro (11-inch 3rd generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-3rd-generation,,32692,
+iPhone 16 Pro,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro,,32681,
+iPhone 16 Pro Max,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro-max,,32674,
+iPad Air (5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-air-5th-generation,,32294,
+iPhone 16 Plus,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16-plus,,27749,
+iPhone 16,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16,,27703,
+iPhone 15 Pro,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro,,27311,
+iPhone 15 Pro Max,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro-max,,27193,
+iPhone 15 Plus,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15-plus,,22885,
+iPhone 15,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15,,22853,
+iPhone 14 Pro,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro,,22791,
+iPhone 14 Pro Max,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro-max,,22669,
+iPhone 14 Plus,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-plus,,20542,
+iPhone 14,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14,,20519,
+iPhone 13 Pro,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro,,20222,
+iPhone 13 Pro Max,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro-max,,20029,
+iPad mini (6th generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-6th-generation,,19625,
+iPad Pro 12.9-inch (4th generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-4th-generation,,18432,
+iPad Pro 11-inch (2nd generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-2nd-generation,,18431,
+iPhone SE (3rd generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-3rd-generation,,17770,
+iPhone 13,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13,,17761,
+iPhone 13 mini,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-mini,,17364,
+iPad Pro (11-inch),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch,,16684,
+iPad Air (4th generation),Apple A14 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-4th-generation,,16473,
+iPhone 12 Pro Max,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro-max,,16240,
+iPhone 12,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12,,16180,
+iPhone 12 Mini,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-mini,,16119,
+iPhone 12 Pro,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro,,16101,
+iPad Pro (12.9-inch 3rd Generation),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-3rd-generation,,15949,
+iPad (9th generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/ipad-9th-generation,,13623,
+iPhone 11 Pro Max,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro-max,,13594,
+iPhone 11 Pro,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro,,13551,
+iPhone 11,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11,,13407,
+iPhone SE (2nd generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-2nd-generation,,12714,
+iPad Air (3rd generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-3rd-generation,,9652,
+iPad mini (5th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-5th-generation,,9366,
+iPad (8th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-8th-generation,,9136,
+iPad Pro (10.5-inch),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-10-5-inch,,8341,
+iPhone XS Max,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs-max,,8274,
+iPhone XS,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs,,8238,
+iPhone XR,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xr,,8228,
+iPad Pro (12.9-inch 2nd Generation),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-2nd-generation,,8104,
+iPad Pro (12.9-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch,,5811,
+iPad Pro (9.7-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-9-7-inch,,5681,
+iPhone 8 Plus,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8-plus,,5312,
+iPhone X,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-x,,5166,
+iPhone 8,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8,,4740,
+iPad (6th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-6th-generation,,4303,
+iPad (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-7th-generation,,4193,
+iPhone 7 Plus,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7-plus,,3845,
+iPhone 7,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7,,3707,
+iPad (5th generation),Apple A9,https://browser.geekbench.com/ios_devices/ipad-5th-generation,,3093,
+iPhone 6s Plus,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s-plus,,2848,
+iPod (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipod-7th-generation,,2828,
+iPhone 6s,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s,,2812,
+iPhone SE,Apple A9,https://browser.geekbench.com/ios_devices/iphone-se,,2760,
+iPad Air 2,Apple A8X,https://browser.geekbench.com/ios_devices/ipad-air-2,,763,
+iPad mini 4,Apple A8,https://browser.geekbench.com/ios_devices/ipad-mini-4,,554,
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-10c-cpu,,,3693
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-9c-cpu,,,3679
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-10c-cpu,,,3671
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-9c-cpu,,,3654
+iPhone 16 Pro,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro,,,3448
+iPhone 16 Pro Max,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro-max,,,3431
+iPhone 16,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16,,,3317
+iPhone 16 Plus,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16-plus,,,3316
+iPhone 15 Pro,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro,,,2890
+iPhone 15 Pro Max,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro-max,,,2880
+iPhone 14 Pro,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro,,,2607
+iPhone 14 Pro Max,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro-max,,,2600
+iPad Air 13-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-13-inch-m2,,,2592
+iPad Air 11-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-11-inch-m2,,,2590
+"iPad Pro (12.9-inch, 6th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad14-5,,,2576
+"iPad Pro (11-inch, 4th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-4th-generation,,,2573
+iPhone 15 Plus,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15-plus,,,2546
+iPhone 15,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15,,,2543
+iPhone 13 Pro Max,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro-max,,,2341
+iPhone 13 Pro,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro,,,2340
+iPad Pro (12.9-inch 5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-5th-generation,,,2307
+iPad Pro (11-inch 3rd generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-3rd-generation,,,2303
+iPad Air (5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-air-5th-generation,,,2290
+iPhone SE (3rd generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-3rd-generation,,,2262
+iPhone 14 Plus,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-plus,,,2256
+iPhone 14,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14,,,2255
+iPhone 13 mini,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-mini,,,2219
+iPhone 13,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13,,,2213
+iPad mini (6th generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-6th-generation,,,2125
+iPhone 12 Pro Max,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro-max,,,2122
+iPad Air (4th generation),Apple A14 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-4th-generation,,,2083
+iPhone 12 Pro,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro,,,2076
+iPhone 12 Mini,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-mini,,,2032
+iPhone 12,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12,,,2029
+iPad (9th generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/ipad-9th-generation,,,1736
+iPhone 11 Pro Max,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro-max,,,1722
+iPhone 11 Pro,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro,,,1712
+iPhone 11,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11,,,1703
+iPhone SE (2nd generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-2nd-generation,,,1670
+iPad Pro 12.9-inch (4th generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-4th-generation,,,1331
+iPad Pro (11-inch),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch,,,1327
+iPad Air (3rd generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-3rd-generation,,,1326
+iPad Pro 11-inch (2nd generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-2nd-generation,,,1325
+iPad Pro (12.9-inch 3rd Generation),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-3rd-generation,,,1322
+iPad mini (5th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-5th-generation,,,1321
+iPad (8th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-8th-generation,,,1304
+iPhone XS Max,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs-max,,,1286
+iPhone XS,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs,,,1286
+iPhone XR,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xr,,,1250
+iPhone 8 Plus,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8-plus,,,1058
+iPhone X,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-x,,,1054
+iPhone 8,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8,,,1033
+iPad Pro (10.5-inch),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-10-5-inch,,,940
+iPad Pro (12.9-inch 2nd Generation),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-2nd-generation,,,927
+iPad (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-7th-generation,,,860
+iPad (6th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-6th-generation,,,829
+iPhone 7 Plus,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7-plus,,,816
+iPhone 7,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7,,,784
+iPad Pro (12.9-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch,,,749
+iPad Pro (9.7-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-9-7-inch,,,738
+iPad (5th generation),Apple A9,https://browser.geekbench.com/ios_devices/ipad-5th-generation,,,630
+iPod (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipod-7th-generation,,,629
+iPhone SE,Apple A9,https://browser.geekbench.com/ios_devices/iphone-se,,,618
+iPhone 6s,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s,,,605
+iPhone 6s Plus,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s-plus,,,601
+iPad Air 2,Apple A8X,https://browser.geekbench.com/ios_devices/ipad-air-2,,,441
+iPad mini 4,Apple A8,https://browser.geekbench.com/ios_devices/ipad-mini-4,,,413
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-10c-cpu,,,13731
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-10c-cpu,,,13475
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-9c-cpu,,,13405
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-9c-cpu,,,13111
+iPad Air 13-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-13-inch-m2,,,9827
+iPad Air 11-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-11-inch-m2,,,9809
+"iPad Pro (11-inch, 4th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-4th-generation,,,9779
+"iPad Pro (12.9-inch, 6th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad14-5,,,9772
+iPhone 16 Pro,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro,,,8574
+iPhone 16 Pro Max,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro-max,,,8503
+iPad Pro (12.9-inch 5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-5th-generation,,,8364
+iPad Pro (11-inch 3rd generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-3rd-generation,,,8323
+iPad Air (5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-air-5th-generation,,,8256
+iPhone 16,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16,,,8193
+iPhone 16 Plus,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16-plus,,,8192
+iPhone 15 Pro,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro,,,7179
+iPhone 15 Pro Max,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro-max,,,7141
+iPhone 14 Pro,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro,,,6696
+iPhone 14 Pro Max,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro-max,,,6666
+iPhone 15 Plus,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15-plus,,,6341
+iPhone 15,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15,,,6321
+iPhone 13 Pro Max,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro-max,,,5742
+iPhone 13 Pro,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro,,,5726
+iPhone 14 Plus,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-plus,,,5534
+iPhone 14,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14,,,5527
+iPhone SE (3rd generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-3rd-generation,,,5442
+iPad mini (6th generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-6th-generation,,,5366
+iPhone 13,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13,,,5240
+iPhone 13 mini,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-mini,,,5224
+iPad Air (4th generation),Apple A14 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-4th-generation,,,4997
+iPhone 12 Pro Max,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro-max,,,4963
+iPhone 12 Pro,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro,,,4736
+iPad Pro 12.9-inch (4th generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-4th-generation,,,4647
+iPad Pro 11-inch (2nd generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-2nd-generation,,,4626
+iPhone 12 Mini,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-mini,,,4589
+iPhone 12,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12,,,4580
+iPad Pro (11-inch),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch,,,4579
+iPad Pro (12.9-inch 3rd Generation),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-3rd-generation,,,4446
+iPhone 11 Pro Max,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro-max,,,3864
+iPad (9th generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/ipad-9th-generation,,,3853
+iPhone 11 Pro,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro,,,3810
+iPhone 11,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11,,,3654
+iPhone SE (2nd generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-2nd-generation,,,3034
+iPad Air (3rd generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-3rd-generation,,,2948
+iPad mini (5th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-5th-generation,,,2888
+iPad (8th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-8th-generation,,,2806
+iPhone XS Max,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs-max,,,2661
+iPhone XS,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs,,,2654
+iPhone XR,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xr,,,2273
+iPhone 8 Plus,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8-plus,,,2267
+iPad Pro (12.9-inch 2nd Generation),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-2nd-generation,,,2252
+iPad Pro (10.5-inch),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-10-5-inch,,,2208
+iPhone X,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-x,,,2050
+iPhone 8,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8,,,1691
+iPad (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-7th-generation,,,1381
+iPad Pro (12.9-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch,,,1245
+iPhone 7 Plus,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7-plus,,,1155
+iPad (6th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-6th-generation,,,1137
+iPad Pro (9.7-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-9-7-inch,,,1097
+iPod (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipod-7th-generation,,,1036
+iPad (5th generation),Apple A9,https://browser.geekbench.com/ios_devices/ipad-5th-generation,,,965
+iPhone 7,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7,,,962
+iPad Air 2,Apple A8X,https://browser.geekbench.com/ios_devices/ipad-air-2,,,947
+iPhone SE,Apple A9,https://browser.geekbench.com/ios_devices/iphone-se,,,934
+iPhone 6s,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s,,,875
+iPhone 6s Plus,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s-plus,,,853
+iPad mini 4,Apple A8,https://browser.geekbench.com/ios_devices/ipad-mini-4,,,603
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-10c-cpu,,,54492
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-9c-cpu,,,54337
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-10c-cpu,,,54232
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-9c-cpu,,,54210
+"iPad Pro (12.9-inch, 6th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad14-5,,,46098
+"iPad Pro (11-inch, 4th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-4th-generation,,,45845
+iPad Air 11-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-11-inch-m2,,,42113
+iPad Air 13-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-13-inch-m2,,,42036
+iPad Pro (12.9-inch 5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-5th-generation,,,32747
+iPad Pro (11-inch 3rd generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-3rd-generation,,,32692
+iPhone 16 Pro,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro,,,32681
+iPhone 16 Pro Max,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro-max,,,32674
+iPad Air (5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-air-5th-generation,,,32294
+iPhone 16 Plus,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16-plus,,,27749
+iPhone 16,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16,,,27703
+iPhone 15 Pro,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro,,,27311
+iPhone 15 Pro Max,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro-max,,,27193
+iPhone 15 Plus,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15-plus,,,22885
+iPhone 15,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15,,,22853
+iPhone 14 Pro,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro,,,22791
+iPhone 14 Pro Max,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro-max,,,22669
+iPhone 14 Plus,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-plus,,,20542
+iPhone 14,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14,,,20519
+iPhone 13 Pro,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro,,,20222
+iPhone 13 Pro Max,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro-max,,,20029
+iPad mini (6th generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-6th-generation,,,19625
+iPad Pro 12.9-inch (4th generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-4th-generation,,,18432
+iPad Pro 11-inch (2nd generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-2nd-generation,,,18431
+iPhone SE (3rd generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-3rd-generation,,,17770
+iPhone 13,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13,,,17761
+iPhone 13 mini,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-mini,,,17364
+iPad Pro (11-inch),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch,,,16684
+iPad Air (4th generation),Apple A14 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-4th-generation,,,16473
+iPhone 12 Pro Max,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro-max,,,16240
+iPhone 12,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12,,,16180
+iPhone 12 Mini,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-mini,,,16119
+iPhone 12 Pro,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro,,,16101
+iPad Pro (12.9-inch 3rd Generation),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-3rd-generation,,,15949
+iPad (9th generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/ipad-9th-generation,,,13623
+iPhone 11 Pro Max,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro-max,,,13594
+iPhone 11 Pro,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro,,,13551
+iPhone 11,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11,,,13407
+iPhone SE (2nd generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-2nd-generation,,,12714
+iPad Air (3rd generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-3rd-generation,,,9652
+iPad mini (5th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-5th-generation,,,9366
+iPad (8th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-8th-generation,,,9136
+iPad Pro (10.5-inch),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-10-5-inch,,,8341
+iPhone XS Max,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs-max,,,8274
+iPhone XS,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs,,,8238
+iPhone XR,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xr,,,8228
+iPad Pro (12.9-inch 2nd Generation),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-2nd-generation,,,8104
+iPad Pro (12.9-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch,,,5811
+iPad Pro (9.7-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-9-7-inch,,,5681
+iPhone 8 Plus,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8-plus,,,5312
+iPhone X,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-x,,,5166
+iPhone 8,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8,,,4740
+iPad (6th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-6th-generation,,,4303
+iPad (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-7th-generation,,,4193
+iPhone 7 Plus,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7-plus,,,3845
+iPhone 7,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7,,,3707
+iPad (5th generation),Apple A9,https://browser.geekbench.com/ios_devices/ipad-5th-generation,,,3093
+iPhone 6s Plus,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s-plus,,,2848
+iPod (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipod-7th-generation,,,2828
+iPhone 6s,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s,,,2812
+iPhone SE,Apple A9,https://browser.geekbench.com/ios_devices/iphone-se,,,2760
+iPad Air 2,Apple A8X,https://browser.geekbench.com/ios_devices/ipad-air-2,,,763
+iPad mini 4,Apple A8,https://browser.geekbench.com/ios_devices/ipad-mini-4,,,554
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-10c-cpu,,,3693
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-9c-cpu,,,3679
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-10c-cpu,,,3671
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-9c-cpu,,,3654
+iPhone 16 Pro,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro,,,3448
+iPhone 16 Pro Max,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro-max,,,3431
+iPhone 16,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16,,,3317
+iPhone 16 Plus,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16-plus,,,3316
+iPhone 15 Pro,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro,,,2890
+iPhone 15 Pro Max,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro-max,,,2880
+iPhone 14 Pro,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro,,,2607
+iPhone 14 Pro Max,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro-max,,,2600
+iPad Air 13-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-13-inch-m2,,,2592
+iPad Air 11-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-11-inch-m2,,,2590
+"iPad Pro (12.9-inch, 6th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad14-5,,,2576
+"iPad Pro (11-inch, 4th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-4th-generation,,,2573
+iPhone 15 Plus,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15-plus,,,2546
+iPhone 15,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15,,,2543
+iPhone 13 Pro Max,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro-max,,,2341
+iPhone 13 Pro,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro,,,2340
+iPad Pro (12.9-inch 5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-5th-generation,,,2307
+iPad Pro (11-inch 3rd generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-3rd-generation,,,2303
+iPad Air (5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-air-5th-generation,,,2290
+iPhone SE (3rd generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-3rd-generation,,,2262
+iPhone 14 Plus,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-plus,,,2256
+iPhone 14,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14,,,2255
+iPhone 13 mini,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-mini,,,2219
+iPhone 13,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13,,,2213
+iPad mini (6th generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-6th-generation,,,2125
+iPhone 12 Pro Max,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro-max,,,2122
+iPad Air (4th generation),Apple A14 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-4th-generation,,,2083
+iPhone 12 Pro,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro,,,2076
+iPhone 12 Mini,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-mini,,,2032
+iPhone 12,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12,,,2029
+iPad (9th generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/ipad-9th-generation,,,1736
+iPhone 11 Pro Max,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro-max,,,1722
+iPhone 11 Pro,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro,,,1712
+iPhone 11,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11,,,1703
+iPhone SE (2nd generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-2nd-generation,,,1670
+iPad Pro 12.9-inch (4th generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-4th-generation,,,1331
+iPad Pro (11-inch),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch,,,1327
+iPad Air (3rd generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-3rd-generation,,,1326
+iPad Pro 11-inch (2nd generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-2nd-generation,,,1325
+iPad Pro (12.9-inch 3rd Generation),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-3rd-generation,,,1322
+iPad mini (5th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-5th-generation,,,1321
+iPad (8th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-8th-generation,,,1304
+iPhone XS Max,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs-max,,,1286
+iPhone XS,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs,,,1286
+iPhone XR,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xr,,,1250
+iPhone 8 Plus,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8-plus,,,1058
+iPhone X,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-x,,,1054
+iPhone 8,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8,,,1033
+iPad Pro (10.5-inch),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-10-5-inch,,,940
+iPad Pro (12.9-inch 2nd Generation),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-2nd-generation,,,927
+iPad (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-7th-generation,,,860
+iPad (6th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-6th-generation,,,829
+iPhone 7 Plus,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7-plus,,,816
+iPhone 7,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7,,,784
+iPad Pro (12.9-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch,,,749
+iPad Pro (9.7-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-9-7-inch,,,738
+iPad (5th generation),Apple A9,https://browser.geekbench.com/ios_devices/ipad-5th-generation,,,630
+iPod (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipod-7th-generation,,,629
+iPhone SE,Apple A9,https://browser.geekbench.com/ios_devices/iphone-se,,,618
+iPhone 6s,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s,,,605
+iPhone 6s Plus,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s-plus,,,601
+iPad Air 2,Apple A8X,https://browser.geekbench.com/ios_devices/ipad-air-2,,,441
+iPad mini 4,Apple A8,https://browser.geekbench.com/ios_devices/ipad-mini-4,,,413
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-10c-cpu,,,13731
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-10c-cpu,,,13475
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-9c-cpu,,,13405
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-9c-cpu,,,13111
+iPad Air 13-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-13-inch-m2,,,9827
+iPad Air 11-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-11-inch-m2,,,9809
+"iPad Pro (11-inch, 4th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-4th-generation,,,9779
+"iPad Pro (12.9-inch, 6th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad14-5,,,9772
+iPhone 16 Pro,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro,,,8574
+iPhone 16 Pro Max,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro-max,,,8503
+iPad Pro (12.9-inch 5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-5th-generation,,,8364
+iPad Pro (11-inch 3rd generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-3rd-generation,,,8323
+iPad Air (5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-air-5th-generation,,,8256
+iPhone 16,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16,,,8193
+iPhone 16 Plus,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16-plus,,,8192
+iPhone 15 Pro,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro,,,7179
+iPhone 15 Pro Max,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro-max,,,7141
+iPhone 14 Pro,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro,,,6696
+iPhone 14 Pro Max,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro-max,,,6666
+iPhone 15 Plus,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15-plus,,,6341
+iPhone 15,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15,,,6321
+iPhone 13 Pro Max,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro-max,,,5742
+iPhone 13 Pro,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro,,,5726
+iPhone 14 Plus,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-plus,,,5534
+iPhone 14,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14,,,5527
+iPhone SE (3rd generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-3rd-generation,,,5442
+iPad mini (6th generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-6th-generation,,,5366
+iPhone 13,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13,,,5240
+iPhone 13 mini,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-mini,,,5224
+iPad Air (4th generation),Apple A14 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-4th-generation,,,4997
+iPhone 12 Pro Max,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro-max,,,4963
+iPhone 12 Pro,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro,,,4736
+iPad Pro 12.9-inch (4th generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-4th-generation,,,4647
+iPad Pro 11-inch (2nd generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-2nd-generation,,,4626
+iPhone 12 Mini,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-mini,,,4589
+iPhone 12,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12,,,4580
+iPad Pro (11-inch),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch,,,4579
+iPad Pro (12.9-inch 3rd Generation),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-3rd-generation,,,4446
+iPhone 11 Pro Max,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro-max,,,3864
+iPad (9th generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/ipad-9th-generation,,,3853
+iPhone 11 Pro,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro,,,3810
+iPhone 11,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11,,,3654
+iPhone SE (2nd generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-2nd-generation,,,3034
+iPad Air (3rd generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-3rd-generation,,,2948
+iPad mini (5th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-5th-generation,,,2888
+iPad (8th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-8th-generation,,,2806
+iPhone XS Max,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs-max,,,2661
+iPhone XS,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs,,,2654
+iPhone XR,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xr,,,2273
+iPhone 8 Plus,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8-plus,,,2267
+iPad Pro (12.9-inch 2nd Generation),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-2nd-generation,,,2252
+iPad Pro (10.5-inch),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-10-5-inch,,,2208
+iPhone X,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-x,,,2050
+iPhone 8,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8,,,1691
+iPad (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-7th-generation,,,1381
+iPad Pro (12.9-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch,,,1245
+iPhone 7 Plus,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7-plus,,,1155
+iPad (6th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-6th-generation,,,1137
+iPad Pro (9.7-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-9-7-inch,,,1097
+iPod (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipod-7th-generation,,,1036
+iPad (5th generation),Apple A9,https://browser.geekbench.com/ios_devices/ipad-5th-generation,,,965
+iPhone 7,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7,,,962
+iPad Air 2,Apple A8X,https://browser.geekbench.com/ios_devices/ipad-air-2,,,947
+iPhone SE,Apple A9,https://browser.geekbench.com/ios_devices/iphone-se,,,934
+iPhone 6s,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s,,,875
+iPhone 6s Plus,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s-plus,,,853
+iPad mini 4,Apple A8,https://browser.geekbench.com/ios_devices/ipad-mini-4,,,603
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-10c-cpu,,,54492
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-9c-cpu,,,54337
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-10c-cpu,,,54232
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-9c-cpu,,,54210
+"iPad Pro (12.9-inch, 6th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad14-5,,,46098
+"iPad Pro (11-inch, 4th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-4th-generation,,,45845
+iPad Air 11-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-11-inch-m2,,,42113
+iPad Air 13-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-13-inch-m2,,,42036
+iPad Pro (12.9-inch 5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-5th-generation,,,32747
+iPad Pro (11-inch 3rd generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-3rd-generation,,,32692
+iPhone 16 Pro,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro,,,32681
+iPhone 16 Pro Max,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro-max,,,32674
+iPad Air (5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-air-5th-generation,,,32294
+iPhone 16 Plus,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16-plus,,,27749
+iPhone 16,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16,,,27703
+iPhone 15 Pro,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro,,,27311
+iPhone 15 Pro Max,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro-max,,,27193
+iPhone 15 Plus,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15-plus,,,22885
+iPhone 15,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15,,,22853
+iPhone 14 Pro,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro,,,22791
+iPhone 14 Pro Max,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro-max,,,22669
+iPhone 14 Plus,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-plus,,,20542
+iPhone 14,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14,,,20519
+iPhone 13 Pro,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro,,,20222
+iPhone 13 Pro Max,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro-max,,,20029
+iPad mini (6th generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-6th-generation,,,19625
+iPad Pro 12.9-inch (4th generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-4th-generation,,,18432
+iPad Pro 11-inch (2nd generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-2nd-generation,,,18431
+iPhone SE (3rd generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-3rd-generation,,,17770
+iPhone 13,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13,,,17761
+iPhone 13 mini,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-mini,,,17364
+iPad Pro (11-inch),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch,,,16684
+iPad Air (4th generation),Apple A14 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-4th-generation,,,16473
+iPhone 12 Pro Max,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro-max,,,16240
+iPhone 12,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12,,,16180
+iPhone 12 Mini,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-mini,,,16119
+iPhone 12 Pro,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro,,,16101
+iPad Pro (12.9-inch 3rd Generation),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-3rd-generation,,,15949
+iPad (9th generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/ipad-9th-generation,,,13623
+iPhone 11 Pro Max,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro-max,,,13594
+iPhone 11 Pro,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro,,,13551
+iPhone 11,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11,,,13407
+iPhone SE (2nd generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-2nd-generation,,,12714
+iPad Air (3rd generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-3rd-generation,,,9652
+iPad mini (5th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-5th-generation,,,9366
+iPad (8th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-8th-generation,,,9136
+iPad Pro (10.5-inch),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-10-5-inch,,,8341
+iPhone XS Max,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs-max,,,8274
+iPhone XS,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs,,,8238
+iPhone XR,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xr,,,8228
+iPad Pro (12.9-inch 2nd Generation),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-2nd-generation,,,8104
+iPad Pro (12.9-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch,,,5811
+iPad Pro (9.7-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-9-7-inch,,,5681
+iPhone 8 Plus,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8-plus,,,5312
+iPhone X,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-x,,,5166
+iPhone 8,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8,,,4740
+iPad (6th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-6th-generation,,,4303
+iPad (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-7th-generation,,,4193
+iPhone 7 Plus,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7-plus,,,3845
+iPhone 7,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7,,,3707
+iPad (5th generation),Apple A9,https://browser.geekbench.com/ios_devices/ipad-5th-generation,,,3093
+iPhone 6s Plus,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s-plus,,,2848
+iPod (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipod-7th-generation,,,2828
+iPhone 6s,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s,,,2812
+iPhone SE,Apple A9,https://browser.geekbench.com/ios_devices/iphone-se,,,2760
+iPad Air 2,Apple A8X,https://browser.geekbench.com/ios_devices/ipad-air-2,,,763
+iPad mini 4,Apple A8,https://browser.geekbench.com/ios_devices/ipad-mini-4,,,554
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-10c-cpu,,,3693
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-9c-cpu,,,3679
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-10c-cpu,,,3671
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-9c-cpu,,,3654
+iPhone 16 Pro,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro,,,3448
+iPhone 16 Pro Max,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro-max,,,3431
+iPhone 16,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16,,,3317
+iPhone 16 Plus,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16-plus,,,3316
+iPhone 15 Pro,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro,,,2890
+iPhone 15 Pro Max,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro-max,,,2880
+iPhone 14 Pro,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro,,,2607
+iPhone 14 Pro Max,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro-max,,,2600
+iPad Air 13-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-13-inch-m2,,,2592
+iPad Air 11-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-11-inch-m2,,,2590
+"iPad Pro (12.9-inch, 6th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad14-5,,,2576
+"iPad Pro (11-inch, 4th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-4th-generation,,,2573
+iPhone 15 Plus,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15-plus,,,2546
+iPhone 15,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15,,,2543
+iPhone 13 Pro Max,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro-max,,,2341
+iPhone 13 Pro,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro,,,2340
+iPad Pro (12.9-inch 5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-5th-generation,,,2307
+iPad Pro (11-inch 3rd generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-3rd-generation,,,2303
+iPad Air (5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-air-5th-generation,,,2290
+iPhone SE (3rd generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-3rd-generation,,,2262
+iPhone 14 Plus,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-plus,,,2256
+iPhone 14,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14,,,2255
+iPhone 13 mini,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-mini,,,2219
+iPhone 13,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13,,,2213
+iPad mini (6th generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-6th-generation,,,2125
+iPhone 12 Pro Max,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro-max,,,2122
+iPad Air (4th generation),Apple A14 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-4th-generation,,,2083
+iPhone 12 Pro,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro,,,2076
+iPhone 12 Mini,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-mini,,,2032
+iPhone 12,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12,,,2029
+iPad (9th generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/ipad-9th-generation,,,1736
+iPhone 11 Pro Max,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro-max,,,1722
+iPhone 11 Pro,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro,,,1712
+iPhone 11,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11,,,1703
+iPhone SE (2nd generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-2nd-generation,,,1670
+iPad Pro 12.9-inch (4th generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-4th-generation,,,1331
+iPad Pro (11-inch),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch,,,1327
+iPad Air (3rd generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-3rd-generation,,,1326
+iPad Pro 11-inch (2nd generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-2nd-generation,,,1325
+iPad Pro (12.9-inch 3rd Generation),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-3rd-generation,,,1322
+iPad mini (5th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-5th-generation,,,1321
+iPad (8th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-8th-generation,,,1304
+iPhone XS Max,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs-max,,,1286
+iPhone XS,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs,,,1286
+iPhone XR,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xr,,,1250
+iPhone 8 Plus,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8-plus,,,1058
+iPhone X,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-x,,,1054
+iPhone 8,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8,,,1033
+iPad Pro (10.5-inch),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-10-5-inch,,,940
+iPad Pro (12.9-inch 2nd Generation),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-2nd-generation,,,927
+iPad (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-7th-generation,,,860
+iPad (6th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-6th-generation,,,829
+iPhone 7 Plus,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7-plus,,,816
+iPhone 7,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7,,,784
+iPad Pro (12.9-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch,,,749
+iPad Pro (9.7-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-9-7-inch,,,738
+iPad (5th generation),Apple A9,https://browser.geekbench.com/ios_devices/ipad-5th-generation,,,630
+iPod (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipod-7th-generation,,,629
+iPhone SE,Apple A9,https://browser.geekbench.com/ios_devices/iphone-se,,,618
+iPhone 6s,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s,,,605
+iPhone 6s Plus,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s-plus,,,601
+iPad Air 2,Apple A8X,https://browser.geekbench.com/ios_devices/ipad-air-2,,,441
+iPad mini 4,Apple A8,https://browser.geekbench.com/ios_devices/ipad-mini-4,,,413
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-10c-cpu,,,13731
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-10c-cpu,,,13475
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-9c-cpu,,,13405
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-9c-cpu,,,13111
+iPad Air 13-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-13-inch-m2,,,9827
+iPad Air 11-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-11-inch-m2,,,9809
+"iPad Pro (11-inch, 4th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-4th-generation,,,9779
+"iPad Pro (12.9-inch, 6th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad14-5,,,9772
+iPhone 16 Pro,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro,,,8574
+iPhone 16 Pro Max,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro-max,,,8503
+iPad Pro (12.9-inch 5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-5th-generation,,,8364
+iPad Pro (11-inch 3rd generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-3rd-generation,,,8323
+iPad Air (5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-air-5th-generation,,,8256
+iPhone 16,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16,,,8193
+iPhone 16 Plus,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16-plus,,,8192
+iPhone 15 Pro,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro,,,7179
+iPhone 15 Pro Max,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro-max,,,7141
+iPhone 14 Pro,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro,,,6696
+iPhone 14 Pro Max,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro-max,,,6666
+iPhone 15 Plus,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15-plus,,,6341
+iPhone 15,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15,,,6321
+iPhone 13 Pro Max,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro-max,,,5742
+iPhone 13 Pro,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro,,,5726
+iPhone 14 Plus,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-plus,,,5534
+iPhone 14,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14,,,5527
+iPhone SE (3rd generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-3rd-generation,,,5442
+iPad mini (6th generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-6th-generation,,,5366
+iPhone 13,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13,,,5240
+iPhone 13 mini,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-mini,,,5224
+iPad Air (4th generation),Apple A14 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-4th-generation,,,4997
+iPhone 12 Pro Max,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro-max,,,4963
+iPhone 12 Pro,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro,,,4736
+iPad Pro 12.9-inch (4th generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-4th-generation,,,4647
+iPad Pro 11-inch (2nd generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-2nd-generation,,,4626
+iPhone 12 Mini,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-mini,,,4589
+iPhone 12,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12,,,4580
+iPad Pro (11-inch),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch,,,4579
+iPad Pro (12.9-inch 3rd Generation),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-3rd-generation,,,4446
+iPhone 11 Pro Max,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro-max,,,3864
+iPad (9th generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/ipad-9th-generation,,,3853
+iPhone 11 Pro,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro,,,3810
+iPhone 11,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11,,,3654
+iPhone SE (2nd generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-2nd-generation,,,3034
+iPad Air (3rd generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-3rd-generation,,,2948
+iPad mini (5th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-5th-generation,,,2888
+iPad (8th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-8th-generation,,,2806
+iPhone XS Max,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs-max,,,2661
+iPhone XS,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs,,,2654
+iPhone XR,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xr,,,2273
+iPhone 8 Plus,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8-plus,,,2267
+iPad Pro (12.9-inch 2nd Generation),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-2nd-generation,,,2252
+iPad Pro (10.5-inch),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-10-5-inch,,,2208
+iPhone X,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-x,,,2050
+iPhone 8,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8,,,1691
+iPad (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-7th-generation,,,1381
+iPad Pro (12.9-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch,,,1245
+iPhone 7 Plus,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7-plus,,,1155
+iPad (6th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-6th-generation,,,1137
+iPad Pro (9.7-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-9-7-inch,,,1097
+iPod (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipod-7th-generation,,,1036
+iPad (5th generation),Apple A9,https://browser.geekbench.com/ios_devices/ipad-5th-generation,,,965
+iPhone 7,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7,,,962
+iPad Air 2,Apple A8X,https://browser.geekbench.com/ios_devices/ipad-air-2,,,947
+iPhone SE,Apple A9,https://browser.geekbench.com/ios_devices/iphone-se,,,934
+iPhone 6s,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s,,,875
+iPhone 6s Plus,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s-plus,,,853
+iPad mini 4,Apple A8,https://browser.geekbench.com/ios_devices/ipad-mini-4,,,603
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-10c-cpu,,,54492
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-9c-cpu,,,54337
+iPad Pro 13-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-13-inch-m4-10c-cpu,,,54232
+iPad Pro 11-inch (M4),Apple M4,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-m4-9c-cpu,,,54210
+"iPad Pro (12.9-inch, 6th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad14-5,,,46098
+"iPad Pro (11-inch, 4th generation)",Apple M2,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-4th-generation,,,45845
+iPad Air 11-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-11-inch-m2,,,42113
+iPad Air 13-inch (M2),Apple M2,https://browser.geekbench.com/ios_devices/ipad-air-13-inch-m2,,,42036
+iPad Pro (12.9-inch 5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-5th-generation,,,32747
+iPad Pro (11-inch 3rd generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-3rd-generation,,,32692
+iPhone 16 Pro,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro,,,32681
+iPhone 16 Pro Max,Apple A18 Pro,https://browser.geekbench.com/ios_devices/iphone-16-pro-max,,,32674
+iPad Air (5th generation),Apple M1,https://browser.geekbench.com/ios_devices/ipad-air-5th-generation,,,32294
+iPhone 16 Plus,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16-plus,,,27749
+iPhone 16,Apple A18,https://browser.geekbench.com/ios_devices/iphone-16,,,27703
+iPhone 15 Pro,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro,,,27311
+iPhone 15 Pro Max,Apple A17 Pro,https://browser.geekbench.com/ios_devices/iphone-15-pro-max,,,27193
+iPhone 15 Plus,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15-plus,,,22885
+iPhone 15,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-15,,,22853
+iPhone 14 Pro,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro,,,22791
+iPhone 14 Pro Max,Apple A16 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-pro-max,,,22669
+iPhone 14 Plus,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14-plus,,,20542
+iPhone 14,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-14,,,20519
+iPhone 13 Pro,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro,,,20222
+iPhone 13 Pro Max,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-pro-max,,,20029
+iPad mini (6th generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-6th-generation,,,19625
+iPad Pro 12.9-inch (4th generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-4th-generation,,,18432
+iPad Pro 11-inch (2nd generation),Apple A12Z Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch-2nd-generation,,,18431
+iPhone SE (3rd generation),Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-3rd-generation,,,17770
+iPhone 13,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13,,,17761
+iPhone 13 mini,Apple A15 Bionic,https://browser.geekbench.com/ios_devices/iphone-13-mini,,,17364
+iPad Pro (11-inch),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-11-inch,,,16684
+iPad Air (4th generation),Apple A14 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-4th-generation,,,16473
+iPhone 12 Pro Max,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro-max,,,16240
+iPhone 12,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12,,,16180
+iPhone 12 Mini,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-mini,,,16119
+iPhone 12 Pro,Apple A14 Bionic,https://browser.geekbench.com/ios_devices/iphone-12-pro,,,16101
+iPad Pro (12.9-inch 3rd Generation),Apple A12X Bionic,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-3rd-generation,,,15949
+iPad (9th generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/ipad-9th-generation,,,13623
+iPhone 11 Pro Max,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro-max,,,13594
+iPhone 11 Pro,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11-pro,,,13551
+iPhone 11,Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-11,,,13407
+iPhone SE (2nd generation),Apple A13 Bionic,https://browser.geekbench.com/ios_devices/iphone-se-2nd-generation,,,12714
+iPad Air (3rd generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-air-3rd-generation,,,9652
+iPad mini (5th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-mini-5th-generation,,,9366
+iPad (8th generation),Apple A12 Bionic,https://browser.geekbench.com/ios_devices/ipad-8th-generation,,,9136
+iPad Pro (10.5-inch),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-10-5-inch,,,8341
+iPhone XS Max,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs-max,,,8274
+iPhone XS,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xs,,,8238
+iPhone XR,Apple A12 Bionic,https://browser.geekbench.com/ios_devices/iphone-xr,,,8228
+iPad Pro (12.9-inch 2nd Generation),Apple A10X Fusion,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch-2nd-generation,,,8104
+iPad Pro (12.9-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-12-9-inch,,,5811
+iPad Pro (9.7-inch),Apple A9X,https://browser.geekbench.com/ios_devices/ipad-pro-9-7-inch,,,5681
+iPhone 8 Plus,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8-plus,,,5312
+iPhone X,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-x,,,5166
+iPhone 8,Apple A11 Bionic,https://browser.geekbench.com/ios_devices/iphone-8,,,4740
+iPad (6th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-6th-generation,,,4303
+iPad (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipad-7th-generation,,,4193
+iPhone 7 Plus,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7-plus,,,3845
+iPhone 7,Apple A10 Fusion,https://browser.geekbench.com/ios_devices/iphone-7,,,3707
+iPad (5th generation),Apple A9,https://browser.geekbench.com/ios_devices/ipad-5th-generation,,,3093
+iPhone 6s Plus,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s-plus,,,2848
+iPod (7th generation),Apple A10 Fusion,https://browser.geekbench.com/ios_devices/ipod-7th-generation,,,2828
+iPhone 6s,Apple A9,https://browser.geekbench.com/ios_devices/iphone-6s,,,2812
+iPhone SE,Apple A9,https://browser.geekbench.com/ios_devices/iphone-se,,,2760
+iPad Air 2,Apple A8X,https://browser.geekbench.com/ios_devices/ipad-air-2,,,763
+iPad mini 4,Apple A8,https://browser.geekbench.com/ios_devices/ipad-mini-4,,,554

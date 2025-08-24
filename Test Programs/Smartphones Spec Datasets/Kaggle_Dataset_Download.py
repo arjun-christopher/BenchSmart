@@ -17,6 +17,7 @@ datasets = [
     "pantanjali/iphones-on-ecommerce-website-amazon",
     "kkhandekar/android-ios-device-benchmark-test-results",
     "alanjo/android-vs-ios-devices-crossplatform-benchmarks",
+    "ireddragonicy/antutu-benchmark",
 ]
 
 download_dir = r"E:\BenchSmart\Test Programs\Smartphones Spec Datasets\Kaggle_Datasets"
