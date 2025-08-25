@@ -29,7 +29,7 @@ from assets import PRICING
 # =========================
 
 # Choose one of your models defined in assets.PRICING
-SELECTED_MODEL = "hf:meta-llama/Meta-Llama-3.1-70B-Instruct"
+SELECTED_MODEL = "gemini-1.5-flash"
 
 # Fields we’ll try to extract from each product page (works with your LLM schema builder)
 SMARTPHONE_FIELDS = [
@@ -190,7 +190,7 @@ DELAY_PRODUCT = (1.2, 2.4)
 
 def ts_folder(prefix: str) -> str:
     stamp = datetime.now().strftime("%Y_%m_%d__%H_%M_%S")
-    folder = os.path.join(r"E:\BenchSmart\Test Programs\NLP Scraper\output", f"{prefix}_{stamp}")
+    folder = os.path.join(r"E:\BenchSmart\Test Programs\Unused\NLP Scraper\output", f"{prefix}_{stamp}")
     os.makedirs(folder, exist_ok=True)
     return folder
 
